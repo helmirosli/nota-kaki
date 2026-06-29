@@ -2,6 +2,31 @@ import * as fs from "fs"
 import * as path from "path"
 import * as url from "url"
 
+// pdfjs-dist v5 references DOMMatrix at module init time — provide a minimal polyfill for Node
+if (typeof (globalThis as any).DOMMatrix === "undefined") {
+  ;(globalThis as any).DOMMatrix = class DOMMatrix {
+    a=1; b=0; c=0; d=1; e=0; f=0
+    m11=1; m12=0; m13=0; m14=0
+    m21=0; m22=1; m23=0; m24=0
+    m31=0; m32=0; m33=1; m34=0
+    m41=0; m42=0; m43=0; m44=1
+    is2D=true; isIdentity=true
+    static fromMatrix() { return new (globalThis as any).DOMMatrix() }
+    static fromFloat32Array() { return new (globalThis as any).DOMMatrix() }
+    static fromFloat64Array() { return new (globalThis as any).DOMMatrix() }
+    multiply() { return this }
+    translate() { return this }
+    scale() { return this }
+    rotate() { return this }
+    rotateFromVector() { return this }
+    inverse() { return this }
+    transformPoint(p: any) { return p }
+    toFloat32Array() { return new Float32Array(16) }
+    toFloat64Array() { return new Float64Array(16) }
+    toString() { return "matrix(1, 0, 0, 1, 0, 0)" }
+  }
+}
+
 const REFS_DIR = path.resolve(__dirname, "../../references")
 const OUT_DIR = path.resolve(__dirname, "../data/extracted")
 
@@ -12,6 +37,10 @@ const SUBJECT_MAP: Record<string, string> = {
   "jawi": "jawi",
   "hafazan": "hafazan",
   "tauhid": "tauhid",
+  "imlak": "imlak",
+  "khat": "khat",
+  "sirah": "sirah",
+  "tajwid": "tajwid",
 }
 
 function parseFilename(filename: string) {

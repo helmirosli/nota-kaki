@@ -1,0 +1,164 @@
+{
+  "id": "jais-tahun-3-tajwid-bab4",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "tajwid",
+  "chapter": 4,
+  "title": "Lam Lafaz al-Jalalah",
+  "emoji": "✨",
+  "colour": "#2E7D32",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "لَام لَفۡظ الْجَلَالَة — Lam Lafaz Allah",
+      "body": "Lafaz al-Jalalah ialah perkataan 'الله'. Huruf lam dalam lafaz Allah mempunyai dua cara sebutan yang berbeza: Tafkhim (tebal) atau Tarqiq (nipis), bergantung kepada huruf sebelumnya. Ini adalah salah satu keistimewaan lafaz Allah dalam al-Quran."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "💪",
+          "title": "لَام تَفۡخِيم — Lam Tebal",
+          "body": {
+            "type": "arabic",
+            "instruction": "Lam Tafkhim (tebal) — cara membacanya: bila huruf sebelum lafaz Allah berbaris atas (fathah) atau berbaris depan (dhammah):",
+            "arabic": "سبلومڽ برباريس اتس (فتحة):\nغَيۡرُ ٱللَّه، مِنَ ٱللَّه، قَالَ ٱللَّه\n\nسبلومڽ برباريس دڤن (ضمة):\nفَضۡلُ ٱللَّه، رَسُولُ ٱللَّه",
+            "translation": "Lam Tafkhim (tebal): huruf sebelum lafaz Allah berbaris atas atau berbaris depan. Contoh: ghairullah, minallah, qalallah, fadhlullah, rasulullah."
+          }
+        },
+        {
+          "icon": "🪶",
+          "title": "لَام تَرۡقِيق — Lam Nipis",
+          "body": {
+            "type": "arabic",
+            "instruction": "Lam Tarqiq (nipis) — cara membacanya: bila huruf sebelum lafaz Allah berbaris bawah (kasrah):",
+            "arabic": "سبلومڽ برباريس باوه (كسرة):\nبِسۡمِ ٱللَّه، بِعِلۡمِ ٱللَّه\nأَفَغَيۡرَ دِينِ ٱللَّه، مِّن دُونِ ٱللَّه",
+            "translation": "Lam Tarqiq (nipis): huruf sebelum lafaz Allah berbaris bawah. Contoh: bismillah, bi'ilmillah, afaghayra dinillah."
+          }
+        },
+        {
+          "icon": "📊",
+          "title": "Ringkasan Hukum Lam al-Jalalah",
+          "body": {
+            "type": "list",
+            "intro": "Cara mudah mengingati hukum Lam Lafaz al-Jalalah:",
+            "items": [
+              "Fathah (atas) + اللَّه = Tafkhim (tebal)",
+              "Dhammah (depan) + اللَّه = Tafkhim (tebal)",
+              "Kasrah (bawah) + اللَّه = Tarqiq (nipis)",
+              "Atas dan depan = tebal (2 baris yang 'tinggi')",
+              "Bawah = nipis (baris yang 'rendah')"
+            ]
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Contoh-contoh dari al-Quran",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh lam tebal (tafkhim) dan lam nipis (tarqiq) dari al-Quran:",
+            "arabic": "TEBAL — سبلوم اتس:\nإِذَا ذُكِرَ ٱللَّهُ\nفَاتَّقُوا ٱللَّهَ\nغَيۡرُ ٱللَّهِ\n\nNIPIS — سبلوم باوه:\nبِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ\nمِّن دُونِ ٱللَّهِ",
+            "translation": "TEBAL: bila disebut Allah, bertakwalah kepada Allah, selain Allah. NIPIS: dengan nama Allah Yang Maha Pemurah, selain Allah."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "arabic",
+        "instruction": "Rumus mudah Lam al-Jalalah:",
+        "arabic": "_ أو _ + اللَّه = تَفۡخِيم (تبل)\n_ + اللَّه = تَرۡقِيق (نيڤيس)",
+        "translation": "Fathah atau Dhammah sebelum اللَّه = Tafkhim (tebal). Kasrah sebelum اللَّه = Tarqiq (nipis).",
+        "outro": "Sebut nama Allah dengan penuh hormat dan betul — itu adalah adab membaca al-Quran!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menentukan Lam Tebal atau Nipis",
+      "items": [
+        "Lihat huruf sebelum lafaz Allah (اللَّه).",
+        "Jika berbaris atas (فَ) atau berbaris depan (فُ) → baca Lam dengan TEBAL (tafkhim).",
+        {
+          "type": "arabic",
+          "arabic": "مِنَ ٱللَّه — فَضۡلُ ٱللَّه",
+          "translation": "Minallah (baris atas = tebal) — Fadhlullah (baris depan = tebal)"
+        },
+        "Jika berbaris bawah (فِ) → baca Lam dengan NIPIS (tarqiq).",
+        {
+          "type": "arabic",
+          "arabic": "بِسۡمِ ٱللَّه — مِّن دُونِ ٱللَّه",
+          "translation": "Bismillah (baris bawah = nipis) — Min dunillah (baris bawah = nipis)"
+        },
+        "Latih dengan membaca ayat al-Quran yang mengandungi lafaz Allah."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud 'Lafaz al-Jalalah'?",
+      "options": [
+        "Surah al-Fatihah",
+        "Perkataan 'الله'",
+        "Selawat ke atas Nabi",
+        "Lafaz basmalah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Bila huruf sebelum lafaz Allah berbaris bawah (kasrah), lam dibaca?",
+      "options": [
+        "Tafkhim (tebal)",
+        "Tarqiq (nipis)",
+        "Sederhana",
+        "Tidak berubah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan 'بِسۡمِ ٱللَّه' — lam Allah dibaca dengan cara?",
+      "options": [
+        "Tebal (tafkhim) kerana ada alif",
+        "Nipis (tarqiq) kerana huruf sebelumnya berbaris bawah",
+        "Tebal kerana ia adalah nama Allah",
+        "Nipis kerana ia basmalah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa cara sebutan lam pada lafaz Allah?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "لام الجلالة", "colour": "#2E7D32" },
+      { "id": "n2", "label": "تَفۡخِيم (Tebal)", "colour": "#388E3C" },
+      { "id": "n3", "label": "تَرۡقِيق (Nipis)", "colour": "#66BB6A" },
+      { "id": "n4", "label": "Baris Atas/Depan", "colour": "#A5D6A7" },
+      { "id": "n5", "label": "Baris Bawah", "colour": "#C8E6C9" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n4", "target": "n2", "label": "→" },
+      { "id": "e2", "source": "n5", "target": "n3", "label": "→" },
+      { "id": "e3", "source": "n2", "target": "n1", "label": "cara sebutan" },
+      { "id": "e4", "source": "n3", "target": "n1", "label": "cara sebutan" }
+    ]
+  },
+  "vocab": [
+    { "word": "لَفۡظ الجَلَالَة", "meaning": "lafaz Allah — perkataan 'الله'" },
+    { "word": "تَفۡخِيم", "meaning": "tebal — cara sebutan berat" },
+    { "word": "تَرۡقِيق", "meaning": "nipis — cara sebutan ringan" },
+    { "word": "فَتۡحَة", "meaning": "baris atas (ـَ)" },
+    { "word": "كَسۡرَة", "meaning": "baris bawah (ـِ)" }
+  ],
+  "funFact": "Tahukah kamu bahawa nama 'Allah' adalah satu-satunya perkataan dalam bahasa Arab yang huruf lamnya boleh berubah-ubah antara tebal dan nipis bergantung kepada konteks? Tiada perkataan lain dalam bahasa Arab yang mempunyai peraturan khas seperti ini. Para ulama mengatakan ini adalah petanda keistimewaan dan keagungan nama Allah SWT yang tiada tandingannya!"
+}

@@ -1,0 +1,175 @@
+{
+  "id": "jais-tahun-3-khat-bab1",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "khat",
+  "chapter": 1,
+  "title": "Pengenalan Peralatan Khat Naskh",
+  "emoji": "🖊️",
+  "colour": "#795548",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "ڤيرالاتن كاليڬرافي اسلام — Alatan Khat Naskh",
+      "body": "Khat Naskh ialah salah satu jenis tulisan kaligrafi Islam yang paling popular dan mudah dibaca. Sebelum memulakan latihan khat, penting untuk mengenali alatan khas yang digunakan dalam kaligrafi Islam. Alatan yang betul akan membantu menghasilkan tulisan yang indah dan sempurna."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "✒️",
+          "title": "Apa itu Khat Naskh?",
+          "body": {
+            "type": "list",
+            "intro": "Pengenalan kepada Khat Naskh:",
+            "items": [
+              "Khat Naskh adalah salah satu daripada enam jenis tulisan kaligrafi Islam utama",
+              "Ia paling banyak digunakan untuk menulis al-Quran",
+              "Khat Naskh mudah dibaca dan mempunyai bentuk yang tetap dan teratur",
+              "Nama 'Naskh' berasal dari kata Arab نَسَخَ bermaksud 'menyalin'",
+              "Ia paling sesuai untuk pemula dalam belajar kaligrafi Islam"
+            ]
+          }
+        },
+        {
+          "icon": "🖊️",
+          "title": "Batang Rasm (Kalam)",
+          "body": {
+            "type": "list",
+            "intro": "Alat utama kaligrafi Islam — Batang Rasm (Kalam):",
+            "items": [
+              "Batang Rasm atau Kalam (قَلَم) ialah pen khas kaligrafi diperbuat dari buluh/kayu",
+              "Hujungnya dipotong serong (condong) untuk menghasilkan garisan tebal dan nipis",
+              "Lebar hujung kalam menentukan saiz huruf yang ditulis",
+              "Cara memegang: antara ibu jari dan jari telunjuk, disokong jari tengah",
+              "Sudut kalam: biasanya 45 darjah terhadap kertas",
+              "Perlu diasah dengan pisau khas apabila sudah tumpul"
+            ]
+          }
+        },
+        {
+          "icon": "🖤",
+          "title": "Dakwat (Tinta)",
+          "body": {
+            "type": "list",
+            "intro": "Dakwat untuk kaligrafi Islam:",
+            "items": [
+              "Dakwat kaligrafi berwarna hitam pekat untuk hasil tulisan yang jelas",
+              "Dakwat mesti pekat (tidak terlalu cair) supaya garisan tidak melebar",
+              "Dimasukkan ke dalam tempat dakwat (bekas dakwat) semasa menulis",
+              "Pen kaligrafi moden juga boleh digunakan sebagai alternatif",
+              "Kertas khas khat (halus dan tidak menyerap dakwat terlalu cepat) disyorkan"
+            ]
+          }
+        },
+        {
+          "icon": "📐",
+          "title": "Alatan Tambahan",
+          "body": {
+            "type": "list",
+            "intro": "Alatan lain yang diperlukan:",
+            "items": [
+              "Kertas khat atau kertas grid untuk latihan",
+              "Pembaris untuk melukis garisan panduan (baris khat)",
+              "Pensel untuk melakar outline sebelum ditinta",
+              "Kain lap atau tisu untuk menyapu dakwat berlebihan",
+              "Papan kayu atau alas keras untuk menyokong kertas semasa menulis"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "✒️",
+      "text": {
+        "type": "list",
+        "intro": "Alatan utama Khat Naskh:",
+        "items": [
+          "Batang Rasm/Kalam (قَلَم) — pen khas berbentuk serong dari buluh/kayu",
+          "Dakwat (مِدَاد) — tinta hitam pekat khas kaligrafi",
+          "Kertas khat — kertas khusus untuk latihan kaligrafi"
+        ],
+        "outro": "Alatan yang betul adalah asas kepada tulisan khat yang indah!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Memulakan Latihan Khat Naskh",
+      "items": [
+        "Sediakan alatan: batang rasm/pen kaligrafi, dakwat hitam, dan kertas khat.",
+        "Pegang kalam dengan betul — antara ibu jari dan jari telunjuk, sudut 45°.",
+        "Celupkan hujung kalam ke dalam dakwat — jangan terlalu banyak.",
+        "Lukis garisan panduan (baris) dengan pembaris sebelum menulis huruf.",
+        "Mulakan dengan latihan titik asas (bentuk belah ketupat) sebelum huruf.",
+        "Bersabar — khat memerlukan latihan berulang untuk menghasilkan tulisan yang cantik."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah itu 'Khat Naskh'?",
+      "options": [
+        "Jenis tulisan Arab moden",
+        "Jenis kaligrafi Islam yang digunakan untuk menulis al-Quran",
+        "Cara membaca al-Quran",
+        "Jenis dakwat kaligrafi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah nama Arab bagi pen kaligrafi Islam?",
+      "options": [
+        "مِدَاد",
+        "قَلَم",
+        "كِتَاب",
+        "وَرَق"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Hujung batang rasm dipotong bagaimana?",
+      "options": [
+        "Bulat",
+        "Tajam lurus",
+        "Serong (condong)",
+        "Berbentuk bintang"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah keistimewaan Khat Naskh berbanding khat lain?",
+      "options": [
+        "Paling sukar dipelajari",
+        "Paling mudah dibaca dan digunakan dalam al-Quran",
+        "Hanya boleh ditulis oleh ulama",
+        "Hanya untuk tulisan besar"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Khat Naskh", "colour": "#795548" },
+      { "id": "n2", "label": "Batang Rasm/Kalam", "colour": "#6D4C41" },
+      { "id": "n3", "label": "Dakwat (Tinta)", "colour": "#5D4037" },
+      { "id": "n4", "label": "Kertas Khat", "colour": "#4E342E" },
+      { "id": "n5", "label": "Tulisan Indah", "colour": "#8D6E63" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n2", "target": "n1", "label": "alat untuk" },
+      { "id": "e2", "source": "n3", "target": "n1", "label": "alat untuk" },
+      { "id": "e3", "source": "n4", "target": "n1", "label": "alat untuk" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "menghasilkan" }
+    ]
+  },
+  "vocab": [
+    { "word": "كَاليڬرافي", "meaning": "kaligrafi — seni tulisan indah" },
+    { "word": "قَلَم", "meaning": "kalam/pen — alat tulis kaligrafi" },
+    { "word": "مِدَاد", "meaning": "dakwat — tinta untuk kaligrafi" },
+    { "word": "نَسَخَ", "meaning": "nasakha — menyalin (asal kata 'Naskh')" },
+    { "word": "وَرَق", "meaning": "waraq — kertas" }
+  ],
+  "funFact": "Tahukah kamu bahawa kaligrafi Islam dianggap sebagai satu seni yang sangat mulia? Para ulama Islam zaman dahulu mengatakan bahawa menulis dengan indah adalah satu bentuk ibadah apabila ia digunakan untuk menulis ayat-ayat al-Quran dan hadis. Khalifah Ali bin Abi Talib RA pernah berkata: 'Keindahan tulisan akan kekal walaupun tangan yang menulisnya sudah tiada.' Kaligrafer Islam terkenal seperti Ibn Muqlah dan Yaqut al-Musta'simi menjadi legenda kerana keindahan tulisan mereka!"
+}

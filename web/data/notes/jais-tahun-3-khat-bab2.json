@@ -1,0 +1,177 @@
+{
+  "id": "jais-tahun-3-khat-bab2",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "khat",
+  "chapter": 2,
+  "title": "Bentuk Titik dalam Khat Naskh",
+  "emoji": "🖊️",
+  "colour": "#795548",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "بنتوق تيتيق — Titik dalam Khat Naskh",
+      "body": "Sebelum menulis huruf-huruf, pelajar khat perlu menguasai cara membuat titik yang betul. Titik adalah asas kepada ukuran dalam khat — saiz huruf diukur berdasarkan bilangan titik. Dalam Khat Naskh, titik berbentuk belah ketupat (diamond)."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "◆",
+          "title": "Bentuk Titik dalam Khat Naskh",
+          "body": {
+            "type": "list",
+            "intro": "Ciri-ciri titik dalam Khat Naskh:",
+            "items": [
+              "Titik dalam Khat Naskh berbentuk BELAH KETUPAT (rhombus/diamond)",
+              "Ia dibuat dengan satu tekan kalam pada sudut 45°",
+              "Titik ini menjadi UNIT UKURAN untuk semua huruf dalam khat",
+              "Saiz huruf khat diukur dalam bilangan titik (1 titik, 2 titik, 3 titik dll)",
+              "Titik juga digunakan dalam huruf-huruf seperti ب (2 titik bawah), ت (2 titik atas)",
+              "Konsistensi saiz titik adalah sangat penting"
+            ]
+          }
+        },
+        {
+          "icon": "📏",
+          "title": "Titik Sebagai Unit Ukuran",
+          "body": {
+            "type": "list",
+            "intro": "Bagaimana titik digunakan sebagai unit ukuran dalam khat:",
+            "items": [
+              "1 titik = satu tekan kalam (unit asas)",
+              "Tinggi huruf alif (ا) = 5 titik bertindih",
+              "Tinggi huruf ba' (ب) = 1 titik",
+              "Lebar huruf ba' (ب) = 5-6 titik",
+              "Semua huruf diukur menggunakan titik sebagai rujukan",
+              "Ini memastikan semua huruf dalam satu barisan mempunyai saiz yang seragam"
+            ]
+          }
+        },
+        {
+          "icon": "✏️",
+          "title": "Cara Membuat Titik Khat Naskh",
+          "body": {
+            "type": "list",
+            "intro": "Langkah-langkah membuat titik yang betul:",
+            "items": [
+              "Pegang kalam pada sudut 45° terhadap kertas",
+              "Letakkan hujung kalam pada kertas",
+              "Tekan dengan sekata — jangan menggerakkan kalam",
+              "Angkat kalam dengan segera",
+              "Titik yang terhasil harus berbentuk belah ketupat yang sempurna",
+              "Latih berulang kali sehingga saiz titik konsisten"
+            ]
+          }
+        },
+        {
+          "icon": "🔢",
+          "title": "Latihan Membuat Titik Berturutan",
+          "body": {
+            "type": "list",
+            "intro": "Latihan untuk menguasai titik khat:",
+            "items": [
+              "Latihan 1: Buat satu titik sahaja — fokus pada bentuk belah ketupat",
+              "Latihan 2: Buat barisan 5 titik — pastikan saiz seragam",
+              "Latihan 3: Susun titik bertindih untuk mengukur tinggi alif (5 titik)",
+              "Latihan 4: Buat titik dalam pelbagai saiz untuk latihan kawalan kalam",
+              "Mesti berlatih setiap hari — konsistensi adalah kunci kejayaan khat"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "◆",
+      "text": {
+        "type": "list",
+        "intro": "Ingati perkara penting tentang titik Khat Naskh:",
+        "items": [
+          "Bentuk titik = BELAH KETUPAT (rhombus/diamond) — bukan bulat!",
+          "Titik = unit ukuran — semua huruf diukur berdasarkan bilangan titik",
+          "Kalam diletakkan pada sudut 45° untuk menghasilkan titik yang betul"
+        ],
+        "outro": "Kuasai titik dahulu sebelum menulis huruf — ia adalah asas khat yang betul!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Berlatih Titik Khat Naskh",
+      "items": [
+        "Sediakan kalam dan kertas khat.",
+        "Pegang kalam pada sudut 45° terhadap kertas.",
+        "Tekan kalam sekali pada kertas untuk menghasilkan titik belah ketupat.",
+        "Buat sekurang-kurangnya 10 titik berturutan untuk berlatih konsistensi saiz.",
+        "Susun 5 titik bertindih menegak — ini adalah tinggi huruf alif (ا).",
+        "Ulang latihan ini setiap hari sehingga titik menjadi sempurna dan seragam."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah bentuk titik dalam Khat Naskh?",
+      "options": [
+        "Bulat",
+        "Segi empat",
+        "Belah ketupat (diamond)",
+        "Segitiga"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Pada sudut berapa darjah kalam diletakkan untuk membuat titik?",
+      "options": [
+        "90°",
+        "30°",
+        "45°",
+        "60°"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Untuk apa titik digunakan dalam khat?",
+      "options": [
+        "Sebagai hiasan sahaja",
+        "Sebagai unit ukuran untuk saiz huruf",
+        "Sebagai tanda baca",
+        "Sebagai pemisah perkataan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa titik yang bertindih mewakili tinggi huruf alif (ا) dalam Khat Naskh?",
+      "options": [
+        "3 titik",
+        "4 titik",
+        "5 titik",
+        "7 titik"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Titik Khat Naskh", "colour": "#795548" },
+      { "id": "n2", "label": "Bentuk Belah Ketupat", "colour": "#6D4C41" },
+      { "id": "n3", "label": "Sudut 45°", "colour": "#5D4037" },
+      { "id": "n4", "label": "Unit Ukuran", "colour": "#4E342E" },
+      { "id": "n5", "label": "5 titik = Alif", "colour": "#8D6E63" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "bentuknya" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "cara buat" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "fungsi" },
+      { "id": "e4", "source": "n4", "target": "n5", "label": "contoh" }
+    ]
+  },
+  "vocab": [
+    { "word": "تيتيق", "meaning": "titik — dot dalam kaligrafi" },
+    { "word": "بلاه كتوڤت", "meaning": "belah ketupat — rhombus/diamond shape" },
+    { "word": "اوكورن", "meaning": "ukuran — measurement/unit" },
+    { "word": "كونسيستنسي", "meaning": "konsistensi — keseragaman saiz" },
+    { "word": "سودوت", "meaning": "sudut — angle" }
+  ],
+  "funFact": "Tahukah kamu bahawa sistem pengukuran titik dalam kaligrafi Arab sudah wujud lebih dari seribu tahun? Ibn Muqlah (m. 940 M), seorang tokoh kaligrafi Islam teragung, adalah orang pertama yang mempiawaikan sistem pengukuran huruf menggunakan titik. Beliau menetapkan bahawa semua huruf perlu diukur berdasarkan titik (نُقطة) dari hujung kalam. Sistem ini masih digunakan sehingga hari ini oleh pelajar kaligrafi di seluruh dunia!"
+}

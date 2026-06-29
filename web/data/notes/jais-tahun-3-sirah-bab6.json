@@ -1,0 +1,173 @@
+{
+  "id": "jais-tahun-3-sirah-bab6",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "sirah",
+  "chapter": 6,
+  "title": "Iktibar daripada Sirah Nabi SAW",
+  "emoji": "💎",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Iktibar dan Pengajaran daripada Sirah Nabi SAW",
+      "body": "Sirah Nabi Muhammad SAW bukan sekadar kisah sejarah — ia adalah panduan hidup yang lengkap untuk setiap Muslim. Daripada setiap peristiwa dalam kehidupan Baginda, terdapat pengajaran berharga yang boleh kita amalkan dalam kehidupan seharian."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📚",
+          "title": "Iktibar daripada Nasab Baginda",
+          "body": {
+            "type": "list",
+            "intro": "Pengajaran daripada nasab (keturunan) Nabi Muhammad SAW:",
+            "items": [
+              "Namakankan anak dengan nama yang baik dan bermaksud mulia",
+              "Keturunan yang baik dibina dengan akhlak, bukan harta",
+              "Hormati keluarga dan susur galur kita",
+              "Bangga dengan keturunan yang mulia dan berusaha meneruskannya"
+            ]
+          }
+        },
+        {
+          "icon": "⭐",
+          "title": "Iktibar daripada Kelahiran Baginda",
+          "body": {
+            "type": "list",
+            "intro": "Pengajaran daripada peristiwa kelahiran Nabi Muhammad SAW:",
+            "items": [
+              "Allah melindungi Kaabah dari Abraha — Allah pasti menjaga agamanya",
+              "Kelahiran Baginda adalah cahaya untuk seluruh alam",
+              "Kita beruntung dilahirkan dalam agama Islam yang mulia",
+              "Setiap anak yang lahir adalah amanah dari Allah kepada ibu bapa"
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Iktibar daripada Akhlak Baginda",
+          "body": {
+            "type": "list",
+            "intro": "Pengajaran daripada akhlak mulia Nabi Muhammad SAW:",
+            "items": [
+              "Bersifat jujur dan amanah dalam semua urusan",
+              "Selesaikan masalah dengan bijak dan adil — bukan dengan kekerasan",
+              "Bergaul baik dengan semua orang tanpa mengira latar belakang",
+              "Taat kepada Allah adalah asas kepada akhlak yang baik"
+            ]
+          }
+        },
+        {
+          "icon": "💛",
+          "title": "Cara Mencintai Rasulullah SAW",
+          "body": {
+            "type": "list",
+            "intro": "Cara kita menunjukkan cinta kepada Rasulullah SAW:",
+            "items": [
+              "Pelajari dan amalkan sunnah Baginda dalam kehidupan seharian",
+              "Ucapkan selawat setiap kali nama Baginda disebut",
+              "Baca dan hafaz hadis-hadis Baginda",
+              "Ikuti akhlak Baginda dalam berkeluarga dan bermasyarakat",
+              "Sampaikan ajaran Baginda kepada orang lain"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah berfirman tentang Nabi Muhammad SAW sebagai contoh terbaik untuk diikuti:",
+        "arabic": "لَّقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ",
+        "translation": "Demi sesungguhnya, pada diri Rasulullah itu ada contoh ikutan yang baik bagi kamu.",
+        "source": "Surah al-Ahzab: 21",
+        "outro": "Jadikan Rasulullah SAW sebagai contoh terbaik dalam semua aspek kehidupan!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengamalkan Iktibar Sirah Nabi SAW",
+      "items": [
+        "Baca atau dengar kisah sirah Nabi SAW secara berkala.",
+        "Pilih satu sunnah Nabi untuk diamalkan setiap minggu.",
+        {
+          "type": "arabic",
+          "arabic": "لَّقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ",
+          "translation": "Pada diri Rasulullah ada contoh ikutan yang baik."
+        },
+        "Ucapkan selawat paling kurang 10 kali sehari.",
+        "Amalkan sifat Al-Amin dalam kehidupan seharian.",
+        "Sampaikan satu kisah sirah Nabi kepada rakan atau adik beradik."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Surah al-Ahzab: 21 menyatakan bahawa Rasulullah SAW adalah?",
+      "options": [
+        "Nabi yang paling banyak mukjizat",
+        "Contoh ikutan yang baik untuk umat Islam",
+        "Nabi yang paling lama hidup",
+        "Nabi yang paling banyak sahabat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah cara terbaik menunjukkan cinta kepada Rasulullah SAW?",
+      "options": [
+        "Memakai pakaian Arab sahaja",
+        "Belajar sirah Baginda sahaja",
+        "Amalkan sunnah Baginda dan ucapkan selawat",
+        "Pergi ke Makkah dan Madinah sahaja"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah iktibar daripada kisah Abraha yang hendak meruntuhkan Kaabah?",
+      "options": [
+        "Gajah adalah haiwan yang berbahaya",
+        "Allah pasti menjaga agama dan tempat ibadat-Nya",
+        "Tentera yang kuat pasti menang",
+        "Orang Arab Makkah sangat kuat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah pengajaran daripada Nabi Muhammad SAW bekerja mengembala kambing?",
+      "options": [
+        "Setiap orang mesti jadi penternak",
+        "Pekerjaan yang kelihatan kecil pun mengandungi nilai amanah dan tanggungjawab",
+        "Kambing adalah haiwan terbaik",
+        "Nabi adalah orang yang miskin"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Sirah Nabi", "colour": "#FF6F00" },
+      { "id": "n2", "label": "Iktibar Nasab", "colour": "#FF8F00" },
+      { "id": "n3", "label": "Iktibar Kelahiran", "colour": "#FF8F00" },
+      { "id": "n4", "label": "Iktibar Akhlak", "colour": "#FF8F00" },
+      { "id": "n5", "label": "Amal Sunnah", "colour": "#FFD54F" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "ajar" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "ajar" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "ajar" },
+      { "id": "e4", "source": "n4", "target": "n5", "label": "mendorong" }
+    ]
+  },
+  "vocab": [
+    { "word": "سِيرَة", "meaning": "sirah — kisah hidup Nabi" },
+    { "word": "أُسۡوَة", "meaning": "contoh / teladan" },
+    { "word": "إِعۡتِبَار", "meaning": "iktibar / pengajaran" },
+    { "word": "صَلَوَات", "meaning": "selawat ke atas Nabi" },
+    { "word": "سُنَّة", "meaning": "sunnah — amalan Nabi" }
+  ],
+  "funFact": "Tahukah kamu bahawa buku sirah Nabi yang tertua dan paling terkenal ditulis oleh Ibn Hisham lebih dari 1,200 tahun yang lalu? Buku itu menceritakan kisah hidup Baginda dengan sangat terperinci. Kisah sirah Nabi adalah kisah yang tidak pernah bosan untuk dibaca — setiap kali kita membacanya, pasti ada pengajaran baru yang kita temui!"
+}

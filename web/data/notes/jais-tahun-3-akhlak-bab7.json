@@ -1,0 +1,164 @@
+{
+  "id": "jais-tahun-3-akhlak-bab7",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "akhlak",
+  "chapter": 7,
+  "title": "Malu",
+  "emoji": "😊",
+  "colour": "#AD1457",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Malu — Sifat Mulia yang Membawa Kebaikan",
+      "body": "Malu bermaksud menahan diri daripada memperkatakan sesuatu yang keji dan menghindarkan diri daripada melakukan perbuatan dosa yang hina. Ia adalah sifat mulia yang merupakan sebahagian daripada iman."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🌿",
+          "title": "Bahagian-bahagian Sifat Malu",
+          "body": {
+            "type": "list",
+            "intro": "Sifat malu terbahagi kepada tiga:",
+            "items": [
+              "Malu kepada Allah — menjauhkan diri dari perkara yang dilarang Allah dan meninggalkan keingkaran kepada-Nya",
+              "Malu kepada sesama manusia — tidak menyakiti orang lain dan tidak berlaku biadab",
+              "Malu kepada diri sendiri — tidak melakukan perkara yang tidak beragama dan yang mendedahkan keaiban diri, serta mendekatkan diri kepada Allah"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil — Hadis Malu Sebahagian Iman",
+          "body": {
+            "type": "arabic",
+            "instruction": "Rasulullah SAW bersabda daripada Abdullah bin Umar tentang kedudukan sifat malu dalam iman:",
+            "arabic": "الْحَيَاءُ مِنَ الإِيمَانِ",
+            "translation": "Malu itu sebahagian daripada iman.",
+            "source": "Hadis Riwayat Bukhari dan Muslim"
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Faedah Bersifat Malu",
+          "body": {
+            "type": "list",
+            "intro": "Manfaat memiliki sifat malu:",
+            "items": [
+              "Diredhai oleh Allah dan Rasul-Nya",
+              "Disukai oleh ibu bapa, guru dan rakan",
+              "Mendapat kesopanan dan adab dalam percakapan dan pergaulan seharian",
+              "Sentiasa mendapat petunjuk ke arah kebaikan"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Akibat Tidak Bersifat Malu",
+          "body": {
+            "type": "list",
+            "intro": "Akibat buruk bagi orang yang tidak memiliki sifat malu:",
+            "items": [
+              "Dimurkai oleh Allah dan Rasul-Nya",
+              "Dibenci oleh ibu bapa, guru dan rakan",
+              "Melakukan perkara yang dilarang oleh syarak",
+              "Hilang nilai kesopanan dan budi pekerti",
+              "Tidak akan dihormati oleh masyarakat"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Rasulullah SAW juga bersabda tentang sifat malu yang sentiasa membawa kebaikan:",
+        "arabic": "الْحَيَاءُ لَا يَأْتِي إِلَّا بِخَيْرٍ",
+        "translation": "Malu itu tidak mendatangkan melainkan kebaikan.",
+        "source": "Hadis Riwayat Bukhari dan Muslim (Mutafaq 'alaih)",
+        "outro": "Jangan keliru antara malu yang baik (menjaga maruah) dengan malu yang menghalang — seperti malu untuk bertanya atau malu berbuat kebaikan. Malu yang dimaksud di sini adalah malu untuk melakukan perkara yang salah!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengamalkan Sifat Malu",
+      "items": [
+        "Malu kepada Allah — sentiasa ingat bahawa Allah melihat segala perbuatan kita.",
+        "Malu kepada manusia — jaga percakapan dan tingkah laku agar tidak menyakiti orang lain.",
+        "Malu kepada diri sendiri — jangan lakukan perkara yang mencemarkan maruah diri.",
+        {
+          "type": "arabic",
+          "arabic": "الْحَيَاءُ مِنَ الإِيمَانِ",
+          "translation": "Malu itu sebahagian daripada iman."
+        },
+        "Jangan malu untuk membuat kebaikan — malu yang benar adalah malu untuk melakukan kejahatan.",
+        "Jadikan sifat malu sebagai perisai diri daripada melakukan dosa."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud sifat malu dalam Islam?",
+      "options": [
+        "Tidak berani bercakap dengan orang lain",
+        "Menahan diri daripada perkara keji dan perbuatan dosa yang hina",
+        "Sentiasa bersembunyi dan tidak mahu berjumpa orang",
+        "Tidak mahu menjawab soalan guru"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Hadis 'Malu itu sebahagian daripada iman' adalah riwayat dari?",
+      "options": [
+        "Riwayat al-Tirmidhi",
+        "Riwayat Ibn Majah",
+        "Riwayat Bukhari dan Muslim",
+        "Riwayat Ahmad"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa bahagian sifat malu yang perlu kita miliki?",
+      "options": ["Satu", "Dua", "Tiga", "Empat"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah akibat tidak bersifat malu?",
+      "options": [
+        "Menjadi lebih berani dan disukai",
+        "Dimurkai Allah dan hilang nilai kesopanan",
+        "Mendapat lebih banyak pahala",
+        "Menjadi pemimpin yang baik"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Malu", "colour": "#AD1457" },
+      { "id": "n2", "label": "Malu kpd Allah", "colour": "#C2185B" },
+      { "id": "n3", "label": "Malu kpd Manusia", "colour": "#C2185B" },
+      { "id": "n4", "label": "Malu kpd Diri Sendiri", "colour": "#C2185B" },
+      { "id": "n5", "label": "Kebaikan", "colour": "#FFD54F" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "bahagian" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "bahagian" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "bahagian" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "membawa" }
+    ]
+  },
+  "vocab": [
+    { "word": "حَيَاء", "meaning": "malu / sifat malu" },
+    { "word": "إِيمَان", "meaning": "iman" },
+    { "word": "مُرُوءَة", "meaning": "maruah / harga diri" },
+    { "word": "فَضِيلَة", "meaning": "kelebihan / faedah" },
+    { "word": "أَدَب", "meaning": "adab / kesopanan" }
+  ],
+  "funFact": "Tahukah kamu bahawa Rasulullah SAW dikatakan lebih pemalu daripada seorang gadis pingitan? Baginda sangat menjaga adab dan kesopanan dalam semua keadaan. Sifat malu Rasulullah SAW bukan kerana lemah, tetapi kerana kemuliaan dan ketinggian akhlak baginda!"
+}

@@ -1,0 +1,177 @@
+{
+  "id": "jais-tahun-3-jawi-bab5",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "jawi",
+  "chapter": 5,
+  "title": "Ejaan Jawi Lama (Ejaan Tradisi)",
+  "emoji": "✒️",
+  "colour": "#FF9800",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "ايجاءن جاوي لاما — Ejaan Jawi Tradisi",
+      "body": "Ejaan Jawi Lama (juga dikenali sebagai Ejaan Tradisi) ialah cara penulisan Jawi yang dieja mengikut kaedah ejaan lama sebelum sistem ejaan moden. Ia berbeza sedikit dengan ejaan Jawi moden kerana huruf-huruf tertentu dieja mengikut bunyi asal atau mengikut tradisi yang diterima pakai oleh tokoh-tokoh Jawi."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Apakah Ejaan Jawi Lama?",
+          "body": {
+            "type": "list",
+            "intro": "Pengenalan kepada ejaan Jawi lama:",
+            "items": [
+              "Ejaan Jawi Lama adalah ejaan yang mengikut kaedah ejaan lama/tradisi",
+              "Ia juga disebut 'ejaan tua' atau 'ejaan tradisional'",
+              "Diperkenalkan oleh tokoh-tokoh Jawi bernama Faq Matlub (dan lain-lain)",
+              "Pada asalnya dieja mengikut kaedah baris (harakat Arab)",
+              "Masih digunakan dalam teks-teks agama dan sastera lama"
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Contoh Ejaan Jawi Lama",
+          "body": {
+            "type": "list",
+            "intro": "Perbandingan ejaan Jawi moden dan ejaan Jawi lama:",
+            "items": [
+              "ialah → ايالة (ejaan lama) — kata kerja 'adalah'",
+              "inilah → اينيله (ejaan lama)",
+              "kelima-limanya → كليما-ليمانث (ejaan lama)",
+              "daripadanya → درڤداث (ejaan lama)",
+              "apakah → اڤاكه (ejaan lama)",
+              "dialah → دياله (ejaan lama)",
+              "adanya → اداث (ejaan lama)",
+              "itulah → ايتوله (ejaan lama)",
+              "kepadaku → كڤداكو (ejaan lama)"
+            ]
+          }
+        },
+        {
+          "icon": "📚",
+          "title": "Peraturan Ejaan Jawi Lama",
+          "body": {
+            "type": "list",
+            "intro": "Ciri-ciri ejaan Jawi lama:",
+            "items": [
+              "Setiap ejaan tradisi yang menerima partikel, imbuhan atau ganti nama hendaklah dieja mengikut padanan huruf",
+              "Meletakkan huruf vokal a, i atau u dengan lengkap",
+              "Dua huruf vokal yang berturutan ditulis dengan gabungan seperti 'ai', 'au'",
+              "Perkataan yang ditambah akhiran -nya ditulis dengan ث (ث = nya)",
+              "Partikel -lah, -kah ditulis dengan له dan كه di akhir"
+            ]
+          }
+        },
+        {
+          "icon": "✏️",
+          "title": "Contoh dalam Ayat",
+          "body": {
+            "type": "list",
+            "intro": "Contoh penggunaan ejaan Jawi lama dalam ayat:",
+            "items": [
+              "كيت واجب ڤرچاي كون ايمان = Kita wajib percaya kepada iman",
+              "ثمن باكول روتن سغت چنتيق = Bakul rotan sangat cantik",
+              "كوچيغ كساينغن ماريا ليم ايكور = Kucing kesayangan Maria lima ekor",
+              "تيدق دري ڤد كبائيقن = Tidak pernah berbuat jahat",
+              "اورغ كيت وجب دسمبه = Tuhan kita wajib disembah"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "list",
+        "intro": "Rumus penting Ejaan Jawi Lama:",
+        "items": [
+          "Ejaan Jawi lama mengikut kaedah baris dan ejaan tradisi lama",
+          "Akhiran -nya = ث, akhiran -lah = له, akhiran -kah = كه",
+          "Huruf vokal ditulis dengan lengkap mengikut bunyi asal"
+        ],
+        "outro": "Ejaan Jawi lama penting untuk memahami teks-teks agama dan sastera Melayu klasik!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Memahami Ejaan Jawi Lama",
+      "items": [
+        "Kenali partikel dan imbuhan yang biasa dalam ejaan Jawi lama.",
+        "Hafaz cara ejaan akhiran -nya (ث), -lah (له), -kah (كه).",
+        "Latih membaca teks Jawi lama dari buku-buku agama atau kitab.",
+        "Bandingkan ejaan Jawi lama dengan ejaan Jawi moden untuk memahami perbezaannya.",
+        "Banyak berlatih menulis ayat menggunakan ejaan Jawi lama."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah nama lain bagi 'Ejaan Jawi Lama'?",
+      "options": [
+        "Ejaan Baru",
+        "Ejaan Moden",
+        "Ejaan Tradisi",
+        "Ejaan Rumi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Dalam ejaan Jawi lama, akhiran '-nya' ditulis dengan huruf?",
+      "options": [
+        "ن",
+        "ث",
+        "ي",
+        "ه"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Ejaan Jawi lama asalnya mengikut?",
+      "options": [
+        "Kaedah tulisan Cina",
+        "Kaedah baris (harakat Arab)",
+        "Kaedah tulisan Latin",
+        "Kaedah angka"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dalam ejaan Jawi lama, akhiran '-lah' ditulis sebagai?",
+      "options": [
+        "كه",
+        "به",
+        "له",
+        "ده"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Ejaan Jawi Lama", "colour": "#FF9800" },
+      { "id": "n2", "label": "Ejaan Tradisi", "colour": "#F57C00" },
+      { "id": "n3", "label": "Akhiran -nya = ث", "colour": "#FB8C00" },
+      { "id": "n4", "label": "Akhiran -lah = له", "colour": "#FFA726" },
+      { "id": "n5", "label": "Vokal penuh ditulis", "colour": "#FFB74D" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "= juga dipanggil" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "ciri" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "ciri" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "ciri" }
+    ]
+  },
+  "vocab": [
+    { "word": "ايجاءن لاما", "meaning": "ejaan lama — cara penulisan Jawi tradisi" },
+    { "word": "ايجاءن تراديسي", "meaning": "ejaan tradisi — ejaan turun-temurun" },
+    { "word": "ايالة", "meaning": "ialah (ejaan lama)" },
+    { "word": "اداث", "meaning": "adanya (ejaan lama)" },
+    { "word": "ايتوله", "meaning": "itulah (ejaan lama)" }
+  ],
+  "funFact": "Tahukah kamu bahawa ejaan Jawi lama masih digunakan sehingga kini dalam kitab-kitab agama Islam? Apabila kamu membaca kitab Jawi lama seperti 'Hidayatus Salikin' atau 'Bahr al-Madhi', kamu akan melihat ejaan-ejaan yang berbeza dari Jawi moden. Sesetengah ulama berpendapat ejaan lama ini lebih tepat kerana ia menggambarkan sebutan asal perkataan dengan lebih jelas. Itulah sebabnya pelajaran ejaan Jawi lama masih diajar di sekolah-sekolah agama!"
+}

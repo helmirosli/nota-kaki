@@ -1,0 +1,160 @@
+{
+  "id": "jais-tahun-3-khat-bab5",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "khat",
+  "chapter": 5,
+  "title": "Huruf ج، چ، ح، خ Tunggal dalam Khat Naskh",
+  "emoji": "🖊️",
+  "colour": "#795548",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "حروف ج چ ح خ — Menulis Jim, Cha, Ha', Kha' Tunggal",
+      "body": "Huruf jim (ج), cha (چ), ha' (ح), dan kha' (خ) mempunyai bentuk badan yang sama dalam Khat Naskh — berbentuk seperti cawan atau pinggan dengan ekor yang turun ke bawah. Bezanya adalah pada bilangan dan kedudukan titik. Pelajaran ini mengajar cara menulis keempat-empat huruf ini dalam keadaan tunggal (tidak bersambung)."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "ج",
+          "title": "Huruf Jim (ج) dan Cha (چ)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ciri-ciri huruf Jim (ج) dan Cha (چ) dalam Khat Naskh:",
+            "arabic": "ج = شكل كالكوڤ، نقطة واحدة تحت\nچ = نفس شكل الجيم، ثلاث نقاط تحت\n— الذيل يمتد تحت السطر\n— العرض: 3-4 نقاط\n— بدن مفتوح من اليمين",
+            "translation": "Jim (ج): bentuk seperti cawan, 1 titik di bawah. Cha (چ): bentuk SAMA dengan jim, 3 titik di bawah. Ekor memanjang ke bawah garisan. Lebar: 3-4 titik. Badan terbuka dari kanan.",
+            "outro": "Jim = 1 titik bawah; Cha = 3 titik bawah — bentuk sama!"
+          }
+        },
+        {
+          "icon": "ح",
+          "title": "Huruf Ha' (ح)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ciri-ciri huruf Ha' (ح) dalam Khat Naskh:",
+            "arabic": "ح\n— شكل: نفس شكل الجيم تماماً\n— نقطة: بدون نقطة (لا توجد نقطة)\n— الذيل يمتد تحت السطر\n— يُمثّل صوت الحاء الحلقي",
+            "translation": "Ha' (ح): bentuk SAMA dengan jim dan cha. TIADA titik. Ekor memanjang ke bawah garisan. Mewakili bunyi 'h' dari halkum (tengah halkum).",
+            "outro": "Ha' ialah huruf ج tanpa titik — mudah diingati!"
+          }
+        },
+        {
+          "icon": "خ",
+          "title": "Huruf Kha' (خ)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ciri-ciri huruf Kha' (خ) dalam Khat Naskh:",
+            "arabic": "خ\n— شكل: نفس شكل الجيم والحاء\n— نقطة: نقطة واحدة فوق\n— الذيل يمتد تحت السطر\n— يُمثّل صوت الخاء الحلقي",
+            "translation": "Kha' (خ): bentuk SAMA dengan jim, cha, ha'. 1 titik DI ATAS. Ekor memanjang ke bawah garisan. Mewakili bunyi 'kh' dari hujung halkum.",
+            "outro": "Kha' = bentuk sama dengan ha' + 1 titik di atas!"
+          }
+        },
+        {
+          "icon": "📊",
+          "title": "Perbandingan Jim, Cha, Ha', Kha'",
+          "body": {
+            "type": "list",
+            "intro": "Ringkasan perbezaan keempat-empat huruf:",
+            "items": [
+              "Bentuk badan: SAMA untuk ج چ ح خ — seperti cawan dengan ekor bawah",
+              "Jim (ج): 1 titik DI BAWAH",
+              "Cha (چ): 3 titik DI BAWAH",
+              "Ha' (ح): TIADA titik",
+              "Kha' (خ): 1 titik DI ATAS",
+              "Keempat-empatnya tidak boleh disambung kepada huruf sebelumnya (hanya selepasnya)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "ح",
+      "text": {
+        "type": "arabic",
+        "instruction": "Cara mudah mengingati Jim, Cha, Ha', Kha':",
+        "arabic": "ج = ١ نقطة تحت\nچ = ٣ نقاط تحت\nح = بدون نقطة\nخ = ١ نقطة فوق\nشكل البدن: نفس للأربعة!",
+        "translation": "Jim = 1 titik bawah. Cha = 3 titik bawah. Ha' = tiada titik. Kha' = 1 titik atas. Bentuk badan sama untuk semua!",
+        "outro": "Hafaz: bawah(1), bawah(3), tiada, atas(1) — itulah jim, cha, ha', kha'!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menulis Huruf Jim, Cha, Ha', Kha' Tunggal",
+      "items": [
+        "Mula dari kanan atas — buat lengkung ke kiri membentuk badan cawan.",
+        "Tarik ekor ke bawah garisan asas (melepasi garisan bawah).",
+        "Ekor boleh melengkung sedikit ke kiri di hujungnya.",
+        "Setelah badan dan ekor selesai, tambah titik mengikut huruf.",
+        "Jim = 1 titik bawah, Cha = 3 titik bawah, Ha' = tiada titik, Kha' = 1 titik atas.",
+        "Latih menulis keempat-empat huruf bersama untuk membandingkan."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Huruf manakah yang mempunyai tiada titik dalam kumpulan ج چ ح خ?",
+      "options": [
+        "Jim (ج)",
+        "Cha (چ)",
+        "Ha' (ح)",
+        "Kha' (خ)"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Huruf Cha (چ) mempunyai berapa titik dan di mana?",
+      "options": [
+        "1 titik di atas",
+        "2 titik di bawah",
+        "3 titik di bawah",
+        "1 titik di bawah"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Huruf Kha' (خ) mempunyai titik di mana?",
+      "options": [
+        "Di bawah",
+        "Di atas",
+        "Di tengah",
+        "Tiada titik"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah persamaan antara huruf ج چ ح خ?",
+      "options": [
+        "Bilangan titik yang sama",
+        "Bentuk badan yang sama",
+        "Bunyi yang sama",
+        "Saiz yang berbeza"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Bentuk Cawan+Ekor", "colour": "#795548" },
+      { "id": "n2", "label": "ج (1 titik bawah)", "colour": "#6D4C41" },
+      { "id": "n3", "label": "چ (3 titik bawah)", "colour": "#5D4037" },
+      { "id": "n4", "label": "ح (tiada titik)", "colour": "#4E342E" },
+      { "id": "n5", "label": "خ (1 titik atas)", "colour": "#8D6E63" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "→ Jim" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "→ Cha" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "→ Ha'" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "→ Kha'" }
+    ]
+  },
+  "vocab": [
+    { "word": "جيم", "meaning": "jim — huruf ج" },
+    { "word": "چيم", "meaning": "cha — huruf چ (Jawi)" },
+    { "word": "حاء", "meaning": "ha' — huruf ح (dari halkum)" },
+    { "word": "خاء", "meaning": "kha' — huruf خ (dari hujung halkum)" },
+    { "word": "ذيل", "meaning": "ekor — bahagian bawah huruf yang memanjang" }
+  ],
+  "funFact": "Tahukah kamu bahawa huruf ح (ha') dan خ (kha') adalah antara huruf yang paling sukar bagi bukan penutur Arab? Bunyi ha' adalah 'h' yang keluar dari bahagian tengah halkum — berbeza dengan 'h' biasa dalam bahasa Melayu. Kha' pula berbunyi seperti 'kh' dalam perkataan German 'Bach' atau 'r' dalam bahasa Perancis! Dalam kaligrafi pula, menariknya kedua-dua huruf ini mempunyai bentuk yang SAMA dengan jim (ج) — hanya bezakan dengan titik atau tanpa titik!"
+}

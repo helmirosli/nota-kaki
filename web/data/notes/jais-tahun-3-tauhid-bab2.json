@@ -1,0 +1,140 @@
+{
+  "id": "jais-tahun-3-tauhid-bab2",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "tauhid",
+  "chapter": 2,
+  "title": "Nabi dan Rasul",
+  "emoji": "📜",
+  "colour": "#FFB300",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Perbezaan Nabi dan Rasul",
+      "body": "Nabi dan Rasul adalah dua gelaran berbeza untuk utusan Allah. Nabi menerima wahyu untuk dirinya sahaja, manakala Rasul menerima wahyu dan diwajibkan menyampaikannya kepada umatnya. Semua Rasul adalah Nabi, tetapi tidak semua Nabi adalah Rasul."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📋",
+          "title": "Pengertian Nabi",
+          "body": "Nabi ialah lelaki yang dipilih oleh Allah, menerima wahyu untuk dirinya sahaja, dan meneruskan syariat yang sudah ada (tidak membawa syariat baru)."
+        },
+        {
+          "icon": "📢",
+          "title": "Pengertian Rasul",
+          "body": "Rasul ialah lelaki yang dipilih oleh Allah, menerima wahyu, dan diperintahkan untuk menyampaikannya kepada umatnya (membawa syariat / risalah yang baru)."
+        },
+        {
+          "icon": "⚖️",
+          "title": "Perbezaan Nabi dan Rasul",
+          "body": {
+            "type": "list",
+            "intro": "Perbezaan utama antara Nabi dan Rasul:",
+            "items": [
+              "Nabi: wahyu untuk dirinya sahaja | Rasul: wahyu untuk disampaikan kepada umat",
+              "Nabi: meneruskan syariat yang ada | Rasul: membawa syariat / risalah baru",
+              "Semua Rasul adalah Nabi, tetapi tidak semua Nabi adalah Rasul",
+              "Tugas Rasul lebih berat kerana perlu berdakwah"
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "25 Rasul yang Wajib Diketahui",
+          "body": {
+            "type": "list",
+            "intro": "Nama-nama 25 Rasul yang wajib diketahui:",
+            "items": [
+              "1. Nabi Adam | 2. Nabi Idris | 3. Nabi Nuh | 4. Nabi Hud | 5. Nabi Soleh",
+              "6. Nabi Ibrahim | 7. Nabi Lut | 8. Nabi Ismail | 9. Nabi Ishak | 10. Nabi Yaakub",
+              "11. Nabi Yusuf | 12. Nabi Ayub | 13. Nabi Syuaib | 14. Nabi Musa | 15. Nabi Harun",
+              "16. Nabi Zulkifli | 17. Nabi Daud | 18. Nabi Sulaiman | 19. Nabi Ilyas | 20. Nabi Ilyasa'",
+              "21. Nabi Yunus | 22. Nabi Zakaria | 23. Nabi Yahya | 24. Nabi Isa | 25. Nabi Muhammad SAW"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Selawat ke atas Nabi Muhammad SAW yang wajib diucapkan setiap kali nama Baginda disebut:",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ",
+        "translation": "Ya Allah, limpahkanlah selawat ke atas Muhammad dan keluarga Muhammad.",
+        "outro": "Ucapkan selawat setiap kali nama Nabi Muhammad SAW disebut — ia adalah amalan yang sangat mulia!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menghafaz Nama 25 Rasul",
+      "items": [
+        "Hafaz dalam kumpulan 5: Adam, Idris, Nuh, Hud, Soleh.",
+        "Kumpulan 2: Ibrahim, Lut, Ismail, Ishak, Yaakub.",
+        "Kumpulan 3: Yusuf, Ayub, Syuaib, Musa, Harun.",
+        "Kumpulan 4: Zulkifli, Daud, Sulaiman, Ilyas, Ilyasa'.",
+        "Kumpulan 5: Yunus, Zakaria, Yahya, Isa, Muhammad SAW.",
+        "Berselawat ke atas Nabi Muhammad SAW setiap hari."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah perbezaan utama antara Nabi dan Rasul?",
+      "options": [
+        "Rasul lebih tua daripada Nabi",
+        "Nabi tidak perlu menyampaikan wahyu, Rasul diwajibkan menyampaikan",
+        "Nabi lebih mulia daripada Rasul",
+        "Semua Nabi adalah Rasul"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa jumlah Rasul yang wajib diketahui?",
+      "options": ["10", "15", "20", "25"],
+      "answer": 3
+    },
+    {
+      "q": "Siapakah Rasul pertama yang wajib diketahui?",
+      "options": ["Nabi Ibrahim", "Nabi Adam", "Nabi Nuh", "Nabi Idris"],
+      "answer": 1
+    },
+    {
+      "q": "Adakah semua Nabi adalah Rasul?",
+      "options": [
+        "Ya, semua Nabi adalah Rasul",
+        "Tidak, tidak semua Nabi adalah Rasul",
+        "Bergantung kepada zaman",
+        "Hanya Nabi yang mulia sahaja"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Nabi", "colour": "#FFB300" },
+      { "id": "n2", "label": "Rasul", "colour": "#FFA000" },
+      { "id": "n3", "label": "Wahyu utk diri", "colour": "#FFD54F" },
+      { "id": "n4", "label": "Wahyu utk umat", "colour": "#FF8F00" },
+      { "id": "n5", "label": "25 Rasul", "colour": "#FFCC02" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n3", "label": "terima" },
+      { "id": "e2", "source": "n2", "target": "n4", "label": "sampaikan" },
+      { "id": "e3", "source": "n2", "target": "n5", "label": "wajib tahu" },
+      { "id": "e4", "source": "n1", "target": "n2", "label": "sebahagian ialah" }
+    ]
+  },
+  "vocab": [
+    { "word": "نَبِي", "meaning": "Nabi" },
+    { "word": "رَسُول", "meaning": "Rasul" },
+    { "word": "شَرِيعَة", "meaning": "syariat / hukum agama" },
+    { "word": "رِسَالَة", "meaning": "risalah / mesej" },
+    { "word": "أُولُو الْعَزْم", "meaning": "Ulul Azmi — Rasul paling tabah" }
+  ],
+  "funFact": "Tahukah kamu tentang keistimewaan Nabi Sulaiman? Baginda boleh berkomunikasi dengan haiwan dan angin! Manakala Nabi Isa boleh menyembuhkan orang buta dan orang yang berpenyakit kusta dengan izin Allah. Setiap Rasul diberi mukjizat yang berbeza untuk membuktikan kerasulan mereka!"
+}

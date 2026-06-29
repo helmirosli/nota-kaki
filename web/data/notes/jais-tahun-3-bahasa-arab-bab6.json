@@ -1,0 +1,155 @@
+{
+  "id": "jais-tahun-3-bahasa-arab-bab6",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "bahasa-arab",
+  "chapter": 6,
+  "title": "Dars 6: Jumlah Ismiyah",
+  "emoji": "📝",
+  "colour": "#1565C0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الجُمْلَة الاسْمِيَّة — Ayat Nama (Jumlah Ismiyah)",
+      "body": "Jumlah ismiyah adalah sejenis ayat Arab yang bermula dengan kata nama (isim), bukan kata kerja. Strukturnya terdiri daripada dua bahagian: مُبْتَدَأ (subjek) + خَبَر (predikat/pemberita). Contoh: الْبَيْتُ كَبِيرٌ = Rumah itu besar."
+    },
+    {
+      "type": "concept-cards",
+        "items": [
+        {
+          "icon": "🏗️",
+          "title": "Struktur Jumlah Ismiyah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Cara membina jumlah ismiyah (ayat nama):",
+            "arabic": "الْجُمْلَةُ الِاسْمِيَّةُ:\nمُبْتَدَأٌ + خَبَرٌ\n\nمِثَال:\nالْقِطَارُ سَرِيعٌ. (Kereta api itu laju.)\nالسَّيَّارَةُ جَمِيلَةٌ. (Kereta itu cantik.)\nالْبَيْتُ كَبِيرٌ. (Rumah itu besar.)",
+            "translation": "Jumlah Ismiyah = Mubtada' + Khabar. Contoh: Kereta api itu laju. Kereta itu cantik. Rumah itu besar."
+          }
+        },
+        {
+          "icon": "👤",
+          "title": "Jumlah Ismiyah dengan Ganti Nama",
+          "body": {
+            "type": "arabic",
+            "instruction": "Jumlah ismiyah menggunakan ganti nama (muzakar dan muannas):",
+            "arabic": "أَنَا شُرْطِيٌّ. (Saya polis lelaki.)\nأَنْتَ طَبِيبٌ. (Kamu doktor lelaki.)\nهُوَ إِمَامٌ. (Dia imam.)\nأَنَا طَبِيبَةٌ. (Saya doktor perempuan.)\nأَنْتِ مُمَرِّضَةٌ. (Kamu jururawat.)\nهِيَ مُعَلِّمَةٌ. (Dia guru perempuan.)",
+            "translation": "Ganti nama + jawatan: Saya polis — Kamu doktor — Dia imam — Saya doktor perempuan — Kamu jururawat — Dia guru perempuan"
+          }
+        },
+        {
+          "icon": "☝️",
+          "title": "Jumlah Ismiyah dengan Kata Tunjuk",
+          "body": {
+            "type": "arabic",
+            "instruction": "Kata tunjuk (أسماء الإشارة) dalam jumlah ismiyah:",
+            "arabic": "هَذَا أَبِي. (Ini bapa saya.)\nهَذِهِ أُمِّي. (Ini ibu saya.)\nذَلِكَ مُهَنْدِسٌ. (Itu jurutera lelaki.)\nتِلْكَ مُدِيرَةٌ. (Itu pengetua perempuan.)\nالْكُرَّاسَةُ عَلَى الْمَكْتَبِ. (Buku nota itu di atas meja.)",
+            "translation": "Kata tunjuk: هَذَا (ini, muzakar), هَذِهِ (ini, muannas), ذَلِكَ (itu, muzakar), تِلْكَ (itu, muannas)"
+          }
+        },
+        {
+          "icon": "❓",
+          "title": "Soal Jawab Jumlah Ismiyah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh soal jawab menggunakan jumlah ismiyah:",
+            "arabic": "مَا اسْمُكَ؟ — اسْمِي أَحْمَدُ.\nمَنْ هَذَا؟ — هَذَا أَبِي.\nمَا اسْمُهُ؟ — اسْمُهُ سَلِيمٌ.\nمَنْ تِلْكَ؟ — هَذِهِ أُمِّي.\nمَا اسْمُهَا؟ — اسْمُهَا حَلِيمَةُ.",
+            "translation": "Siapa namamu? — Nama saya Ahmad. Siapa ini? — Ini bapa saya. Siapa namanya? — Namanya Salim. Siapa itu? — Ini ibu saya. Siapa namanya? — Namanya Halimah."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "arabic",
+        "instruction": "Rumus jumlah ismiyah yang perlu diingat:",
+        "arabic": "مُبْتَدَأٌ (الِاسْمُ الْأَوَّلُ) + خَبَرٌ (الِاسْمُ الثَّانِي أَوِ الصِّفَةُ)\nالْمُبْتَدَأُ مَعْرِفَةٌ (definit)\nالْخَبَرُ نَكِرَةٌ (indefinit غَالِبًا)",
+        "translation": "Mubtada' (isim pertama, definit) + Khabar (isim/sifat kedua, biasanya indefinit). Contoh: الْبَيْتُ (mubtada') + كَبِيرٌ (khabar) = Rumah itu besar.",
+        "outro": "Latih membina jumlah ismiyah dengan nama profesi yang kita pelajari!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Membina Jumlah Ismiyah",
+      "items": [
+        "Pilih mubtada' (subjek) — misalnya: الْبَيْتُ (rumah itu).",
+        "Pilih khabar (pemberita) — misalnya: كَبِيرٌ (besar).",
+        "Gabungkan: الْبَيْتُ كَبِيرٌ = Rumah itu besar.",
+        {
+          "type": "arabic",
+          "arabic": "أَنَا طَالِبٌ. — هُوَ مُعَلِّمٌ. — هِيَ طَبِيبَةٌ.",
+          "translation": "Saya pelajar. — Dia guru lelaki. — Dia doktor perempuan."
+        },
+        "Untuk soalan: tambah مَا (apa), مَنْ (siapa) di depan ayat.",
+        "Latih: tulis 5 jumlah ismiyah tentang keluarga kamu!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah komponen jumlah ismiyah dalam bahasa Arab?",
+      "options": [
+        "Fiil + Fail",
+        "Mubtada' + Khabar",
+        "Subjek + Predikat + Objek",
+        "Harf + Isim"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Antara ayat berikut, yang manakah jumlah ismiyah yang betul?",
+      "options": [
+        "ذَهَبَ أَحْمَدُ إِلَى الْمَدْرَسَةِ",
+        "الْقِطَارُ سَرِيعٌ",
+        "يَأْكُلُ التِّلْمِيذُ الطَّعَامَ",
+        "جَاءَ الْمُعَلِّمُ"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kata tunjuk manakah yang digunakan untuk benda muannas dekat?",
+      "options": [
+        "هَذَا",
+        "ذَلِكَ",
+        "هَذِهِ",
+        "تِلْكَ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Terjemahkan: هِيَ مُعَلِّمَةٌ",
+      "options": [
+        "Dia guru lelaki",
+        "Saya guru perempuan",
+        "Dia guru perempuan",
+        "Kamu guru perempuan"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Jumlah Ismiyah", "colour": "#1565C0" },
+      { "id": "n2", "label": "مُبْتَدَأ (Subjek)", "colour": "#1976D2" },
+      { "id": "n3", "label": "خَبَر (Pemberita)", "colour": "#1976D2" },
+      { "id": "n4", "label": "Definit (ال)", "colour": "#42A5F5" },
+      { "id": "n5", "label": "Indefinit (تنوين)", "colour": "#42A5F5" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "bahagian 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "bahagian 2" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "biasanya" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "biasanya" }
+    ]
+  },
+  "vocab": [
+    { "word": "جُمْلَة اسْمِيَّة", "meaning": "ayat nama" },
+    { "word": "مُبْتَدَأ", "meaning": "subjek ayat nama" },
+    { "word": "خَبَر", "meaning": "pemberita/predikat ayat nama" },
+    { "word": "هَذَا / هَذِهِ", "meaning": "ini (muzakar/muannas)" },
+    { "word": "ذَلِكَ / تِلْكَ", "meaning": "itu (muzakar/muannas)" }
+  ],
+  "funFact": "Tahukah kamu bahawa dalam bahasa Arab, tiada 'kata kerja adalah' (is/are/am)? Untuk mengatakan 'Rumah itu besar', kita hanya perlu menyebut 'الْبَيْتُ كَبِيرٌ' — tanpa perlu kata 'adalah' di tengahnya! Inilah keindahan jumlah ismiyah dalam bahasa Arab — ringkas tetapi bermakna penuh!"
+}

@@ -1,0 +1,172 @@
+{
+  "id": "jais-tahun-3-akhlak-bab2",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "akhlak",
+  "chapter": 2,
+  "title": "Adab Menziarahi Rakan",
+  "emoji": "🤝",
+  "colour": "#1565C0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Adab Menziarahi Rakan",
+      "body": "Menziarahi rakan adalah amalan mulia yang mengeratkan persahabatan. Kita perlu menjaga adab apabila menziarahi rakan agar tidak menyusahkan mereka dan keluarganya. Allah SWT telah mengajarkan kita cara yang betul dalam al-Quran."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📋",
+          "title": "Adab Menziarahi Rakan",
+          "body": {
+            "type": "list",
+            "intro": "Perkara yang perlu dijaga ketika menziarahi rakan:",
+            "items": [
+              "Memberitahu rakan terlebih dahulu sebelum berziarah",
+              "Memilih waktu yang sesuai untuk berziarah",
+              "Memberi salam kepada penghuni rumah",
+              "Meminta izin sebelum masuk",
+              "Membaca doa semasa berziarah",
+              "Berkata-kata yang baik dengan cara yang berhikmah",
+              "Jangan berziarah terlalu lama"
+            ]
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Faedah Menziarahi Rakan",
+          "body": {
+            "type": "list",
+            "intro": "Manfaat menziarahi rakan dengan adab yang betul:",
+            "items": [
+              "Mengeratkan hubungan silaturrahim",
+              "Dapat bertukar fikiran dan maklumat",
+              "Mendapat pahala dari Allah",
+              "Menambah rasa kasih sayang sesama rakan"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Akibat Tidak Beradab",
+          "body": {
+            "type": "list",
+            "intro": "Akibat tidak menjaga adab ketika menziarahi rakan:",
+            "items": [
+              "Tidak mendapat keredhaan Allah dan Rasul-Nya",
+              "Tidak disukai oleh rakan",
+              "Mendapat malu",
+              "Ibu bapa rakan akan membebel dan mengusir"
+            ]
+          }
+        },
+        {
+          "icon": "🕌",
+          "title": "Dalil — Surah an-Nur: 27",
+          "body": {
+            "type": "arabic",
+            "instruction": "Allah berfirman tentang adab meminta izin sebelum masuk rumah orang lain:",
+            "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّى تَسْتَأْنِسُوا وَتُسَلِّمُوا عَلَى أَهْلِهَا ذَلِكُمْ خَيْرٌ لَّكُمْ",
+            "translation": "Wahai orang-orang yang beriman! Janganlah kamu masuk ke dalam rumah-rumah yang bukan rumah kamu, sehingga kamu meminta izin serta memberi salam kepada penghuninya. Yang demikian itu adalah lebih baik bagi kamu.",
+            "source": "Surah an-Nur: 27"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ucapan salam apabila menziarahi rakan:",
+        "arabic": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ",
+        "translation": "Semoga keselamatan, rahmat Allah dan keberkatan-Nya ke atas kamu.",
+        "outro": "Ucapkan salam ini kepada rakan sesama Muslim bila berjumpa atau menziarahi mereka."
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menziarahi Rakan dengan Betul",
+      "items": [
+        "Beritahu rakan terlebih dahulu — telefon atau hantar mesej.",
+        "Pilih waktu yang sesuai — bukan waktu tidur atau waktu makan.",
+        {
+          "type": "arabic",
+          "arabic": "السَّلَامُ عَلَيْكُمْ",
+          "translation": "Ucapkan salam apabila tiba di rumah rakan."
+        },
+        "Minta izin daripada ibu bapa rakan sebelum masuk.",
+        "Berkata-kata dengan baik dan penuh sopan.",
+        "Jangan duduk terlalu lama — hormati masa keluarga rakan.",
+        "Ucapkan salam perpisahan ketika hendak pulang."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah adab pertama yang perlu dilakukan sebelum menziarahi rakan?",
+      "options": [
+        "Terus datang ke rumah rakan",
+        "Memberitahu rakan terlebih dahulu",
+        "Membawa hadiah yang mahal",
+        "Berziarah pada waktu malam"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Ayat Quran tentang adab meminta izin sebelum masuk rumah orang lain terdapat dalam surah mana?",
+      "options": [
+        "Surah al-Baqarah: 183",
+        "Surah al-Hujurat: 12",
+        "Surah an-Nur: 27",
+        "Surah al-Imran: 159"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah faedah menziarahi rakan dengan adab yang betul?",
+      "options": [
+        "Boleh minta wang daripada rakan",
+        "Mengeratkan silaturrahim dan mendapat pahala",
+        "Boleh tahu rahsia keluarga rakan",
+        "Rakan akan berikan hadiah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah akibat tidak beradab semasa menziarahi rakan?",
+      "options": [
+        "Rakan akan lebih sayang",
+        "Tidak disukai rakan dan tidak mendapat redha Allah",
+        "Dapat lebih banyak hadiah",
+        "Boleh datang lagi lain kali"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Menziarahi Rakan", "colour": "#1565C0" },
+      { "id": "n2", "label": "Adab-adab", "colour": "#1976D2" },
+      { "id": "n3", "label": "Faedah", "colour": "#1976D2" },
+      { "id": "n4", "label": "Silaturrahim", "colour": "#64B5F6" },
+      { "id": "n5", "label": "Salam & Izin", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "perlu ada" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "menghasilkan" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "mengeratkan" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "termasuk" }
+    ]
+  },
+  "vocab": [
+    { "word": "زياره", "meaning": "ziarah / kunjungan" },
+    { "word": "إِذْن", "meaning": "izin / kebenaran" },
+    { "word": "صِلَةُ الرَّحِم", "meaning": "mengeratkan hubungan" },
+    { "word": "أَدَب", "meaning": "adab / sopan santun" },
+    { "word": "فَضِيلَة", "meaning": "kelebihan / faedah" }
+  ],
+  "funFact": "Tahukah kamu bahawa setiap kali kita mengucapkan salam, kita sebenarnya sedang mendoakan 3 perkara untuk orang lain: keselamatan (as-salam), rahmat Allah (rahmah), dan keberkatan (barakah)? Salam adalah doa yang paling indah yang boleh kita berikan kepada seseorang!"
+}

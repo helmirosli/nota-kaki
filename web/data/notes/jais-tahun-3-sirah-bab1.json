@@ -1,0 +1,161 @@
+{
+  "id": "jais-tahun-3-sirah-bab1",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "sirah",
+  "chapter": 1,
+  "title": "Nasab Nabi Muhammad SAW",
+  "emoji": "🌙",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Nasab (Keturunan) Nabi Muhammad SAW",
+      "body": "Nasab bermaksud keturunan atau susur galur. Nabi Muhammad SAW berasal daripada bangsa Arab Quraish yang mulia. Nama 'Muhammad' bermaksud 'yang terpuji'. Baginda dilahirkan di kota Makkah yang mulia."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🌟",
+          "title": "Kemuliaan Bangsa Arab Quraish",
+          "body": {
+            "type": "list",
+            "intro": "Bangsa Arab Quraish adalah keturunan Nabi Ismail AS. Ciri-ciri kemuliaan mereka:",
+            "items": [
+              "Bersifat pemurah dan suka memberi",
+              "Menepati janji yang dibuat",
+              "Memiliki keinginan dan semangat yang kuat",
+              "Dihormati oleh semua kaum Arab"
+            ]
+          }
+        },
+        {
+          "icon": "👨‍👦",
+          "title": "Nasab Sebelah Bapa",
+          "body": {
+            "type": "list",
+            "intro": "Susur galur Nabi Muhammad SAW sebelah bapa — dari bawah ke atas:",
+            "items": [
+              "Muhammad ← Abdullah",
+              "Abdullah ← Abdul Muttalib",
+              "Abdul Muttalib ← Hashim",
+              "Hashim ← Abdul Manaf",
+              "Abdul Manaf ← Qusay ← Murrah ← Kilab"
+            ]
+          }
+        },
+        {
+          "icon": "👩‍👦",
+          "title": "Nasab Sebelah Ibu",
+          "body": {
+            "type": "list",
+            "intro": "Susur galur Nabi Muhammad SAW sebelah ibu — dari bawah ke atas:",
+            "items": [
+              "Muhammad ← Aminah binti Wahab",
+              "Aminah ← Wahab ← Abdul Manaf",
+              "Abdul Manaf ← Zuhrah ← Murrah ← Kilab"
+            ]
+          }
+        },
+        {
+          "icon": "🔗",
+          "title": "Pertemuan Nasab Bapa dan Ibu",
+          "body": "Nasab sebelah bapa dan ibu Nabi Muhammad SAW bertemu pada Abdul Manaf bin Qusay bin Kilab. Ini menunjukkan betapa mulia dan tulinnya keturunan Nabi Muhammad SAW dari kedua-dua pihak."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📜",
+      "text": {
+        "type": "list",
+        "intro": "Berselawat ke atas Nabi Muhammad SAW setiap kali nama Baginda disebut:",
+        "items": [
+          "Nama Baginda: Muhammad bin Abdullah bin Abdul Muttalib",
+          "Ibu Baginda: Aminah binti Wahab",
+          "Tempat lahir: Kota Makkah",
+          "Wafat di: Kota Madinah"
+        ],
+        "outro": "صلى اللَّه عليه وسلَّم — Semoga Allah melimpahkan selawat dan salam ke atas Baginda."
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengingati Nasab Nabi Muhammad SAW",
+      "items": [
+        "Hafaz nama bapa Baginda: Abdullah bin Abdul Muttalib.",
+        "Hafaz nama ibu Baginda: Aminah binti Wahab.",
+        "Ingat bahawa Baginda berasal dari bangsa Arab Quraish yang mulia.",
+        "Mereka bertemu nasab pada Abdul Manaf bin Qusay.",
+        {
+          "type": "arabic",
+          "arabic": "مُحَمَّدٌ رَسُولُ اللَّهِ",
+          "translation": "Muhammad adalah Rasulullah."
+        },
+        "Namakankan anak dengan nama yang baik seperti sunnah Rasul."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud nama 'Muhammad'?",
+      "options": ["Yang berani", "Yang terpuji", "Yang amanah", "Yang bijaksana"],
+      "answer": 1
+    },
+    {
+      "q": "Siapakah bapa Nabi Muhammad SAW?",
+      "options": [
+        "Abdul Muttalib bin Hashim",
+        "Abdullah bin Abdul Muttalib",
+        "Hashim bin Abdul Manaf",
+        "Abu Talib bin Abdul Muttalib"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Siapakah ibu Nabi Muhammad SAW?",
+      "options": [
+        "Halimah as-Sa'diyah",
+        "Khadijah binti Khuwaylid",
+        "Aminah binti Wahab",
+        "Thuwayibah al-Aslamiyah"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Di manakah nasab sebelah bapa dan ibu Nabi Muhammad SAW bertemu?",
+      "options": [
+        "Pada Hashim bin Abdul Manaf",
+        "Pada Abdul Muttalib bin Hashim",
+        "Pada Abdul Manaf bin Qusay",
+        "Pada Qusay bin Kilab"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Muhammad SAW", "colour": "#FF6F00" },
+      { "id": "n2", "label": "Abdullah (Bapa)", "colour": "#FF8F00" },
+      { "id": "n3", "label": "Aminah (Ibu)", "colour": "#FF8F00" },
+      { "id": "n4", "label": "Abdul Muttalib", "colour": "#FFA000" },
+      { "id": "n5", "label": "Quraish Arab", "colour": "#FFB300" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n2", "target": "n1", "label": "bapa" },
+      { "id": "e2", "source": "n3", "target": "n1", "label": "ibu" },
+      { "id": "e3", "source": "n4", "target": "n2", "label": "datuk" },
+      { "id": "e4", "source": "n5", "target": "n1", "label": "keturunan" }
+    ]
+  },
+  "vocab": [
+    { "word": "نَسَب", "meaning": "nasab — keturunan / susur galur" },
+    { "word": "قُرَيْش", "meaning": "Quraish — kabilah Arab mulia" },
+    { "word": "مُحَمَّد", "meaning": "Muhammad — yang terpuji" },
+    { "word": "آمِنَة", "meaning": "Aminah — nama ibu Nabi" },
+    { "word": "عَبۡدُاللَّه", "meaning": "Abdullah — nama bapa Nabi" }
+  ],
+  "funFact": "Tahukah kamu mengapa tahun lahir Nabi Muhammad SAW dinamakan 'Tahun Gajah'? Pada tahun itu, seorang pemimpin bernama Abraha telah membawa tentera besar dengan gajah-gajah untuk meruntuhkan Kaabah di Makkah. Allah menghancurkan tentera itu dengan burung-burung yang membawa batu. Peristiwa inilah yang menandai tahun istimewa kelahiran Baginda!"
+}

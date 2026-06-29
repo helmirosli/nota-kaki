@@ -1,0 +1,162 @@
+{
+  "id": "jais-tahun-3-imlak-bab5",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "imlak",
+  "chapter": 5,
+  "title": "Kalimah Isim Jamak Muzakar Salim",
+  "emoji": "✍️",
+  "colour": "#009688",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "كَلِمَة اسْم جَمْع مُذَكَّر سَالِم — Isim Jamak Muzakar Salim",
+      "body": "Isim Jamak Muzakar Salim ialah kata nama jamak (ramai) berjantina lelaki yang dibentuk dengan cara yang selamat (salim) — iaitu dengan menambah (وْنَ) di akhir kalimah. Ia biasanya digunakan untuk orang Islam, orang beriman, dan manusia — bukan benda mati atau haiwan."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Cara Membentuk Isim Jamak Muzakar Salim",
+          "body": {
+            "type": "arabic",
+            "instruction": "Cara membentuk isim jamak muzakar salim — tambah (وْنَ) di akhir isim mufrad muzakar:",
+            "arabic": "مُفْرَد → جَمْع:\nمُسْلِمٌ → مُسْلِمُونَ\nمُؤْمِنٌ → مُؤْمِنُونَ\nصَالِحٌ → صَالِحُونَ\nمُعَلِّمٌ → مُعَلِّمُونَ",
+            "translation": "Mufrad → Jamak: seorang muslim → ramai muslim / seorang mukmin → ramai mukmin / yang soleh → ramai yang soleh / seorang guru → ramai guru",
+            "outro": "Huruf sebelum wau berbaris dhammah (depan)."
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Senarai Kalimah Isim Jamak Muzakar Salim",
+          "body": {
+            "type": "arabic",
+            "instruction": "Baca dan hafaz kalimah-kalimah berikut:",
+            "arabic": "كَافِرُونَ — مُسْلِمُونَ — خَاضِعُونَ\nظَالِمُونَ — مُؤْمِنُونَ — خَاشِعُونَ\nمُنَافِقُونَ — مُخْلِصُونَ — صَالِحُونَ\nمُنْكِرُونَ — مُحْسِنُونَ — صَادِقُونَ",
+            "translation": "orang kafir — orang Islam — yang tunduk / yang zalim — orang beriman — yang khusyuk / orang munafik — yang ikhlas — yang soleh / yang mengingkari — yang berbuat baik — yang benar"
+          }
+        },
+        {
+          "icon": "📚",
+          "title": "Penggunaan dalam Ayat",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh penggunaan dalam ayat:",
+            "arabic": "الـمُسْلِمُونَ يُقِيمُونَ الصَّلَاةَ فِي الـمَسْجِدِ\nذَهَبَ الـمُعَلِّمُونَ الـمُجْتَهِدُونَ إِلَى الـمَدْرَسَةِ",
+            "translation": "Orang-orang Islam mendirikan solat di masjid. / Guru-guru yang bersungguh-sungguh pergi ke sekolah."
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "Cara Mengenal Isim Jamak Muzakar Salim",
+          "body": {
+            "type": "list",
+            "intro": "Ciri-ciri isim jamak muzakar salim:",
+            "items": [
+              "Bilangan: ramai / lebih dari dua (jamak)",
+              "Jantina: lelaki (muzakar)",
+              "Berakhir dengan (وْنَ) — wau dan nun fathah",
+              "Huruf sebelum wau berbaris dhammah",
+              "Biasanya untuk manusia (bukan benda mati)",
+              "Kata ganti nama: هُمْ (mereka lelaki)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "arabic",
+        "instruction": "Rumus membentuk Isim Jamak Muzakar Salim:",
+        "arabic": "اسم مفرد مذكر + ونَ = اسم جمع مذكر سالم\nحروف سبلوم واو برباريس ضمة\nمثال: مُسْلِمٌ → مُسْلِمُونَ",
+        "translation": "Isim mufrad muzakar + (ونَ) = isim jamak muzakar salim. Huruf sebelum wau berbaris dhammah. Contoh: muslim → muslimun (ramai muslim).",
+        "outro": "Ingat: (ونَ) untuk ramai lelaki — huruf sebelumnya berbaris dhammah!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menulis Isim Jamak Muzakar Salim",
+      "items": [
+        "Isim jamak muzakar salim merujuk kepada ramai orang berjantina lelaki.",
+        "Cara membentuk: tambah (وْنَ) di akhir isim mufrad muzakar.",
+        {
+          "type": "arabic",
+          "arabic": "مُؤْمِنٌ → مُؤْمِنُونَ\nصَادِقٌ → صَادِقُونَ",
+          "translation": "Seorang mukmin → ramai mukmin. Yang benar → ramai yang benar."
+        },
+        "Pastikan huruf sebelum wau berbaris dhammah (baris depan).",
+        "Kata ganti nama: هُمْ (mereka — ramai lelaki).",
+        "Biasanya untuk manusia — bukan benda mati atau haiwan."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Bagaimana cara membentuk isim jamak muzakar salim?",
+      "options": [
+        "Tambah (ة) di akhirnya",
+        "Tambah (انِ) di akhirnya",
+        "Tambah (ونَ) di akhirnya",
+        "Tambah (اتٌ) di akhirnya"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah bentuk jamak muzakar salim bagi kalimah 'مُسْلِمٌ'?",
+      "options": [
+        "مُسْلِمَاتٌ",
+        "مُسْلِمَانِ",
+        "مُسْلِمُونَ",
+        "مَسَالِيمُ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Harakat apa yang ada pada huruf sebelum wau dalam jamak muzakar salim?",
+      "options": [
+        "Fathah",
+        "Kasrah",
+        "Dhammah",
+        "Sukun"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kalimah 'مُؤْمِنُونَ' bermaksud...",
+      "options": [
+        "Seorang mukmin",
+        "Dua mukmin",
+        "Ramai mukmin",
+        "Seorang mukminah"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Jamak Muzakar Salim", "colour": "#009688" },
+      { "id": "n2", "label": "Isim Mufrad Muzakar", "colour": "#00897B" },
+      { "id": "n3", "label": "Tambah (ونَ)", "colour": "#26A69A" },
+      { "id": "n4", "label": "Ramai lelaki (3+)", "colour": "#4DB6AC" },
+      { "id": "n5", "label": "هُمْ", "colour": "#80CBC4" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n2", "target": "n3", "label": "+" },
+      { "id": "e2", "source": "n3", "target": "n1", "label": "=" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "makna" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "kata ganti" }
+    ]
+  },
+  "vocab": [
+    { "word": "جَمْع", "meaning": "jamak / ramai (3 ke atas)" },
+    { "word": "سَالِم", "meaning": "salim / selamat (tidak berubah bentuk asalnya)" },
+    { "word": "مُسْلِمُونَ", "meaning": "ramai orang Islam" },
+    { "word": "مُؤْمِنُونَ", "meaning": "ramai orang beriman" },
+    { "word": "صَالِحُونَ", "meaning": "ramai yang soleh" }
+  ],
+  "funFact": "Tahukah kamu mengapa ia dinamakan 'salim' (سَالِم)? Dalam bahasa Arab, 'salim' bermaksud selamat atau sempurna. Jamak Muzakar Salim dipanggil 'salim' kerana bentuk asal kalimah (isim mufrad) tidak berubah — ia hanya ditambah (ونَ) sahaja. Berbeza dengan 'jamak taksir' yang mengubah bentuk asal kalimah sepenuhnya, seperti كِتَابٌ menjadi كُتُبٌ. Seolah-olah kalimah itu 'selamat' dari perubahan!"
+}

@@ -1,0 +1,172 @@
+{
+  "id": "jais-tahun-3-akhlak-bab3",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "akhlak",
+  "chapter": 3,
+  "title": "Bercakap Benar",
+  "emoji": "💬",
+  "colour": "#1B5E20",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Bercakap Benar (Sifat Sidiq)",
+      "body": "Bercakap benar bermaksud menyatakan sesuatu dengan cara yang betul dan tidak berdusta tentang sesuatu perkara kepada seseorang. Ia adalah elemen penting dalam membina kepercayaan dan merupakan akhlak mulia yang dituntut Islam."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "✅",
+          "title": "Pengertian Bercakap Benar",
+          "body": {
+            "type": "list",
+            "intro": "Bercakap benar (sidiq) bermaksud:",
+            "items": [
+              "Berkata benar dan tidak berdusta tentang sesuatu perkara",
+              "Melaksanakan perintah Allah dengan benar-benarnya",
+              "Berlaku adil kepada semua orang",
+              "Bertindak dengan penuh tanggungjawab dan akal",
+              "Bersabar dan tabah untuk mempertahankan kebenaran"
+            ]
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Faedah Bercakap Benar",
+          "body": {
+            "type": "list",
+            "intro": "Manfaat orang yang sentiasa bercakap benar:",
+            "items": [
+              "Disukai Allah dan Rasul-Nya",
+              "Dipercayai oleh ibu bapa, guru dan rakan",
+              "Mendapat pahala yang besar dari Allah",
+              "Hubungan silaturrahim menjadi lebih erat",
+              "Dihormati oleh masyarakat"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Akibat Bercakap Bohong",
+          "body": {
+            "type": "list",
+            "intro": "Akibat buruk bagi mereka yang suka berdusta:",
+            "items": [
+              "Dimurkai oleh Allah dan Rasul-Nya",
+              "Mendapat balasan siksa di dunia dan akhirat",
+              "Tidak dipercayai oleh ibu bapa, guru dan rakan",
+              "Hubungan silaturrahim renggang",
+              "Menjadi penghalang kepada kejayaan"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil — Hadis Bercakap Benar",
+          "body": {
+            "type": "arabic",
+            "instruction": "Rasulullah SAW bersabda daripada Ibn Mas'ud tentang kebaikan bercakap benar:",
+            "arabic": "عَلَيْكُمْ بِالصِّدْقِ فَإِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ وَإِنَّ الْبِرَّ يَهْدِي إِلَى الْجَنَّةِ",
+            "translation": "Wajibleh kamu bercakap benar, kerana sesungguhnya bercakap benar itu menuju kepada kebaikan, dan sesungguhnya kebaikan itu menuju ke syurga.",
+            "source": "Hadis Riwayat Bukhari dan Muslim"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Rasulullah SAW juga bersabda tentang pentingnya berdiam diri daripada bercakap perkara yang tidak benar — daripada Abu Shuraih al-Khuza'i:",
+        "arabic": "مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ",
+        "translation": "Sesiapa yang beriman kepada Allah dan Hari Akhirat, hendaklah dia berkata yang baik atau diam sahaja.",
+        "source": "Hadis Riwayat Bukhari dan Muslim",
+        "outro": "Jika tidak ada perkara yang baik hendak diucapkan, lebih baik diam daripada bercakap bohong atau menyakitkan hati orang lain."
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengamalkan Sifat Bercakap Benar",
+      "items": [
+        "Berfikir dahulu sebelum bercakap — pastikan apa yang hendak diucapkan itu benar.",
+        "Jangan berbohong walaupun perkara itu pahit atau menyakitkan.",
+        "Jika tidak pasti tentang sesuatu perkara, lebih baik diam.",
+        "Akui kesalahan sendiri dengan berani — jangan salahkan orang lain.",
+        "Jadikan sifat benar Rasulullah SAW sebagai contoh dalam kehidupan seharian.",
+        {
+          "type": "arabic",
+          "arabic": "الصِّدْقُ يُنْجِي وَالْكَذِبُ يُهْلِكُ",
+          "translation": "Kebenaran itu menyelamatkan, dan kebohongan itu menghancurkan."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud bercakap benar?",
+      "options": [
+        "Bercakap dengan kuat supaya semua orang dengar",
+        "Menyatakan sesuatu dengan betul dan tidak berdusta",
+        "Bercakap hanya apabila diminta",
+        "Bercakap dalam bahasa Arab"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Hadis tentang bercakap benar: 'Wajibleh kamu bercakap benar kerana ia menuju kepada...'",
+      "options": [
+        "Kekayaan dan kejayaan",
+        "Kebaikan dan syurga",
+        "Kesihatan dan kecergasan",
+        "Persahabatan yang ramai"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah faedah bercakap benar?",
+      "options": [
+        "Mendapat banyak wang",
+        "Selalu menang dalam pertengkaran",
+        "Dipercayai oleh orang lain dan mendapat pahala Allah",
+        "Tidak perlu belajar lagi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Jika tidak ada perkara baik hendak diucapkan, apa yang patut kita lakukan?",
+      "options": [
+        "Bercakap apa sahaja",
+        "Berbohong untuk kebaikan",
+        "Diam sahaja",
+        "Bercakap kuat supaya orang lain dengar"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Bercakap Benar", "colour": "#1B5E20" },
+      { "id": "n2", "label": "Faedah", "colour": "#2E7D32" },
+      { "id": "n3", "label": "Akibat Bohong", "colour": "#C62828" },
+      { "id": "n4", "label": "Dipercayai", "colour": "#81C784" },
+      { "id": "n5", "label": "Syurga", "colour": "#FFD54F" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "menghasilkan" },
+      { "id": "e2", "source": "n2", "target": "n4", "label": "termasuk" },
+      { "id": "e3", "source": "n1", "target": "n5", "label": "menuju ke" },
+      { "id": "e4", "source": "n3", "target": "n1", "label": "lawan" }
+    ]
+  },
+  "vocab": [
+    { "word": "صِدْق", "meaning": "benar / jujur" },
+    { "word": "كَذِب", "meaning": "bohong / dusta" },
+    { "word": "بِرّ", "meaning": "kebaikan" },
+    { "word": "أَمَانَة", "meaning": "amanah / kepercayaan" },
+    { "word": "صَمَت", "meaning": "diam" }
+  ],
+  "funFact": "Tahukah kamu bahawa Rasulullah SAW digelar 'Al-Amin' yang bermaksud 'yang amanah dan jujur' sejak sebelum baginda menjadi Nabi lagi? Orang Makkah sangat mempercayai baginda kerana baginda sentiasa bercakap benar. Nama baik itu dibina dengan kejujuran!"
+}

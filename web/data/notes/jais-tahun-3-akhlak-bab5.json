@@ -1,0 +1,171 @@
+{
+  "id": "jais-tahun-3-akhlak-bab5",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "akhlak",
+  "chapter": 5,
+  "title": "Berani",
+  "emoji": "🦁",
+  "colour": "#BF360C",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Berani — Mempertahankan Kebenaran",
+      "body": "Berani bermaksud sifat yang mendorong seseorang untuk berkata benar, melaksanakan perintah Allah, berlaku adil, menolak perkara yang salah, bertindak dengan penuh tanggungjawab, dan bersabar untuk mempertahankan kebenaran."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🦁",
+          "title": "Ciri-ciri Sifat Berani",
+          "body": {
+            "type": "list",
+            "intro": "Tanda-tanda orang yang memiliki sifat berani:",
+            "items": [
+              "Berkata benar dengan berkata sebenar-benarnya",
+              "Melaksanakan perintah Allah dengan benar",
+              "Berlaku adil dan menolak perkara yang salah",
+              "Bertindak dengan penuh tanggungjawab dan akal",
+              "Bersabar dan tabah untuk mempertahankan kebenaran"
+            ]
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Faedah Bersifat Berani",
+          "body": {
+            "type": "list",
+            "intro": "Manfaat memiliki sifat berani:",
+            "items": [
+              "Diredhai Allah dan Rasul-Nya",
+              "Melatih diri menjadi orang yang bertanggungjawab",
+              "Tidak dipengaruhi oleh orang lain untuk melakukan kejahatan",
+              "Disayangi oleh semua orang",
+              "Dihormati oleh masyarakat"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil — Hadis Berkata Benar",
+          "body": {
+            "type": "arabic",
+            "instruction": "Rasulullah SAW bersabda daripada Abu Dharr al-Ghifari tentang kewajipan berkata benar:",
+            "arabic": "قُلِ الْحَقَّ وَلَوْ كَانَ مُرًّا",
+            "translation": "Berkatalah benar walaupun ia pahit.",
+            "source": "Hadis Riwayat Ibn Hibban"
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Akibat Tidak Bersifat Berani",
+          "body": {
+            "type": "list",
+            "intro": "Akibat buruk jika tidak memiliki sifat berani:",
+            "items": [
+              "Dimurkai oleh Allah dan Rasul-Nya",
+              "Dipermainkan oleh orang lain",
+              "Sentiasa terasa lemah untuk berjaya",
+              "Menjadi penghalang kepada kejayaan diri sendiri"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah berfirman dalam Surah Ali Imran — menguatkan hati orang beriman agar tidak lemah semangat:",
+        "arabic": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+        "translation": "Janganlah kamu bersedih hati dan janganlah kamu berdukacita, padahal kamulah yang paling tinggi darjatnya, jika kamu orang-orang yang beriman.",
+        "source": "Surah Ali Imran: 139",
+        "outro": "Orang mukmin tidak seharusnya lemah — Allah bersama orang yang berani mempertahankan kebenaran!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Kisah Maasyithah — Teladan Sifat Berani",
+      "items": [
+        "Maasyithah ialah tukang sikat rambut puteri Firaun yang beriman kepada Allah.",
+        "Firaun bertanya: 'Siapakah Tuhanmu?' Maasyithah menjawab dengan berani: 'Allah — Tuhanku, Tuhanmu dan Tuhan sekalian alam.'",
+        "Walaupun Firaun murka dan mengancam untuk membunuhnya beserta keluarganya, Maasyithah tetap teguh mempertahankan imannya.",
+        "Maasyithah memohon satu permintaan: agar tulang-belulang mereka dikebumikan bersama.",
+        "Walaupun dijatuhkan hukuman mati ke dalam kuali air mendidih, Maasyithah dan keluarganya tetap mempertahankan iman mereka.",
+        {
+          "type": "arabic",
+          "arabic": "قُلِ الْحَقَّ وَلَوْ كَانَ مُرًّا",
+          "translation": "Berkatalah benar walaupun ia pahit."
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud sifat berani dalam Islam?",
+      "options": [
+        "Tidak takut kepada sesiapa pun",
+        "Berani berkata benar, berlaku adil dan mempertahankan kebenaran",
+        "Suka bergaduh dengan orang lain",
+        "Tidak mahu dengar nasihat orang lain"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Hadis 'Berkatalah benar walaupun ia pahit' adalah riwayat dari?",
+      "options": [
+        "Riwayat Bukhari",
+        "Riwayat Muslim",
+        "Riwayat Ibn Hibban",
+        "Riwayat al-Tirmidhi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Siapakah Maasyithah dalam kisah sifat berani?",
+      "options": [
+        "Isteri Nabi Ibrahim",
+        "Tukang sikat rambut puteri Firaun yang beriman",
+        "Ibu Nabi Musa",
+        "Puteri Firaun yang beriman"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah faedah memiliki sifat berani?",
+      "options": [
+        "Tidak perlu mendengar cakap orang tua",
+        "Diredhai Allah dan dihormati masyarakat",
+        "Boleh melakukan apa sahaja tanpa rasa bersalah",
+        "Sentiasa menang dalam pertengkaran"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Berani", "colour": "#BF360C" },
+      { "id": "n2", "label": "Berkata Benar", "colour": "#E64A19" },
+      { "id": "n3", "label": "Berlaku Adil", "colour": "#E64A19" },
+      { "id": "n4", "label": "Maasyithah", "colour": "#FF8A65" },
+      { "id": "n5", "label": "Diredhai Allah", "colour": "#FFD54F" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "termasuk" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "termasuk" },
+      { "id": "e3", "source": "n4", "target": "n1", "label": "contoh" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "menghasilkan" }
+    ]
+  },
+  "vocab": [
+    { "word": "شَجَاعَة", "meaning": "keberanian" },
+    { "word": "حَق", "meaning": "kebenaran / hak" },
+    { "word": "عَادِل", "meaning": "adil" },
+    { "word": "إِيمَان", "meaning": "iman / kepercayaan" },
+    { "word": "تَابَع", "meaning": "tabah / cekal" }
+  ],
+  "funFact": "Tahukah kamu tentang kisah Maasyithah, tukang sikat rambut puteri Firaun? Beliau adalah seorang wanita biasa yang berani mempertahankan imannya walaupun berhadapan dengan Firaun yang kejam. Keberaniannya telah menjadikan namanya dikenang sepanjang zaman sebagai simbol iman yang kuat!"
+}

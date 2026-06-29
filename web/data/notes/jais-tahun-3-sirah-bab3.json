@@ -1,0 +1,171 @@
+{
+  "id": "jais-tahun-3-sirah-bab3",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "sirah",
+  "chapter": 3,
+  "title": "Akhlak Nabi Muhammad SAW",
+  "emoji": "💫",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Akhlak Mulia Nabi Muhammad SAW",
+      "body": "Nabi Muhammad SAW memiliki akhlak yang mulia sepanjang hidupnya — sejak kanak-kanak, remaja, hingga dewasa. Baginda digelar 'Al-Amin' (yang amanah) oleh penduduk Makkah kerana sifat jujur dan mulianya. Sebagai umat Baginda, kita perlu mencontohi akhlak Baginda."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🧒",
+          "title": "Akhlak Semasa Kanak-kanak",
+          "body": {
+            "type": "list",
+            "intro": "Akhlak Nabi Muhammad SAW semasa kanak-kanak:",
+            "items": [
+              "Tidak pernah bercakap bohong",
+              "Suka membantu orang lain",
+              "Tidak pernah bergaduh atau berlaku kasar",
+              "Sentiasa menghormati orang yang lebih tua",
+              "Rajin dan bertanggungjawab dalam segala tugas"
+            ]
+          }
+        },
+        {
+          "icon": "👦",
+          "title": "Akhlak Semasa Remaja",
+          "body": {
+            "type": "list",
+            "intro": "Akhlak Nabi Muhammad SAW semasa remaja:",
+            "items": [
+              "Amanah dan dipercayai dalam urusan niaga",
+              "Tidak pernah menyertai perkara yang sia-sia",
+              "Sentiasa adil dalam semua urusan",
+              "Digelar Al-Amin oleh penduduk Makkah"
+            ]
+          }
+        },
+        {
+          "icon": "🏅",
+          "title": "Gelaran Al-Amin — Kisah Hajar al-Aswad",
+          "body": {
+            "type": "list",
+            "intro": "Cara Nabi Muhammad SAW mendapat gelaran Al-Amin:",
+            "items": [
+              "Setelah banjir besar, Kaabah perlu diperbaiki dan Hajar al-Aswad perlu diletakkan semula",
+              "Para ketua kabilah berbantah siapa yang berhak meletakkan Hajar al-Aswad",
+              "Mereka bersetuju untuk menerima keputusan dari orang pertama yang masuk",
+              "Nabi Muhammad SAW yang masuk — Baginda menghamparkan kain dan meletakkan batu di tengah",
+              "Setiap ketua kabilah pegang hujung kain, bersama angkat batu ke tempatnya",
+              "Baginda berjaya menyelesaikan masalah dengan bijaksana tanpa pertumpahan darah"
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Sifat-sifat Mulia Al-Amin",
+          "body": {
+            "type": "list",
+            "intro": "Sifat-sifat mulia yang menjadikan Baginda digelar Al-Amin:",
+            "items": [
+              "Benar — tidak pernah berbohong",
+              "Amanah — bertanggungjawab terhadap kepercayaan yang diberikan",
+              "Malu — menjaga maruah diri",
+              "Sopan santun — beradab dalam pergaulan",
+              "Lemah lembut — bertutur dan bertindak dengan penuh belas kasihan"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah memuji akhlak Nabi Muhammad SAW dalam al-Quran:",
+        "arabic": "وَإِنَّكَ لَعَلَى خُلُقٍ عَظِيمٍ",
+        "translation": "Dan sesungguhnya engkau (Muhammad) benar-benar berbudi pekerti yang mulia.",
+        "source": "Surah al-Qalam: 4",
+        "outro": "Contohi akhlak Rasulullah SAW dalam kehidupan seharian kita!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mencontohi Akhlak Rasulullah SAW",
+      "items": [
+        "Bersikap benar dan jujur dalam semua urusan — jangan berbohong walaupun sedikit.",
+        "Amanah — lakukan tanggungjawab yang diberikan dengan sebaik mungkin.",
+        "Hormati orang tua dan guru.",
+        "Bersikap lemah lembut dalam bercakap dan bertindak.",
+        {
+          "type": "arabic",
+          "arabic": "وَإِنَّكَ لَعَلَى خُلُقٍ عَظِيمٍ",
+          "translation": "Sesungguhnya engkau berbudi pekerti yang mulia."
+        },
+        "Berselawat ke atas Nabi sebagai cara mencintai Baginda."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud gelaran 'Al-Amin'?",
+      "options": ["Yang berani", "Yang amanah / yang dipercayai", "Yang mulia", "Yang bijaksana"],
+      "answer": 1
+    },
+    {
+      "q": "Bagaimana Nabi Muhammad SAW menyelesaikan masalah peletakan Hajar al-Aswad?",
+      "options": [
+        "Baginda sendiri meletakkan batu itu",
+        "Baginda meminta orang paling tua untuk meletakkannya",
+        "Setiap ketua kabilah pegang hujung kain, bersama angkat batu ke tempatnya",
+        "Baginda membuat undian untuk menentukan siapa yang meletakkan"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Allah memuji akhlak Nabi SAW dalam Surah al-Qalam dengan menyatakan Baginda?",
+      "options": [
+        "Adalah Nabi yang paling kuat",
+        "Berbudi pekerti yang mulia",
+        "Adalah Nabi yang paling banyak mukjizat",
+        "Adalah manusia yang paling cerdas"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Manakah BUKAN antara sifat mulia Al-Amin?",
+      "options": [
+        "Benar dan tidak berbohong",
+        "Amanah dan bertanggungjawab",
+        "Angkuh dan sombong",
+        "Lemah lembut dan sopan santun"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Al-Amin", "colour": "#FF6F00" },
+      { "id": "n2", "label": "Benar (Sidiq)", "colour": "#FFA000" },
+      { "id": "n3", "label": "Amanah", "colour": "#FFA000" },
+      { "id": "n4", "label": "Hajar al-Aswad", "colour": "#FFB300" },
+      { "id": "n5", "label": "Akhlak Mulia", "colour": "#FFD54F" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "sifat" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "sifat" },
+      { "id": "e3", "source": "n4", "target": "n1", "label": "bukti" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "cerminan" }
+    ]
+  },
+  "vocab": [
+    { "word": "اَلأَمِين", "meaning": "Al-Amin — yang amanah / dipercayai" },
+    { "word": "خُلُق", "meaning": "akhlak / budi pekerti" },
+    { "word": "أَمَانَة", "meaning": "amanah / kepercayaan" },
+    { "word": "صِدْق", "meaning": "benar / jujur" },
+    { "word": "الحَجَرُ الأَسْوَد", "meaning": "Hajar al-Aswad — batu hitam di Kaabah" }
+  ],
+  "funFact": "Tahukah kamu bahawa gelaran 'Al-Amin' diberikan kepada Nabi Muhammad SAW oleh penduduk Makkah sebelum Baginda diangkat menjadi Nabi? Ini bermakna walaupun musuh-musuh Islam mengakui kejujuran dan keamanahan Baginda. Bahkan ketika ingin berhijrah ke Madinah, Baginda memulangkan dahulu barang-barang titipan orang kafir Makkah!"
+}

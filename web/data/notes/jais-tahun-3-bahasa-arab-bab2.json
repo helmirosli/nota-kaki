@@ -1,0 +1,154 @@
+{
+  "id": "jais-tahun-3-bahasa-arab-bab2",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "bahasa-arab",
+  "chapter": 2,
+  "title": "Dars 2: Peralatan Rumah",
+  "emoji": "🏠",
+  "colour": "#1565C0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الأدوات المنزلية — Peralatan Rumah",
+      "body": "Dalam dars ini kita belajar kosa kata peralatan rumah dalam bahasa Arab. Peralatan rumah dibahagi kepada dua kumpulan: perabot (أثاث البيت) dan peralatan elektrik (الأجهزة الكهربائية)."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🪑",
+          "title": "أثاث البيت — Perabot Rumah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Senarai perabot rumah dalam bahasa Arab:",
+            "arabic": "كُرْسِيٌّ — كُرْسِيٌّ\nأَرِيكَةٌ — أَرِيكَةٌ\nسَرِيرٌ — سَرِيرٌ\nدُرْجٌ — دُرْجٌ\nخِزَانَةٌ — خِزَانَةٌ\nمِنْضَدَةٌ — مِنْضَدَةٌ",
+            "translation": "كُرْسِيّ = kerusi\nأَرِيكَة = sofa\nسَرِير = katil\nدُرْج = laci/rak\nخِزَانَة = almari\nمِنْضَدَة = meja"
+          }
+        },
+        {
+          "icon": "🔌",
+          "title": "الأجهزة الكهربائية — Peralatan Elektrik",
+          "body": {
+            "type": "arabic",
+            "instruction": "Peralatan elektrik dan elektronik di rumah:",
+            "arabic": "تِلْفَازٌ — تِلْفَازٌ\nمِذْيَاعٌ — مِذْيَاعٌ\nثَلَّاجَةٌ — ثَلَّاجَةٌ\nغَسَّالَةٌ — غَسَّالَةٌ\nمِكْوَاةٌ — مِكْوَاةٌ\nمُكَيِّفٌ — مُكَيِّفٌ\nمِصْبَاحٌ — مِصْبَاحٌ\nفُرْنٌ — فُرْنٌ",
+            "translation": "تِلْفَاز = televisyen\nمِذْيَاع = radio\nثَلَّاجَة = peti sejuk\nغَسَّالَة = mesin basuh\nمِكْوَاة = seterika\nمُكَيِّف = penghawa dingin\nمِصْبَاح = lampu\nفُرْن = ketuhar"
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Contoh Perbualan",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh perbualan mengenai peralatan rumah:",
+            "arabic": "هَلْ فِي مَنْزِلِكَ مُكَيِّفٌ؟\nنَعَمْ، فِي مَنْزِلِي مُكَيِّفٌ.\nوَهَلْ فِي مَنْزِلِكَ تِلْفَازٌ؟\nلَكِنْ فِي مَنْزِلِي مِذْيَاعٌ فَقَطْ.",
+            "translation": "Adakah di rumahmu ada penghawa dingin?\nYa, di rumahku ada penghawa dingin.\nAdakah pula ada televisyen?\nTapi di rumahku ada radio sahaja."
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Ayat-ayat Contoh",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat-ayat menggunakan kosa kata peralatan rumah:",
+            "arabic": "أَنَا آخُذُ النُّقُودَ مِنَ الدُّرْجِ.\nأَنَا أُغَسِّلُ الْمَلَابِسَ بِالْغَسَّالَةِ.\nأَنَا أُشَاهِدُ مُبَارَاةَ كُرَةِ الْقَدَمِ فِي التِّلْفَازِ.",
+            "translation": "Saya mengambil wang dari laci.\nSaya membasuh pakaian dengan mesin basuh.\nSaya menonton perlawanan bola sepak di televisyen."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "arabic",
+        "instruction": "Cara bertanya tentang peralatan di rumah:",
+        "arabic": "مَا هَذَا؟ — هَذَا تِلْفَازٌ.\nمَا هَذِهِ؟ — هَذِهِ غَسَّالَةٌ.\nهَلْ فِي مَنْزِلِكَ ___؟ — نَعَمْ / لَا.",
+        "translation": "Apa ini? — Ini televisyen. | Apa ini? — Ini mesin basuh. | Adakah ___ di rumahmu? — Ya / Tidak.",
+        "outro": "Bantu ibu bapa kamu membersihkan rumah — itu sunnah Rasulullah SAW!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengingati Kosa Kata Peralatan Rumah",
+      "items": [
+        "Perabot (أثاث): kerusi = كُرْسِيّ, sofa = أَرِيكَة, katil = سَرِير, almari = خِزَانَة, meja = مِنْضَدَة.",
+        "Elektrik: televisyen = تِلْفَاز, peti sejuk = ثَلَّاجَة, mesin basuh = غَسَّالَة.",
+        {
+          "type": "arabic",
+          "arabic": "مُكَيِّفٌ — ثَلَّاجَةٌ — غَسَّالَةٌ — مِكْوَاةٌ",
+          "translation": "Penghawa dingin — Peti sejuk — Mesin basuh — Seterika"
+        },
+        "Tulis nama peralatan yang ada di rumah kamu dalam bahasa Arab!",
+        "Latih perbualan: هَلْ فِي مَنْزِلِكَ ___؟ bersama rakan."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah makna kosa kata 'ثَلَّاجَة' dalam bahasa Melayu?",
+      "options": [
+        "Seterika",
+        "Peti sejuk",
+        "Mesin basuh",
+        "Televisyen"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah bahasa Arab untuk 'mesin basuh'?",
+      "options": [
+        "مِكْوَاة",
+        "مِذْيَاع",
+        "غَسَّالَة",
+        "مُكَيِّف"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah makna ayat 'هَلْ فِي مَنْزِلِكَ مُكَيِّفٌ؟'?",
+      "options": [
+        "Di manakah televisyen?",
+        "Adakah penghawa dingin di rumahmu?",
+        "Berapa harga peti sejuk?",
+        "Di manakah mesin basuh?"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kosa kata manakah yang termasuk dalam kumpulan 'أثاث البيت' (perabot rumah)?",
+      "options": [
+        "تِلْفَاز",
+        "غَسَّالَة",
+        "أَرِيكَة",
+        "مُكَيِّف"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Peralatan Rumah", "colour": "#1565C0" },
+      { "id": "n2", "label": "Perabot", "colour": "#1976D2" },
+      { "id": "n3", "label": "Elektrik", "colour": "#1976D2" },
+      { "id": "n4", "label": "كُرْسِيّ سَرِير", "colour": "#42A5F5" },
+      { "id": "n5", "label": "تِلْفَاز غَسَّالَة", "colour": "#42A5F5" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "contoh" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "contoh" }
+    ]
+  },
+  "vocab": [
+    { "word": "كُرْسِيّ", "meaning": "kerusi" },
+    { "word": "تِلْفَاز", "meaning": "televisyen" },
+    { "word": "ثَلَّاجَة", "meaning": "peti sejuk" },
+    { "word": "غَسَّالَة", "meaning": "mesin basuh" },
+    { "word": "مُكَيِّف", "meaning": "penghawa dingin" }
+  ],
+  "funFact": "Tahukah kamu bahawa perkataan 'televisyen' dalam bahasa Arab ialah تِلْفَاز (tilfaz)? Ia berasal daripada perkataan Greek 'tele' (jauh) dan Arab 'faaza' yang bermaksud 'menang/berjaya melihat'. Bahasa Arab sering mengubah perkataan asing menjadi bunyi yang lebih Arab — proses ini dipanggil 'arabisasi' (التعريب)!"
+}

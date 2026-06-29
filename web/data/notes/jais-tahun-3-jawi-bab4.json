@@ -1,0 +1,175 @@
+{
+  "id": "jais-tahun-3-jawi-bab4",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "jawi",
+  "chapter": 4,
+  "title": "Penulisan Jawi Pola Vokal 'a-a'",
+  "emoji": "✒️",
+  "colour": "#FF9800",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "ڤولا ؤوكل 'a-a' — Penulisan dengan Pola Vokal a-a",
+      "body": "Pola vokal 'a-a' bermaksud perkataan yang mempunyai dua sukukata terbuka dengan bunyi vokal 'a' pada kedua-duanya. Dalam penulisan Jawi, ada peraturan khas tentang bila huruf alif perlu dikekalkan atau dibuang apabila dua sukukata bervokal 'a' bertemu."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Pola Vokal 'a-a' — Unit 1 (da, ra, la, wa, nga)",
+          "body": {
+            "type": "list",
+            "intro": "Kata jati Melayu dengan dua sukukata vokal 'a' — peraturan untuk da, ra, la, wa, nga:",
+            "items": [
+              "Jika sukukata pertama bervokal 'a' dengan bunyi da/ra/la/wa/nga → alif dikekalkan pada sukukata pertama",
+              "Contoh: cara = خارا (ca-ra: sukukata pertama ca + sukukata kedua ra)",
+              "bawa = باوا (ba-wa)",
+              "dada = دادا (da-da)",
+              "nyala = ثالا (nya-la)",
+              "Huruf alif dikekalkan pada sukukata pertama"
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Pola Vokal 'a-a' — Unit 2 (ba, ta, pa, sa, ga, dll)",
+          "body": {
+            "type": "list",
+            "intro": "Kata jati Melayu pola 'a-a' dengan sukukata ba/ta/pa/sa/ga/na/nya/ca/ya/ka/ja/ma:",
+            "items": [
+              "Sukukata pertama kekal alif, sukukata kedua buang alif",
+              "Contoh: rasa = راسا, sana = سانا, jaga = جاڬ, kata = كاتا",
+              "raja = راج, masa = ماسا, baka = باک, raba = راب",
+              "Alif pada sukukata pertama dikekalkan; sukukata akhir 'a' boleh dibuang"
+            ]
+          }
+        },
+        {
+          "icon": "📚",
+          "title": "Tiga atau Lebih Sukukata dengan Pola 'a'",
+          "body": {
+            "type": "list",
+            "intro": "Perkataan dengan tiga atau lebih sukukata bervokal 'a':",
+            "items": [
+              "Sukukata pertama pola 'a' → alif dibuang (diGugurkan)",
+              "Contoh: haloba = هلوبا, majikan = مجيكن",
+              "haluan = هلوان, dahaga = دهاڬ",
+              "gaharu = ڬهارو, habuan = هبوان",
+              "dahulu = دهولو, halilintar = هليلينتر"
+            ]
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "Ringkasan Hukum Pola 'a-a'",
+          "body": {
+            "type": "list",
+            "intro": "Ringkasan peraturan pola vokal 'a-a' dalam Jawi:",
+            "items": [
+              "Dua sukukata pola 'a': sukukata pertama kekal alif",
+              "Jika sukukata pertama ada da/ra/la/wa/nga → alif dikekalkan penuh",
+              "Jika sukukata pertama ada ba/ta/pa/sa dll → alif kekal, sukukata akhir boleh buang alif",
+              "Tiga atau lebih sukukata pola 'a' → sukukata pertama alif dibuang",
+              "Ini semua untuk kata JATI MELAYU sahaja"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "list",
+        "intro": "Rumus penting Pola Vokal 'a-a':",
+        "items": [
+          "2 sukukata 'a' (da/ra/la/wa/nga di pertama): alif KEKAL pada sukukata pertama",
+          "2 sukukata 'a' (ba/ta/pa/sa dll): alif kekal di pertama, boleh buang di akhir",
+          "3+ sukukata pola 'a': alif GUGUR pada sukukata pertama"
+        ],
+        "outro": "Banyak latihan adalah cara terbaik menguasai pola vokal ini!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menentukan Pola Vokal 'a-a'",
+      "items": [
+        "Pilah perkataan kepada sukukata dan kenal pasti vokal pada setiap sukukata.",
+        "Kira bilangan sukukata — dua sukukata atau tiga/lebih?",
+        "Kenal pasti jenis konsonan di sukukata pertama (da/ra/la/wa/nga atau jenis lain).",
+        "Gunakan peraturan yang bersesuaian untuk menentukan sama ada alif dikekal atau digugur.",
+        "Tulis ejaan Jawi yang betul berdasarkan peraturan tersebut."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Perkataan 'cara' dalam Jawi ditulis sebagai?",
+      "options": [
+        "چارا",
+        "خارا",
+        "چر",
+        "خر"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan 'rasa' dalam Jawi ditulis sebagai?",
+      "options": [
+        "رسا",
+        "راسا",
+        "رس",
+        "راس"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Untuk perkataan 3 sukukata pola 'a', apa yang berlaku kepada alif di sukukata pertama?",
+      "options": [
+        "Dikekalkan",
+        "Digugurkan/dibuang",
+        "Digandakan",
+        "Tidak berubah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan 'jaga' dalam Jawi ditulis sebagai?",
+      "options": [
+        "جاڬ",
+        "جاڬا",
+        "جڬ",
+        "جڬا"
+      ],
+      "answer": 0
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Pola Vokal 'a-a'", "colour": "#FF9800" },
+      { "id": "n2", "label": "2 sukukata (da/ra/la)", "colour": "#F57C00" },
+      { "id": "n3", "label": "2 sukukata (ba/ta/sa)", "colour": "#E65100" },
+      { "id": "n4", "label": "3+ sukukata", "colour": "#BF360C" },
+      { "id": "n5", "label": "Alif kekal penuh", "colour": "#FFA726" },
+      { "id": "n6", "label": "Alif gugur pertama", "colour": "#FFCC02" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "jenis" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "→" },
+      { "id": "e5", "source": "n4", "target": "n6", "label": "→" }
+    ]
+  },
+  "vocab": [
+    { "word": "ڤولا ؤوكل", "meaning": "pola vokal — corak bunyi vokal dalam sukukata" },
+    { "word": "خارا", "meaning": "cara — cara/method" },
+    { "word": "راسا", "meaning": "rasa — rasa/feel" },
+    { "word": "دهاڬ", "meaning": "dahaga — dahaga/thirsty" },
+    { "word": "سغوڬور", "meaning": "sangat gugur — gugur banyak alif" }
+  ],
+  "funFact": "Tahukah kamu bahawa peraturan gugur alif dalam Jawi sebenarnya ada sebab tertentu? Dalam tulisan Arab, huruf alif mewakili bunyi vokal 'a' yang panjang. Apabila ada dua vokal 'a' berturutan dalam sebuah perkataan Melayu, penulis Jawi dahulu kala menghilangkan satu alif supaya tulisan tidak nampak terlalu panjang dan mengelirukan. Peraturan ini kemudiannya dibakukan dalam sistem ejaan Jawi moden yang kita gunakan hari ini!"
+}

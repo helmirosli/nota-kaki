@@ -1,0 +1,158 @@
+{
+  "id": "jais-tahun-3-khat-bab4",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "khat",
+  "chapter": 4,
+  "title": "Huruf ب، ت، ث Tunggal dalam Khat Naskh",
+  "emoji": "🖊️",
+  "colour": "#795548",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "حروف ب ت ث — Menulis Ba', Ta', Tha' Tunggal",
+      "body": "Huruf ba' (ب), ta' (ت), dan tha' (ث) mempunyai bentuk badan yang sama dalam Khat Naskh — bezanya hanya pada bilangan dan kedudukan titik. Ketiga-tiga huruf ini berbentuk seperti perahu atau mangkuk terbalik yang beralun. Menguasai satu bentuk bermakna menguasai ketiga-tiganya!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "ب",
+          "title": "Huruf Ba' (ب)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ciri-ciri huruf Ba' (ب) dalam Khat Naskh:",
+            "arabic": "ب\n— شكل: مثل قارب / حوض مقلوب\n— نقطة: نقطة واحدة تحت\n— العرض: 5-6 نقاط\n— الاتصال: يتصل بالحروف التالية",
+            "translation": "Ba': bentuk seperti perahu/mangkuk terbalik. Titik: satu titik di bawah. Lebar: 5-6 titik. Boleh disambung kepada huruf selepasnya.",
+            "outro": "Ba' mempunyai SATU titik di bawahnya."
+          }
+        },
+        {
+          "icon": "ت",
+          "title": "Huruf Ta' (ت)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ciri-ciri huruf Ta' (ت) dalam Khat Naskh:",
+            "arabic": "ت\n— شكل: نفس شكل الباء تماماً\n— نقطة: نقطتان فوق\n— العرض: 5-6 نقاط\n— الاتصال: يتصل بالحروف التالية",
+            "translation": "Ta': bentuk SAMA dengan ba'. Titik: DUA titik di atas. Lebar: 5-6 titik. Boleh disambung kepada huruf selepasnya.",
+            "outro": "Ta' mempunyai DUA titik di atasnya."
+          }
+        },
+        {
+          "icon": "ث",
+          "title": "Huruf Tha' (ث)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ciri-ciri huruf Tha' (ث) dalam Khat Naskh:",
+            "arabic": "ث\n— شكل: نفس شكل الباء والتاء\n— نقطة: ثلاث نقاط فوق\n— العرض: 5-6 نقاط\n— الاتصال: يتصل بالحروف التالية",
+            "translation": "Tha': bentuk SAMA dengan ba' dan ta'. Titik: TIGA titik di atas. Lebar: 5-6 titik. Boleh disambung kepada huruf selepasnya.",
+            "outro": "Tha' mempunyai TIGA titik di atasnya."
+          }
+        },
+        {
+          "icon": "📊",
+          "title": "Perbandingan Ba', Ta', Tha'",
+          "body": {
+            "type": "list",
+            "intro": "Ringkasan perbezaan ketiga-tiga huruf:",
+            "items": [
+              "Bentuk badan: SAMA untuk ba', ta', tha' — seperti perahu/mangkuk",
+              "Ba' (ب): 1 titik DI BAWAH",
+              "Ta' (ت): 2 titik DI ATAS",
+              "Tha' (ث): 3 titik DI ATAS",
+              "Lebar ketiga-tiganya: 5-6 titik",
+              "Ketiga-tiganya boleh disambung kepada huruf selepasnya"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "ب",
+      "text": {
+        "type": "arabic",
+        "instruction": "Cara mudah mengingati perbezaan Ba', Ta', Tha':",
+        "arabic": "ب = ١ نقطة تحت\nت = ٢ نقطة فوق\nث = ٣ نقطة فوق\nشكل البدن: نفس للثلاثة!",
+        "translation": "Ba' = 1 titik bawah. Ta' = 2 titik atas. Tha' = 3 titik atas. Bentuk badan sama untuk ketiga-tiganya!",
+        "outro": "Ingat: badan sama, titik berbeza — 1 bawah, 2 atas, 3 atas!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menulis Huruf Ba', Ta', Tha' Tunggal",
+      "items": [
+        "Mula dari kanan — gerakkan kalam ke kiri membentuk badan huruf (seperti perahu).",
+        "Badan huruf berbentuk melengkung sedikit (seperti mangkuk terbalik yang beralun).",
+        "Ekor di sebelah kiri sedikit mencong ke bawah.",
+        "Setelah badan selesai, tambah titik mengikut huruf: Ba'=1 titik bawah, Ta'=2 titik atas, Tha'=3 titik atas.",
+        "Pastikan titik bersaiz seragam (sama dengan titik asas).",
+        "Latih menulis ketiga-tiga huruf secara berturutan untuk membandingkan."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa titik di bawah huruf Ba' (ب)?",
+      "options": [
+        "0 titik",
+        "1 titik",
+        "2 titik",
+        "3 titik"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Huruf manakah yang mempunyai 2 titik di atas?",
+      "options": [
+        "Ba' (ب)",
+        "Ta' (ت)",
+        "Tha' (ث)",
+        "Jim (ج)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah bentuk badan huruf Ba', Ta', dan Tha'?",
+      "options": [
+        "Lurus menegak",
+        "Bulat penuh",
+        "Seperti perahu/mangkuk",
+        "Segitiga"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa titik huruf Tha' (ث) secara keseluruhannya?",
+      "options": [
+        "1 titik",
+        "2 titik",
+        "3 titik",
+        "4 titik"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Bentuk Perahu/Mangkuk", "colour": "#795548" },
+      { "id": "n2", "label": "ب (1 titik bawah)", "colour": "#6D4C41" },
+      { "id": "n3", "label": "ت (2 titik atas)", "colour": "#5D4037" },
+      { "id": "n4", "label": "ث (3 titik atas)", "colour": "#4E342E" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "→ Ba'" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "→ Ta'" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "→ Tha'" }
+    ]
+  },
+  "vocab": [
+    { "word": "باء", "meaning": "ba' — huruf ب" },
+    { "word": "تاء", "meaning": "ta' — huruf ت" },
+    { "word": "ثاء", "meaning": "tha' — huruf ث" },
+    { "word": "شكل البدن", "meaning": "bentuk badan — the main body of a letter" },
+    { "word": "نقطة", "meaning": "titik — dot" }
+  ],
+  "funFact": "Tahukah kamu bahawa nama 'ba', 'ta', 'tha' sebenarnya merujuk kepada bunyi huruf itu sendiri? 'Ba' berbunyi 'b', 'ta' berbunyi 't', dan 'tha' berbunyi 'th' seperti dalam perkataan Inggeris 'thin'. Menariknya, dalam bahasa Arab klasik, huruf ini disebut dengan nama penuh: باء (ba'), تاء (ta'), ثاء (tha'). Huruf-huruf ini juga merupakan salah satu kumpulan huruf yang paling kerap digunakan dalam bahasa Arab — ba' sahaja muncul dalam hampir setiap perenggan al-Quran!"
+}

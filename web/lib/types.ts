@@ -1,6 +1,7 @@
 export type Source = "jais" | "kssr"
 export type Year = "tahun-1" | "tahun-2" | "tahun-3" | "tahun-4" | "tahun-5" | "tahun-6"
 export type Subject = "akhlak" | "bahasa-arab" | "feqah" | "jawi" | "hafazan" | "tauhid"
+  | "imlak" | "khat" | "sirah" | "tajwid"
 
 export interface SubjectMeta {
   id: Subject
@@ -16,6 +17,10 @@ export const SUBJECTS: SubjectMeta[] = [
   { id: "jawi",        label: "Jawi",         emoji: "✏️",  colour: "#FF9800" },
   { id: "hafazan",     label: "Hafazan",      emoji: "🎵", colour: "#E91E63" },
   { id: "tauhid",      label: "Tauhid",       emoji: "⭐", colour: "#FFB300" },
+  { id: "imlak",       label: "Imlak",        emoji: "📝", colour: "#009688" },
+  { id: "khat",        label: "Khat",         emoji: "🖊️",  colour: "#795548" },
+  { id: "sirah",       label: "Sirah",        emoji: "🌙", colour: "#FF6F00" },
+  { id: "tajwid",      label: "Tajwid",       emoji: "📿", colour: "#1A237E" },
 ]
 
 // ─── Note schema ─────────────────────────────────────────────────────────────

@@ -1,0 +1,154 @@
+{
+  "id": "jais-tahun-3-bahasa-arab-bab5",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "bahasa-arab",
+  "chapter": 5,
+  "title": "Dars 5: Muzakar dan Muannas",
+  "emoji": "♂️",
+  "colour": "#1565C0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "المُذَكَّر والمُؤَنَّث — Muzakar dan Muannas",
+      "body": "Dalam bahasa Arab, setiap kata nama mempunyai jantina — sama ada muzakar (lelaki/jantan) atau muannas (perempuan/betina). Ini berbeza daripada bahasa Melayu. Muannas biasanya dibentuk dengan menambahkan huruf ة (ta' marbutah) di hujung kata nama muzakar."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "👨",
+          "title": "المُذَكَّر — Kata Nama Muzakar (Lelaki)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh kata nama muzakar (merujuk lelaki atau benda tanpa ة):",
+            "arabic": "مُدَرِّسٌ — مُدَرِّسٌ (guru lelaki)\nمُهَنْدِسٌ — مُهَنْدِسٌ (jurutera lelaki)\nطَبِيبٌ — طَبِيبٌ (doktor lelaki)\nبَائِعٌ — بَائِعٌ (penjual lelaki)\nمُوَظَّفٌ — مُوَظَّفٌ (pekerja lelaki)\nإِمَامٌ — إِمَامٌ (imam)\nشُرْطِيٌّ — شُرْطِيٌّ (polis lelaki)\nمُدِيرٌ — مُدِيرٌ (pengetua lelaki)",
+            "translation": "Kata nama muzakar: guru lelaki, jurutera lelaki, doktor lelaki, penjual lelaki, pekerja lelaki, imam, polis lelaki, pengetua lelaki"
+          }
+        },
+        {
+          "icon": "👩",
+          "title": "المُؤَنَّث — Kata Nama Muannas (Perempuan)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Cara membentuk muannas: tambah ة pada kata muzakar:",
+            "arabic": "مُدَرِّسَةٌ (مُدَرِّس + ة)\nمُهَنْدِسَةٌ (مُهَنْدِس + ة)\nطَبِيبَةٌ (طَبِيب + ة)\nبَائِعَةٌ (بَائِع + ة)\nمُوَظَّفَةٌ (مُوَظَّف + ة)\nمُمَرِّضَةٌ (menjaga sakit perempuan)\nمُدِيرَةٌ (مُدِير + ة)",
+            "translation": "Guru perempuan, jurutera perempuan, doktor perempuan, penjual perempuan, pekerja perempuan, jururawat perempuan, pengetua perempuan"
+          }
+        },
+        {
+          "icon": "🏷️",
+          "title": "Muannas Bukan Manusia",
+          "body": {
+            "type": "arabic",
+            "instruction": "Banyak benda (bukan manusia) juga muannas dalam bahasa Arab:",
+            "arabic": "سَيَّارَةٌ (kereta)\nزَهْرَةٌ (bunga)\nنَافِذَةٌ (tingkap)\nطَائِرَةٌ (kapal terbang)\nأَرِيكَةٌ (sofa)\nحَقِيبَةٌ (beg)",
+            "translation": "Kata-kata ini semua muannas walaupun bukan perempuan: kereta, bunga, tingkap, kapal terbang, sofa, beg"
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Penggunaan dalam Ayat",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh ayat membezakan muzakar dan muannas:",
+            "arabic": "أَنْتَ لَعِبٌ. (muzakar — kamu lelaki adalah pemain)\nأَنْتِ لَعِبَةٌ. (muannas — kamu perempuan adalah pemain)\nهُوَ طَبِيبٌ. (dia lelaki adalah doktor)\nهِيَ طَبِيبَةٌ. (dia perempuan adalah doktor)\nذَلِكَ بَقَرٌ. (muzakar — lembu itu)\nتِلْكَ بَقَرَةٌ. (muannas — lembu betina itu)",
+            "translation": "Perbezaan muzakar dan muannas dalam ayat: ganti nama هو (dia lelaki) vs هي (dia perempuan), ذلك vs تلك"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "arabic",
+        "instruction": "Peraturan asas Muzakar dan Muannas:",
+        "arabic": "الْمُذَكَّر: بِدُونِ تَاء الْمَرْبُوطَة\nالْمُؤَنَّث: بِتَاءِ الْمَرْبُوطَة (ة) فِي الْغَالِبِ\nمُدَرِّسٌ ← مُدَرِّسَةٌ\nطَبِيبٌ ← طَبِيبَةٌ",
+        "translation": "Muzakar: tanpa ta' marbutah (ة). Muannas: dengan ta' marbutah (ة) pada kebiasaannya. Contoh: guru lelaki ← guru perempuan.",
+        "outro": "Allah SWT mencipta manusia lelaki dan perempuan agar saling mengenali dan bekerjasama!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Membezakan Muzakar dan Muannas",
+      "items": [
+        "Kata nama yang merujuk lelaki/jantan = muzakar (مُذَكَّر).",
+        "Kata nama yang merujuk perempuan/betina atau berakhir dengan ة = muannas (مُؤَنَّث).",
+        {
+          "type": "arabic",
+          "arabic": "مُدَرِّسٌ — مُدَرِّسَةٌ\nطَبِيبٌ — طَبِيبَةٌ",
+          "translation": "Guru lelaki — Guru perempuan | Doktor lelaki — Doktor perempuan"
+        },
+        "Ganti nama muzakar: هُوَ، هَذَا، ذَلِكَ، أَنْتَ.",
+        "Ganti nama muannas: هِيَ، هَذِهِ، تِلْكَ، أَنْتِ."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Cara membentuk kata muannas dalam bahasa Arab ialah dengan menambah?",
+      "options": [
+        "الف (alif) di hujung",
+        "ة (ta' marbutah) di hujung",
+        "ون (waw nun) di hujung",
+        "ان (alif nun) di hujung"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah bentuk muannas bagi طَبِيب (doktor lelaki)?",
+      "options": [
+        "طَبِيبَان",
+        "طَبِيبُون",
+        "طَبِيبَة",
+        "طَبِيب"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Ganti nama manakah yang digunakan untuk muzakar tunggal (dia lelaki)?",
+      "options": [
+        "هِيَ",
+        "هُوَ",
+        "هُمَا",
+        "أَنْتِ"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kata nama manakah yang MUANNAS dalam senarai berikut?",
+      "options": [
+        "مُدِير",
+        "إِمَام",
+        "سَيَّارَة",
+        "شُرْطِيّ"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Kata Nama Arab", "colour": "#1565C0" },
+      { "id": "n2", "label": "Muzakar", "colour": "#1976D2" },
+      { "id": "n3", "label": "Muannas", "colour": "#C62828" },
+      { "id": "n4", "label": "هو، هذا، ذلك", "colour": "#42A5F5" },
+      { "id": "n5", "label": "هي، هذه، تلك", "colour": "#EF9A9A" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "ganti nama" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "ganti nama" }
+    ]
+  },
+  "vocab": [
+    { "word": "مُذَكَّر", "meaning": "muzakar — kata nama lelaki/jantan" },
+    { "word": "مُؤَنَّث", "meaning": "muannas — kata nama perempuan/betina" },
+    { "word": "تَاءُ الْمَرْبُوطَة", "meaning": "ta' marbutah (ة) — tanda muannas" },
+    { "word": "مُدَرِّسَة", "meaning": "guru perempuan" },
+    { "word": "طَبِيبَة", "meaning": "doktor perempuan" }
+  ],
+  "funFact": "Tahukah kamu bahawa dalam bahasa Arab, bukan sahaja manusia yang mempunyai jantina — benda-benda pun ada jantina! Contohnya, 'matahari' (شَمْس) adalah muannas (perempuan), tetapi 'bulan' (قَمَر) adalah muzakar (lelaki). Berbeza dengan bahasa Melayu yang tidak ada konsep jantina untuk benda. Itulah salah satu ciri unik bahasa Arab!"
+}

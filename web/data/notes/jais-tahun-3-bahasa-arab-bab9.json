@@ -1,0 +1,155 @@
+{
+  "id": "jais-tahun-3-bahasa-arab-bab9",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "bahasa-arab",
+  "chapter": 9,
+  "title": "Dars 9: Di Bandar",
+  "emoji": "🏙️",
+  "colour": "#1565C0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "فِي الْمَدِينَة — Di Bandar",
+      "body": "Dalam dars ini kita belajar nama-nama tempat yang terdapat di bandar dalam bahasa Arab. Mengetahui nama tempat-tempat awam ini membantu kita berkomunikasi tentang aktiviti dalam bandar dan kerjaya orang dewasa."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🏙️",
+          "title": "أَمَاكِن فِي الْمَدِينَة — Tempat-tempat di Bandar",
+          "body": {
+            "type": "arabic",
+            "instruction": "Nama-nama tempat awam di bandar:",
+            "arabic": "الْبَنْك — bank\nمَكْتَبُ الْبَرِيدِ — pejabat pos\nمَرْكَزُ الشُّرْطَةِ — balai polis\nمَرْكَزُ الْإِطْفَاءِ — balai bomba\nالْفُنْدُق — hotel\nالْمَصْنَع — kilang\nالسُّوقُ الْمَرْكَزِي — pasar raya\nالْمُسْتَشْفَى — hospital\nمَحَطَّةُ الْقِطَارِ — stesen kereta api\nمَحَطَّةُ الْحَافِلَةِ — stesen bas\nمَحَطَّةُ سَيَّارَةِ الْأُجْرَةِ — stesen teksi\nالْمَطَار — lapangan terbang",
+            "translation": "Bank, pejabat pos, balai polis, balai bomba, hotel, kilang, pasar raya, hospital, stesen kereta api, stesen bas, stesen teksi, lapangan terbang"
+          }
+        },
+        {
+          "icon": "🏣",
+          "title": "Sifat Tempat di Bandar",
+          "body": {
+            "type": "arabic",
+            "instruction": "Kata sifat yang digunakan untuk menerangkan tempat:",
+            "arabic": "مَحَطَّةُ الْقِطَارِ نَظِيفَةٌ. (bersih)\nمَحَطَّةُ الْحَافِلَةِ جَدِيدَةٌ. (baharu)\nمَحَطَّةُ سَيَّارَةِ الْأُجْرَةِ قَدِيمَةٌ. (lama)\nالْفُنْدُقُ مَشْهُورٌ. (terkenal)\nالْمَطَارُ وَاسِعٌ. (luas)",
+            "translation": "Stesen kereta api bersih. Stesen bas baharu. Stesen teksi lama. Hotel itu terkenal. Lapangan terbang itu luas."
+          }
+        },
+        {
+          "icon": "👷",
+          "title": "Kerjaya dan Tempat Kerja",
+          "body": {
+            "type": "arabic",
+            "instruction": "Hubungan antara kerjaya dan tempat kerja:",
+            "arabic": "الطَّبِيبُ يَعْمَلُ فِي الْمُسْتَشْفَى.\nالشُّرْطِيُّ يَعْمَلُ فِي مَرْكَزِ الشُّرْطَةِ.\nالْمُعَلِّمُ يَعْمَلُ فِي الْمَدْرَسَةِ.\nالْمُهَنْدِسُ يَعْمَلُ فِي الْمَصْنَعِ.\nالْمُوَظَّفُ يَعْمَلُ فِي الْإِدَارَةِ.",
+            "translation": "Doktor bekerja di hospital. Polis bekerja di balai polis. Guru bekerja di sekolah. Jurutera bekerja di kilang. Pekerja bekerja di pejabat."
+          }
+        },
+        {
+          "icon": "🗣️",
+          "title": "Perbualan di Bandar",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh perbualan mengenai tempat di bandar:",
+            "arabic": "الْمَدِينَةُ رَائِعَةٌ!\nأَيْنَ الْمُسْتَشْفَى؟\nهُوَ قَرِيبٌ مِنَ الْبَنْكِ.\nمَا هَذَا الْمَبْنَى الْكَبِيرُ؟\nهُوَ السُّوقُ الْمَرْكَزِي.",
+            "translation": "Bandar ini sangat cantik! Di manakah hospital? — Ia dekat dengan bank. Apakah bangunan besar ini? — Ia adalah pasar raya."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah SWT berfirman tentang kemuliaan manusia yang berilmu dan bekerja:",
+        "arabic": "وَقُلِ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَالْمُؤْمِنُونَ",
+        "translation": "Dan katakanlah: Beramallah kamu, maka Allah, RasulNya, dan orang-orang mukmin akan melihat amalan kamu.",
+        "source": "Surah at-Taubah: 105",
+        "outro": "Cita-citakanlah menjadi doktor, guru, atau jurutera yang bekerja untuk kebaikan masyarakat!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengingati Nama Tempat di Bandar",
+      "items": [
+        "Hafaz 5 tempat penting: hospital = الْمُسْتَشْفَى, bank = الْبَنْك, balai polis = مَرْكَزُ الشُّرْطَةِ, sekolah = الْمَدْرَسَة, masjid = الْمَسْجِد.",
+        "Ingat sambungan kerjaya–tempat: doktor→hospital, guru→sekolah, polis→balai polis.",
+        {
+          "type": "arabic",
+          "arabic": "الطَّبِيبُ يَعْمَلُ فِي الْمُسْتَشْفَى.",
+          "translation": "Doktor bekerja di hospital."
+        },
+        "Untuk bertanya: أَيْنَ ___؟ Untuk menjawab: ___ فِي ___.",
+        "Latih: tanya rakan kamu أَيْنَ تَعْمَلُ أُمُّكَ؟ (Di manakah ibu kamu bekerja?)"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah bahasa Arab untuk 'hospital'?",
+      "options": [
+        "الْفُنْدُق",
+        "الْمُسْتَشْفَى",
+        "الْمَصْنَع",
+        "الْبَنْك"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Di manakah doktor bekerja?",
+      "options": [
+        "فِي الْمَصْنَعِ",
+        "فِي الْمَدْرَسَةِ",
+        "فِي الْمُسْتَشْفَى",
+        "فِي الْبَنْكِ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah makna 'وَاسِع' dalam bahasa Melayu?",
+      "options": [
+        "Bersih",
+        "Baharu",
+        "Terkenal",
+        "Luas"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Apakah bahasa Arab untuk 'lapangan terbang'?",
+      "options": [
+        "مَحَطَّةُ الْقِطَارِ",
+        "مَحَطَّةُ الْحَافِلَةِ",
+        "الْمَطَار",
+        "مَرْكَزُ الشُّرْطَةِ"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Tempat di Bandar", "colour": "#1565C0" },
+      { "id": "n2", "label": "Perkhidmatan", "colour": "#1976D2" },
+      { "id": "n3", "label": "Pengangkutan", "colour": "#1976D2" },
+      { "id": "n4", "label": "مُسْتَشْفَى بَنْك", "colour": "#42A5F5" },
+      { "id": "n5", "label": "مَطَار مَحَطَّة", "colour": "#42A5F5" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "kumpulan" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "kumpulan" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "contoh" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "contoh" }
+    ]
+  },
+  "vocab": [
+    { "word": "مُسْتَشْفَى", "meaning": "hospital" },
+    { "word": "بَنْك", "meaning": "bank" },
+    { "word": "مَطَار", "meaning": "lapangan terbang" },
+    { "word": "مَصْنَع", "meaning": "kilang/kilang" },
+    { "word": "فُنْدُق", "meaning": "hotel" }
+  ],
+  "funFact": "Tahukah kamu bahawa perkataan 'hospital' dalam bahasa Arab ialah مُسْتَشْفَى (mustashfa)? Ia berasal daripada kata kerja شَفَى (shafa) yang bermaksud 'sembuh/pulih'. Jadi hospital dalam bahasa Arab bermaksud 'tempat untuk mendapatkan kesembuhan'! Sungguh indah cara bahasa Arab memilih nama untuk setiap tempat berdasarkan tujuan dan fungsinya."
+}

@@ -1,0 +1,141 @@
+{
+  "id": "jais-tahun-3-tauhid-bab3",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "tauhid",
+  "chapter": 3,
+  "title": "Rasul Ulul Azmi",
+  "emoji": "🏅",
+  "colour": "#FFB300",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Rasul Ulul Azmi — Rasul yang Paling Tabah",
+      "body": "Rasul Ulul Azmi ialah Rasul yang memiliki kesabaran tertinggi dalam menghadapi ujian dan cabaran yang berat. Mereka berdakwah kepada umat dan kaum ketika berhadapan dengan pelbagai rintangan yang sangat berat. Terdapat 5 orang Rasul Ulul Azmi."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📋",
+          "title": "Pengertian Rasul Ulul Azmi",
+          "body": "Ulul Azmi bermaksud Rasul yang memiliki kesabaran tertinggi dalam menghadapi ujian dan cabaran yang berat. Mereka adalah contoh ketabahan iman yang paling mulia."
+        },
+        {
+          "icon": "🌟",
+          "title": "5 Rasul Ulul Azmi",
+          "body": {
+            "type": "list",
+            "intro": "Lima Rasul Ulul Azmi yang wajib diketahui:",
+            "items": [
+              "1. Nabi Nuh AS — berdakwah selama 950 tahun, hanya sedikit yang beriman",
+              "2. Nabi Ibrahim AS — dicampak ke dalam api yang besar, tabah mempertahankan iman",
+              "3. Nabi Musa AS — berdepan dengan Firaun yang zalim, memimpin Bani Israel",
+              "4. Nabi Isa AS — diuji dengan fitnah dan ancaman pembunuhan",
+              "5. Nabi Muhammad SAW — dilontar batu, diboikot, diusir dari Makkah"
+            ]
+          }
+        },
+        {
+          "icon": "💪",
+          "title": "Kisah Ketabahan Nabi Muhammad SAW",
+          "body": "Nabi Muhammad SAW pernah dilontar batu dan dicaci oleh penduduk Taif ketika berdakwah, sehingga kaki Baginda berdarah. Namun Baginda tabah dan memaafkan mereka, bahkan berdoa agar zuriat mereka menjadi orang beriman."
+        },
+        {
+          "icon": "📖",
+          "title": "Pelajaran dari Rasul Ulul Azmi",
+          "body": {
+            "type": "list",
+            "intro": "Pengajaran yang boleh kita ambil dari Rasul Ulul Azmi:",
+            "items": [
+              "Sabar dan tabah dalam menghadapi cabaran",
+              "Tidak berputus asa walaupun dihalang dan diejek",
+              "Terus berdakwah dan berbuat baik meskipun disakiti",
+              "Percaya bahawa Allah sentiasa bersama orang yang bersabar"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💛",
+      "text": {
+        "type": "arabic",
+        "instruction": "Nabi Muhammad SAW bersabda tentang kewajipan berselawat ke atas Baginda:",
+        "arabic": "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ",
+        "translation": "Ya Allah, limpahkanlah selawat ke atas Muhammad dan keluarga Muhammad.",
+        "outro": "Selawat ke atas Rasulullah setiap kali nama Baginda disebut adalah tanda kasih sayang kita kepada Baginda."
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengambil Contoh dari Rasul Ulul Azmi",
+      "items": [
+        "Ingat bahawa Nabi Nuh berdakwah 950 tahun tanpa putus asa — jadikan ia motivasi.",
+        "Apabila diuji, ingat Nabi Ibrahim yang tabah ketika dicampak ke dalam api.",
+        "Apabila dizalimi, ingat Nabi Musa yang sabar menghadapi Firaun.",
+        "Apabila difitnah, ingat Nabi Isa yang tabah menghadapi fitnah.",
+        {
+          "type": "arabic",
+          "arabic": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+          "translation": "Sesungguhnya Allah bersama orang-orang yang sabar."
+        },
+        "Teladani Nabi Muhammad SAW dalam semua aspek kehidupan."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud Rasul Ulul Azmi?",
+      "options": [
+        "Rasul yang paling banyak mukjizat",
+        "Rasul yang memiliki kesabaran tertinggi dalam menghadapi ujian",
+        "Rasul yang paling banyak pengikut",
+        "Rasul yang hidup paling lama"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa orang Rasul Ulul Azmi?",
+      "options": ["3", "4", "5", "7"],
+      "answer": 2
+    },
+    {
+      "q": "Nabi manakah yang berdakwah selama 950 tahun?",
+      "options": ["Nabi Ibrahim", "Nabi Musa", "Nabi Nuh", "Nabi Adam"],
+      "answer": 2
+    },
+    {
+      "q": "Siapakah Rasul Ulul Azmi yang terakhir?",
+      "options": ["Nabi Isa", "Nabi Musa", "Nabi Ibrahim", "Nabi Muhammad SAW"],
+      "answer": 3
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Ulul Azmi", "colour": "#FFB300" },
+      { "id": "n2", "label": "Nabi Nuh", "colour": "#FFA000" },
+      { "id": "n3", "label": "Nabi Ibrahim", "colour": "#FFA000" },
+      { "id": "n4", "label": "Nabi Musa", "colour": "#FFA000" },
+      { "id": "n5", "label": "Nabi Isa", "colour": "#FFA000" },
+      { "id": "n6", "label": "Nabi Muhammad", "colour": "#FF6F00" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "termasuk" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "termasuk" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "termasuk" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "termasuk" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "termasuk" }
+    ]
+  },
+  "vocab": [
+    { "word": "أُولُو الْعَزْم", "meaning": "Ulul Azmi — yang berazam kuat" },
+    { "word": "صَبْر", "meaning": "sabar / tabah" },
+    { "word": "دَعْوَة", "meaning": "dakwah / seruan" },
+    { "word": "مُعْجِزَة", "meaning": "mukjizat — bukti kerasulan" },
+    { "word": "رِسَالَة", "meaning": "risalah — amanah penyampaian" }
+  ],
+  "funFact": "Tahukah kamu bahawa Nabi Nuh AS berdakwah selama 950 tahun? Dalam tempoh yang sangat panjang itu, hanya sekitar 80 orang sahaja yang beriman dan menaiki bahtera bersamanya. Sungguh luar biasa kesabaran Baginda! Inilah yang menjadikan Nabi Nuh salah seorang Rasul Ulul Azmi."
+}

@@ -1,0 +1,181 @@
+{
+  "id": "jais-tahun-3-jawi-bab3",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "jawi",
+  "chapter": 3,
+  "title": "Sukukata Terbuka 'ka' dan 'ga' dalam Kata Jati Melayu",
+  "emoji": "✒️",
+  "colour": "#FF9800",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "سوكوكات ترڤوك 'ka' dan 'ga' — Sukukata Terbuka",
+      "body": "Sukukata terbuka ialah sukukata yang berakhir dengan vokal. Dalam penulisan Jawi, kata jati Melayu dengan sukukata terbuka 'ka' menggunakan huruf ک (kaf) dan sukukata terbuka 'ga' menggunakan huruf ڬ atau ڠ. Pelajaran ini mengajar hukum penulisan sukukata terbuka dalam kata jati Melayu."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🔤",
+          "title": "Hukum Sukukata Terbuka 'ka' — Kata Jati Melayu",
+          "body": {
+            "type": "list",
+            "intro": "Peraturan penulisan sukukata terbuka 'ka' dalam kata jati Melayu:",
+            "items": [
+              "Sukukata terbuka = sukukata yang BERAKHIR dengan vokal (a, i, u, e, o)",
+              "Kata jati Melayu dengan sukukata terbuka 'ka' → guna ک (kaf)",
+              "Syarat: (a) perkataan itu kata jati Melayu; (b) sukukata 'ka' terletak di akhir perkataan",
+              "Huruf 'a' (alif) perlu dipotong pada ejaan 'ka' sebelum dijawikan",
+              "Contoh: buka=بوک, luka=لوک, muka=موک, sangka=سغک"
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Contoh Sukukata Terbuka 'ka' (ک)",
+          "body": {
+            "type": "list",
+            "intro": "Kata jati Melayu dengan sukukata terbuka 'ka' — ditulis ک di akhir:",
+            "items": [
+              "buka = بوک (buka = membuka)",
+              "luka = لوک (luka = cedera)",
+              "muka = موک (muka = wajah)",
+              "sangka = سغک (sangka = menyangka/agak)",
+              "ketika = كتيک (ketika = waktu/masa)",
+              "seketika = سكتيک (seketika = sebentar)",
+              "teroka = تروک (teroka = meneroka)",
+              "dewasa = دواسا (perhatian: vokal 'a' akhir, bukan 'ka')"
+            ]
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Hukum Sukukata Terbuka 'ga' — Kata Jati Melayu",
+          "body": {
+            "type": "list",
+            "intro": "Peraturan penulisan sukukata terbuka 'ga' dalam kata jati Melayu:",
+            "items": [
+              "Kata jati Melayu dengan sukukata terbuka 'ga' di akhir juga ada peraturan khas",
+              "Syarat: (a) perkataan itu kata jati Melayu; (b) sukukata 'ga' di akhir",
+              "Huruf 'a' (alif) perlu dibuang apabila dua alif berturutan",
+              "Contoh: bangga=بعک, tiga=تيڬ, moga=موڬ, jingga=جيعک",
+              "Huruf ڬ (ga) digunakan untuk bunyi 'g'"
+            ]
+          }
+        },
+        {
+          "icon": "📚",
+          "title": "Lebih Banyak Contoh",
+          "body": {
+            "type": "list",
+            "intro": "Kata jati Melayu dengan sukukata terbuka 'ga' dan 'ka':",
+            "items": [
+              "pujangga = ڤوجعک",
+              "curiga = چوريڬ",
+              "berbuka = بربوک",
+              "gagah = ڬاڬه",
+              "serangga = سراعک",
+              "tangga = تعک",
+              "rongga = روعک",
+              "hingga = هعک",
+              "juga = جوڬ",
+              "leka = ليک"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "list",
+        "intro": "Ringkasan hukum sukukata terbuka 'ka' dan 'ga':",
+        "items": [
+          "Kata JATI MELAYU sukukata terbuka 'ka' di akhir → tulis ک: buka=بوک, muka=موک",
+          "Kata JATI MELAYU sukukata terbuka 'ga' di akhir → tulis ڬ: tiga=تيڬ, moga=موڬ",
+          "Syarat: mesti kata JATI MELAYU sahaja — bukan kata pinjaman"
+        ],
+        "outro": "Ingat: sukukata TERBUKA berakhir vokal, sukukata TERTUTUP berakhir konsonan!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menulis Sukukata Terbuka 'ka' dan 'ga'",
+      "items": [
+        "Tentukan sama ada perkataan itu kata jati Melayu.",
+        "Pilah perkataan kepada sukukata untuk kenal pasti sukukata terbuka.",
+        "Jika sukukata terbuka 'ka' di akhir → tulis dengan ک (bukan قا).",
+        "Jika sukukata terbuka 'ga' di akhir → tulis dengan ڬ.",
+        "Buang alif apabila dua alif berturutan dalam satu perkataan."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud 'sukukata terbuka'?",
+      "options": [
+        "Sukukata yang berakhir dengan konsonan",
+        "Sukukata yang berakhir dengan vokal",
+        "Sukukata yang panjang",
+        "Sukukata yang ada dua vokal"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan 'muka' dalam Jawi ditulis sebagai?",
+      "options": [
+        "موقا",
+        "موکا",
+        "موک",
+        "موقة"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Perkataan 'tiga' dalam Jawi ditulis sebagai?",
+      "options": [
+        "تيڬا",
+        "تيڬ",
+        "تيقا",
+        "تيکا"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan 'buka' dalam Jawi ditulis sebagai?",
+      "options": [
+        "بوقا",
+        "بوکا",
+        "بوق",
+        "بوک"
+      ],
+      "answer": 3
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Sukukata Terbuka", "colour": "#FF9800" },
+      { "id": "n2", "label": "'ka' di akhir", "colour": "#F57C00" },
+      { "id": "n3", "label": "'ga' di akhir", "colour": "#E65100" },
+      { "id": "n4", "label": "ک (kaf)", "colour": "#FFA726" },
+      { "id": "n5", "label": "ڬ (ga)", "colour": "#FFCC02" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "→ guna" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "→ guna" }
+    ]
+  },
+  "vocab": [
+    { "word": "سوكوكات ترڤوك", "meaning": "sukukata terbuka — berakhir vokal" },
+    { "word": "بوک", "meaning": "buka — membuka" },
+    { "word": "موک", "meaning": "muka — wajah" },
+    { "word": "تيڬ", "meaning": "tiga — nombor 3" },
+    { "word": "سغک", "meaning": "sangka — menyangka" }
+  ],
+  "funFact": "Tahukah kamu bahawa peraturan ejaan Jawi berbeza antara sukukata terbuka dan tertutup? Ini kerana tulisan Jawi asalnya berdasarkan tulisan Arab yang tidak selalu menulis semua vokal. Apabila sukukata berakhir vokal 'a', huruf alif kadangkala dibuang untuk mengelakkan dua alif berturutan. Inilah yang menjadikan ejaan Jawi kadang-kadang kelihatan berbeza dari sebutan — satu keunikan tulisan Jawi yang hanya boleh dipelajari dengan banyak latihan!"
+}

@@ -1,0 +1,163 @@
+{
+  "id": "jais-tahun-3-khat-bab6",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "khat",
+  "chapter": 6,
+  "title": "Huruf د، ذ Tunggal dalam Khat Naskh",
+  "emoji": "🖊️",
+  "colour": "#795548",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "حروف د ذ — Menulis Dal dan Zal Tunggal",
+      "body": "Huruf dal (د) dan zal (ذ) mempunyai bentuk badan yang sama dalam Khat Naskh — berbentuk seperti kepala burung yang menghadap ke kanan. Bezanya hanya satu titik di atas zal. Kedua-dua huruf ini istimewa kerana TIDAK boleh disambung kepada huruf SELEPASNYA — hanya boleh ada huruf sebelumnya yang bersambung dengan mereka."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "د",
+          "title": "Huruf Dal (د)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ciri-ciri huruf Dal (د) dalam Khat Naskh:",
+            "arabic": "د\n— شكل: مثل رأس الطائر (ناظر لليمين)\n— نقطة: بدون نقطة\n— لا يتصل بالحروف التالية!\n— العرض: 3-4 نقاط\n— الارتفاع: 3-4 نقاط",
+            "translation": "Dal (د): bentuk seperti kepala burung menghadap kanan. TIADA titik. TIDAK boleh disambung kepada huruf SELEPASNYA. Lebar: 3-4 titik. Tinggi: 3-4 titik.",
+            "outro": "Dal adalah huruf yang TIDAK bersambung ke hadapan — pemutusan mesti dilakukan selepasnya!"
+          }
+        },
+        {
+          "icon": "ذ",
+          "title": "Huruf Zal (ذ)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ciri-ciri huruf Zal (ذ) dalam Khat Naskh:",
+            "arabic": "ذ\n— شكل: نفس شكل الدال\n— نقطة: نقطة واحدة فوق\n— لا يتصل بالحروف التالية!\n— العرض: 3-4 نقاط",
+            "translation": "Zal (ذ): bentuk SAMA dengan dal. 1 titik DI ATAS. TIDAK boleh disambung kepada huruf SELEPASNYA. Lebar: 3-4 titik.",
+            "outro": "Zal = dal + 1 titik di atas — sama-sama tidak boleh bersambung ke hadapan!"
+          }
+        },
+        {
+          "icon": "📊",
+          "title": "Perbandingan Dal dan Zal",
+          "body": {
+            "type": "list",
+            "intro": "Ringkasan perbezaan dal dan zal:",
+            "items": [
+              "Bentuk badan: SAMA — seperti kepala burung menghadap kanan",
+              "Dal (د): TIADA titik",
+              "Zal (ذ): 1 titik DI ATAS",
+              "Kedua-duanya TIDAK BOLEH disambung kepada huruf selepasnya",
+              "Huruf sebelum dal/zal boleh bersambung dengan mereka",
+              "Selepas dal/zal, huruf seterusnya mesti dimulakan dari kedudukan baru"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Peraturan Penting: Tidak Bersambung ke Hadapan",
+          "body": {
+            "type": "list",
+            "intro": "Kenapa dal dan zal istimewa?",
+            "items": [
+              "Dal (د) dan zal (ذ) TIDAK boleh disambung kepada huruf SELEPASNYA",
+              "Ini bermakna: huruf selepas dal/zal mesti ditulis berasingan",
+              "Contoh: dalam perkataan 'دار' (dar) — dal ditulis dahulu, kemudian alif dan ra' ditulis sambung",
+              "Dalam perkataan 'كذب' (kazaba) — zal dan ba' ditulis berasingan",
+              "Ini adalah satu daripada enam huruf yang tidak bersambung ke hadapan dalam tulisan Arab"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "د",
+      "text": {
+        "type": "arabic",
+        "instruction": "Peraturan penting Dal dan Zal:",
+        "arabic": "د = بدون نقطة، لا يتصل للأمام\nذ = نقطة فوق، لا يتصل للأمام\nالشكل: مثل رأس الطائر",
+        "translation": "Dal = tiada titik, tidak sambung ke hadapan. Zal = 1 titik atas, tidak sambung ke hadapan. Bentuk: seperti kepala burung.",
+        "outro": "Ingat: dal dan zal BERHENTI — huruf selepasnya mesti mula semula!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menulis Huruf Dal dan Zal Tunggal",
+      "items": [
+        "Mula dari kanan — gerakkan kalam ke kiri membentuk kepala/badan huruf.",
+        "Buat lengkung atas seperti kepala burung yang menunduk ke kanan.",
+        "Turun sedikit ke bawah untuk bahagian dada/badan huruf.",
+        "Setelah badan selesai: Dal = tiada titik; Zal = tambah 1 titik di atas.",
+        "Ingat: JANGAN sambung kepada huruf selepasnya — angkat kalam dan mula semula.",
+        "Latih dengan menulis perkataan yang mengandungi dal/zal untuk membiasakan pemutusan."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa titik huruf Dal (د)?",
+      "options": [
+        "1 titik",
+        "2 titik",
+        "3 titik",
+        "Tiada titik"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Apakah peraturan penting tentang Dal (د) dan Zal (ذ)?",
+      "options": [
+        "Boleh disambung ke semua arah",
+        "Tidak boleh disambung kepada huruf selepasnya",
+        "Tidak boleh disambung kepada huruf sebelumnya",
+        "Hanya boleh ditulis di awal perkataan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Huruf Zal (ذ) mempunyai?",
+      "options": [
+        "Tiada titik",
+        "1 titik di bawah",
+        "1 titik di atas",
+        "2 titik di atas"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bentuk huruf Dal dan Zal menyerupai?",
+      "options": [
+        "Perahu",
+        "Kepala burung",
+        "Cawan",
+        "Garisan lurus"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Bentuk Kepala Burung", "colour": "#795548" },
+      { "id": "n2", "label": "د (tiada titik)", "colour": "#6D4C41" },
+      { "id": "n3", "label": "ذ (1 titik atas)", "colour": "#5D4037" },
+      { "id": "n4", "label": "Tidak Sambung ke Depan", "colour": "#4E342E" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "→ Dal" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "→ Zal" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "peraturan" },
+      { "id": "e4", "source": "n3", "target": "n4", "label": "peraturan" }
+    ]
+  },
+  "vocab": [
+    { "word": "دال", "meaning": "dal — huruf د" },
+    { "word": "ذال", "meaning": "zal — huruf ذ" },
+    { "word": "رأس الطائر", "meaning": "kepala burung — bentuk huruf dal/zal" },
+    { "word": "غير متصل", "meaning": "tidak bersambung — non-joining letter" },
+    { "word": "قطع", "meaning": "pemutusan — break/separation dalam penulisan" }
+  ],
+  "funFact": "Tahukah kamu bahawa dalam tulisan Arab, ada enam huruf yang tidak boleh disambung kepada huruf selepasnya? Huruf-huruf tersebut ialah: ا، د، ذ، ر، ز، و (alif, dal, zal, ra', za', wau). Keenam-enam huruf ini dikenali sebagai 'huruf yang tidak bersambung ke hadapan'. Ini sebenarnya membantu dalam membaca kerana bila kamu nampak salah satu huruf ini, kamu tahu bahawa sukukata atau perkataan baru bermula selepasnya. Sungguh sistematik dan cerdik cara tulisan Arab ini direka cipta!"
+}

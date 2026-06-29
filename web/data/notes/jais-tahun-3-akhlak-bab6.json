@@ -1,0 +1,156 @@
+{
+  "id": "jais-tahun-3-akhlak-bab6",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "akhlak",
+  "chapter": 6,
+  "title": "Menepati Janji",
+  "emoji": "🤲",
+  "colour": "#4527A0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Menepati Janji",
+      "body": "Menepati janji bermaksud menunaikan sesuatu yang telah dijanjikan tepat pada masanya. Ia adalah tanda keimanan dan akhlak mulia seseorang Muslim. Orang yang tidak menepati janji adalah termasuk dalam golongan munafik."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📋",
+          "title": "Pengertian Menepati Janji",
+          "body": "Menepati janji bermaksud menunaikan sesuatu yang telah dijanjikan dengan tepat pada masanya. Ia adalah tanggungjawab setiap Muslim untuk menjaga janji yang dibuat."
+        },
+        {
+          "icon": "✨",
+          "title": "Faedah Menepati Janji",
+          "body": {
+            "type": "list",
+            "intro": "Manfaat bagi orang yang sentiasa menepati janji:",
+            "items": [
+              "Diredhai oleh Allah dan Rasul-Nya",
+              "Disukai oleh ibu bapa, guru dan rakan",
+              "Mendapat pahala dari Allah",
+              "Tergolong dalam golongan orang yang bertaqwa dan benar",
+              "Hubungan silaturrahim menjadi lebih erat",
+              "Allah memurahkan rezeki"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil — Surah al-Maidah: 1",
+          "body": {
+            "type": "arabic",
+            "instruction": "Allah berfirman kepada orang beriman agar memenuhi segala perjanjian:",
+            "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَوْفُوا بِالْعُقُودِ",
+            "translation": "Wahai orang-orang yang beriman! Penuhilah serta sempurnakanlah perjanjian-perjanjian.",
+            "source": "Surah al-Maidah: 1"
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Akibat Tidak Menepati Janji",
+          "body": {
+            "type": "arabic",
+            "instruction": "Rasulullah SAW bersabda tentang tanda-tanda orang munafik — daripada Abu Hurairah:",
+            "arabic": "آيَةُ الْمُنَافِقِ ثَلَاثَةٌ إِذَا حَدَّثَ كَذَبَ وَإِذَا وَعَدَ أَخْلَفَ وَإِذَا اؤْتُمِنَ خَانَ",
+            "translation": "Tanda-tanda orang munafik ada tiga: apabila bercakap dia berdusta, apabila berjanji dia memungkiri janji, dan apabila diberi amanah dia berkhianat.",
+            "source": "Hadis Riwayat Bukhari dan Muslim",
+            "outro": "Orang yang tidak menepati janji akan termasuk dalam golongan munafik dan mendapat balasan siksa di neraka."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "list",
+        "intro": "Pepatah Melayu tentang kepentingan menepati janji:",
+        "items": [
+          "\"Harimau mati meninggalkan belang, manusia mati meninggalkan nama.\"",
+          "\"Gunung tinggi boleh didaki, janji yang dibuat jangan diingkari.\""
+        ],
+        "outro": "Nama baik seseorang terbina atas kejujuran dan kesetiaan menepati janji. Jagalah nama baik kamu!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengamalkan Sifat Menepati Janji",
+      "items": [
+        "Berfikir dahulu sebelum berjanji — jangan buat janji yang tidak mampu ditepati.",
+        "Catat janji yang dibuat supaya tidak terlupa.",
+        "Tepati janji tepat pada waktunya — jangan bertangguh.",
+        "Jika tidak dapat menepati janji, maklumkan lebih awal dan minta maaf.",
+        {
+          "type": "arabic",
+          "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَوْفُوا بِالْعُقُودِ",
+          "translation": "Wahai orang beriman! Penuhilah perjanjian-perjanjian."
+        },
+        "Jadikan diri sebagai orang yang boleh dipercayai dalam semua perkara."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud menepati janji?",
+      "options": [
+        "Membuat banyak janji kepada orang lain",
+        "Menunaikan sesuatu yang telah dijanjikan tepat pada masanya",
+        "Janji yang dibuat hanya untuk keseronokan",
+        "Berjanji hanya kepada orang yang penting"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Menurut hadis, berapa tanda orang munafik?",
+      "options": ["Satu", "Dua", "Tiga", "Empat"],
+      "answer": 2
+    },
+    {
+      "q": "Surah al-Maidah ayat 1 menyuruh orang beriman untuk?",
+      "options": [
+        "Berpuasa di bulan Ramadhan",
+        "Memenuhi dan menyempurnakan perjanjian",
+        "Membayar zakat",
+        "Menunaikan solat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah akibat tidak menepati janji?",
+      "options": [
+        "Mendapat lebih banyak kawan",
+        "Termasuk dalam golongan munafik dan tidak dipercayai",
+        "Menjadi lebih kuat dan berkuasa",
+        "Tidak ada akibat yang serius"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Menepati Janji", "colour": "#4527A0" },
+      { "id": "n2", "label": "Faedah", "colour": "#512DA8" },
+      { "id": "n3", "label": "Orang Munafik", "colour": "#C62828" },
+      { "id": "n4", "label": "Dipercayai", "colour": "#9575CD" },
+      { "id": "n5", "label": "Pahala Allah", "colour": "#FFD54F" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "menghasilkan" },
+      { "id": "e2", "source": "n2", "target": "n4", "label": "termasuk" },
+      { "id": "e3", "source": "n3", "target": "n1", "label": "tidak buat" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "ganjaran" }
+    ]
+  },
+  "vocab": [
+    { "word": "وَفَى", "meaning": "menepati / memenuhi" },
+    { "word": "وَعْد", "meaning": "janji" },
+    { "word": "مُنَافِق", "meaning": "munafik" },
+    { "word": "خِيَانَة", "meaning": "khianat" },
+    { "word": "أَمَانَة", "meaning": "amanah" }
+  ],
+  "funFact": "Tahukah kamu bahawa Rasulullah SAW sangat terkenal dengan sifat menepati janji hingga digelar 'Al-Amin' (yang amanah) oleh penduduk Makkah? Bahkan sebelum menjadi Nabi pun, baginda sudah dipercayai untuk menjaga barang-barang dagangan orang lain. Nama baik itu diwariskan melalui amanah!"
+}

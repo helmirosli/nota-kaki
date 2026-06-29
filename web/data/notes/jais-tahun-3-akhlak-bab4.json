@@ -1,0 +1,173 @@
+{
+  "id": "jais-tahun-3-akhlak-bab4",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "akhlak",
+  "chapter": 4,
+  "title": "Sabar",
+  "emoji": "🌊",
+  "colour": "#0277BD",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Sabar — Sentiasa Redha dan Tidak Mudah Putus Asa",
+      "body": "Sabar bermaksud sentiasa redha dan tidak mudah putus asa apabila mendapat kesusahan daripada Allah. Ia adalah sifat mulia yang dituntut Islam dan merupakan kunci kepada kejayaan dunia dan akhirat."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📋",
+          "title": "Ciri-ciri Sifat Sabar",
+          "body": {
+            "type": "list",
+            "intro": "Tanda-tanda orang yang bersifat sabar:",
+            "items": [
+              "Tidak mudah marah ketika menghadapi kesulitan",
+              "Tidak mudah kecewa apabila gagal dalam sesuatu usaha",
+              "Sentiasa melaksanakan ketaatan dalam perintah Allah",
+              "Sentiasa redha dengan kesusahan dan kesulitan yang dihadapi",
+              "Bersabar dan tabah untuk menghadapi segala cabaran"
+            ]
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Faedah Bersifat Sabar",
+          "body": {
+            "type": "list",
+            "intro": "Manfaat dan kelebihan orang yang bersifat sabar:",
+            "items": [
+              "Disukai oleh Allah dan Rasul-Nya",
+              "Disukai oleh ibu bapa, guru dan rakan",
+              "Jiwa sentiasa tenang",
+              "Mendapat keampunan dan rahmat Allah",
+              "Dapat menyelesaikan masalah dengan lebih baik",
+              "Mendapat petunjuk ke arah kebaikan",
+              "Dihormati dan disegani oleh masyarakat"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil — Surah an-Nahl: 96",
+          "body": {
+            "type": "arabic",
+            "instruction": "Allah berfirman tentang ganjaran bagi orang yang bersabar:",
+            "arabic": "وَلَنَجْزِيَنَّ الَّذِينَ صَبَرُوا أَجْرَهُم بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ",
+            "translation": "Dan sesungguhnya Kami akan membalas orang-orang yang sabar dengan pahala yang lebih baik daripada apa yang telah mereka kerjakan.",
+            "source": "Surah an-Nahl: 96"
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Akibat Tidak Bersifat Sabar",
+          "body": {
+            "type": "list",
+            "intro": "Akibat buruk jika tidak bersifat sabar:",
+            "items": [
+              "Dimurkai oleh Allah dan Rasul-Nya",
+              "Tidak disukai oleh ibu bapa, guru dan rakan",
+              "Sikap tidak mementingkan diri sendiri membentuk jiwa yang tidak tenang",
+              "Mudah mendapat penyakit"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💛",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadis Qudsi — Allah SWT berfirman daripada Anas bin Malik tentang ganjaran sabar apabila kehilangan penglihatan:",
+        "arabic": "إِنَّ اللَّهَ قَالَ: إِذَا ابْتَلَيْتُ عَبْدِي بِحَبِيبَتَيْهِ فَصَبَرَ عَوَّضْتُهُ مِنْهُمَا الْجَنَّةَ",
+        "translation": "Sesungguhnya Allah berfirman: Apabila Aku menguji hamba-Ku dengan dua perkara yang dicintainya (matanya), kemudian dia bersabar, maka Aku gantikan untuknya syurga.",
+        "source": "Hadis Riwayat Bukhari",
+        "outro": "Setiap ujian yang kita hadapi dengan sabar akan dibalas Allah dengan ganjaran yang amat besar!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengamalkan Sifat Sabar dalam Kehidupan",
+      "items": [
+        "Tanamkan keyakinan bahawa setiap ujian dari Allah mengandungi hikmah yang besar.",
+        "Apabila marah, tarik nafas dalam-dalam dan ingat Allah.",
+        {
+          "type": "arabic",
+          "arabic": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
+          "translation": "Sesungguhnya kami milik Allah dan sesungguhnya kepada-Nya kami kembali."
+        },
+        "Jangan mudah putus asa apabila gagal — cuba lagi dengan lebih usaha.",
+        "Bermain sukan dapat melatih kesabaran dan ketabahan.",
+        "Jadikan sifat sabar sebagai amalan sepanjang hayat."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud sifat sabar?",
+      "options": [
+        "Diam dan tidak berkata apa-apa",
+        "Sentiasa redha dan tidak mudah putus asa apabila mendapat kesusahan",
+        "Menunggu lama tanpa melakukan apa-apa",
+        "Tidak mahu berusaha kerana takut gagal"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Ayat Quran tentang ganjaran orang yang sabar terdapat dalam surah?",
+      "options": [
+        "Surah al-Baqarah: 153",
+        "Surah an-Nahl: 96",
+        "Surah al-Imran: 200",
+        "Surah az-Zumar: 10"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah faedah bersifat sabar?",
+      "options": [
+        "Tidak perlu berusaha keras lagi",
+        "Mendapat banyak wang",
+        "Jiwa tenang dan mendapat rahmat Allah",
+        "Semua orang akan takut kepada kita"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah akibat tidak bersifat sabar?",
+      "options": [
+        "Jiwa tidak tenang dan mudah mendapat penyakit",
+        "Orang lain akan menghormati kita lebih",
+        "Mendapat pahala yang lebih besar",
+        "Berjaya dalam semua perkara"
+      ],
+      "answer": 0
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Sabar", "colour": "#0277BD" },
+      { "id": "n2", "label": "Faedah", "colour": "#0288D1" },
+      { "id": "n3", "label": "Jiwa Tenang", "colour": "#4FC3F7" },
+      { "id": "n4", "label": "Pahala Syurga", "colour": "#FFD54F" },
+      { "id": "n5", "label": "Ujian Allah", "colour": "#FF7043" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "menghasilkan" },
+      { "id": "e2", "source": "n2", "target": "n3", "label": "termasuk" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "ganjaran" },
+      { "id": "e4", "source": "n5", "target": "n1", "label": "perlukan" }
+    ]
+  },
+  "vocab": [
+    { "word": "صَبَر", "meaning": "sabar" },
+    { "word": "رِضَا", "meaning": "redha" },
+    { "word": "ابْتِلَاء", "meaning": "ujian / cabaran" },
+    { "word": "أَجْر", "meaning": "pahala / ganjaran" },
+    { "word": "تَابَع", "meaning": "tabah / cekal" }
+  ],
+  "funFact": "Tahukah kamu bahawa perkataan 'sabar' disebut lebih daripada 90 kali dalam al-Quran? Ini menunjukkan betapa pentingnya sifat sabar dalam Islam. Allah sangat mengasihi orang-orang yang bersabar, dan Dia berjanji akan sentiasa bersama mereka!"
+}

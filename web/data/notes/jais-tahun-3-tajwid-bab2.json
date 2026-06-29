@@ -1,0 +1,164 @@
+{
+  "id": "jais-tahun-3-tajwid-bab2",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "tajwid",
+  "chapter": 2,
+  "title": "Nun dan Mim Syaddah",
+  "emoji": "🔊",
+  "colour": "#2E7D32",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "نون وميم شَدَّة — Nun dan Mim Syaddah",
+      "body": "Nun syaddah (نّ) dan mim syaddah (مّ) adalah dua huruf yang wajib dibaca dengan dengung (ghunnah). Ghunnah ialah suara yang keluar dari rongga hidung. Cara membacanya mestilah sempurna dan panjang sebanyak dua harakat."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🔊",
+          "title": "Pengertian Ghunnah",
+          "body": {
+            "type": "list",
+            "intro": "Apakah itu ghunnah (dengung)?",
+            "items": [
+              "Ghunnah ialah suara yang keluar dari rongga hidung",
+              "Bukan dari mulut atau kerongkong",
+              "Ia adalah sifat asal huruf nun dan mim",
+              "Qadhi (ukuran) ghunnah ialah dua harakat",
+              "Wajib disempurnakan semasa membaca al-Quran"
+            ]
+          }
+        },
+        {
+          "icon": "نّ",
+          "title": "Nun Syaddah (نّ)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Nun syaddah wajib dibaca dengan ghunnah (dengung). Contoh dalam al-Quran:",
+            "arabic": "إِنَّا أَعۡطَيۡنَـٰكَ\nإِنَّمَا يَتَذَكَّرُ\nوَإِنَّ\nكَأَنَّهُ",
+            "translation": "Semua perkataan yang ada نّ (nun syaddah) wajib dibaca dengan dengung dua harakat."
+          }
+        },
+        {
+          "icon": "مّ",
+          "title": "Mim Syaddah (مّ)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Mim syaddah juga wajib dibaca dengan ghunnah. Contoh dalam al-Quran:",
+            "arabic": "ثُمَّ\nأَمَّا\nوَأَمَّا\nكُلَّمَا",
+            "translation": "Semua perkataan yang ada مّ (mim syaddah) wajib dibaca dengan dengung dua harakat."
+          }
+        },
+        {
+          "icon": "📏",
+          "title": "Cara Membaca Nun dan Mim Syaddah",
+          "body": {
+            "type": "list",
+            "intro": "Langkah-langkah membaca nun/mim syaddah dengan betul:",
+            "items": [
+              "Kenal pasti huruf yang ada syaddah (ّ) di atasnya",
+              "Pastikan ia adalah huruf ن atau م",
+              "Tekan/tasydidkan huruf tersebut",
+              "Sambil menekan, keluarkan suara dengung dari hidung",
+              "Tahan dengung selama dua harakat (kira dua ketukan)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "arabic",
+        "instruction": "Rumus penting Nun dan Mim Syaddah:",
+        "arabic": "نّ أو مّ + تشديد = غُنَّة وَاجِبَة\nمِقۡدَار الغُنَّة = حَرَكَتَانِ",
+        "translation": "Nun syaddah atau Mim syaddah = ghunnah wajib. Ukuran ghunnah = dua harakat.",
+        "outro": "Ingat: dengung keluar dari hidung, bukan mulut!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengenal dan Membaca Nun/Mim Syaddah",
+      "items": [
+        "Cari huruf ن atau م yang ada tanda syaddah (ّ) di atasnya.",
+        "Baca dengan menekan huruf tersebut.",
+        {
+          "type": "arabic",
+          "arabic": "إِنَّ — مِمَّا — ثُمَّ — أَنَّ",
+          "translation": "Contoh: 'inna', 'mimma', 'thumma', 'anna' — semua ada dengung."
+        },
+        "Semasa membaca, tutup mulut sebentar dan rasakan suara keluar dari hidung.",
+        "Tahan dengung dua harakat — jangan terlalu pendek atau terlalu panjang."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud Ghunnah dalam ilmu tajwid?",
+      "options": [
+        "Bunyi yang keluar dari tengah halkum",
+        "Suara yang keluar dari rongga hidung (dengung)",
+        "Cara memanjangkan bacaan al-Quran",
+        "Cara menebalkan sebutan huruf"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa ukuran (qadhar) ghunnah?",
+      "options": [
+        "Satu harakat",
+        "Dua harakat",
+        "Tiga harakat",
+        "Empat harakat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan manakah yang mengandungi Mim Syaddah?",
+      "options": [
+        "إِنَّا",
+        "ثُمَّ",
+        "كَأَنَّهُ",
+        "وَإِنَّ"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dari manakah ghunnah dikeluarkan?",
+      "options": [
+        "Dari mulut",
+        "Dari kerongkong",
+        "Dari rongga hidung",
+        "Dari dada"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "غُنَّة (Dengung)", "colour": "#2E7D32" },
+      { "id": "n2", "label": "نّ Nun Syaddah", "colour": "#388E3C" },
+      { "id": "n3", "label": "مّ Mim Syaddah", "colour": "#388E3C" },
+      { "id": "n4", "label": "2 Harakat", "colour": "#66BB6A" },
+      { "id": "n5", "label": "Rongga Hidung", "colour": "#A5D6A7" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "huruf" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "huruf" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "ukuran" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "sumber" }
+    ]
+  },
+  "vocab": [
+    { "word": "غُنَّة", "meaning": "dengung/dengong — suara dari hidung" },
+    { "word": "شَدَّة / تَشْدِيد", "meaning": "syaddah — tanda penekanan huruf" },
+    { "word": "حَرَكَة", "meaning": "harakat — satu ketukan masa" },
+    { "word": "نّ", "meaning": "nun syaddah" },
+    { "word": "مّ", "meaning": "mim syaddah" }
+  ],
+  "funFact": "Tahukah kamu bahawa dengung (ghunnah) adalah salah satu ciri khas bacaan al-Quran? Dalam sains bunyi, para pengkaji bahasa mendapati bahawa dengung menghasilkan getaran khas yang memberikan ketenangan kepada pendengar. Mungkin inilah antara sebab mengapa mendengar bacaan al-Quran yang bertajwid boleh menenangkan hati dan jiwa. SubhanAllah!"
+}

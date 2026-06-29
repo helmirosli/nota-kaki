@@ -1,0 +1,162 @@
+{
+  "id": "jais-tahun-3-imlak-bab6",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "imlak",
+  "chapter": 6,
+  "title": "Kalimah Isim Jamak Muannas Salim",
+  "emoji": "✍️",
+  "colour": "#009688",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "كَلِمَة اسْم جَمْع مُؤَنَّث سَالِم — Isim Jamak Muannas Salim",
+      "body": "Isim Jamak Muannas Salim ialah kata nama jamak (ramai) berjantina perempuan yang dibentuk dengan cara yang selamat (salim) — iaitu dengan menambah (اتٌ) di akhir kalimah. Ia boleh digunakan untuk manusia perempuan dan juga banyak benda mati."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Cara Membentuk Isim Jamak Muannas Salim",
+          "body": {
+            "type": "arabic",
+            "instruction": "Cara membentuk isim jamak muannas salim — buang ta' marbutah (ة) dan tambah (اتٌ):",
+            "arabic": "مُفْرَد → جَمْع:\nمُعَلِّمَةٌ → مُعَلِّمَاتٌ\nمُسْلِمَةٌ → مُسْلِمَاتٌ\nطَالِبَةٌ → طَالِبَاتٌ\nكَلِمَةٌ → كَلِمَاتٌ",
+            "translation": "Mufrad → Jamak: guru (pr) → ramai guru (pr) / muslimah → ramai muslimah / pelajar (pr) → ramai pelajar (pr) / perkataan → banyak perkataan",
+            "outro": "Buang (ة) dan tambah (اتٌ) — huruf sebelum alif berbaris fathah."
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Senarai Kalimah Isim Jamak Muannas Salim",
+          "body": {
+            "type": "arabic",
+            "instruction": "Baca dan hafaz kalimah-kalimah berikut:",
+            "arabic": "مُؤْمِنَاتٌ — مُعَلِّمَاتٌ — مَجَلَّاتٌ\nسَيَّارَاتٌ — مُدَرِّسَاتٌ — مُسْلِمَاتٌ\nكَاتِبَاتٌ — خَيْرَاتٌ — عِمَارَاتٌ\nحَشَرَاتٌ — فَاضِلَاتٌ — كَلِمَاتٌ",
+            "translation": "ramai mukminah — ramai guru (pr) — banyak majalah / banyak kereta — ramai pengajar (pr) — ramai muslimah / ramai penulis (pr) — banyak kebaikan — banyak bangunan / banyak serangga — ramai yang utama (pr) — banyak perkataan"
+          }
+        },
+        {
+          "icon": "📚",
+          "title": "Lebih Banyak Kalimah Jamak Muannas Salim",
+          "body": {
+            "type": "arabic",
+            "instruction": "Kalimah isim jamak muannas salim yang lain:",
+            "arabic": "صَاحِبَاتٌ — خَادِمَاتٌ — مَرِيضَاتٌ\nصَادِقَاتٌ — قَائِمَاتٌ — عَامِلَاتٌ\nحَسَنَاتٌ — مُجْتَهِدَاتٌ — جَالِسَاتٌ\nنَاجِحَاتٌ — قَانِتَاتٌ — خَاشِعَاتٌ",
+            "translation": "ramai sahabat (pr) — ramai pembantu (pr) — ramai yang sakit (pr) / ramai yang benar (pr) — ramai yang berdiri (pr) — ramai yang bekerja (pr) / ramai kebaikan — ramai yang bersungguh (pr) — ramai yang duduk (pr) / ramai yang berjaya (pr) — ramai yang taat (pr) — ramai yang khusyuk (pr)"
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "Cara Mengenal Isim Jamak Muannas Salim",
+          "body": {
+            "type": "list",
+            "intro": "Ciri-ciri isim jamak muannas salim:",
+            "items": [
+              "Bilangan: ramai / lebih dari dua (jamak)",
+              "Jantina: perempuan (muannas)",
+              "Berakhir dengan (اتٌ) — alif dan ta' maftuhah tanwin",
+              "Cara membentuk: buang (ة) dan tambah (اتٌ)",
+              "Boleh untuk manusia perempuan DAN benda mati",
+              "Kata ganti nama: هُنَّ (mereka perempuan)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "arabic",
+        "instruction": "Rumus membentuk Isim Jamak Muannas Salim:",
+        "arabic": "اسم مفرد مؤنث (ة → اتٌ) = اسم جمع مؤنث سالم\nحروف سبلوم اليف برباريس فتحة\nمثال: مُسْلِمَةٌ → مُسْلِمَاتٌ",
+        "translation": "Buang (ة) dan tambah (اتٌ) untuk membentuk jamak muannas salim. Huruf sebelum alif berbaris fathah. Contoh: muslimah → muslimat (ramai muslimah).",
+        "outro": "Ingat: buang (ة), tambah (اتٌ) — untuk ramai perempuan atau banyak benda!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menulis Isim Jamak Muannas Salim",
+      "items": [
+        "Isim jamak muannas salim merujuk kepada ramai orang perempuan atau banyak benda.",
+        "Cara membentuk: buang ta' marbutah (ة) dan tambah (اتٌ).",
+        {
+          "type": "arabic",
+          "arabic": "مُعَلِّمَةٌ → مُعَلِّمَاتٌ\nسَيَّارَةٌ → سَيَّارَاتٌ",
+          "translation": "Guru (pr) → ramai guru (pr). Sebuah kereta → banyak kereta."
+        },
+        "Huruf sebelum alif harus berbaris fathah.",
+        "Kata ganti nama: هُنَّ (mereka — ramai perempuan).",
+        "Boleh juga digunakan untuk benda mati yang banyak (seperti سَيَّارَاتٌ — banyak kereta)."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Bagaimana cara membentuk isim jamak muannas salim?",
+      "options": [
+        "Tambah (ونَ) di akhirnya",
+        "Tambah (انِ) di akhirnya",
+        "Buang (ة) dan tambah (اتٌ)",
+        "Tukar seluruh kalimah"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah bentuk jamak muannas salim bagi kalimah 'مُسْلِمَةٌ'?",
+      "options": [
+        "مُسْلِمُونَ",
+        "مُسْلِمَانِ",
+        "مُسْلِمَتَانِ",
+        "مُسْلِمَاتٌ"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Kalimah 'مُعَلِّمَاتٌ' bermaksud...",
+      "options": [
+        "Seorang guru perempuan",
+        "Dua guru perempuan",
+        "Ramai guru perempuan",
+        "Seorang guru lelaki"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kata ganti nama untuk isim jamak muannas salim ialah?",
+      "options": [
+        "هُوَ",
+        "هُمَا",
+        "هُمْ",
+        "هُنَّ"
+      ],
+      "answer": 3
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Jamak Muannas Salim", "colour": "#009688" },
+      { "id": "n2", "label": "Isim Mufrad Muannas (ة)", "colour": "#00897B" },
+      { "id": "n3", "label": "Buang (ة) + (اتٌ)", "colour": "#26A69A" },
+      { "id": "n4", "label": "Ramai pr / banyak benda", "colour": "#4DB6AC" },
+      { "id": "n5", "label": "هُنَّ", "colour": "#80CBC4" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n2", "target": "n3", "label": "tukar" },
+      { "id": "e2", "source": "n3", "target": "n1", "label": "=" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "makna" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "kata ganti" }
+    ]
+  },
+  "vocab": [
+    { "word": "جَمْع مُؤَنَّث سَالِم", "meaning": "jamak muannas salim — ramai perempuan" },
+    { "word": "مُسْلِمَاتٌ", "meaning": "ramai muslimah" },
+    { "word": "مُعَلِّمَاتٌ", "meaning": "ramai guru perempuan" },
+    { "word": "سَيَّارَاتٌ", "meaning": "banyak kereta" },
+    { "word": "هُنَّ", "meaning": "mereka (ramai perempuan)" }
+  ],
+  "funFact": "Tahukah kamu bahawa akhiran (اتٌ) dalam jamak muannas salim juga digunakan untuk benda mati yang banyak? Contohnya 'سَيَّارَاتٌ' (banyak kereta) dan 'عِمَارَاتٌ' (banyak bangunan). Ini berbeza dengan jamak muzakar salim (ونَ) yang hanya untuk manusia lelaki. Inilah antara keistimewaan bahasa Arab — ia sangat sistematik dan mempunyai peraturan yang jelas untuk membilang dan menjamakkan kata nama!"
+}

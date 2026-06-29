@@ -1,0 +1,153 @@
+{
+  "id": "jais-tahun-3-bahasa-arab-bab1",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "bahasa-arab",
+  "chapter": 1,
+  "title": "Dars 1: Nombor 201–300",
+  "emoji": "🔢",
+  "colour": "#1565C0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الأعداد والأرقام — Nombor 201 hingga 300",
+      "body": "Dalam dars ini kita belajar nombor-nombor Arab dari 201 hingga 300. Nombor-nombor ini digunakan dalam kehidupan seharian seperti harga barang, bilangan orang, dan nombor telefon."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🔢",
+          "title": "Nombor 201–210",
+          "body": {
+            "type": "arabic",
+            "instruction": "Nombor-nombor dari 201 hingga 210:",
+            "arabic": "٢٠١ - مِائَتَانِ وَوَاحِد\n٢٠٢ - مِائَتَانِ وَاثْنَان\n٢٠٣ - مِائَتَانِ وَثَلَاثَة\n٢٠٤ - مِائَتَانِ وَأَرْبَعَة\n٢٠٥ - مِائَتَانِ وَخَمْسَة\n٢٠٦ - مِائَتَانِ وَسِتَّة\n٢٠٧ - مِائَتَانِ وَسَبْعَة\n٢٠٨ - مِائَتَانِ وَثَمَانِيَة\n٢٠٩ - مِائَتَانِ وَتِسْعَة\n٢١٠ - مِائَتَانِ وَعَشَرَة",
+            "translation": "201 = dua ratus satu\n202 = dua ratus dua\n203 = dua ratus tiga\n204 = dua ratus empat\n205 = dua ratus lima\n206 = dua ratus enam\n207 = dua ratus tujuh\n208 = dua ratus lapan\n209 = dua ratus sembilan\n210 = dua ratus sepuluh"
+          }
+        },
+        {
+          "icon": "📊",
+          "title": "Nombor 211–219 (Belasan)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Nombor belasan dari 211 hingga 219:",
+            "arabic": "٢١١ - مِائَتَانِ وَأَحَدَ عَشَرَ\n٢١٢ - مِائَتَانِ وَاثْنَا عَشَرَ\n٢١٣ - مِائَتَانِ وَثَلَاثَةَ عَشَرَ\n٢١٤ - مِائَتَانِ وَأَرْبَعَةَ عَشَرَ\n٢١٥ - مِائَتَانِ وَخَمْسَةَ عَشَرَ\n٢١٦ - مِائَتَانِ وَسِتَّةَ عَشَرَ\n٢١٧ - مِائَتَانِ وَسَبْعَةَ عَشَرَ\n٢١٨ - مِائَتَانِ وَثَمَانِيَةَ عَشَرَ\n٢١٩ - مِائَتَانِ وَتِسْعَةَ عَشَرَ",
+            "translation": "211–219: dua ratus sebelas hingga dua ratus sembilan belas"
+          }
+        },
+        {
+          "icon": "💯",
+          "title": "Puluhan: 220, 230, ..., 300",
+          "body": {
+            "type": "arabic",
+            "instruction": "Nombor puluhan dari 220 hingga 300:",
+            "arabic": "٢٢٠ - مِائَتَانِ وَعِشْرُونَ\n٢٣٠ - مِائَتَانِ وَثَلَاثُونَ\n٢٤٠ - مِائَتَانِ وَأَرْبَعُونَ\n٢٥٠ - مِائَتَانِ وَخَمْسُونَ\n٢٦٠ - مِائَتَانِ وَسِتُّونَ\n٢٧٠ - مِائَتَانِ وَسَبْعُونَ\n٢٨٠ - مِائَتَانِ وَثَمَانُونَ\n٢٩٠ - مِائَتَانِ وَتِسْعُونَ\n٣٠٠ - ثَلَاثُمِائَة",
+            "translation": "220 = dua ratus dua puluh\n230 = dua ratus tiga puluh\n...\n300 = tiga ratus"
+          }
+        },
+        {
+          "icon": "🛒",
+          "title": "Contoh Perbualan — Harga Barang",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh perbualan menanyakan harga:",
+            "arabic": "كَمْ سِعْرُ الدَّرَّاجَةِ؟\nالدَّرَّاجَةُ بِمِائَتَيْنِ وَسِتَّةِ رِنْجِيتَاتٍ.\nوَكَمْ سِعْرُ الْحَقِيبَةِ؟\nالْحَقِيبَةُ بِمِائَتَيْنِ وَخَمْسَةَ عَشَرَ رِنْجِيتًا.",
+            "translation": "Berapa harga basikal?\nBasikal berharga RM206.\nBerapa pula harga beg?\nBeg berharga RM215."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "arabic",
+        "instruction": "Petua penting untuk nombor Arab:",
+        "arabic": "مِائَتَانِ = 200\nمِائَتَانِ وَ + عدد = 201–299\nثَلَاثُمِائَة = 300",
+        "translation": "Dua ratus = مِائَتَانِ. Untuk nombor 201-299, tambah وَ (dan) + nombor selepas 200. Tiga ratus = ثَلَاثُمِائَة.",
+        "outro": "Latih sebut nombor dalam Arab setiap hari — ia mudah setelah biasa!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Membaca Nombor Arab 201–300",
+      "items": [
+        "Nombor 200 dalam Arab ialah مِائَتَانِ (mia-ta-ni) — hafaz ini dulu.",
+        "Untuk nombor 201–209: مِائَتَانِ وَ + nombor satuan.",
+        "Untuk nombor 211–219: مِائَتَانِ وَ + nombor belasan (احد عشر, اثنا عشر...).",
+        {
+          "type": "arabic",
+          "arabic": "مِائَتَانِ وَعِشْرُونَ = ٢٢٠",
+          "translation": "Dua ratus dua puluh = 220"
+        },
+        "Untuk puluhan: مِائَتَانِ وَعِشْرُونَ (220), مِائَتَانِ وَثَلَاثُونَ (230), dst.",
+        "Nombor 300 ialah ثَلَاثُمِائَة (tha-la-thu-mi'ah)."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Bagaimana cara membaca nombor ٢١٥ dalam bahasa Arab?",
+      "options": [
+        "مِائَتَانِ وَعِشْرُونَ",
+        "مِائَتَانِ وَخَمْسَةَ عَشَرَ",
+        "مِائَتَانِ وَخَمْسَة",
+        "ثَلَاثُمِائَة"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah nombor Arab untuk 300?",
+      "options": [
+        "مِائَتَانِ وَتِسْعُونَ",
+        "مِائَتَانِ وَمِائَة",
+        "ثَلَاثُمِائَة",
+        "مِائَتَانِ وَوَاحِد"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah makna perkataan 'سِعْر' dalam bahasa Arab?",
+      "options": [
+        "Nombor",
+        "Harga",
+        "Basikal",
+        "Beg"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Nombor manakah yang betul untuk مِائَتَانِ وَأَرْبَعُونَ?",
+      "options": [
+        "214",
+        "240",
+        "204",
+        "244"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "200 = مِائَتَانِ", "colour": "#1565C0" },
+      { "id": "n2", "label": "201–219", "colour": "#1976D2" },
+      { "id": "n3", "label": "220–299", "colour": "#1976D2" },
+      { "id": "n4", "label": "300 = ثَلَاثُمِائَة", "colour": "#1565C0" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "tambah satuan/belasan" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "tambah puluhan" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "selepas 299" }
+    ]
+  },
+  "vocab": [
+    { "word": "مِائَتَانِ", "meaning": "dua ratus (200)" },
+    { "word": "ثَلَاثُمِائَة", "meaning": "tiga ratus (300)" },
+    { "word": "سِعْر", "meaning": "harga" },
+    { "word": "رِنْجِيت", "meaning": "Ringgit Malaysia" },
+    { "word": "دَرَّاجَة", "meaning": "basikal" }
+  ],
+  "funFact": "Tahukah kamu bahawa sistem nombor yang kita gunakan sekarang (1, 2, 3...) sebenarnya berasal daripada sistem nombor Arab? Ia dipanggil 'angka Arab' atau 'angka Hindu-Arab'. Angka Arab moden seperti ١، ٢، ٣ masih digunakan dalam tulisan Arab, sementara seluruh dunia kini menggunakan bentuk Eropah (1, 2, 3) yang sebenarnya berasal dari tulisan Arab juga!"
+}

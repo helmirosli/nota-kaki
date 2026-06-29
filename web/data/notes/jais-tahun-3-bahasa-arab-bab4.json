@@ -1,0 +1,155 @@
+{
+  "id": "jais-tahun-3-bahasa-arab-bab4",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "bahasa-arab",
+  "chapter": 4,
+  "title": "Dars 4: Bulan Hijriah dan Masihi",
+  "emoji": "📅",
+  "colour": "#1565C0",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الشهور الهجرية والميلادية — Bulan Hijriah dan Masihi",
+      "body": "Dalam dars ini kita belajar nama-nama bulan dalam kalendar Islam (Hijriah) dan kalendar Masihi (Gregorian). Terdapat 12 bulan dalam setiap kalendar. Bulan Hijriah bermula dengan المُحَرَّم dan berakhir dengan ذُو الْحِجَّة."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🌙",
+          "title": "الشهور الهجرية — Bulan-bulan Hijriah",
+          "body": {
+            "type": "arabic",
+            "instruction": "12 bulan dalam kalendar Islam:",
+            "arabic": "١ - مُحَرَّم\n٢ - صَفَر\n٣ - رَبِيعُ الْأَوَّل\n٤ - رَبِيعُ الْآخِر\n٥ - جُمَادَى الْأُولَى\n٦ - جُمَادَى الْآخِرَة\n٧ - رَجَب\n٨ - شَعْبَان\n٩ - رَمَضَان\n١٠ - شَوَّال\n١١ - ذُو الْقَعْدَة\n١٢ - ذُو الْحِجَّة",
+            "translation": "1-Muharram 2-Safar 3-Rabiulawal 4-Rabiulakhir 5-Jamadilawwal 6-Jamadilakhir 7-Rejab 8-Syaaban 9-Ramadan 10-Syawal 11-Zulkaedah 12-Zulhijjah"
+          }
+        },
+        {
+          "icon": "📆",
+          "title": "الشهور الميلادية — Bulan-bulan Masihi",
+          "body": {
+            "type": "arabic",
+            "instruction": "12 bulan dalam kalendar Masihi (Gregorian):",
+            "arabic": "١ - يَنَايِر\n٢ - فِبْرَايِر\n٣ - مَارِس\n٤ - أَبْرِيل\n٥ - مَايُو\n٦ - يُونِيُو\n٧ - يُولِيُو\n٨ - أَغُسْطُس\n٩ - سِبْتَمْبَر\n١٠ - أُكْتُوبَر\n١١ - نُوفِمْبَر\n١٢ - دِيسَمْبَر",
+            "translation": "1-Januari 2-Februari 3-Mac 4-April 5-Mei 6-Jun 7-Julai 8-Ogos 9-September 10-Oktober 11-November 12-Disember"
+          }
+        },
+        {
+          "icon": "🎊",
+          "title": "Peristiwa Penting dalam Bulan Hijriah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Peristiwa Islam yang berlaku dalam bulan-bulan tertentu:",
+            "arabic": "مَوْلِدُ النَّبِيِّ فِي شَهْرِ رَبِيعِ الْأَوَّلِ.\nالْإِسْرَاءُ وَالْمِعْرَاجُ فِي شَهْرِ رَجَبٍ.\nرَمَضَانُ شَهْرٌ مُبَارَكٌ.\nنَحْتَفِلُ عِيدَ الْفِطْرِ فِي شَهْرِ شَوَّالٍ.\nذُو الْحِجَّةِ شَهْرُ الْحَجِّ.",
+            "translation": "Maulid Nabi berlaku pada bulan Rabiulawal.\nIsra' dan Mikraj berlaku pada bulan Rejab.\nRamadan adalah bulan yang penuh berkat.\nKita merayakan Hari Raya pada bulan Syawal.\nZulhijjah adalah bulan Haji."
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Contoh Perbualan tentang Bulan",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh perbualan mengenai bulan:",
+            "arabic": "كَمْ شَهْرًا فِي السَّنَةِ؟\nفِي السَّنَةِ اثْنَا عَشَرَ شَهْرًا.\nمَا أَوَّلُ الشُّهُورِ الْهِجْرِيَّةِ؟\nالْمُحَرَّمُ، يَا سَلْمَى.\nمَا الشَّهْرُ بَعْدَ شَعْبَانَ؟\nشَهْرُ رَمَضَانَ.",
+            "translation": "Berapa bilangan bulan dalam setahun?\nDalam setahun ada dua belas bulan.\nApakah bulan pertama Hijriah?\nMuharram, wahai Salma.\nBulan apa selepas Syaaban?\nBulan Ramadan."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah SWT berfirman tentang bilangan bulan dalam setahun:",
+        "arabic": "إِنَّ عِدَّةَ الشُّهُورِ عِندَ اللَّهِ اثْنَا عَشَرَ شَهْرًا",
+        "translation": "Sesungguhnya bilangan bulan di sisi Allah ialah dua belas bulan.",
+        "source": "Surah at-Taubah: 36",
+        "outro": "Ingat dan hafaz nama-nama bulan Hijriah — ia penting untuk umat Islam!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengingati Nama Bulan Hijriah",
+      "items": [
+        "Hafaz 4 bulan pertama: مُحَرَّم، صَفَر، رَبِيعُ الْأَوَّل، رَبِيعُ الْآخِر.",
+        "Hafaz 4 bulan tengah: جُمَادَى الْأُولَى، جُمَادَى الْآخِرَة، رَجَب، شَعْبَان.",
+        {
+          "type": "arabic",
+          "arabic": "رَمَضَانُ — شَوَّالٌ — ذُو الْقَعْدَةِ — ذُو الْحِجَّةِ",
+          "translation": "Ramadan — Syawal — Zulkaedah — Zulhijjah"
+        },
+        "Hafaz 4 bulan akhir: رَمَضَان، شَوَّال، ذُو الْقَعْدَة، ذُو الْحِجَّة.",
+        "Ingat peristiwa penting: Maulid (Rabiulawal), Isra' Mikraj (Rejab), Puasa (Ramadan), Raya (Syawal), Haji (Zulhijjah)."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Bulan Hijriah manakah yang ketiga?",
+      "options": [
+        "صَفَر",
+        "رَجَب",
+        "رَبِيعُ الْأَوَّل",
+        "مُحَرَّم"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Pada bulan Hijriah manakah Hari Raya Aidilfitri disambut?",
+      "options": [
+        "رَمَضَان",
+        "شَوَّال",
+        "ذُو الْحِجَّة",
+        "رَجَب"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah peristiwa Islam yang berlaku pada bulan Rejab?",
+      "options": [
+        "Maulid Nabi",
+        "Haji",
+        "Isra' dan Mikraj",
+        "Nuzul al-Quran"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bulan Masihi manakah yang kelapan?",
+      "options": [
+        "يُولِيُو",
+        "سِبْتَمْبَر",
+        "أَغُسْطُس",
+        "يُونِيُو"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "12 Bulan", "colour": "#1565C0" },
+      { "id": "n2", "label": "Hijriah", "colour": "#1976D2" },
+      { "id": "n3", "label": "Masihi", "colour": "#1976D2" },
+      { "id": "n4", "label": "Ramadan Rejab", "colour": "#42A5F5" },
+      { "id": "n5", "label": "Peristiwa Islam", "colour": "#90CAF9" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "contoh" },
+      { "id": "e4", "source": "n4", "target": "n5", "label": "mengandungi" }
+    ]
+  },
+  "vocab": [
+    { "word": "مُحَرَّم", "meaning": "bulan pertama Hijriah" },
+    { "word": "رَمَضَان", "meaning": "bulan ke-9 Hijriah — bulan puasa" },
+    { "word": "شَوَّال", "meaning": "bulan ke-10 Hijriah — bulan Syawal" },
+    { "word": "يَنَايِر", "meaning": "Januari (bulan pertama Masihi)" },
+    { "word": "شَهْر", "meaning": "bulan" }
+  ],
+  "funFact": "Tahukah kamu bahawa kalendar Hijriah adalah kalendar lunar (berdasarkan peredaran bulan)? Ini bermakna setahun Hijriah lebih pendek 11 hari daripada tahun Masihi. Itulah sebabnya Hari Raya, Ramadan, dan perayaan Islam lain jatuh pada tarikh yang berbeza setiap tahun dalam kalendar Masihi. Bulan Muharram dipilih sebagai permulaan tahun Hijriah untuk memperingati peristiwa Hijrah Nabi SAW dari Makkah ke Madinah!"
+}

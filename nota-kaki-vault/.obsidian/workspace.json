@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ffba3048a965f00",
+        "id": "d2459d74dd6479e0",
         "type": "tabs",
         "children": [
           {
-            "id": "ea4f4f3378a77250",
+            "id": "a4ee8f7d3e0eae23",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,18 +170,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
-      "claude-code-mcp:Toggle Claude Terminal": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian42-brat:BRAT": false,
+      "claude-code-mcp:Toggle Claude Terminal": false
     }
   },
-  "active": "ea4f4f3378a77250",
+  "active": "a4ee8f7d3e0eae23",
   "lastOpenFiles": [
     "Welcome.md"
   ]

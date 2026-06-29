@@ -1,0 +1,170 @@
+{
+  "id": "jais-tahun-3-sirah-bab5",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "sirah",
+  "chapter": 5,
+  "title": "Sifat Mulia Nabi Muhammad SAW dalam Berkeluarga",
+  "emoji": "🏠",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Sifat Mulia Nabi SAW dalam Kehidupan Berkeluarga",
+      "body": "Nabi Muhammad SAW bukan sahaja seorang Rasul yang mulia di hadapan umatnya, tetapi juga seorang suami, ayah, dan menantu yang terbaik dalam rumah tangganya. Akhlak Baginda dalam berkeluarga adalah contoh terbaik untuk semua Muslim."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "💑",
+          "title": "Sifat Mulia terhadap Isteri",
+          "body": {
+            "type": "list",
+            "intro": "Bagaimana Nabi Muhammad SAW memperlakukan isteri-isterinya:",
+            "items": [
+              "Penyayang dan lemah lembut — tidak pernah memukul isteri",
+              "Suka memuji dan menghargai masakan isteri",
+              "Membantu kerja rumah — mencuci, menjahit, dan menyapu sendiri",
+              "Mendengar pendapat isteri dan menghargai pandangan mereka",
+              "Mencintai Khadijah seumur hidup walaupun selepas beliau wafat"
+            ]
+          }
+        },
+        {
+          "icon": "👴",
+          "title": "Sifat Mulia terhadap Mertua",
+          "body": {
+            "type": "list",
+            "intro": "Bagaimana Nabi Muhammad SAW menghormati mertua:",
+            "items": [
+              "Menghormati dan memuliakan keluarga Khadijah",
+              "Sentiasa bersikap sopan dan beradab terhadap orang yang lebih tua",
+              "Membantu dan tidak menyusahkan keluarga isteri"
+            ]
+          }
+        },
+        {
+          "icon": "👧",
+          "title": "Sifat Mulia terhadap Anak-anak",
+          "body": {
+            "type": "list",
+            "intro": "Bagaimana Nabi Muhammad SAW mendidik dan menyayangi anak-anak:",
+            "items": [
+              "Sangat penyayang — suka mencium dan memeluk anak-anak",
+              "Bermain bersama anak-anak dan cucu-cucunya",
+              "Mendidik mereka dengan ilmu agama dan akhlak",
+              "Berlaku adil kepada semua anak-anak",
+              "Menangis apabila cucu Baginda (Ibrahim) meninggal dunia"
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Hadis tentang Suami Terbaik",
+          "body": {
+            "type": "arabic",
+            "instruction": "Rasulullah SAW bersabda tentang ciri suami yang terbaik:",
+            "arabic": "خَيْرُكُمْ خَيْرُكُمْ لِأَهْلِهِ وَأَنَا خَيْرُكُمْ لِأَهْلِي",
+            "translation": "Sebaik-baik kamu adalah yang paling baik terhadap keluarganya, dan aku adalah yang terbaik di antara kamu terhadap keluargaku.",
+            "source": "Hadis Riwayat al-Tirmidhi"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💛",
+      "text": {
+        "type": "arabic",
+        "instruction": "Rasulullah SAW bersabda tentang kewajipan menghormati ibu bapa:",
+        "arabic": "رِضَا اللَّهِ فِي رِضَا الْوَالِدَيْنِ وَسَخَطُ اللَّهِ فِي سَخَطِ الْوَالِدَيْنِ",
+        "translation": "Keredhaan Allah terletak pada keredhaan ibu bapa, dan kemurkaan Allah terletak pada kemurkaan ibu bapa.",
+        "source": "Hadis Riwayat al-Tirmidhi",
+        "outro": "Hormati ibu bapa kamu seperti Nabi Muhammad SAW menghormati keluarganya!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mencontohi Akhlak Nabi SAW dalam Berkeluarga",
+      "items": [
+        "Hormati dan sayangi ibu bapa — mereka adalah orang paling berhak mendapat kasih sayang kita.",
+        "Bantu kerja rumah tanpa disuruh — itu sunnah Rasulullah SAW.",
+        "Bertutur dengan lemah lembut kepada ahli keluarga.",
+        {
+          "type": "arabic",
+          "arabic": "خَيْرُكُمْ خَيْرُكُمْ لِأَهْلِهِ",
+          "translation": "Sebaik-baik kamu adalah yang paling baik terhadap keluarganya."
+        },
+        "Doakan kebaikan untuk semua ahli keluarga setiap hari.",
+        "Jangan menyakiti hati ahli keluarga dengan kata-kata kasar."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah bukti Nabi Muhammad SAW adalah seorang suami yang baik?",
+      "options": [
+        "Baginda tidak pernah bekerja di rumah",
+        "Baginda membantu kerja rumah dan tidak pernah memukul isteri",
+        "Baginda selalu keluar dan tidak duduk di rumah",
+        "Baginda tidak pernah berbual dengan isteri"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Menurut hadis, siapakah sebaik-baik lelaki Muslim?",
+      "options": [
+        "Yang paling banyak ilmu agama",
+        "Yang paling kaya",
+        "Yang paling baik terhadap keluarganya",
+        "Yang paling rajin ke masjid"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bagaimana Nabi Muhammad SAW mendidik anak-anak?",
+      "options": [
+        "Dengan keras dan disiplin tanpa kasih sayang",
+        "Dengan ilmu agama, akhlak, kasih sayang dan berlaku adil",
+        "Dengan memberikan banyak harta",
+        "Dengan menghantar mereka ke tempat lain untuk belajar"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Menurut hadis, keredhaan Allah terletak pada?",
+      "options": [
+        "Keredhaan raja dan pemimpin",
+        "Keredhaan guru dan ustaz",
+        "Keredhaan ibu bapa",
+        "Keredhaan jiran tetangga"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Muhammad SAW", "colour": "#FF6F00" },
+      { "id": "n2", "label": "Isteri", "colour": "#FF8F00" },
+      { "id": "n3", "label": "Anak-anak", "colour": "#FF8F00" },
+      { "id": "n4", "label": "Mertua", "colour": "#FFA000" },
+      { "id": "n5", "label": "Kasih Sayang", "colour": "#FFD54F" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "sayangi" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "didik" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "hormati" },
+      { "id": "e4", "source": "n5", "target": "n1", "label": "ciri" }
+    ]
+  },
+  "vocab": [
+    { "word": "رُومَه تَنۡڱّ", "meaning": "rumah tangga / kehidupan berkeluarga" },
+    { "word": "زَوْج", "meaning": "suami / isteri" },
+    { "word": "تَرْبِيَة", "meaning": "didikan / pendidikan" },
+    { "word": "رَحْمَة", "meaning": "kasih sayang / rahmat" },
+    { "word": "بِرُّ الوَالِدَيْن", "meaning": "berbakti kepada ibu bapa" }
+  ],
+  "funFact": "Tahukah kamu bahawa Rasulullah SAW pernah menjahit kasutnya sendiri dan menampal pakaiannya sendiri di rumah? Baginda tidak memandang rendah kerja-kerja rumah! Aisyah RA pernah ditanya apa yang Rasulullah SAW lakukan di rumah, dan beliau menjawab: 'Baginda membantu kerja ahli keluarganya.' Inilah contoh suami dan lelaki terbaik!"
+}

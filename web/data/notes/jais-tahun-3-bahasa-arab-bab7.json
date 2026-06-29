@@ -1,0 +1,159 @@
+{
+  "id": "jais-tahun-3-bahasa-arab-bab7",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "bahasa-arab",
+  "chapter": 7,
+  "title": "Dars 7: Mufrad, Muthanna dan Jama'",
+  "emoji": "🔢",
+  "colour": "#1565C0",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "المُفْرَد والمُثَنَّى والجَمْع — Tunggal, Dual dan Jamak",
+      "body": "Dalam bahasa Arab, kata nama mempunyai tiga bilangan: مُفْرَد (tunggal — satu), مُثَنَّى (dual — dua), dan جَمْع (jamak — tiga atau lebih). Ini berbeza dengan bahasa Melayu yang hanya ada tunggal dan jamak."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "1️⃣",
+          "title": "مُفْرَد → مُثَنَّى: Muzakar Aqil (Lelaki Berakal)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Cara membentuk muthanna dan jamak untuk muzakar aqil (lelaki berakal): tambah انِ untuk muthanna, و ن untuk jamak:",
+            "arabic": "مُفْرَد: مُسْلِمٌ\nمُثَنَّى: مُسْلِمَانِ\nجَمْع: مُسْلِمُونَ\n\nمُفْرَد: مُعَلِّمٌ\nمُثَنَّى: مُعَلِّمَانِ\nجَمْع: مُعَلِّمُونَ\n\nمُفْرَد: مُهَنْدِسٌ\nمُثَنَّى: مُهَنْدِسَانِ\nجَمْع: مُهَنْدِسُونَ",
+            "translation": "Seorang Muslim / Dua orang Muslim / Ramai Muslim. Seorang guru / Dua orang guru / Ramai guru. Seorang jurutera / Dua orang jurutera / Ramai jurutera."
+          }
+        },
+        {
+          "icon": "2️⃣",
+          "title": "Muzakar Ghair Aqil (Benda Lelaki)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Untuk benda (bukan manusia) muzakar: tambah انِ untuk muthanna, jamak berbeza-beza:",
+            "arabic": "كِتَابٌ ← كِتَابَانِ ← كُتُبٌ\nبَيْتٌ ← بَيْتَانِ ← بُيُوتٌ\nفَصْلٌ ← فَصْلَانِ ← فُصُولٌ\nنَجْمٌ ← نَجْمَانِ ← نُجُومٌ",
+            "translation": "Buku/Dua buku/Buku-buku. Rumah/Dua rumah/Rumah-rumah. Kelas/Dua kelas/Kelas-kelas. Bintang/Dua bintang/Bintang-bintang."
+          }
+        },
+        {
+          "icon": "3️⃣",
+          "title": "Muannas Aqil (Perempuan Berakal)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Untuk perempuan: tambah تانِ untuk muthanna, ات untuk jamak:",
+            "arabic": "مُفْرَد: طَبِيبَةٌ\nمُثَنَّى: طَبِيبَتَانِ\nجَمْع: طَبِيبَاتٌ\n\nمُفْرَد: مُعَلِّمَةٌ\nمُثَنَّى: مُعَلِّمَتَانِ\nجَمْع: مُعَلِّمَاتٌ\n\nمُفْرَد: مُؤْمِنَةٌ\nمُثَنَّى: مُؤْمِنَتَانِ\nجَمْع: مُؤْمِنَاتٌ",
+            "translation": "Seorang doktor perempuan / Dua orang doktor perempuan / Ramai doktor perempuan. Seorang guru perempuan / Dua / Ramai. Seorang mukminah / Dua / Ramai."
+          }
+        },
+        {
+          "icon": "4️⃣",
+          "title": "Muannas Ghair Aqil (Benda Perempuan)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Benda muannas: tambah تانِ untuk muthanna, jamak berbeza-beza:",
+            "arabic": "سَاعَةٌ ← سَاعَتَانِ ← سَاعَاتٌ\nدَرَّاجَةٌ ← دَرَّاجَتَانِ ← دَرَّاجَاتٌ\nسَيَّارَةٌ ← سَيَّارَتَانِ ← سَيَّارَاتٌ\nقَرْيَةٌ ← قَرْيَتَانِ ← قُرًى",
+            "translation": "Jam/Dua jam/Jam-jam. Basikal/Dua basikal/Basikal-basikal. Kereta/Dua kereta/Kereta-kereta. Kampung/Dua kampung/Kampung-kampung."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ringkasan cara membentuk muthanna dan jamak:",
+        "arabic": "مُذَكَّر عَاقِل:\nمُفْرَد → مُثَنَّى (+انِ) → جَمْع (+ونَ)\n\nمُذَكَّر غَيْرُ عَاقِل:\nمُفْرَد → مُثَنَّى (+انِ) → جَمْع (تكسير)\n\nمُؤَنَّث:\nمُفْرَد → مُثَنَّى (+تانِ) → جَمْع (+ات)",
+        "translation": "Muzakar aqil: tunggal → dual (+ani) → jamak (+una). Benda muzakar: tunggal → dual (+ani) → jamak (tidak teratur). Muannas: tunggal → dual (+tani) → jamak (+at).",
+        "outro": "Ingat: bahasa Arab ada TIGA bilangan — tunggal, dual, dan jamak!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengingati Mufrad, Muthanna dan Jama'",
+      "items": [
+        "Mufrad (tunggal) = satu. Muthanna (dual) = dua. Jama' (jamak) = tiga atau lebih.",
+        "Muzakar aqil: +انِ (muthanna), +ونَ (jama').",
+        {
+          "type": "arabic",
+          "arabic": "مُسْلِمٌ ← مُسْلِمَانِ ← مُسْلِمُونَ",
+          "translation": "Seorang Muslim ← Dua Muslim ← Ramai Muslim"
+        },
+        "Muannas: +تانِ (muthanna), +ات (jama').",
+        {
+          "type": "arabic",
+          "arabic": "مُسْلِمَةٌ ← مُسْلِمَتَانِ ← مُسْلِمَاتٌ",
+          "translation": "Seorang Muslimah ← Dua Muslimah ← Ramai Muslimah"
+        },
+        "Jamak benda (taksir) tidak teratur — kena hafaz satu-satu!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah muthanna bagi مُعَلِّمٌ (guru lelaki)?",
+      "options": [
+        "مُعَلِّمُونَ",
+        "مُعَلِّمَانِ",
+        "مُعَلِّمَاتٌ",
+        "مُعَلِّمَيْنِ"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah jamak bagi طَبِيبَةٌ (doktor perempuan)?",
+      "options": [
+        "طَبِيبَتَانِ",
+        "طَبِيبُونَ",
+        "طَبِيبَاتٌ",
+        "أَطِبَّاء"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa bilangan yang diwakili oleh مُثَنَّى dalam bahasa Arab?",
+      "options": [
+        "Satu",
+        "Dua",
+        "Tiga",
+        "Tiga atau lebih"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah jamak bagi كِتَابٌ (buku)?",
+      "options": [
+        "كِتَابَانِ",
+        "كِتَابَاتٌ",
+        "كُتُبٌ",
+        "كِتَابُونَ"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Bilangan", "colour": "#1565C0" },
+      { "id": "n2", "label": "مُفْرَد (1)", "colour": "#1976D2" },
+      { "id": "n3", "label": "مُثَنَّى (2)", "colour": "#1976D2" },
+      { "id": "n4", "label": "جَمْع (3+)", "colour": "#1976D2" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "tunggal" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "dual" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "jamak" },
+      { "id": "e4", "source": "n2", "target": "n3", "label": "+انِ" },
+      { "id": "e5", "source": "n3", "target": "n4", "label": "+ونَ/ات" }
+    ]
+  },
+  "vocab": [
+    { "word": "مُفْرَد", "meaning": "tunggal — satu" },
+    { "word": "مُثَنَّى", "meaning": "dual — dua" },
+    { "word": "جَمْع", "meaning": "jamak — tiga atau lebih" },
+    { "word": "جَمْع تَكْسِير", "meaning": "jamak tidak teratur (seperti كُتُب)" },
+    { "word": "جَمْع سَالِم", "meaning": "jamak teratur (+ون atau +ات)" }
+  ],
+  "funFact": "Tahukah kamu bahawa bahasa Arab mempunyai kategori bilangan yang unik dipanggil 'dual' (muthanna)? Kebanyakan bahasa di dunia hanya ada dua kategori: tunggal dan jamak. Tetapi bahasa Arab mempunyai TIGA — dan penggunaannya sangat spesifik: muthanna HANYA untuk dua, tidak boleh digunakan untuk tiga atau lebih! Ini adalah salah satu ciri khas bahasa Arab yang tidak ada dalam bahasa Melayu."
+}

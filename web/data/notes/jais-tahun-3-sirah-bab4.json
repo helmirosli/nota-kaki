@@ -1,0 +1,176 @@
+{
+  "id": "jais-tahun-3-sirah-bab4",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "sirah",
+  "chapter": 4,
+  "title": "Kehidupan Bermasyarakat Nabi Muhammad SAW",
+  "emoji": "🐑",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Nabi Muhammad SAW dalam Kehidupan Bermasyarakat",
+      "body": "Sebelum diangkat menjadi Nabi, Muhammad SAW telah menjalani kehidupan bermasyarakat yang penuh dengan nilai akhlak yang tinggi. Baginda pernah mengembala kambing dan berniaga — dua pekerjaan yang mengajar nilai amanah, sabar, dan bertanggungjawab."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🐑",
+          "title": "Mengembala Kambing",
+          "body": {
+            "type": "list",
+            "intro": "Kisah Nabi Muhammad SAW mengembala kambing:",
+            "items": [
+              "Baginda mengembala kambing milik penduduk Makkah ketika masih muda",
+              "Pekerjaan ini mengajar nilai sabar, bertanggungjawab, dan amanah",
+              "Baginda menjaga kambing dengan penuh dedikasi dan tidak mengabaikannya",
+              "Para Nabi terdahulu seperti Nabi Musa dan Nabi Daud juga pernah mengembala kambing",
+              "Ini menunjukkan bahawa kerja yang kelihatan kecil pun mengandungi nilai besar"
+            ]
+          }
+        },
+        {
+          "icon": "🏪",
+          "title": "Berniaga — Pekerjaan Bersama Khadijah",
+          "body": {
+            "type": "list",
+            "intro": "Kisah Nabi Muhammad SAW berniaga:",
+            "items": [
+              "Baginda berniaga bersama Khadijah binti Khuwaylid ke Syam",
+              "Khadijah mengupah Baginda kerana terkenal dengan sifat amanah",
+              "Baginda menjalankan perniagaan dengan jujur, adil, dan tidak menipu",
+              "Keuntungan niaga meningkat kerana berkat sifat amanah Baginda",
+              "Khadijah akhirnya melamar Baginda untuk berkahwin"
+            ]
+          }
+        },
+        {
+          "icon": "📜",
+          "title": "Cara Pergaulan Nabi dengan Orang Lain",
+          "body": {
+            "type": "list",
+            "intro": "Bagaimana Nabi Muhammad SAW bergaul dengan masyarakat:",
+            "items": [
+              "Selalu memberi salam kepada semua orang",
+              "Tidak membeza-bezakan kaya atau miskin, tua atau muda",
+              "Menghormati semua orang tanpa mengira kedudukan",
+              "Suka mendengar masalah orang lain dan membantu menyelesaikannya",
+              "Tidak pernah angkuh atau sombong walaupun dihormati ramai"
+            ]
+          }
+        },
+        {
+          "icon": "🤝",
+          "title": "Cara Pergaulan dengan Sahabat",
+          "body": {
+            "type": "list",
+            "intro": "Bagaimana Nabi Muhammad SAW bergaul dengan sahabat-sahabatnya:",
+            "items": [
+              "Menghormati dan memuliakan sahabat",
+              "Menepati janji yang dibuat bersama sahabat",
+              "Menziarahi sahabat yang sakit",
+              "Bergurau senda dengan cara yang tidak menyakiti hati",
+              "Sentiasa mendoakan kebaikan untuk sahabat"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Rasulullah SAW bersabda tentang pentingnya amanah dalam berniaga:",
+        "arabic": "التَّاجِرُ الصَّدُوقُ الأَمِينُ مَعَ النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاءِ",
+        "translation": "Pedagang yang jujur dan amanah akan bersama-sama para Nabi, orang-orang benar, dan para syuhada (di syurga).",
+        "source": "Hadis Riwayat al-Tirmidhi",
+        "outro": "Jadilah pelajar yang amanah dalam semua perkara — itu adalah sunnah Rasulullah SAW!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Iktibar daripada Kehidupan Bermasyarakat Nabi SAW",
+      "items": [
+        "Lakukan setiap pekerjaan dengan penuh amanah dan tanggungjawab — walaupun kecil.",
+        "Bersikap jujur dalam semua urusan — jangan menipu.",
+        "Hormati semua orang tanpa mengira status atau kedudukan.",
+        {
+          "type": "arabic",
+          "arabic": "التَّاجِرُ الصَّدُوقُ الأَمِينُ مَعَ النَّبِيِّينَ",
+          "translation": "Pedagang yang jujur akan bersama para Nabi di syurga."
+        },
+        "Suka memberi salam dan bergaul dengan baik dengan semua orang.",
+        "Tolong-menolong dalam kebaikan seperti yang diajarkan Rasulullah SAW."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah pekerjaan Nabi Muhammad SAW ketika masih muda?",
+      "options": [
+        "Membuat senjata",
+        "Mengembala kambing dan berniaga",
+        "Mengajar agama",
+        "Bertani"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Mengapa Khadijah mengupah Nabi Muhammad SAW untuk berniaga?",
+      "options": [
+        "Kerana Baginda kaya",
+        "Kerana Baginda terkenal dengan sifat amanah",
+        "Kerana Baginda pandai berbahasa asing",
+        "Kerana Baginda adalah keturunan raja"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah nilai yang dipelajari dari pekerjaan mengembala kambing?",
+      "options": [
+        "Kekayaan dan kemewahan",
+        "Sabar, bertanggungjawab, dan amanah",
+        "Kuasa dan pengaruh",
+        "Kemasyhuran dan pujian"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Menurut hadis, pedagang yang jujur dan amanah akan bersama siapa di syurga?",
+      "options": [
+        "Para malaikat",
+        "Para raja",
+        "Para Nabi, orang benar, dan syuhada",
+        "Para hafiz al-Quran"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Muhammad SAW", "colour": "#FF6F00" },
+      { "id": "n2", "label": "Mengembala", "colour": "#FF8F00" },
+      { "id": "n3", "label": "Berniaga", "colour": "#FF8F00" },
+      { "id": "n4", "label": "Khadijah", "colour": "#FFA000" },
+      { "id": "n5", "label": "Amanah & Jujur", "colour": "#FFD54F" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "pekerjaan" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "pekerjaan" },
+      { "id": "e3", "source": "n4", "target": "n3", "label": "majikan" },
+      { "id": "e4", "source": "n5", "target": "n1", "label": "sifat" }
+    ]
+  },
+  "vocab": [
+    { "word": "رَعَى الْغَنَم", "meaning": "mengembala kambing" },
+    { "word": "تَاجِر", "meaning": "pedagang / peniaga" },
+    { "word": "أَمَانَة", "meaning": "amanah" },
+    { "word": "صِدْق", "meaning": "jujur / benar" },
+    { "word": "خَدِيجَة", "meaning": "Khadijah — isteri pertama Nabi" }
+  ],
+  "funFact": "Tahukah kamu bahawa ramai Nabi pernah mengembala kambing? Nabi Musa, Nabi Ibrahim, Nabi Daud, dan Nabi Muhammad SAW semuanya pernah mengembala! Para ulama mengatakan Allah melatih para Nabi melalui pekerjaan ini kerana ia mengajar kesabaran, tanggungjawab, dan menjaga amanah — sifat-sifat yang diperlukan seorang pemimpin umat."
+}

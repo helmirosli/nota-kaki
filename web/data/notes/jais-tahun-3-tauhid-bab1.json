@@ -1,0 +1,145 @@
+{
+  "id": "jais-tahun-3-tauhid-bab1",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "tauhid",
+  "chapter": 1,
+  "title": "Beriman kepada Rasul",
+  "emoji": "⭐",
+  "colour": "#FFB300",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Rukun Iman Keempat — Beriman kepada Rasul",
+      "body": "Beriman kepada Rasul adalah Rukun Iman yang keempat. Ia bermaksud mempercayai bahawa para Rasul adalah lelaki mulia yang diutuskan oleh Allah untuk menyampaikan wahyu kepada umat manusia dan jin. Sesiapa yang tidak beriman kepada Rasul adalah kafir."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Pengertian Beriman kepada Rasul",
+          "body": "Beriman kepada Rasul bermaksud percaya bahawa Rasul adalah seorang lelaki mulia yang diutus oleh Allah untuk menyampaikan wahyu kepada umat manusia dan jin. Rukun Iman keempat adalah beriman kepada Rasul Allah."
+        },
+        {
+          "icon": "⚖️",
+          "title": "Hukum Beriman kepada Rasul",
+          "body": {
+            "type": "list",
+            "intro": "Hukum beriman kepada Rasul:",
+            "items": [
+              "Wajib (Fardu Ain) ke atas setiap Muslim",
+              "Sesiapa yang tidak beriman kepada Rasul adalah kafir",
+              "Pengutusannya adalah kepada semua umat manusia dan jin"
+            ]
+          }
+        },
+        {
+          "icon": "📜",
+          "title": "Dalil — Surah al-Baqarah: 285",
+          "body": {
+            "type": "arabic",
+            "instruction": "Allah berfirman tentang iman Rasulullah SAW dan orang beriman kepada para Rasul:",
+            "arabic": "آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ",
+            "translation": "Rasulullah telah beriman dengan apa yang diturunkan kepadanya dari Tuhannya, dan juga orang-orang yang beriman; semuanya beriman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya dan Rasul-rasul-Nya.",
+            "source": "Surah al-Baqarah: 285"
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Keistimewaan Para Rasul",
+          "body": {
+            "type": "list",
+            "intro": "Keistimewaan yang dimiliki oleh para Rasul:",
+            "items": [
+              "Dipilih oleh Allah dari kalangan lelaki yang mulia",
+              "Menerima wahyu dari Allah",
+              "Diperintah untuk menyampaikan wahyu kepada umat",
+              "Memiliki akhlak yang mulia dan teladan terbaik",
+              "Contoh: Nabi Sulaiman boleh berkomunikasi dengan haiwan"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "list",
+        "intro": "Cara mengucapkan selawat ke atas Nabi Muhammad SAW:",
+        "items": [
+          "Setiap kali nama Nabi disebut, ucapkan selawat.",
+          "Selawat adalah amalan mulia yang mendekatkan kita kepada Rasul"
+        ],
+        "outro": "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ — Ya Allah, limpahkanlah selawat ke atas Muhammad dan keluarga Muhammad."
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengamalkan Iman kepada Rasul",
+      "items": [
+        "Hafaz nama 25 Rasul yang wajib diketahui.",
+        "Amalkan sunnah Rasulullah SAW dalam kehidupan seharian.",
+        "Ucapkan selawat setiap kali nama Nabi disebut.",
+        {
+          "type": "arabic",
+          "arabic": "آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ",
+          "translation": "Rasulullah telah beriman dengan apa yang diturunkan kepadanya dari Tuhannya."
+        },
+        "Hormati ajaran Rasul dengan melaksanakan perintahnya dan meninggalkan larangannya."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Beriman kepada Rasul adalah Rukun Iman yang ke berapa?",
+      "options": ["Ke-3", "Ke-4", "Ke-5", "Ke-6"],
+      "answer": 1
+    },
+    {
+      "q": "Apakah maksud beriman kepada Rasul?",
+      "options": [
+        "Menghafaz nama semua Rasul",
+        "Percaya Rasul adalah lelaki mulia yang diutuskan Allah",
+        "Membaca kisah para Rasul",
+        "Meniru cara hidup Rasul sahaja"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah hukum beriman kepada Rasul?",
+      "options": ["Sunat", "Harus", "Wajib (Fardu Ain)", "Makruh"],
+      "answer": 2
+    },
+    {
+      "q": "Dalil beriman kepada Rasul terdapat dalam Surah al-Baqarah ayat?",
+      "options": ["153", "255", "285", "286"],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Rukun Iman ke-4", "colour": "#FFB300" },
+      { "id": "n2", "label": "Beriman kpd Rasul", "colour": "#FFA000" },
+      { "id": "n3", "label": "Wahyu Allah", "colour": "#FFD54F" },
+      { "id": "n4", "label": "Umat Manusia & Jin", "colour": "#FFCC02" },
+      { "id": "n5", "label": "Kafir jika ingkar", "colour": "#C62828" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "ialah" },
+      { "id": "e2", "source": "n2", "target": "n3", "label": "menyampai" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "kepada" },
+      { "id": "e4", "source": "n5", "target": "n2", "label": "jika tolak" }
+    ]
+  },
+  "vocab": [
+    { "word": "رَسُول", "meaning": "Rasul — utusan Allah" },
+    { "word": "نَبِي", "meaning": "Nabi — yang menerima wahyu" },
+    { "word": "وَحْي", "meaning": "wahyu — firman Allah kepada Nabi" },
+    { "word": "إِيمَان", "meaning": "iman / kepercayaan" },
+    { "word": "كَافِر", "meaning": "kafir — yang ingkar" }
+  ],
+  "funFact": "Tahukah kamu bahawa jumlah Nabi dan Rasul yang Allah utuskan sangat ramai? Dalam satu hadis, disebutkan lebih 100,000 Nabi! Tetapi yang wajib kita ketahui ada 25 orang sahaja. Daripada 25 itu, hanya 5 yang digelar Ulul Azmi — Rasul paling tabah."
+}

@@ -1,0 +1,161 @@
+{
+  "id": "jais-tahun-3-imlak-bab3",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "imlak",
+  "chapter": 3,
+  "title": "Kalimah Isim Mufrad Muannas",
+  "emoji": "✍️",
+  "colour": "#009688",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "كَلِمَة اسْم مُفْرَد مُؤَنَّث — Isim Mufrad Muannas",
+      "body": "Isim Mufrad Muannas ialah kata nama tunggal yang merujuk kepada jantina perempuan. Cara mengenal isim muannas: biasanya mempunyai huruf ta' marbutah (ة) di akhirnya. Huruf sebelum ta' marbutah sentiasa berbaris fathah."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Cara Membentuk Isim Mufrad Muannas",
+          "body": {
+            "type": "arabic",
+            "instruction": "Cara membentuk isim mufrad muannas — tambah ta' marbutah (ة) di akhir isim mufrad muzakar:",
+            "arabic": "مُذَكَّر → مُؤَنَّث:\nعَالِمٌ → عَالِمَةٌ\nمُسْلِمٌ → مُسْلِمَةٌ\nمُعَلِّمٌ → مُعَلِّمَةٌ\nتِلْمِيذٌ → تِلْمِيذَةٌ",
+            "translation": "Muzakar → Muannas: ulama (lelaki) → ulama (perempuan) / muslim → muslimah / guru (lelaki) → guru (perempuan) / murid (lelaki) → murid (perempuan)",
+            "outro": "Huruf sebelum ta' marbutah (ة) sentiasa berbaris fathah."
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Senarai Kalimah Isim Mufrad Muannas",
+          "body": {
+            "type": "arabic",
+            "instruction": "Baca dan hafaz kalimah-kalimah berikut:",
+            "arabic": "صَادِقَةٌ — قَائِمَةٌ — صَاحِبَةٌ\nمُؤْمِنَةٌ — مَدْرَسَةٌ — مَرِيضَةٌ\nجَرِيدَةٌ — سَلِيمَةٌ — حَبِيبَةٌ\nعَالِمَةٌ — مُسْلِمَةٌ — مُعَلِّمَةٌ",
+            "translation": "yang benar (pr) — yang berdiri (pr) — sahabat (pr) / mukminah — sekolah — yang sakit (pr) / surat khabar — yang sejahtera (pr) — kekasih (pr) / ulama (pr) — muslimah — guru (pr)"
+          }
+        },
+        {
+          "icon": "📚",
+          "title": "Lebih Banyak Kalimah Muannas",
+          "body": {
+            "type": "arabic",
+            "instruction": "Kalimah isim mufrad muannas yang lain:",
+            "arabic": "مِمْسَحَةٌ — مِرْوَحَةٌ — مِكْنَسَةٌ\nمِسْطَرَةٌ — خَرِيطَةٌ — سَبُّورَةٌ\nشَجَرَةٌ — وَرْدَةٌ — زَهْرَةٌ\nبَقَرَةٌ — حَقِيبَةٌ — طَالِبَةٌ",
+            "translation": "penyapu — kipas — penyapu lantai / pembaris — peta — papan tulis / pokok — bunga ros — bunga / lembu betina — beg — pelajar perempuan"
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "Cara Mengenal Isim Mufrad Muannas",
+          "body": {
+            "type": "list",
+            "intro": "Ciri-ciri isim mufrad muannas:",
+            "items": [
+              "Bilangan: satu (mufrad)",
+              "Jantina: perempuan (muannas)",
+              "Biasanya berakhir dengan ta' marbutah (ة)",
+              "Huruf sebelum (ة) berbaris fathah",
+              "Kata ganti nama: هِيَ (dia perempuan) atau هَذِهِ (ini) atau تِلْكَ (itu)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "arabic",
+        "instruction": "Rumus penting Isim Mufrad Muannas:",
+        "arabic": "اسم مفرد مذكر + ة = اسم مفرد مؤنث\nمثال:\nمُسْلِمٌ + ة = مُسْلِمَةٌ\nمُعَلِّمٌ + ة = مُعَلِّمَةٌ",
+        "translation": "Isim mufrad muzakar + ta' marbutah (ة) = isim mufrad muannas. Contoh: muslim + ة = muslimah, mu'allim + ة = mu'allimah.",
+        "outro": "Lihat huruf (ة) di akhir kalimah — itulah tanda isim mufrad muannas!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menulis Isim Mufrad Muannas",
+      "items": [
+        "Isim mufrad muannas adalah kata nama tunggal berjantina perempuan.",
+        "Biasanya berakhir dengan ta' marbutah (ة).",
+        {
+          "type": "arabic",
+          "arabic": "مُعَلِّمَةٌ — مُسْلِمَةٌ — طَالِبَةٌ",
+          "translation": "Guru (perempuan) — muslimah — pelajar perempuan (semua ada ة)"
+        },
+        "Huruf sebelum ta' marbutah (ة) mestilah berbaris fathah.",
+        "Kata ganti nama: هِيَ (hiya = dia perempuan), هَذِهِ (hazihi = ini), تِلْكَ (tilka = itu).",
+        "Latih menulis setiap kalimah mufrad muannas dengan teliti."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah tanda utama isim mufrad muannas?",
+      "options": [
+        "Berakhir dengan (انِ)",
+        "Berakhir dengan (ونَ)",
+        "Berakhir dengan ta' marbutah (ة)",
+        "Berakhir dengan (اتٌ)"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah bentuk muannas bagi kalimah 'مُسْلِمٌ'?",
+      "options": [
+        "مُسْلِمَانِ",
+        "مُسْلِمَةٌ",
+        "مُسْلِمُونَ",
+        "مُسْلِمَاتٌ"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kata ganti nama untuk isim mufrad muannas ialah?",
+      "options": [
+        "هُوَ",
+        "هُمَا",
+        "هِيَ",
+        "هُمْ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kalimah 'مُعَلِّمَةٌ' bermaksud...",
+      "options": [
+        "Guru lelaki",
+        "Dua orang guru",
+        "Guru perempuan",
+        "Ramai guru"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Isim Mufrad Muannas", "colour": "#009688" },
+      { "id": "n2", "label": "Isim Mufrad Muzakar", "colour": "#00897B" },
+      { "id": "n3", "label": "Tambah (ة)", "colour": "#26A69A" },
+      { "id": "n4", "label": "Jantina Perempuan", "colour": "#4DB6AC" },
+      { "id": "n5", "label": "هِيَ / هَذِهِ", "colour": "#80CBC4" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n2", "target": "n3", "label": "+" },
+      { "id": "e2", "source": "n3", "target": "n1", "label": "=" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "makna" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "kata ganti" }
+    ]
+  },
+  "vocab": [
+    { "word": "مُؤَنَّث", "meaning": "muannas / jantina perempuan" },
+    { "word": "تَاء مَرْبُوطَة", "meaning": "ta' marbutah — huruf (ة) penanda muannas" },
+    { "word": "مُعَلِّمَةٌ", "meaning": "guru perempuan" },
+    { "word": "مُسْلِمَةٌ", "meaning": "perempuan muslim" },
+    { "word": "طَالِبَةٌ", "meaning": "pelajar perempuan" }
+  ],
+  "funFact": "Tahukah kamu bahawa huruf ta' marbutah (ة) adalah huruf khas dalam bahasa Arab yang tidak terdapat dalam bahasa lain? Ia kelihatan seperti huruf ha' (ه) dengan dua titik di atasnya. Menariknya, huruf ini berbunyi 'ah' apabila kita berhenti membaca, tetapi berbunyi 't' apabila disambung dengan perkataan selepasnya. Contohnya 'madrasah' bila berhenti, dan 'madrasatu' bila disambung!"
+}

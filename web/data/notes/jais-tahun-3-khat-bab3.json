@@ -1,0 +1,168 @@
+{
+  "id": "jais-tahun-3-khat-bab3",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "khat",
+  "chapter": 3,
+  "title": "Huruf Alif (ا) Tunggal dalam Khat Naskh",
+  "emoji": "🖊️",
+  "colour": "#795548",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "حروف اليف ا — Menulis Huruf Alif dalam Khat Naskh",
+      "body": "Huruf alif (ا) adalah huruf pertama dalam abjad Arab dan Jawi. Ia adalah huruf yang paling asas dalam khat Naskh — berupa garisan menegak lurus. Sebelum mempelajari huruf-huruf lain, pelajar mesti menguasai cara menulis alif dengan sempurna terlebih dahulu."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "ا",
+          "title": "Bentuk Huruf Alif (ا)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ciri-ciri huruf alif dalam Khat Naskh:",
+            "arabic": "ا\n— ڬاريسن ميڬتق لورس\n— تيدق بولي سمبوڠ كڤد حروف سلڤسڽ\n— تيڠڬي = ٥ تيتيق\n— ليبر = ١ تيتيق",
+            "translation": "Alif: garisan menegak lurus. Tidak boleh disambung kepada huruf selepasnya. Tinggi = 5 titik. Lebar = 1 titik.",
+            "outro": "Alif adalah huruf yang paling simple — satu garisan menegak lurus sahaja!"
+          }
+        },
+        {
+          "icon": "📏",
+          "title": "Ukuran Huruf Alif",
+          "body": {
+            "type": "list",
+            "intro": "Ukuran huruf alif dalam Khat Naskh:",
+            "items": [
+              "Tinggi alif = 5 titik (lima titik bertindih menegak)",
+              "Lebar alif = 1 titik (lebar satu tekan kalam)",
+              "Alif mesti lurus menegak — tidak boleh condong ke kiri atau kanan",
+              "Hujung atas alif sedikit lebih tebal dari hujung bawah",
+              "Saiz alif menjadi rujukan untuk ukuran semua huruf lain"
+            ]
+          }
+        },
+        {
+          "icon": "✏️",
+          "title": "Cara Menulis Huruf Alif",
+          "body": {
+            "type": "list",
+            "intro": "Langkah-langkah menulis huruf alif dengan betul:",
+            "items": [
+              "Langkah 1: Tandakan titik mula di atas (setinggi 5 titik)",
+              "Langkah 2: Gerakkan kalam ke bawah secara menegak lurus",
+              "Langkah 3: Berhenti apabila sampai ke garisan asas (baseline)",
+              "Langkah 4: Angkat kalam — jangan ada liku atau lengkung",
+              "Langkah 5: Semak: adakah alif lurus menegak? Tinggi 5 titik?",
+              "Ulang sehingga konsisten dan cantik"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Kesilapan Biasa",
+          "body": {
+            "type": "list",
+            "intro": "Kesilapan yang perlu dielakkan semasa menulis alif:",
+            "items": [
+              "Alif condong ke kiri atau kanan — mesti benar-benar menegak",
+              "Terlalu pendek atau terlalu panjang — mesti tepat 5 titik",
+              "Lebar tidak seragam — hujung atas terlalu lebar atau sempit",
+              "Garisan berliku atau berombak — alif mesti lurus sempurna",
+              "Menggerakkan kalam dari bawah ke atas — mesti dari atas ke bawah"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "ا",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ingatan penting tentang Huruf Alif dalam Khat Naskh:",
+        "arabic": "ا = ڬاريسن ميڬتق لورس\nتيڠڬي = ٥ تيتيق\nاراه: داري اتس كه باوه",
+        "translation": "Alif = garisan menegak lurus. Tinggi = 5 titik. Arah menulis: dari atas ke bawah.",
+        "outro": "Kuasai alif dahulu — ia adalah asas semua huruf dalam khat!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Berlatih Menulis Alif",
+      "items": [
+        "Lukis garisan panduan (baris atas dan baris bawah) dengan pembaris.",
+        "Tandakan jarak 5 titik pada garisan panduan.",
+        "Mula dari atas — gerakkan kalam ke bawah secara lurus menegak.",
+        "Berhenti tepat pada garisan bawah.",
+        "Latih menulis 10 alif berturutan dalam satu baris.",
+        "Bandingkan dengan contoh — betulkan jika ada yang condong atau tidak seragam."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapakah tinggi huruf alif (ا) dalam Khat Naskh?",
+      "options": [
+        "3 titik",
+        "4 titik",
+        "5 titik",
+        "7 titik"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Ke arah mana kalam digerakkan ketika menulis huruf alif?",
+      "options": [
+        "Dari kiri ke kanan",
+        "Dari bawah ke atas",
+        "Dari atas ke bawah",
+        "Dari kanan ke kiri"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bentuk huruf alif dalam Khat Naskh ialah?",
+      "options": [
+        "Garisan melengkung ke kanan",
+        "Garisan menegak lurus",
+        "Garisan mendatar lurus",
+        "Garisan condong 45°"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Bolehkah huruf alif disambung kepada huruf selepasnya?",
+      "options": [
+        "Ya, boleh disambung",
+        "Tidak boleh disambung",
+        "Hanya boleh disambung di awal kata",
+        "Bergantung kepada huruf selepasnya"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Huruf Alif (ا)", "colour": "#795548" },
+      { "id": "n2", "label": "Garisan Menegak Lurus", "colour": "#6D4C41" },
+      { "id": "n3", "label": "Tinggi = 5 Titik", "colour": "#5D4037" },
+      { "id": "n4", "label": "Atas ke Bawah", "colour": "#4E342E" },
+      { "id": "n5", "label": "Tidak Bersambung", "colour": "#8D6E63" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "bentuk" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "ukuran" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "arah tulis" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "ciri" }
+    ]
+  },
+  "vocab": [
+    { "word": "اليف", "meaning": "alif — huruf pertama abjad Arab/Jawi" },
+    { "word": "ڬاريسن ميڬتق", "meaning": "garisan menegak — vertical line" },
+    { "word": "ڬاريس اساس", "meaning": "garisan asas — baseline dalam khat" },
+    { "word": "تيڠڬي", "meaning": "tinggi — height" },
+    { "word": "ليبر", "meaning": "lebar — width" }
+  ],
+  "funFact": "Tahukah kamu bahawa huruf alif (ا) dalam pelbagai gaya khat Arab boleh nampak sangat berbeza? Dalam Khat Naskh ia lurus menegak, dalam Khat Riq'ah ia condong sedikit, dalam Khat Diwani ia boleh sangat melengkung! Namun demikian, dalam semua gaya khat, alif tetap menjadi huruf yang paling asas dan pelajar khat mesti menguasainya terlebih dahulu. Ada pepatah dalam kaligrafi: 'Sesiapa yang menguasai alif, telah menguasai separuh khat!'"
+}

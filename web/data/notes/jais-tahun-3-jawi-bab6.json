@@ -1,0 +1,177 @@
+{
+  "id": "jais-tahun-3-jawi-bab6",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "jawi",
+  "chapter": 6,
+  "title": "Diftong — ai, au, oi",
+  "emoji": "✒️",
+  "colour": "#FF9800",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "ديفتوغ — Diftong dalam Tulisan Jawi",
+      "body": "Diftong ialah gabungan dua huruf vokal yang dilafazkan sebagai satu sukukata. Bahasa Melayu mempunyai tiga diftong: ai, au, dan oi. Dalam penulisan Jawi, setiap diftong mempunyai cara ejaan yang berbeza bergantung kepada kedudukannya dalam perkataan."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🔤",
+          "title": "Diftong 'ai' dalam Jawi",
+          "body": {
+            "type": "list",
+            "intro": "Cara menulis diftong 'ai' dalam Jawi:",
+            "items": [
+              "Diftong 'ai' di tengah dan akhir perkataan → ditulis dengan 'اي'",
+              "Diftong 'ai' di awal perkataan → ditulis dengan 'اءي'",
+              "Contoh di tengah/akhir: lambai=لمباي, rambai=رمباي, tupai=توڤاي",
+              "Contoh di tengah/akhir: permaidani=ڤرمايداني, mahligai=مهليڬاي",
+              "Contoh di awal: aiskrim=ايسکريم, aising=ايسيغ, aileron=ايلرون",
+              "Contoh lain: ampai=امڤاي, pandai=ڤنداي, pantai=ڤنتاي, damai=داماي"
+            ]
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Diftong 'au' dalam Jawi",
+          "body": {
+            "type": "list",
+            "intro": "Cara menulis diftong 'au' dalam Jawi:",
+            "items": [
+              "Diftong 'au' di tengah dan akhir perkataan → ditulis dengan 'او'",
+              "Diftong 'au' di awal perkataan → ditulis dengan 'اءو'",
+              "Contoh di tengah/akhir: bakau=باكاو, danau=داناو, bajau=باجاو",
+              "Contoh di tengah/akhir: gurau=ڬوراو, jauhari=جاوهاري, garau=ڬاراو",
+              "Contoh di awal: audit=اءوديت, automatik=اءوتوماتيک, audio=اءوديو",
+              "Contoh lain: saudara=ساودارا, kacau=كاچاو, pulau=ڤولاو"
+            ]
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Diftong 'oi' dalam Jawi",
+          "body": {
+            "type": "list",
+            "intro": "Cara menulis diftong 'oi' dalam Jawi:",
+            "items": [
+              "Diftong 'oi' di tengah dan akhir perkataan → ditulis dengan 'وي'",
+              "Diftong 'oi' di awal perkataan → ditulis dengan 'اووي'",
+              "Contoh di tengah/akhir: amboi=امبوي, sekoi=سکوي, boroi=بوروي",
+              "Contoh di tengah/akhir: adoi=ادوي, kaloi=كالوي, koboi=كوبوي",
+              "Contoh di tengah/akhir: dodoi=دودوي, tomoi=تومووي",
+              "Contoh di awal: oidium=اووي ديوم",
+              "Contoh lain: boikot=بويکوت, konvoi=كوڤوي"
+            ]
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "Ringkasan Tiga Diftong",
+          "body": {
+            "type": "list",
+            "intro": "Ringkasan cara penulisan tiga diftong dalam Jawi:",
+            "items": [
+              "Diftong 'ai' → ditulis اي (tengah/akhir) atau اءي (di awal)",
+              "Diftong 'au' → ditulis او (tengah/akhir) atau اءو (di awal)",
+              "Diftong 'oi' → ditulis وي (tengah/akhir) atau اووي (di awal)",
+              "Diftong ialah dua vokal yang disebut dengan SATU lonjokan suara",
+              "Berbeza dengan dua vokal biasa yang disebut sebagai dua sukukata berasingan"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "list",
+        "intro": "Ringkasan penting Diftong dalam Jawi:",
+        "items": [
+          "ai: اي (tengah/akhir) / اءي (awal) — contoh: pandai=ڤنداي, aiskrim=ايسکريم",
+          "au: او (tengah/akhir) / اءو (awal) — contoh: pulau=ڤولاو, audio=اءوديو",
+          "oi: وي (tengah/akhir) / اووي (awal) — contoh: koboi=كوبوي, oidium=اووي ديوم"
+        ],
+        "outro": "Diftong disebut sebagai SATU sukukata dengan satu lonjokan suara!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menulis Diftong dalam Jawi",
+      "items": [
+        "Kenal pasti diftong dalam perkataan: ai, au, atau oi?",
+        "Tentukan kedudukan diftong: di awal, tengah, atau akhir perkataan?",
+        "Jika di tengah atau akhir: tulis diftong ai=اي, au=او, oi=وي.",
+        "Jika di awal perkataan: tambah alif dan hamzah sebelumnya (اءي, اءو, اووي).",
+        "Latih membaca dan menulis perkataan-perkataan yang mengandungi diftong."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah itu diftong?",
+      "options": [
+        "Satu huruf vokal sahaja",
+        "Dua konsonan yang disebut bersama",
+        "Gabungan dua vokal yang disebut sebagai satu sukukata",
+        "Tiga vokal berturutan"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Perkataan 'pandai' dalam Jawi ditulis sebagai?",
+      "options": [
+        "ڤنداءي",
+        "ڤنداي",
+        "ڤنداو",
+        "ڤندي"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan 'pulau' dalam Jawi ditulis sebagai?",
+      "options": [
+        "ڤولاي",
+        "ڤولاو",
+        "ڤولاو",
+        "ڤولوي"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Diftong 'oi' di akhir perkataan ditulis dalam Jawi dengan?",
+      "options": [
+        "اي",
+        "او",
+        "وي",
+        "ءي"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Diftong", "colour": "#FF9800" },
+      { "id": "n2", "label": "ai → اي", "colour": "#F57C00" },
+      { "id": "n3", "label": "au → او", "colour": "#FB8C00" },
+      { "id": "n4", "label": "oi → وي", "colour": "#FFA726" },
+      { "id": "n5", "label": "Di awal: اءي اءو اووي", "colour": "#FFB74D" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "jenis" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "di awal" }
+    ]
+  },
+  "vocab": [
+    { "word": "ديفتوغ", "meaning": "diftong — gabungan dua vokal satu sukukata" },
+    { "word": "ڤنداي", "meaning": "pandai — bijak/mahir" },
+    { "word": "ڤولاو", "meaning": "pulau — pulau di laut" },
+    { "word": "امبوي", "meaning": "amboi — kata seru kekaguman" },
+    { "word": "كوبوي", "meaning": "koboi — cowboy" }
+  ],
+  "funFact": "Tahukah kamu bahawa diftong adalah salah satu ciri khas bunyi bahasa Melayu? Dalam bahasa Inggeris pun ada diftong seperti dalam perkataan 'time' (t-ai-m) dan 'house' (h-au-s). Menariknya, bunyi diftong 'ai' dan 'au' dalam bahasa Melayu adalah antara yang paling mudah disebut dalam kalangan penutur bahasa lain yang belajar bahasa Melayu. Ini menunjukkan bahawa bunyi bahasa Melayu adalah sangat semula jadi dan mudah!"
+}

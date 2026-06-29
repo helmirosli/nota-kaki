@@ -1,0 +1,171 @@
+{
+  "id": "jais-tahun-3-tajwid-bab5",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "tajwid",
+  "chapter": 5,
+  "title": "Pengenalan Rasm Uthmani",
+  "emoji": "📜",
+  "colour": "#2E7D32",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "رَسۡم عُثۡمَانِي — Rasm Uthmani",
+      "body": "Rasm Uthmani ialah sistem penulisan al-Quran yang bermula sejak zaman Khalifah Uthman bin Affan RA. Ia adalah penulisan al-Quran yang diiktiraf dan digunakan oleh umat Islam di seluruh dunia hingga hari ini sebagai cara menjaga al-Quran dari sebarang perubahan."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📚",
+          "title": "Pengertian Rasm Uthmani",
+          "body": {
+            "type": "list",
+            "intro": "Apakah itu Rasm Uthmani?",
+            "items": [
+              "Rasm Uthmani adalah satu bentuk penulisan al-Quran yang mempunyai kaedah khusus",
+              "Ia digunakan bermula zaman Khalifah Uthman bin Affan RA",
+              "Berbeza sedikit dengan penulisan biasa (Imlai) dalam beberapa perkataan",
+              "Ia adalah cara penulisan yang disepakati oleh para sahabat Nabi SAW",
+              "Tujuannya: menyatukan umat Islam dalam satu cara pembacaan al-Quran"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Sejarah Ringkas Rasm Uthmani",
+          "body": {
+            "type": "list",
+            "intro": "Bagaimana Rasm Uthmani terbentuk:",
+            "items": [
+              "Selepas Islam berkembang luas, timbul perselisihan dalam cara membaca al-Quran",
+              "Khalifah Uthman bin Affan RA mengambil tindakan menyatukan cara penulisan al-Quran",
+              "Baginda mengarahkan para sahabat menuls al-Quran dalam satu mushaf standard",
+              "Antara penulis wahyu: Zaid bin Thabit, Ubay bin Ka'ab, Abdullah bin Mas'ud",
+              "Hasilnya: Mushaf Uthmani yang digunakan umat Islam hingga kini"
+            ]
+          }
+        },
+        {
+          "icon": "✏️",
+          "title": "Perbezaan Rasm Uthmani dan Imlai",
+          "body": {
+            "type": "arabic",
+            "instruction": "Bandingkan penulisan Rasm Uthmani dengan penulisan biasa (Imlai):",
+            "arabic": "رسم عثماني ← إملائي:\nٱلرَّحۡمَـٰنِ ← الرحمن\nمَـٰلِكِ ← مالك\nٱلصِّرَطَ ← الصراط\nإِيَّاكَ ← إياك\nٱلضَّآلِّينَ ← الضالين",
+            "translation": "Contoh perbezaan Rasm Uthmani (kiri) vs Imlai biasa (kanan): ar-Rahman, Malik, as-Sirat, Iyyaka, ad-Dhallin."
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Kelebihan Rasm Uthmani",
+          "body": {
+            "type": "list",
+            "intro": "Mengapa Rasm Uthmani penting?",
+            "items": [
+              "Ia adalah tulisan asal al-Quran yang ditulis di hadapan Rasulullah SAW",
+              "Disepakati oleh 12,000 orang para sahabat Nabi SAW",
+              "Sebagai bukti al-Quran terpelihara hingga Hari Kiamat",
+              "Menyatukan umat Islam dalam satu mushaf",
+              "Diiktiraf oleh para ulama Islam seluruh dunia"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah SWT menjamin pemeliharaan al-Quran:",
+        "arabic": "إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ",
+        "translation": "Sesungguhnya Kamilah yang menurunkan al-Quran, dan sesungguhnya Kami benar-benar memeliharanya.",
+        "source": "Surah al-Hijr: 9",
+        "outro": "Rasm Uthmani adalah antara cara Allah memelihara al-Quran daripada sebarang perubahan!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Memahami Rasm Uthmani",
+      "items": [
+        "Rasm Uthmani ialah cara penulisan al-Quran yang standard dan digunakan di seluruh dunia.",
+        "Ia bermula pada zaman Khalifah Uthman bin Affan RA.",
+        {
+          "type": "arabic",
+          "arabic": "عُثۡمَانُ بۡنُ عَفَّانَ — Uthman bin Affan RA",
+          "translation": "Khalifah ketiga Islam yang menyatukan penulisan al-Quran."
+        },
+        "Rasm Uthmani berbeza sedikit dengan penulisan biasa (Imlai) — kita mesti ikut rasm Uthmani ketika menulis al-Quran.",
+        "Semasa membaca al-Quran (Mushaf), gunakan dan ikuti rasm Uthmani.",
+        "Hormati al-Quran kerana ia adalah kalamullah yang dijaga Allah SWT."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Siapakah Khalifah yang memerintahkan penyatuan penulisan al-Quran dalam Rasm Uthmani?",
+      "options": [
+        "Abu Bakar as-Siddiq",
+        "Umar bin al-Khattab",
+        "Uthman bin Affan",
+        "Ali bin Abi Talib"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah tujuan utama Rasm Uthmani ditulis?",
+      "options": [
+        "Untuk mempermudah penulisan Arab",
+        "Untuk menyatukan umat Islam dalam satu cara pembacaan al-Quran",
+        "Untuk menggantikan hafazan al-Quran",
+        "Untuk dijual kepada umat Islam"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Siapakah antara penulis wahyu yang terlibat dalam penyusunan Mushaf Uthmani?",
+      "options": [
+        "Bilal bin Rabah",
+        "Zaid bin Thabit",
+        "Abu Hurairah",
+        "Salman al-Farisi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dalam Surah al-Hijr: 9, Allah menjanjikan bahawa al-Quran akan?",
+      "options": [
+        "Diterjemah ke semua bahasa",
+        "Dihafaz oleh semua Muslim",
+        "Dipelihara dan dijaga oleh Allah",
+        "Disebarkan ke seluruh dunia"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Rasm Uthmani", "colour": "#2E7D32" },
+      { "id": "n2", "label": "Khalifah Uthman", "colour": "#388E3C" },
+      { "id": "n3", "label": "Para Sahabat", "colour": "#388E3C" },
+      { "id": "n4", "label": "Mushaf Standard", "colour": "#66BB6A" },
+      { "id": "n5", "label": "Terpelihara", "colour": "#A5D6A7" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n2", "target": "n1", "label": "menetapkan" },
+      { "id": "e2", "source": "n3", "target": "n1", "label": "menulis" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "menghasilkan" },
+      { "id": "e4", "source": "n4", "target": "n5", "label": "Allah jamin" }
+    ]
+  },
+  "vocab": [
+    { "word": "رَسۡم عُثۡمَانِي", "meaning": "sistem penulisan al-Quran standard" },
+    { "word": "عُثۡمَان بۡن عَفَّانَ", "meaning": "Khalifah ketiga Islam" },
+    { "word": "مُصۡحَف", "meaning": "mushaf — buku al-Quran" },
+    { "word": "إِمۡلَائِي", "meaning": "imlai — tulisan biasa (bukan rasm Uthmani)" },
+    { "word": "وَحۡي", "meaning": "wahyu — firman Allah kepada Nabi" }
+  ],
+  "funFact": "Tahukah kamu bahawa ketika Khalifah Uthman menyusun Mushaf Uthmani, beliau mengirimkan salinan mushaf tersebut ke beberapa kota Islam utama — Makkah, Madinah, Kufah, Basrah, dan Syria? Satu salinan juga disimpan oleh Khalifah Uthman sendiri. Mushaf yang dihantar ke Makkah atau salinan awalnya masih tersimpan hingga kini di Museum Topkapi di Istanbul, Turki dan beberapa tempat lain!"
+}

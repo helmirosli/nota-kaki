@@ -1,0 +1,155 @@
+{
+  "id": "jais-tahun-3-bahasa-arab-bab8",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "bahasa-arab",
+  "chapter": 8,
+  "title": "Dars 8: Di Sekolah",
+  "emoji": "🏫",
+  "colour": "#1565C0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "فِي الْمَدْرَسَة — Di Sekolah",
+      "body": "Dalam dars ini kita belajar nama-nama tempat yang terdapat di sekolah dalam bahasa Arab. Mengetahui nama tempat di sekolah membantu kita berkomunikasi tentang lokasi aktiviti seharian di sekolah."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🏫",
+          "title": "أَمَاكِن فِي الْمَدْرَسَة — Tempat-tempat di Sekolah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Nama-nama tempat di sekolah:",
+            "arabic": "مَعْمَلُ الْحَاسُوبِ — makmal komputer\nالْمَكْتَبَة — perpustakaan\nالْمُصَلَّى — surau\nالْقَاعَة — dewan\nدَوْرَةُ الْمِيَاهِ — tandas\nغُرْفَةُ الْمُدِيرِ — bilik pengetua\nالْمَخْزَن — stor\nالْمَطْعَم — kantin\nالْإِدَارَة — pejabat\nغُرْفَةُ الْمُعَلِّمِينَ — bilik guru\nمَرْأَبُ السَّيَّارَةِ — tempat letak kereta\nسَاحَةُ الْمَدْرَسَة — padang sekolah",
+            "translation": "Makmal komputer, perpustakaan, surau, dewan, tandas, bilik pengetua, stor, kantin, pejabat, bilik guru, tempat letak kereta, padang sekolah"
+          }
+        },
+        {
+          "icon": "📍",
+          "title": "Cara Bertanya dan Menyatakan Lokasi",
+          "body": {
+            "type": "arabic",
+            "instruction": "Cara bertanya dan menjawab soalan tentang lokasi:",
+            "arabic": "أَيْنَ الْمُدَرِّسُ؟\nالْمُدَرِّسُ فِي الْمَكْتَبَةِ.\n\nأَيْنَ التِّلْمِيذَة؟\nالتِّلْمِيذَةُ فِي الْقَاعَةِ.\n\nأَيْنَ السَّيَّارَة؟\nالسَّيَّارَةُ فِي مَرْأَبِ السَّيَّارَةِ.",
+            "translation": "Di manakah guru lelaki? — Guru berada di perpustakaan. Di manakah murid perempuan? — Murid perempuan berada di dewan. Di manakah kereta? — Kereta berada di tempat letak kereta."
+          }
+        },
+        {
+          "icon": "🗣️",
+          "title": "Perbualan di Sekolah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh perbualan menggunakan lokasi di sekolah:",
+            "arabic": "أَيْنَ يَجْتَمِعُ التَّلَاميذُ؟\nيَجْتَمِعُ التَّلَاميذُ فِي الْقَاعَةِ.\n\nأَيْنَ يَخْطُبُ الْمُدِيرُ؟\nيَخْطُبُ الْمُدِيرُ فِي سَاحَةِ الْمَدْرَسَةِ.\n\nأَيْنَ يَقْرَأُ الْمُدَرِّسُ الْمَجَلَّةَ؟\nيَقْرَأُ الْمُدَرِّسُ الْمَجَلَّةَ فِي الْمَكْتَبَةِ.",
+            "translation": "Di manakah murid-murid berkumpul? — Mereka berkumpul di dewan. Di manakah pengetua berucap? — Pengetua berucap di padang sekolah. Di manakah guru membaca majalah? — Guru membaca majalah di perpustakaan."
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Kata Depan Tempat",
+          "body": {
+            "type": "arabic",
+            "instruction": "Kata depan yang digunakan untuk menyatakan lokasi:",
+            "arabic": "فِي — di dalam\nأَمَامَ — di hadapan\nخَلْفَ — di belakang\nبَيْنَ — di antara\n\nمِثَال:\nالتِّلْمِيذَةُ أَمَامَ مَعْمَلِ الْحَاسُوبِ.\nالسَّيَّارَةُ فِي مَرْأَبِ السَّيَّارَةِ.",
+            "translation": "Kata depan: di dalam, di hadapan, di belakang, di antara. Contoh: Murid perempuan berada di hadapan makmal komputer. Kereta berada di tempat letak kereta."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Sabda Rasulullah SAW tentang menuntut ilmu:",
+        "arabic": "طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ",
+        "translation": "Menuntut ilmu adalah wajib ke atas setiap Muslim.",
+        "source": "Hadis Riwayat Ibn Majah",
+        "outro": "Jadilah pelajar yang rajin ke perpustakaan dan surau di sekolah!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengingati Nama Tempat di Sekolah",
+      "items": [
+        "Hafaz 4 tempat utama: الْمَكْتَبَة (perpustakaan), الْمُصَلَّى (surau), الْقَاعَة (dewan), الْمَطْعَم (kantin).",
+        "Untuk bertanya lokasi: أَيْنَ ___؟ (Di manakah ___?)",
+        {
+          "type": "arabic",
+          "arabic": "أَيْنَ الْمُصَلَّى؟ — الْمُصَلَّى فِي الْبِنَايَةِ الثَّانِيَةِ.",
+          "translation": "Di manakah surau? — Surau berada di bangunan kedua."
+        },
+        "Untuk menjawab lokasi: ___ فِي ___ (... berada di ...).",
+        "Tulis nama tempat di sekolah kamu dalam bahasa Arab dan lekat di buku nota!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah makna 'الْمُصَلَّى' dalam bahasa Melayu?",
+      "options": [
+        "Kantin",
+        "Perpustakaan",
+        "Surau",
+        "Dewan"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bagaimana cara bertanya 'Di manakah guru?' dalam bahasa Arab?",
+      "options": [
+        "مَا الْمُدَرِّسُ؟",
+        "أَيْنَ الْمُدَرِّسُ؟",
+        "كَيْفَ الْمُدَرِّسُ؟",
+        "مَنِ الْمُدَرِّسُ؟"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah kata depan dalam bahasa Arab yang bermaksud 'di dalam'?",
+      "options": [
+        "أَمَامَ",
+        "خَلْفَ",
+        "فِي",
+        "بَيْنَ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Di manakah pengetua berpidato menurut perbualan dalam dars ini?",
+      "options": [
+        "فِي الْمَكْتَبَةِ",
+        "فِي الْقَاعَةِ",
+        "فِي سَاحَةِ الْمَدْرَسَةِ",
+        "فِي الْإِدَارَةِ"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Tempat di Sekolah", "colour": "#1565C0" },
+      { "id": "n2", "label": "Akademik", "colour": "#1976D2" },
+      { "id": "n3", "label": "Kemudahan", "colour": "#1976D2" },
+      { "id": "n4", "label": "مَكْتَبَة مَعْمَل", "colour": "#42A5F5" },
+      { "id": "n5", "label": "مَطْعَم مُصَلَّى", "colour": "#42A5F5" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "kumpulan" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "kumpulan" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "contoh" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "contoh" }
+    ]
+  },
+  "vocab": [
+    { "word": "مَكْتَبَة", "meaning": "perpustakaan" },
+    { "word": "مُصَلَّى", "meaning": "surau/tempat solat" },
+    { "word": "قَاعَة", "meaning": "dewan" },
+    { "word": "مَطْعَم", "meaning": "kantin/restoran" },
+    { "word": "أَيْنَ", "meaning": "di mana?" }
+  ],
+  "funFact": "Tahukah kamu bahawa perpustakaan dalam bahasa Arab dinamakan مَكْتَبَة (maktabah)? Perkataan ini berasal daripada kata kerja كَتَبَ yang bermaksud 'menulis'. Jadi مَكْتَبَة bermaksud 'tempat untuk menulis/membaca'. Menariknya, dalam sejarah Islam, Baghdad pernah mempunyai perpustakaan terbesar di dunia dipanggil 'Bayt al-Hikmah' (بَيْت الْحِكْمَة) yang menyimpan ribuan buku dari seluruh dunia!"
+}

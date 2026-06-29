@@ -1,0 +1,181 @@
+{
+  "id": "jais-tahun-3-jawi-bab2",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "jawi",
+  "chapter": 2,
+  "title": "Sukukata Tertutup 'k' — Kata Pinjaman Inggeris",
+  "emoji": "✒️",
+  "colour": "#FF9800",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "كات ڤينجمن ايغضريس — Kata Pinjaman Inggeris",
+      "body": "Berbeza dengan kata jati Melayu, konsonan 'k' di akhir sukukata tertutup pada kata pinjaman bahasa Inggeris ditulis dengan huruf ک (kaf). Ini adalah satu perbezaan penting yang perlu diingati dalam penulisan Jawi."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🔤",
+          "title": "Hukum 'k' dalam Kata Pinjaman Inggeris",
+          "body": {
+            "type": "list",
+            "intro": "Peraturan penulisan 'k' dalam kata pinjaman Inggeris:",
+            "items": [
+              "Kata pinjaman Inggeris dengan 'k' di akhir sukukata TERTUTUP ditulis ک (kaf)",
+              "Ini BERBEZA dengan kata jati Melayu yang guna ق",
+              "Cara mengenal kata pinjaman Inggeris: perkataan yang datang dari bahasa Inggeris",
+              "Contoh: matematik, cek, subjek, blok, trak",
+              "Semua ditulis dengan ک bukan ق"
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Contoh Kata Pinjaman Inggeris (ک)",
+          "body": {
+            "type": "list",
+            "intro": "Kata pinjaman Inggeris dengan sukukata tertutup 'k' — ditulis ک:",
+            "items": [
+              "matematik = ماتماتيک (mathematics)",
+              "cek = چيک (cheque)",
+              "subjek = سوبجيک (subject)",
+              "seksyen = سيکشن (section)",
+              "blok = بلوک (block)",
+              "trak = تراک (truck/track)",
+              "kek = كيک (cake)",
+              "oksigen = اوكسيضن (oxygen)",
+              "sivik = سيۏيک (civic)",
+              "unik = اونيک (unique)"
+            ]
+          }
+        },
+        {
+          "icon": "📚",
+          "title": "Lebih Banyak Kata Pinjaman Inggeris",
+          "body": {
+            "type": "list",
+            "intro": "Kata pinjaman Inggeris lain dengan sukukata tertutup 'k' (ک):",
+            "items": [
+              "klinik = کلينيک (clinic)",
+              "domestik = دوميستيک (domestic)",
+              "simbolik = سيمبوليک (symbolic)",
+              "elektrik = ايليکتريک (electric)",
+              "akuatik = اکواتيک (aquatic)",
+              "forensik = فورينسيک (forensic)",
+              "taktik = تاکتيک (tactic)",
+              "sivik = سيۏيک (civic)"
+            ]
+          }
+        },
+        {
+          "icon": "⚖️",
+          "title": "Perbandingan ق vs ک",
+          "body": {
+            "type": "list",
+            "intro": "Cara membezakan penggunaan ق dan ک:",
+            "items": [
+              "ق (qaf) → kata JATI MELAYU sukukata tertutup 'k': lubuk=لوبوق, tarik=تاريق",
+              "ک (kaf) → kata PINJAMAN INGGERIS sukukata tertutup 'k': blok=بلوک, cek=چيک",
+              "Tanya: adakah perkataan ini asli Melayu atau dari Inggeris?",
+              "Jika dari Inggeris → guna ک",
+              "Jika asli Melayu → guna ق"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "list",
+        "intro": "Ringkasan perbezaan ق dan ک untuk 'k' sukukata tertutup:",
+        "items": [
+          "Kata JATI MELAYU + 'k' tertutup = ق (qaf): lubuk=لوبوق, batik=باتيق",
+          "Kata PINJAMAN INGGERIS + 'k' tertutup = ک (kaf): blok=بلوک, trak=تراک",
+          "Kunci: Kenal pasti asal usul perkataan dahulu!"
+        ],
+        "outro": "Selalu tanya diri sendiri: kata jati Melayu atau pinjaman Inggeris?"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Memilih ق atau ک",
+      "items": [
+        "Lihat perkataan yang hendak ditulis dalam Jawi.",
+        "Kenal pasti: adakah ia kata jati Melayu atau kata pinjaman Inggeris?",
+        "Jika kata JATI MELAYU dengan 'k' di akhir sukukata tertutup → guna ق.",
+        "Jika kata PINJAMAN INGGERIS dengan 'k' di akhir sukukata tertutup → guna ک.",
+        "Latih dengan membandingkan: lubuk (Melayu=لوبوق) vs blok (Inggeris=بلوک)."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Perkataan 'matematik' dalam Jawi ditulis sebagai?",
+      "options": [
+        "ماتماتيق",
+        "ماتماتيک",
+        "ماتماتيخ",
+        "ماتماتيك"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Huruf apa yang digunakan untuk 'k' dalam kata pinjaman Inggeris?",
+      "options": [
+        "ق (qaf)",
+        "خ (kha)",
+        "ک (kaf)",
+        "ك"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Perkataan manakah yang menggunakan ق (bukan ک)?",
+      "options": [
+        "blok",
+        "subjek",
+        "lubuk",
+        "kek"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Perkataan 'blok' dalam Jawi ditulis sebagai?",
+      "options": [
+        "بلوق",
+        "بلوک",
+        "بلوك",
+        "بلوخ"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Konsonan 'k' tertutup", "colour": "#FF9800" },
+      { "id": "n2", "label": "Kata Jati Melayu", "colour": "#F57C00" },
+      { "id": "n3", "label": "Kata Pinjaman Inggeris", "colour": "#E65100" },
+      { "id": "n4", "label": "ق (qaf)", "colour": "#FFA726" },
+      { "id": "n5", "label": "ک (kaf)", "colour": "#FFCC02" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jika" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jika" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "→ guna" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "→ guna" }
+    ]
+  },
+  "vocab": [
+    { "word": "كات ڤينجمن", "meaning": "kata pinjaman — perkataan yang diambil dari bahasa lain" },
+    { "word": "ک", "meaning": "kaf — digunakan untuk 'k' dalam kata pinjaman Inggeris" },
+    { "word": "ماتماتيک", "meaning": "matematik (mathematics)" },
+    { "word": "سوبجيک", "meaning": "subjek (subject)" },
+    { "word": "بلوک", "meaning": "blok (block)" }
+  ],
+  "funFact": "Tahukah kamu bahawa bahasa Melayu mempunyai banyak kata pinjaman dari pelbagai bahasa? Selain dari Inggeris, bahasa Melayu juga meminjam perkataan dari Arab (seperti 'ilmu', 'kitab'), Sanskrit (seperti 'raja', 'bahasa'), Portugis (seperti 'kereta', 'mentega'), dan Belanda. Dalam penulisan Jawi, setiap bahasa asal ini mempunyai cara ejaan yang sedikit berbeza — sebab itulah penting untuk mengetahui asal usul setiap perkataan!"
+}

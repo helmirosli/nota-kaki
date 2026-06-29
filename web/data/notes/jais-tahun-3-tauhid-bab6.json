@@ -1,0 +1,157 @@
+{
+  "id": "jais-tahun-3-tauhid-bab6",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "tauhid",
+  "chapter": 6,
+  "title": "Sifat Wajib Allah (Qudrat, Iradat, Ilmu, Hayat)",
+  "emoji": "🌟",
+  "colour": "#FFB300",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Sifat Wajib Allah — Qudrat, Iradat, Ilmu, Hayat",
+      "body": "Allah SWT memiliki sifat-sifat yang wajib ada pada-Nya. Setiap sifat wajib memiliki lawannya yang disebut sifat mustahil. Dalam pelajaran ini kita mempelajari 4 sifat wajib: Qudrat, Iradat, Ilmu, dan Hayat beserta sifat mustahilnya."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "💪",
+          "title": "Qudrat (Berkuasa) — lawan Ajiz (Lemah)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Qudrat bermaksud Allah Maha Berkuasa ke atas segala sesuatu. Sifat mustahilnya ialah Ajiz (lemah). Dalil:",
+            "arabic": "إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+            "translation": "Sesungguhnya Allah Maha Kuasa atas tiap-tiap sesuatu.",
+            "source": "Surah al-Baqarah: 109",
+            "outro": "Allah berkuasa tanpa batas — mengatasi segala makhluk. Mustahil Allah lemah."
+          }
+        },
+        {
+          "icon": "🎯",
+          "title": "Iradat (Berkehendak) — lawan Karahah (Terpaksa)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Iradat bermaksud Allah Maha Berkehendak menentukan sesuatu sama ada hendak menjadikan atau tidak. Sifat mustahilnya ialah Karahah (terpaksa). Dalil:",
+            "arabic": "إِنَّ اللَّهَ يَفْعَلُ مَا يَشَاءُ",
+            "translation": "Sesungguhnya Allah melakukan apa yang Dia kehendaki.",
+            "source": "Surah al-Haj: 18",
+            "outro": "Kehendak Allah tidak dapat diatasi oleh mana-mana makhluk. Mustahil Allah terpaksa melakukan sesuatu."
+          }
+        },
+        {
+          "icon": "🧠",
+          "title": "Ilmu (Mengetahui) — lawan Jahl (Bodoh)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ilmu bermaksud Allah Maha Mengetahui segala sesuatu — baik yang zahir mahupun yang tersembunyi. Sifat mustahilnya ialah Jahl (bodoh). Dalil:",
+            "arabic": "وَعِندَهُ مَفَاتِحُ الْغَيْبِ لَا يَعْلَمُهَا إِلَّا هُوَ",
+            "translation": "Dan pada sisi Allah jua ada anak-anak kunci perbendaharaan segala yang ghaib, tiada yang mengetahuinya melainkan Dia.",
+            "source": "Surah al-An'am: 59",
+            "outro": "Ilmu Allah meliputi semua perkara — apa yang ada di darat, di laut, bahkan benih di dalam tanah. Mustahil Allah bodoh."
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Hayat (Hidup) — lawan Maut (Mati)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Hayat bermaksud Allah sentiasa Hidup dan kekal selama-lamanya. Sifat mustahilnya ialah Maut (mati). Dalil:",
+            "arabic": "وَتَوَكَّلْ عَلَى الْحَيِّ الَّذِي لَا يَمُوتُ",
+            "translation": "Dan bertawakkallah kepada Allah Yang Maha Hidup, Yang tidak mati.",
+            "source": "Surah al-Furqan: 58",
+            "outro": "Allah Hidup tanpa roh dan kekal selama-lamanya. Hidupnya menjadi syarat wujudnya semua sifat-sifat lain. Mustahil Allah mati."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📋",
+      "text": {
+        "type": "list",
+        "intro": "Ringkasan Sifat Wajib dan Mustahil:",
+        "items": [
+          "Qudrat (Berkuasa) ↔ Ajiz (Lemah)",
+          "Iradat (Berkehendak) ↔ Karahah (Terpaksa)",
+          "Ilmu (Mengetahui) ↔ Jahl (Bodoh)",
+          "Hayat (Hidup) ↔ Maut (Mati)"
+        ],
+        "outro": "Empat sifat ini termasuk dalam 20 Sifat Wajib Allah yang perlu diketahui oleh setiap Muslim."
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menghafaz Sifat Wajib dan Mustahil",
+      "items": [
+        "Hafaz sifat wajib dahulu: Qudrat, Iradat, Ilmu, Hayat.",
+        "Kemudian hafaz lawannya: Ajiz, Karahah, Jahl, Maut.",
+        "Faham makna setiap sifat dengan contoh dalam kehidupan.",
+        {
+          "type": "arabic",
+          "arabic": "إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+          "translation": "Sesungguhnya Allah Maha Kuasa atas tiap-tiap sesuatu."
+        },
+        "Renungkan kebesaran Allah melalui alam ciptaan-Nya.",
+        "Jadikan pengetahuan tentang sifat Allah sebagai motivasi untuk taat kepada-Nya."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah sifat mustahil bagi Qudrat (Berkuasa)?",
+      "options": ["Jahl", "Maut", "Ajiz", "Karahah"],
+      "answer": 2
+    },
+    {
+      "q": "Iradat bermaksud Allah...",
+      "options": [
+        "Maha Mendengar",
+        "Maha Berkehendak",
+        "Maha Melihat",
+        "Maha Mengetahui"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah sifat mustahil bagi Hayat (Hidup)?",
+      "options": ["Ajiz", "Karahah", "Jahl", "Maut"],
+      "answer": 3
+    },
+    {
+      "q": "Sifat wajib Allah yang bermaksud 'Maha Mengetahui' ialah?",
+      "options": ["Hayat", "Iradat", "Ilmu", "Qudrat"],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Sifat Wajib", "colour": "#FFB300" },
+      { "id": "n2", "label": "Qudrat", "colour": "#FFA000" },
+      { "id": "n3", "label": "Iradat", "colour": "#FFA000" },
+      { "id": "n4", "label": "Ilmu", "colour": "#FFA000" },
+      { "id": "n5", "label": "Hayat", "colour": "#FFA000" },
+      { "id": "n6", "label": "Sifat Mustahil", "colour": "#C62828" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "termasuk" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "termasuk" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "termasuk" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "termasuk" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "lawan ialah" }
+    ]
+  },
+  "vocab": [
+    { "word": "قُدْرَة", "meaning": "Qudrat — Maha Berkuasa" },
+    { "word": "عَجْز", "meaning": "Ajiz — lemah (mustahil)" },
+    { "word": "إِرَادَة", "meaning": "Iradat — Maha Berkehendak" },
+    { "word": "كَرَاهَة", "meaning": "Karahah — terpaksa (mustahil)" },
+    { "word": "عِلْم", "meaning": "Ilmu — Maha Mengetahui" },
+    { "word": "جَهْل", "meaning": "Jahl — bodoh (mustahil)" },
+    { "word": "حَيَاة", "meaning": "Hayat — Maha Hidup" },
+    { "word": "مَوْت", "meaning": "Maut — mati (mustahil)" }
+  ],
+  "funFact": "Tahukah kamu bahawa ilmu Allah meliputi segala sesuatu — termasuk berapa biji pasir di pantai, berapa helai daun di hutan, dan bahkan apa yang ada di dalam hati kamu sekarang? Al-Quran menyebut bahawa tidak gugur sehelai daun pun melainkan Allah mengetahuinya. Sungguh Maha Besar Allah!"
+}

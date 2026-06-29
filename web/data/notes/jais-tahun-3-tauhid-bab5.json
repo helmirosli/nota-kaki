@@ -1,0 +1,161 @@
+{
+  "id": "jais-tahun-3-tauhid-bab5",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "tauhid",
+  "chapter": 5,
+  "title": "Nabi Muhammad SAW Khatam al-Anbiya'",
+  "emoji": "🌙",
+  "colour": "#FFB300",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Nabi Muhammad SAW — Nabi dan Rasul Terakhir",
+      "body": "Nabi Muhammad SAW adalah Khatam al-Anbiya' — iaitu penutup dan nabi terakhir yang diutuskan oleh Allah. Tiada lagi nabi atau rasul selepas Baginda. Adalah wajib bagi setiap Muslim untuk mempercayai hakikat ini."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🌙",
+          "title": "Maksud Khatam al-Anbiya'",
+          "body": "Khatam al-Anbiya' bermaksud penutup atau nabi terakhir. Nabi Muhammad SAW adalah nabi yang terbaik dan terakhir. Tiada nabi lain selepas Baginda, dan hukum mempercayai ada nabi lain selepas Baginda adalah wajib ditolak."
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil — Surah al-Ahzab: 40",
+          "body": {
+            "type": "arabic",
+            "instruction": "Allah berfirman dengan jelas bahawa Nabi Muhammad SAW adalah penutup segala Nabi:",
+            "arabic": "مَّا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ اللَّهِ وَخَاتَمَ النَّبِيِّينَ وَكَانَ اللَّهُ بِكُلِّ شَيْءٍ عَلِيمًا",
+            "translation": "Tidaklah Muhammad itu (dengan sebab ada anak angkatnya) menjadi bapa kepada seseorang dari kalangan lelaki kamu, tetapi ia adalah Rasul Allah dan penutup segala Nabi. Dan adalah Allah Maha Mengetahui akan tiap-tiap sesuatu.",
+            "source": "Surah al-Ahzab: 40"
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Keistimewaan Nabi Muhammad SAW",
+          "body": {
+            "type": "list",
+            "intro": "Keistimewaan Nabi Muhammad SAW sebagai Nabi terakhir:",
+            "items": [
+              "Diutuskan kepada seluruh umat manusia dan jin (bukan satu kaum sahaja)",
+              "Al-Quran adalah mukjizat terbesar yang kekal hingga hari kiamat",
+              "Syariatnya adalah syariat terakhir yang sempurna",
+              "Nama Baginda disebut dalam kitab-kitab sebelumnya (Taurat dan Injil)",
+              "Baginda adalah rahmat untuk seluruh alam semesta"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Hukum Mengaku Ada Nabi Selepas Muhammad SAW",
+          "body": {
+            "type": "list",
+            "intro": "Hukum berkaitan kepercayaan kepada Nabi Muhammad sebagai Nabi terakhir:",
+            "items": [
+              "Wajib percaya Nabi Muhammad adalah Nabi terakhir",
+              "Haram mempercayai ada nabi lain selepas Baginda",
+              "Sesiapa yang mengaku dirinya nabi adalah pembohong besar",
+              "Ini adalah aqidah yang wajib dipertahankan setiap Muslim"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah berfirman — tiada nabi selepas Nabi Muhammad SAW:",
+        "arabic": "وَخَاتَمَ النَّبِيِّينَ",
+        "translation": "Dan (dia adalah) penutup segala Nabi.",
+        "source": "Surah al-Ahzab: 40",
+        "outro": "Berselawat ke atas Nabi Muhammad SAW adalah cara terbaik kita menunjukkan kasih sayang kepada Nabi terakhir kita!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mencintai Nabi Muhammad SAW sebagai Nabi Terakhir",
+      "items": [
+        "Pelajari sirah (kisah hidup) Nabi Muhammad SAW.",
+        "Amalkan sunnah Baginda dalam kehidupan seharian.",
+        {
+          "type": "arabic",
+          "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ",
+          "translation": "Ya Allah, limpahkanlah selawat ke atas Muhammad dan keluarga Muhammad."
+        },
+        "Hafaz dan amalkan selawat setiap kali nama Baginda disebut.",
+        "Baca al-Quran — mukjizat terbesar yang ditinggalkan Baginda.",
+        "Tolak dengan tegas mana-mana dakwaan ada nabi selepas Baginda."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud Khatam al-Anbiya'?",
+      "options": [
+        "Nabi yang paling mulia",
+        "Nabi yang paling banyak mukjizat",
+        "Penutup atau Nabi yang terakhir",
+        "Nabi yang paling lama hidup"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Dalil Nabi Muhammad SAW sebagai Nabi terakhir terdapat dalam Surah?",
+      "options": [
+        "Surah al-Baqarah: 285",
+        "Surah al-Ahzab: 40",
+        "Surah an-Nisa': 59",
+        "Surah al-Imran: 144"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kepada siapakah Nabi Muhammad SAW diutuskan?",
+      "options": [
+        "Kaum Arab sahaja",
+        "Penduduk Makkah sahaja",
+        "Seluruh umat manusia dan jin",
+        "Umat Islam sahaja"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah hukum mempercayai ada nabi lain selepas Nabi Muhammad SAW?",
+      "options": [
+        "Harus jika ada buktinya",
+        "Makruh sahaja",
+        "Haram dan bertentangan dengan aqidah",
+        "Bergantung kepada keadaan"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Muhammad SAW", "colour": "#FFB300" },
+      { "id": "n2", "label": "Khatam al-Anbiya'", "colour": "#FFA000" },
+      { "id": "n3", "label": "Al-Quran", "colour": "#FFD54F" },
+      { "id": "n4", "label": "Syariat Terakhir", "colour": "#FF8F00" },
+      { "id": "n5", "label": "Seluruh Manusia+Jin", "colour": "#FFCC02" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "ialah" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "bawa" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "sempurnakan" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "diutuskan kepada" }
+    ]
+  },
+  "vocab": [
+    { "word": "خَاتَم", "meaning": "penutup / cap mohor" },
+    { "word": "أَنْبِيَاء", "meaning": "Nabi-nabi (jamak Nabi)" },
+    { "word": "رَحْمَة", "meaning": "rahmat / kasih sayang" },
+    { "word": "مُعْجِزَة", "meaning": "mukjizat" },
+    { "word": "صَلَوَات", "meaning": "selawat — doa ke atas Nabi" }
+  ],
+  "funFact": "Tahukah kamu bahawa nama Nabi Muhammad SAW disebut sebagai 'Ahmad' dalam Injil dan 'Mauhamad' dalam Taurat? Allah telah memberitahu tentang kedatangan Nabi Muhammad SAW jauh sebelum kelahiran Baginda. Ini membuktikan bahawa Baginda memang Nabi yang dijanjikan Allah kepada seluruh manusia!"
+}

@@ -1,0 +1,155 @@
+{
+  "id": "jais-tahun-3-tauhid-bab7",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "tauhid",
+  "chapter": 7,
+  "title": "Sifat Wajib Allah (Sama', Basar, Kalam)",
+  "emoji": "👁️",
+  "colour": "#FFB300",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Sifat Wajib Allah — Sama', Basar, Kalam",
+      "body": "Meneruskan pembelajaran sifat wajib Allah, kita belajar tiga sifat lagi: Sama' (Maha Mendengar), Basar (Maha Melihat), dan Kalam (Maha Berfirman). Setiap sifat ini mempunyai lawannya yang mustahil bagi Allah."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "👂",
+          "title": "Sama' (Mendengar) — lawan Summ (Pekak)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Sama' bermaksud Allah Maha Mendengar segala sesuatu tanpa melalui telinga. Mendengar tanpa halangan atau batas. Sifat mustahilnya ialah Summ (pekak). Dalil:",
+            "arabic": "إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ",
+            "translation": "Sesungguhnya Dialah yang Maha Mendengar lagi Maha Melihat.",
+            "source": "Surah al-Isra': 1",
+            "outro": "Allah mendengar sama ada sesuatu itu bersuara atau tidak, dan mendengar tanpa halangan. Mustahil Allah pekak."
+          }
+        },
+        {
+          "icon": "👁️",
+          "title": "Basar (Melihat) — lawan 'Umyi (Buta)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Basar bermaksud Allah Maha Melihat segala sesuatu tanpa perantaraan mata. Melihat sama ada terang atau gelap, tanpa batas. Sifat mustahilnya ialah 'Umyi (buta). Dalil:",
+            "arabic": "إِنَّ اللَّهَ بَصِيرٌ بِمَا تَعْمَلُونَ",
+            "translation": "Sesungguhnya Allah Maha Melihat akan apa yang kamu kerjakan.",
+            "source": "Surah al-Hujurat: 18",
+            "outro": "Allah melihat tanpa perantaraan mata, tanpa halangan atau batas. Mustahil Allah buta."
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Kalam (Berfirman) — lawan Bukm (Bisu)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Kalam bermaksud Allah Maha Berfirman tanpa menggunakan mulut dan lidah seperti manusia. Al-Quran adalah Kalam Allah. Sifat mustahilnya ialah Bukm (bisu). Dalil:",
+            "arabic": "وَكَلَّمَ اللَّهُ مُوسَى تَكْلِيمًا",
+            "translation": "Dan Allah telah berkata-kata dengan Nabi Musa secara langsung.",
+            "source": "Surah an-Nisa': 164",
+            "outro": "Al-Quran adalah Kalam Allah yang sempurna dan kekal. Mustahil Allah bisu."
+          }
+        },
+        {
+          "icon": "📋",
+          "title": "Ringkasan 7 Sifat Wajib (Bab 6 + Bab 7)",
+          "body": {
+            "type": "list",
+            "intro": "Ringkasan semua 7 sifat yang dipelajari (Bab 6 + Bab 7):",
+            "items": [
+              "Qudrat (Berkuasa) ↔ Ajiz (Lemah)",
+              "Iradat (Berkehendak) ↔ Karahah (Terpaksa)",
+              "Ilmu (Mengetahui) ↔ Jahl (Bodoh)",
+              "Hayat (Hidup) ↔ Maut (Mati)",
+              "Sama' (Mendengar) ↔ Summ (Pekak)",
+              "Basar (Melihat) ↔ 'Umyi (Buta)",
+              "Kalam (Berfirman) ↔ Bukm (Bisu)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah berfirman — menunjukkan sifat Sama' dan Basar-Nya:",
+        "arabic": "إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ",
+        "translation": "Sesungguhnya Dialah yang Maha Mendengar lagi Maha Melihat.",
+        "source": "Surah al-Isra': 1",
+        "outro": "Allah sentiasa mendengar doa kita dan melihat semua perbuatan kita — sama ada baik atau buruk. Jadikan ini motivasi untuk sentiasa berbuat kebaikan!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengingati 7 Sifat Wajib Allah",
+      "items": [
+        "Hafaz singkatan: QIIH + SBK (Qudrat, Iradat, Ilmu, Hayat + Sama', Basar, Kalam).",
+        "Pasangkan sifat wajib dengan mustahilnya: Sama'↔Summ, Basar↔'Umyi, Kalam↔Bukm.",
+        {
+          "type": "arabic",
+          "arabic": "إِنَّ اللَّهَ بَصِيرٌ بِمَا تَعْمَلُونَ",
+          "translation": "Sesungguhnya Allah Maha Melihat akan apa yang kamu kerjakan."
+        },
+        "Ingat bahawa Allah sentiasa mendengar dan melihat — jadikan ini motivasi berbuat baik.",
+        "Al-Quran adalah bukti Kalam (firman) Allah yang kekal hingga hari kiamat.",
+        "Perbanyak membaca al-Quran sebagai tanda menghormati Kalam Allah."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah sifat mustahil bagi Sama' (Mendengar)?",
+      "options": ["Bukm", "'Umyi", "Summ", "Ajiz"],
+      "answer": 2
+    },
+    {
+      "q": "Basar bermaksud Allah...",
+      "options": [
+        "Maha Mendengar",
+        "Maha Berkuasa",
+        "Maha Melihat",
+        "Maha Berfirman"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Al-Quran adalah bukti sifat wajib Allah yang mana?",
+      "options": ["Sama'", "Basar", "Kalam", "Ilmu"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah sifat mustahil bagi Kalam (Berfirman)?",
+      "options": ["Summ", "'Umyi", "Bukm", "Ajiz"],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Sama'", "colour": "#FFB300" },
+      { "id": "n2", "label": "Basar", "colour": "#FFB300" },
+      { "id": "n3", "label": "Kalam", "colour": "#FFB300" },
+      { "id": "n4", "label": "Summ (Pekak)", "colour": "#C62828" },
+      { "id": "n5", "label": "'Umyi (Buta)", "colour": "#C62828" },
+      { "id": "n6", "label": "Bukm (Bisu)", "colour": "#C62828" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n4", "label": "mustahil" },
+      { "id": "e2", "source": "n2", "target": "n5", "label": "mustahil" },
+      { "id": "e3", "source": "n3", "target": "n6", "label": "mustahil" }
+    ]
+  },
+  "vocab": [
+    { "word": "سَمْع", "meaning": "Sama' — Maha Mendengar" },
+    { "word": "صُمّ", "meaning": "Summ — pekak (mustahil)" },
+    { "word": "بَصَر", "meaning": "Basar — Maha Melihat" },
+    { "word": "عُمْي", "meaning": "'Umyi — buta (mustahil)" },
+    { "word": "كَلَام", "meaning": "Kalam — Maha Berfirman" },
+    { "word": "بُكْم", "meaning": "Bukm — bisu (mustahil)" }
+  ],
+  "funFact": "Tahukah kamu bahawa Allah mendengar doa kita walaupun kita berdoa di dalam hati tanpa menggerakkan bibir? Ini adalah bukti bahawa sifat Sama' Allah tidak seperti pendengaran manusia yang memerlukan suara. Allah Maha Mendengar segala bisikan hati hambanya — jadi jangan pernah rasa Allah tidak mendengar doamu!"
+}

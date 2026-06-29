@@ -1,0 +1,163 @@
+{
+  "id": "jais-tahun-3-tajwid-bab3",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "tajwid",
+  "chapter": 3,
+  "title": "Isti'azah dan Basmalah",
+  "emoji": "🤲",
+  "colour": "#2E7D32",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الاسْتِعَاذَة والبَسْمَلَة — Isti'azah dan Basmalah",
+      "body": "Isti'azah ialah lafaz memohon perlindungan daripada Allah daripada syaitan yang direjam, dibaca sebelum membaca al-Quran. Basmalah ialah lafaz 'Bismillahirrahmanirrahim', dibaca di awal setiap surah. Kedua-duanya mempunyai hukum cara bacaan yang perlu dipelajari."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🛡️",
+          "title": "Lafaz Isti'azah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Lafaz isti'azah dan maknanya:",
+            "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+            "translation": "Aku berlindung dengan Allah daripada syaitan yang direjam.",
+            "outro": "Membaca isti'azah adalah sunnah muakkad bagi orang yang hendak membaca al-Quran."
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Lafaz Basmalah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Lafaz basmalah dan maknanya:",
+            "arabic": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِيمِ",
+            "translation": "Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang.",
+            "outro": "Basmalah dibaca di awal setiap surah kecuali Surah at-Taubah."
+          }
+        },
+        {
+          "icon": "📋",
+          "title": "4 Cara Membaca di Awal Surah",
+          "body": {
+            "type": "list",
+            "intro": "Terdapat 4 cara membaca isti'azah dan basmalah di awal surah (cara pertama adalah yang paling afdal):",
+            "items": [
+              "Cara 1 (afdal): Berhenti pada isti'azah, berhenti pada basmalah, kemudian baca awal surah",
+              "Cara 2: Berhenti pada isti'azah, sambung basmalah terus dengan awal surah",
+              "Cara 3: Sambung isti'azah dengan basmalah, kemudian berhenti, lalu baca awal surah",
+              "Cara 4: Sambung ketiga-tiga sekalian (isti'azah + basmalah + awal surah)"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Cara Membaca Basmalah Antara Dua Surah",
+          "body": {
+            "type": "list",
+            "intro": "Terdapat 3 cara membaca basmalah antara dua surah:",
+            "items": [
+              "Cara 1: Berhenti di akhir surah pertama, berhenti pula pada basmalah, kemudian baca awal surah kedua",
+              "Cara 2: Berhenti di akhir surah pertama, kemudian sambung basmalah dengan awal surah kedua",
+              "Cara 3 (dilarang): JANGAN sambungkan akhir surah pertama terus dengan basmalah kemudian berhenti — ini dilarang kerana basmalah dijadikan akhir surah, bukan awal"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah SWT memerintahkan kita membaca isti'azah sebelum membaca al-Quran:",
+        "arabic": "فَإِذَا قَرَأْتَ الْقُرْآنَ فَاسْتَعِذْ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "translation": "Apabila kamu hendak membaca al-Quran, maka hendaklah kamu berlindung kepada Allah daripada syaitan yang direjam.",
+        "source": "Surah an-Nahl: 98",
+        "outro": "Biasakan membaca isti'azah dan basmalah sebelum membaca al-Quran!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengamalkan Isti'azah dan Basmalah",
+      "items": [
+        "Hafaz lafaz isti'azah: أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ.",
+        "Hafaz lafaz basmalah: بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ.",
+        {
+          "type": "arabic",
+          "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ\nبِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِيمِ",
+          "translation": "Isti'azah kemudian basmalah — hafaz kedua-duanya dengan sebutan yang tepat."
+        },
+        "Cara afdal di awal surah: berhenti (isti'azah) → berhenti (basmalah) → baca surah.",
+        "Ingat: basmalah TIDAK dibaca di awal Surah at-Taubah.",
+        "Amalkan setiap kali hendak membaca al-Quran."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud perkataan 'isti'azah'?",
+      "options": [
+        "Membaca basmalah",
+        "Memohon perlindungan daripada Allah dari syaitan",
+        "Cara membaca al-Quran dengan bertajwid",
+        "Membaca surah al-Fatihah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Di surah manakah basmalah TIDAK dibaca di permulaannya?",
+      "options": [
+        "Surah al-Baqarah",
+        "Surah al-Fatihah",
+        "Surah at-Taubah",
+        "Surah al-Ikhlas"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Cara manakah yang paling afdal membaca isti'azah dan basmalah di awal surah?",
+      "options": [
+        "Sambung ketiganya tanpa berhenti",
+        "Sambung isti'azah dengan basmalah, berhenti, kemudian baca surah",
+        "Berhenti pada isti'azah, berhenti pada basmalah, kemudian baca surah",
+        "Baca basmalah sahaja tanpa isti'azah"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah maksud basmalah?",
+      "options": [
+        "Dengan nama Allah Yang Maha Besar",
+        "Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang",
+        "Segala puji bagi Allah",
+        "Allah Maha Besar"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Sebelum al-Quran", "colour": "#2E7D32" },
+      { "id": "n2", "label": "اِسۡتِعَاذَة", "colour": "#388E3C" },
+      { "id": "n3", "label": "بَسۡمَلَة", "colour": "#388E3C" },
+      { "id": "n4", "label": "Awal Surah", "colour": "#66BB6A" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "baca dulu" },
+      { "id": "e2", "source": "n2", "target": "n3", "label": "kemudian" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "kemudian" }
+    ]
+  },
+  "vocab": [
+    { "word": "اِسۡتِعَاذَة", "meaning": "memohon perlindungan kepada Allah" },
+    { "word": "بَسۡمَلَة", "meaning": "Bismillahirrahmanirrahim" },
+    { "word": "الشَّيْطَان الرَّجِيم", "meaning": "syaitan yang direjam" },
+    { "word": "تَعَوُّذ", "meaning": "isti'azah (nama lain)" },
+    { "word": "مُعَوِّذَتَان", "meaning": "dua surah perlindungan (al-Falaq & an-Nas)" }
+  ],
+  "funFact": "Tahukah kamu bahawa basmalah disebut sebanyak 114 kali dalam al-Quran? Ia muncul di permulaan setiap surah (kecuali Surah at-Taubah) dan sekali lagi di dalam Surah an-Naml ayat 30 (dalam surat Nabi Sulaiman kepada Ratu Bilqis). Menariknya, jumlah surah al-Quran pun 114! Para ulama menganggap ini sebagai salah satu mukjizat al-Quran."
+}

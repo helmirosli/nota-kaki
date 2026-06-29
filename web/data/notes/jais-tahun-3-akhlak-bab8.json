@@ -1,0 +1,173 @@
+{
+  "id": "jais-tahun-3-akhlak-bab8",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "akhlak",
+  "chapter": 8,
+  "title": "Pemaaf",
+  "emoji": "💛",
+  "colour": "#F57F17",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Pemaaf — Memberi Kemaafan dengan Hati yang Ikhlas",
+      "body": "Pemaaf bermaksud memberikan kemaafan dengan hati yang ikhlas dan tidak dendam terhadap kesalahan orang lain. Ia adalah sifat mulia yang sangat dicintai Allah dan merupakan akhlak tertinggi yang diamalkan oleh Rasulullah SAW."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "✨",
+          "title": "Faedah Bersifat Pemaaf",
+          "body": {
+            "type": "list",
+            "intro": "Manfaat bagi orang yang suka memaafkan:",
+            "items": [
+              "Diredhai oleh Allah dan Rasul-Nya",
+              "Disukai oleh ibu bapa, guru dan rakan",
+              "Mengeratkan hubungan silaturrahim",
+              "Jiwa menjadi tenang",
+              "Menghindarkan perbalahan dan pertelingkahan"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil — Surah al-Baqarah: 237",
+          "body": {
+            "type": "arabic",
+            "instruction": "Allah berfirman bahawa sifat memaafkan adalah lebih hampir kepada taqwa:",
+            "arabic": "وَأَن تَعْفُوا أَقْرَبُ لِلتَّقْوَى",
+            "translation": "Dan bahawa kamu memaafkan itu adalah lebih hampir kepada taqwa.",
+            "source": "Surah al-Baqarah: 237"
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Hadis — Ganjaran Orang Pemaaf",
+          "body": {
+            "type": "arabic",
+            "instruction": "Rasulullah SAW bersabda daripada Abu Hurairah tentang kemuliaan orang yang pemaaf:",
+            "arabic": "مَا زَادَ اللَّهُ عَبْدًا بِعَفْوٍ إِلَّا عِزًّا",
+            "translation": "Tidaklah Allah menambah kepada seorang hamba yang pemaaf melainkan kemuliaan.",
+            "source": "Hadis Riwayat Muslim",
+            "outro": "Orang yang memaafkan bukan orang yang lemah — sebaliknya mereka adalah orang yang paling mulia!"
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Akibat Tidak Bersifat Pemaaf",
+          "body": {
+            "type": "list",
+            "intro": "Akibat buruk bagi orang yang tidak suka memaafkan:",
+            "items": [
+              "Dimurkai oleh Allah dan Rasul-Nya",
+              "Tidak disukai oleh ibu bapa, guru dan rakan",
+              "Jiwa sentiasa tidak tenang",
+              "Sentiasa dalam kesusahan kerana dendam",
+              "Boleh menimbulkan perbalahan dan perpecahan"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🕊️",
+      "text": {
+        "type": "list",
+        "intro": "Kisah Nabi Muhammad SAW memaafkan penduduk Taif — contoh pemaaf terbaik sepanjang zaman:",
+        "items": [
+          "Nabi Muhammad SAW pergi berdakwah ke Taif bersama sahabatnya.",
+          "Penduduk Taif menolak dakwah baginda dengan kasar dan melontar batu kepada baginda dan pengikutnya.",
+          "Baginda dan para sahabat berdarah akibat lontaran batu tersebut.",
+          "Namun Rasulullah SAW tetap bersabar dan tidak memohon Allah untuk menghukum penduduk Taif.",
+          "Sebaliknya, baginda memaafkan mereka dengan harapan agar zuriat mereka suatu hari nanti akan beriman."
+        ],
+        "outro": "Inilah sifat pemaaf yang paling mulia — memaafkan orang yang telah menyakiti kita dengan penuh keikhlasan."
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengamalkan Sifat Pemaaf",
+      "items": [
+        "Tanamkan dalam hati bahawa memaafkan adalah lebih mulia daripada dendam.",
+        "Apabila rakan melakukan kesilapan, maafkan mereka dengan ikhlas.",
+        {
+          "type": "arabic",
+          "arabic": "وَأَن تَعْفُوا أَقْرَبُ لِلتَّقْوَى",
+          "translation": "Memaafkan itu lebih hampir kepada taqwa."
+        },
+        "Ingat kisah Rasulullah SAW yang memaafkan penduduk Taif walaupun dilontar batu.",
+        "Jangan simpan dendam — ia hanya akan menyakiti diri sendiri.",
+        "Sentiasa sukai kepada Allah dan rasul, dan jauhi sifat dendam."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud sifat pemaaf?",
+      "options": [
+        "Mudah lupa tentang kesalahan orang lain",
+        "Memberikan kemaafan dengan ikhlas dan tidak dendam",
+        "Tidak mahu mengingati kesilapan orang",
+        "Pura-pura tidak nampak kesalahan orang lain"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Hadis 'Tidaklah Allah menambah kepada seorang hamba yang pemaaf melainkan kemuliaan' adalah riwayat?",
+      "options": [
+        "Riwayat Bukhari",
+        "Riwayat Muslim",
+        "Riwayat al-Tirmidhi",
+        "Riwayat Abu Dawud"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kisah siapakah yang dijadikan contoh sifat pemaaf dalam pelajaran ini?",
+      "options": [
+        "Nabi Ibrahim memaafkan kaumnya",
+        "Nabi Musa memaafkan Firaun",
+        "Nabi Muhammad SAW memaafkan penduduk Taif",
+        "Nabi Yusuf memaafkan saudara-saudaranya"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah faedah bersifat pemaaf?",
+      "options": [
+        "Orang lain akan takut kepada kita",
+        "Jiwa tenang dan mengeratkan silaturrahim",
+        "Mendapat lebih banyak kawan yang baru",
+        "Tidak perlu minta maaf kepada orang lain"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Pemaaf", "colour": "#F57F17" },
+      { "id": "n2", "label": "Faedah", "colour": "#F9A825" },
+      { "id": "n3", "label": "Jiwa Tenang", "colour": "#FFD54F" },
+      { "id": "n4", "label": "Kisah Taif", "colour": "#FF8F00" },
+      { "id": "n5", "label": "Kemuliaan", "colour": "#FFF176" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "menghasilkan" },
+      { "id": "e2", "source": "n2", "target": "n3", "label": "termasuk" },
+      { "id": "e3", "source": "n4", "target": "n1", "label": "contoh terbaik" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "Allah tambah" }
+    ]
+  },
+  "vocab": [
+    { "word": "عَفْو", "meaning": "maaf / kemaafan" },
+    { "word": "تَقْوَى", "meaning": "taqwa / takutkan Allah" },
+    { "word": "عِزّ", "meaning": "kemuliaan / martabat" },
+    { "word": "حِقْد", "meaning": "dendam / kebencian" },
+    { "word": "صِلَةُ الرَّحِم", "meaning": "mengeratkan hubungan" }
+  ],
+  "funFact": "Tahukah kamu bahawa ketika Nabi Muhammad SAW menawan Makkah (Fath Makkah), baginda memaafkan semua penduduk Makkah yang pernah menyeksa, menindas dan mengusir umat Islam selama 13 tahun? Baginda berkata: 'Pergilah kamu semua, kamu bebas!' Inilah kemaafan terbesar dalam sejarah Islam!"
+}

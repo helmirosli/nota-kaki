@@ -1,0 +1,168 @@
+{
+  "id": "jais-tahun-3-tajwid-bab1",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "tajwid",
+  "chapter": 1,
+  "title": "Makhraj Huruf",
+  "emoji": "👄",
+  "colour": "#2E7D32",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "مَخَارِج الْحُرُوف — Tempat Keluar Huruf",
+      "body": "Makhraj huruf bermaksud tempat keluar huruf-huruf hijaiyah. Memahami makhraj adalah asas kepada bacaan al-Quran yang betul. Terdapat 5 bahagian utama makhraj huruf: al-Jawf, al-Halq, al-Lisan, al-Shafatain, dan al-Khayshum."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🫁",
+          "title": "الْجَوْف — Rongga Mulut",
+          "body": {
+            "type": "arabic",
+            "instruction": "Al-Jawf ialah rongga mulut. Huruf yang keluar dari al-Jawf adalah huruf mad (huruf panjang):",
+            "arabic": "الْجَوْفُ = رُوْنْڬَّ مُلُوْت\nحُرُوف: ا ، و ، ي\n\nأ — حروف سبلوم اليف برباريس اتس\nو — حروف سبلوم واو برباريس دڤن\nي — حروف سبلوم ياء برباريس باوه",
+            "translation": "Al-Jawf = rongga mulut. Huruf-huruf: Alif, Wau, Ya'. Alif: huruf sebelumnya berbaris atas. Wau: huruf sebelumnya berbaris depan. Ya': huruf sebelumnya berbaris bawah.",
+            "outro": "Huruf al-Jawf hanya berlaku ketika hukum mad sahaja."
+          }
+        },
+        {
+          "icon": "🗣️",
+          "title": "الْحَلْق — Rongga Halkum",
+          "body": {
+            "type": "arabic",
+            "instruction": "Al-Halq ialah rongga halkum (kerongkong). Ada 3 bahagian dan 6 huruf:",
+            "arabic": "أَقْصَى الْحَلْق (pangkal halkum): أ ، ه\nوَسْط الْحَلْق (tengah halkum): ع ، ح\nأَدْنَى الْحَلْق (hujung halkum): غ ، خ",
+            "translation": "Pangkal halkum: Hamzah (أ) dan Ha' (ه). Tengah halkum: Ain (ع) dan Ha' (ح). Hujung halkum: Ghain (غ) dan Kha' (خ)."
+          }
+        },
+        {
+          "icon": "👅",
+          "title": "اللِّسَان — Lidah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Al-Lisan ialah lidah. Terdapat 18 huruf yang keluar dari 4 bahagian lidah:",
+            "arabic": "ڤڠكل ليده: ق ، ك\nتڠه ليده: ج ، ش ، ي\nتڤي ليده: ض ، ل\nهوجوڠ ليده: ن ، ر ، ت ، د ، ط ، ز ، س ، ص ، ذ ، ث ، ظ",
+            "translation": "Pangkal lidah: Qaf (ق), Kaf (ك). Tengah lidah: Jim (ج), Syin (ش), Ya' (ي). Tepi lidah: Dad (ض), Lam (ل). Hujung lidah: Nun, Ra', Ta', Dal, Tha, Za', Sin, Sad, Zal, Tha', Zha."
+          }
+        },
+        {
+          "icon": "👄",
+          "title": "الشَّفَتَان — Dua Bibir",
+          "body": {
+            "type": "arabic",
+            "instruction": "Al-Shafatain ialah dua bibir mulut. 4 huruf keluar dari bahagian ini:",
+            "arabic": "الشَّفَتَان = دوا بيبير مولوت\nحُرُوف: م ، و ، ف ، ب",
+            "translation": "Dua bibir mulut. Huruf-huruf: Mim (م), Wau (و), Fa' (ف), Ba' (ب)."
+          }
+        },
+        {
+          "icon": "👃",
+          "title": "الْخَيْشُوم — Rongga Hidung",
+          "body": {
+            "type": "arabic",
+            "instruction": "Al-Khayshum ialah rongga hidung. Huruf yang keluar dari sini adalah huruf yang berdengung:",
+            "arabic": "الْخَيْشُومُ = رُوْنْڬَّ هيدوڠ\nحُرُوف يڠ بردڠوڠ:\n— نون شَدَّة (نّ)\n— ميم شَدَّة (مّ)\n— نون ساكنة (نْ)\n— ميم ساكنة (مْ)\n— تنوين",
+            "translation": "Rongga hidung. Huruf-huruf yang berdengung: Nun syaddah, Mim syaddah, Nun sakinah, Mim sakinah, Tanwin."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ringkasan 5 bahagian Makhraj Huruf:",
+        "arabic": "١ - الْجَوْف (rongga mulut): أ و ي\n٢ - الْحَلْق (halkum): أ ه ع ح غ خ\n٣ - اللِّسَان (lidah): 18 huruf\n٤ - الشَّفَتَان (dua bibir): م و ف ب\n٥ - الْخَيْشُوم (rongga hidung): نّ مّ",
+        "translation": "Lima bahagian makhraj: rongga mulut, halkum, lidah, dua bibir, rongga hidung.",
+        "outro": "Latih sebutan huruf dari setiap makhraj untuk bacaan al-Quran yang betul!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengingati Makhraj Huruf",
+      "items": [
+        "Hafaz 5 makhraj utama: al-Jawf, al-Halq, al-Lisan, al-Shafatain, al-Khayshum.",
+        "Al-Jawf (3 huruf): alif, wau, ya' — huruf mad sahaja.",
+        "Al-Halq (6 huruf): أ ه — tengah ع ح — hujung غ خ.",
+        {
+          "type": "arabic",
+          "arabic": "الشَّفَتَان: م و ف ب\nالْخَيْشُوم: نّ مّ",
+          "translation": "Dua bibir: م و ف ب. Rongga hidung: nun syaddah, mim syaddah."
+        },
+        "Cara mengenal makhraj: matikan huruf itu dan sebutnya — tempat mana yang terasa sempit = makhrajnya.",
+        "Hafaz dengan cara talaqi (dengar dari guru) dan berulang-ulang."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud Makhraj Huruf?",
+      "options": [
+        "Cara menulis huruf Arab",
+        "Tempat keluar huruf hijaiyah",
+        "Bilangan huruf dalam al-Quran",
+        "Cara membaca al-Quran dengan cepat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa bahagian Makhraj Huruf yang utama?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Huruf manakah yang keluar dari Al-Khayshum (rongga hidung)?",
+      "options": [
+        "م و ف ب",
+        "أ ه ع ح",
+        "نّ dan مّ (nun dan mim syaddah)",
+        "أ و ي"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa huruf yang keluar dari Al-Halq (halkum)?",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "18"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Makhraj Huruf", "colour": "#2E7D32" },
+      { "id": "n2", "label": "الجوف (Rongga)", "colour": "#388E3C" },
+      { "id": "n3", "label": "الحلق (Halkum)", "colour": "#388E3C" },
+      { "id": "n4", "label": "اللسان (Lidah)", "colour": "#388E3C" },
+      { "id": "n5", "label": "الشفتان (Bibir)", "colour": "#388E3C" },
+      { "id": "n6", "label": "الخيشوم (Hidung)", "colour": "#388E3C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "3" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "4" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "5" }
+    ]
+  },
+  "vocab": [
+    { "word": "مَخْرَج", "meaning": "tempat keluar (makhraj)" },
+    { "word": "الْجَوْف", "meaning": "rongga mulut" },
+    { "word": "الْحَلْق", "meaning": "halkum/kerongkong" },
+    { "word": "اللِّسَان", "meaning": "lidah" },
+    { "word": "الشَّفَتَان", "meaning": "dua bibir" }
+  ],
+  "funFact": "Tahukah kamu bahawa huruf 'ض' (Dad) dalam bahasa Arab sangat sukar disebut? Sehinggakan bahasa Arab pernah dikenali sebagai 'لُغَة الضَّاد' (Bahasa Dad)! Huruf ini keluar dari tepi lidah, dan cara sebutannya yang tepat hanya boleh dipelajari secara talaqi (bersemuka dengan guru) — tidak boleh hanya membaca buku sahaja. Itulah mengapa tradisi talaqi sangat penting dalam pembelajaran al-Quran!"
+}

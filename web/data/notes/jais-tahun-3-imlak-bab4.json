@@ -1,0 +1,160 @@
+{
+  "id": "jais-tahun-3-imlak-bab4",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "imlak",
+  "chapter": 4,
+  "title": "Kalimah Isim Muthanna Muannas",
+  "emoji": "✍️",
+  "colour": "#009688",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "كَلِمَة اسْم مُثَنَّى مُؤَنَّث — Isim Muthanna Muannas",
+      "body": "Isim Muthanna Muannas ialah kata nama yang merujuk kepada dua benda atau dua orang berjantina perempuan. Cara membentuknya: tukar ta' marbutah (ة) kepada ta' maftuhah (تَ), kemudian tambah (انِ) di akhirnya."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Cara Membentuk Isim Muthanna Muannas",
+          "body": {
+            "type": "arabic",
+            "instruction": "Cara membentuk isim muthanna muannas — tukar (ة) kepada (تَ) dan tambah (انِ):",
+            "arabic": "مُفْرَد → مُثَنَّى:\nمُعَلِّمَةٌ → مُعَلِّمَتَانِ\nمُسْلِمَةٌ → مُسْلِمَتَانِ\nمَدْرَسَةٌ → مَدْرَسَتَانِ\nعَالِمَةٌ → عَالِمَتَانِ",
+            "translation": "Mufrad → Muthanna: guru (pr) → dua guru (pr) / muslimah → dua muslimah / sekolah → dua sekolah / ulama (pr) → dua ulama (pr)"
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Senarai Kalimah Isim Muthanna Muannas",
+          "body": {
+            "type": "arabic",
+            "instruction": "Baca dan hafaz kalimah-kalimah berikut:",
+            "arabic": "قَائِمَتَانِ — صَاحِبَتَانِ — مُؤْمِنَتَانِ\nمُسْلِمَتَانِ — عَالِمَتَانِ — جَرِيدَتَانِ\nحَبِيبَتَانِ — مَدْرَسَتَانِ — سَلِيمَتَانِ\nمُعَلِّمَتَانِ — مَرِيضَتَانِ — صَادِقَتَانِ",
+            "translation": "dua yang berdiri — dua sahabat (pr) — dua mukminah / dua muslimah — dua ulama (pr) — dua surat khabar / dua kekasih (pr) — dua sekolah — dua yang sejahtera / dua guru (pr) — dua yang sakit (pr) — dua yang benar (pr)"
+          }
+        },
+        {
+          "icon": "📚",
+          "title": "Lebih Banyak Kalimah Muthanna Muannas",
+          "body": {
+            "type": "arabic",
+            "instruction": "Kalimah isim muthanna muannas yang lain:",
+            "arabic": "وَرْدَتَانِ — قِطَّتَانِ — عُلْبَتَانِ\nبَقَرَتَانِ — صَدِيقَتَانِ — جَمِيلَتَانِ\nحَقِيبَتَانِ — زَهْرَتَانِ — مِمْسَحَتَانِ\nمُؤْمِنَتَانِ — مُسْلِمَتَانِ — عِمَارَتَانِ",
+            "translation": "dua bunga ros — dua kucing (btna) — dua tin / dua lembu betina — dua sahabat (pr) — dua yang cantik / dua beg — dua bunga — dua penyapu / dua mukminah — dua muslimah — dua bangunan"
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "Cara Mengenal Isim Muthanna Muannas",
+          "body": {
+            "type": "list",
+            "intro": "Ciri-ciri isim muthanna muannas:",
+            "items": [
+              "Bilangan: dua (muthanna)",
+              "Jantina: perempuan (muannas)",
+              "Berakhir dengan (تَانِ) — ta' maftuhah, alif dan nun kasrah",
+              "Cara membentuk: tukar (ة) → (تَانِ)",
+              "Kata ganti nama: هُمَا (mereka berdua)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "arabic",
+        "instruction": "Rumus membentuk Isim Muthanna Muannas:",
+        "arabic": "اسم مفرد مؤنث (ة → تَانِ) = اسم مثنى مؤنث\nمثال:\nمُعَلِّمَةٌ → مُعَلِّمَتَانِ\nمَدْرَسَةٌ → مَدْرَسَتَانِ",
+        "translation": "Tukar (ة) kepada (تَانِ) untuk membentuk muthanna muannas. Contoh: mu'allimatan (dua guru perempuan), madrasatan (dua sekolah).",
+        "outro": "Ingat: (ة) bertukar jadi (تَانِ) — bukan sekadar tambah (انِ)!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menulis Isim Muthanna Muannas",
+      "items": [
+        "Isim muthanna muannas merujuk kepada dua benda berjantina perempuan.",
+        "Cara membentuk: tukar ta' marbutah (ة) kepada (تَانِ).",
+        {
+          "type": "arabic",
+          "arabic": "مُسْلِمَةٌ → مُسْلِمَتَانِ\nطَالِبَةٌ → طَالِبَتَانِ",
+          "translation": "Muslimah → dua muslimah. Pelajar (pr) → dua pelajar (pr)."
+        },
+        "Jangan tambah (انِ) terus — mesti tukar (ة) kepada (تَ) dahulu.",
+        "Kata ganti nama: هُمَا (mereka berdua).",
+        "Latih menulis dengan menukar setiap kalimah mufrad muannas kepada muthanna."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Bagaimana cara membentuk isim muthanna muannas daripada isim mufrad muannas?",
+      "options": [
+        "Tambah (انِ) di akhirnya terus",
+        "Tukar (ة) kepada (تَانِ)",
+        "Tambah (ونَ) di akhirnya",
+        "Buang (ة) dan tambah (اتٌ)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah bentuk muthanna muannas bagi kalimah 'مُعَلِّمَةٌ'?",
+      "options": [
+        "مُعَلِّمَانِ",
+        "مُعَلِّمَاتٌ",
+        "مُعَلِّمَتَانِ",
+        "مُعَلِّمُونَ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kalimah 'مَدْرَسَتَانِ' bermaksud...",
+      "options": [
+        "Satu sekolah",
+        "Dua sekolah",
+        "Banyak sekolah",
+        "Sebuah kelas"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah akhiran bagi isim muthanna muannas?",
+      "options": [
+        "ةٌ",
+        "انِ",
+        "تَانِ",
+        "ونَ"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Isim Muthanna Muannas", "colour": "#009688" },
+      { "id": "n2", "label": "Isim Mufrad Muannas (ة)", "colour": "#00897B" },
+      { "id": "n3", "label": "Tukar → (تَانِ)", "colour": "#26A69A" },
+      { "id": "n4", "label": "Dua benda (pr)", "colour": "#4DB6AC" },
+      { "id": "n5", "label": "هُمَا", "colour": "#80CBC4" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n2", "target": "n3", "label": "tukar" },
+      { "id": "e2", "source": "n3", "target": "n1", "label": "=" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "makna" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "kata ganti" }
+    ]
+  },
+  "vocab": [
+    { "word": "مُثَنَّى مُؤَنَّث", "meaning": "kata nama dua berjantina perempuan" },
+    { "word": "مُعَلِّمَتَانِ", "meaning": "dua guru perempuan" },
+    { "word": "مُسْلِمَتَانِ", "meaning": "dua muslimah" },
+    { "word": "مَدْرَسَتَانِ", "meaning": "dua sekolah" },
+    { "word": "تَاء مَفْتُوحَة", "meaning": "ta' maftuhah — huruf (تَ) berbaris fathah" }
+  ],
+  "funFact": "Tahukah kamu perbezaan antara ta' marbutah (ة) dan ta' maftuhah (ت)? Ta' marbutah (ة) adalah penanda muannas tunggal — ia berbunyi 'ah' bila berhenti. Ta' maftuhah (تَ) pula adalah huruf ta' biasa berbaris fathah yang digunakan dalam muthanna muannas. Itulah sebabnya 'mu'allimah' (ة) bertukar jadi 'mu'allimatani' (تَانِ) — ta' marbutah 'dibuka' menjadi ta' maftuhah!"
+}

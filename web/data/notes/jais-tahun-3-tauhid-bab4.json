@@ -1,0 +1,163 @@
+{
+  "id": "jais-tahun-3-tauhid-bab4",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "tauhid",
+  "chapter": 4,
+  "title": "Taat kepada Rasul",
+  "emoji": "🤲",
+  "colour": "#FFB300",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Taat kepada Rasul — Ikut Sunnah dalam Kehidupan",
+      "body": "Taat kepada Rasul bermaksud mematuhi segala suruhan Rasul dan meninggalkan segala larangannya. Ia adalah kewajipan setiap Muslim kerana ketaatan kepada Rasul adalah sebahagian daripada ketaatan kepada Allah."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📋",
+          "title": "Maksud Taat kepada Rasul",
+          "body": "Taat kepada Rasul bermaksud mematuhi suruhan Rasulullah SAW dan meninggalkan segala larangannya. Contoh perkara yang dilarang: syirik, derhaka kepada ibu bapa, memungkiri janji, hasad dengki, berbohong, dan khianat."
+        },
+        {
+          "icon": "🌙",
+          "title": "Sunnah Rasul dalam Kehidupan Seharian",
+          "body": {
+            "type": "list",
+            "intro": "Antara sunnah Rasulullah SAW yang boleh diamalkan:",
+            "items": [
+              "Menghormati orang yang lebih tua",
+              "Menjaga kebersihan diri dan persekitaran",
+              "Memberi senyuman kepada sesama Muslim",
+              "Makan dan minum dengan menggunakan tangan kanan serta membaca doa",
+              "Memulakan setiap pekerjaan yang baik dengan Bismillah"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil — Surah an-Nisa': 59",
+          "body": {
+            "type": "arabic",
+            "instruction": "Allah berfirman tentang kewajipan taat kepada Allah, Rasul dan pemimpin:",
+            "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ",
+            "translation": "Wahai orang-orang yang beriman! Taatilah Allah dan taatilah Rasul, dan juga pemimpin-pemimpin dari kalangan kamu.",
+            "source": "Surah an-Nisa': 59"
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Perkara yang Dilarang Rasul",
+          "body": {
+            "type": "list",
+            "intro": "Perkara yang wajib dijauhi kerana dilarang oleh Rasulullah SAW:",
+            "items": [
+              "Syirik — menyekutukan Allah",
+              "Derhaka kepada ibu bapa",
+              "Memungkiri janji",
+              "Hasad dengki terhadap orang lain",
+              "Berbohong dan menipu",
+              "Khianat terhadap amanah"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah berfirman tentang perintah taat kepada Rasul:",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ",
+        "translation": "Wahai orang-orang yang beriman! Taatilah Allah dan taatilah Rasul.",
+        "source": "Surah an-Nisa': 59",
+        "outro": "Ketaatan kepada Rasul adalah jalan menuju redha Allah dan syurga-Nya!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengamalkan Taat kepada Rasul",
+      "items": [
+        "Pelajari sunnah Rasulullah SAW dari buku dan guru yang dipercayai.",
+        "Amalkan sunnah seharian: makan dengan tangan kanan, baca doa, hormati orang tua.",
+        {
+          "type": "arabic",
+          "arabic": "بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ",
+          "translation": "Mulakan setiap pekerjaan yang baik dengan Bismillah."
+        },
+        "Solat berjamaah untuk menghidupkan sunnah Rasul.",
+        "Elakkan semua perkara yang dilarang oleh Rasul.",
+        "Ucapkan selawat setiap kali nama Rasul disebut."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud taat kepada Rasul?",
+      "options": [
+        "Membaca kisah hidup Rasul setiap hari",
+        "Mematuhi suruhan dan meninggalkan larangan Rasul",
+        "Meniru cara berpakaian Rasul sahaja",
+        "Menghafaz hadis sebanyak mungkin"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Surah an-Nisa' ayat 59 adalah dalil tentang?",
+      "options": [
+        "Larangan berbohong",
+        "Perintah berpuasa",
+        "Perintah taat kepada Allah, Rasul dan pemimpin",
+        "Kewajipan berzakat"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Manakah BUKAN sunnah Rasulullah SAW?",
+      "options": [
+        "Menghormati orang yang lebih tua",
+        "Makan dengan tangan kanan",
+        "Hasad dengki kepada jiran",
+        "Memberi senyuman kepada sesama Muslim"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Solat berjamaah adalah cara untuk menghidupkan sunnah Rasul. Ini termasuk dalam?",
+      "options": [
+        "Taat kepada Rasul",
+        "Rukun Islam",
+        "Adat istiadat",
+        "Amalan sunat"
+      ],
+      "answer": 0
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Taat Rasul", "colour": "#FFB300" },
+      { "id": "n2", "label": "Amal Sunnah", "colour": "#FFA000" },
+      { "id": "n3", "label": "Tinggal Larangan", "colour": "#FF6F00" },
+      { "id": "n4", "label": "Redha Allah", "colour": "#FFD54F" },
+      { "id": "n5", "label": "Syurga", "colour": "#81C784" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "cara" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "cara" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "menghasilkan" },
+      { "id": "e4", "source": "n4", "target": "n5", "label": "menuju" }
+    ]
+  },
+  "vocab": [
+    { "word": "طَاعَة", "meaning": "taat / patuh" },
+    { "word": "سُنَّة", "meaning": "sunnah — amalan Rasul" },
+    { "word": "حَدِيث", "meaning": "hadis — sabda Rasul" },
+    { "word": "شِرْك", "meaning": "syirik — menyekutukan Allah" },
+    { "word": "أَمَانَة", "meaning": "amanah / tanggungjawab" }
+  ],
+  "funFact": "Tahukah kamu bahawa setiap kali kita makan dengan tangan kanan dan membaca Bismillah, kita sedang mengamalkan sunnah Rasulullah SAW? Baginda bersabda: 'Apabila seseorang makan, hendaklah dia menyebut nama Allah (Bismillah) di awal makan.' Amalan kecil ini mengandungi keberkatan yang besar!"
+}

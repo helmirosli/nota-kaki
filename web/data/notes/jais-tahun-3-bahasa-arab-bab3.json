@@ -1,0 +1,154 @@
+{
+  "id": "jais-tahun-3-bahasa-arab-bab3",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "bahasa-arab",
+  "chapter": 3,
+  "title": "Dars 3: Peralatan Dapur",
+  "emoji": "🍳",
+  "colour": "#1565C0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الأدوات المطبخية — Peralatan Dapur",
+      "body": "Dalam dars ini kita belajar kosa kata peralatan dapur dalam bahasa Arab. Peralatan dapur merangkumi pinggan mangkuk, sudu garpu, periuk dan kuali yang kita gunakan setiap hari."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🥢",
+          "title": "Sudu, Garpu dan Pisau",
+          "body": {
+            "type": "arabic",
+            "instruction": "Peralatan makan asas dalam bahasa Arab:",
+            "arabic": "مِلْعَقَةٌ — مِلْعَقَةٌ\nشَوْكَةٌ — شَوْكَةٌ\nسِكِّينٌ — سِكِّينٌ\nمِغْرَفَةٌ — مِغْرَفَةٌ\nإِبْرِيقٌ — إِبْرِيقٌ",
+            "translation": "مِلْعَقَة = sudu\nشَوْكَة = garpu\nسِكِّين = pisau\nمِغْرَفَة = sudip/senduk masak\nإِبْرِيق = cerek/teko"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "title": "Pinggan, Cawan dan Gelas",
+          "body": {
+            "type": "arabic",
+            "instruction": "Bekas untuk makan dan minum:",
+            "arabic": "صَحْنٌ — صَحْنٌ\nكُوبٌ — كُوبٌ\nفِنْجَانٌ — فِنْجَانٌ\nقَدَحٌ — قَدَحٌ\nكُوزٌ — كُوزٌ",
+            "translation": "صَحْن = pinggan\nكُوب = cawan/mug\nفِنْجَان = cawan teh kecil\nقَدَح = gelas\nكُوز = tempat air"
+          }
+        },
+        {
+          "icon": "🥘",
+          "title": "Periuk, Kuali dan Bekas Masak",
+          "body": {
+            "type": "arabic",
+            "instruction": "Peralatan untuk memasak:",
+            "arabic": "قِدْرٌ — قِدْرٌ\nمِقْلَاةٌ — مِقْلَاةٌ\nعَصَّارَةٌ — عَصَّارَةٌ\nخَلَّاطَةٌ — خَلَّاطَةٌ",
+            "translation": "قِدْر = periuk\nمِقْلَاة = kuali\nعَصَّارَة = pemeras jus\nخَلَّاطَة = blender"
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Contoh Ayat Menggunakan Peralatan Dapur",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat-ayat menggunakan kosa kata peralatan dapur:",
+            "arabic": "الْأُمُّ تَقْطَعُ الْخِيَارَ بِالسِّكِّينِ.\nالْأَخُ يَشْرَبُ الْمَاءَ بِالْكُوبِ.\nأَغْسِلُ الصُّحُونَ بِالْمَاءِ وَالصَّابُونِ.",
+            "translation": "Ibu memotong timun dengan pisau.\nAbang minum air dengan cawan.\nSaya mencuci pinggan dengan air dan sabun."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Cara bertanya nama peralatan dapur:",
+        "arabic": "مَا هَذَا؟ — هَذَا صَحْنٌ.\nمَا هَذِهِ؟ — هَذِهِ مِلْعَقَةٌ.\nهَلْ هَذَا صَحْنٌ؟ — نَعَمْ، هَذَا صَحْنٌ.",
+        "translation": "Apa ini? — Ini pinggan. | Apa ini? — Ini sudu. | Adakah ini pinggan? — Ya, ini pinggan.",
+        "outro": "Bantu ibu kamu di dapur — basuh pinggan selepas makan!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengingati Kosa Kata Peralatan Dapur",
+      "items": [
+        "Peralatan makan: sudu = مِلْعَقَة, garpu = شَوْكَة, pisau = سِكِّين.",
+        "Bekas makan/minum: pinggan = صَحْن, cawan = كُوب, gelas = قَدَح.",
+        {
+          "type": "arabic",
+          "arabic": "قِدْرٌ — مِقْلَاةٌ — صَحْنٌ — كُوبٌ",
+          "translation": "Periuk — Kuali — Pinggan — Cawan"
+        },
+        "Ingat: مِ + peralatan = alat untuk buat sesuatu (مِلْعَقَة untuk suapan, مِغْرَفَة untuk senduk).",
+        "Cuba namakan semua peralatan di dapur kamu dalam bahasa Arab!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah bahasa Arab untuk 'pinggan'?",
+      "options": [
+        "كُوب",
+        "فِنْجَان",
+        "صَحْن",
+        "قَدَح"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah makna kosa kata 'مِغْرَفَة'?",
+      "options": [
+        "Pisau",
+        "Garpu",
+        "Senduk masak",
+        "Sudu"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Lengkapkan ayat: الْأُمُّ تَقْطَعُ الْخِيَارَ ___ (Ibu memotong timun dengan pisau)",
+      "options": [
+        "بِالْمِلْعَقَةِ",
+        "بِالشَّوْكَةِ",
+        "بِالسِّكِّينِ",
+        "بِالصَّحْنِ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah perbezaan antara فِنْجَان dan كُوب?",
+      "options": [
+        "Tiada perbezaan, sama sahaja",
+        "فِنْجَان adalah cawan teh kecil, كُوب adalah cawan/mug biasa",
+        "فِنْجَان adalah gelas, كُوب adalah pinggan",
+        "فِنْجَان adalah periuk, كُوب adalah kuali"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Peralatan Dapur", "colour": "#1565C0" },
+      { "id": "n2", "label": "Alat Makan", "colour": "#1976D2" },
+      { "id": "n3", "label": "Bekas", "colour": "#1976D2" },
+      { "id": "n4", "label": "Alat Masak", "colour": "#1976D2" },
+      { "id": "n5", "label": "مِلْعَقَة شَوْكَة", "colour": "#42A5F5" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "kumpulan" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "kumpulan" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "kumpulan" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "contoh" }
+    ]
+  },
+  "vocab": [
+    { "word": "صَحْن", "meaning": "pinggan" },
+    { "word": "مِلْعَقَة", "meaning": "sudu" },
+    { "word": "سِكِّين", "meaning": "pisau" },
+    { "word": "قِدْر", "meaning": "periuk" },
+    { "word": "مِقْلَاة", "meaning": "kuali" }
+  ],
+  "funFact": "Tahukah kamu bahawa perkataan Arab untuk 'gelas' (قَدَح, قadhah) adalah antara perkataan Arab paling tua? Dalam sejarah Islam, para sahabat pernah minum dari qadah yang sama untuk menunjukkan tanda persaudaraan. Di Malaysia pula, kita sering menggunakan perkataan 'cawan' yang sebenarnya berasal dari bahasa Parsi-Arab 'jawan'!"
+}

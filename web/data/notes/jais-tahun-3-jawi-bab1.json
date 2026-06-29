@@ -1,0 +1,180 @@
+{
+  "id": "jais-tahun-3-jawi-bab1",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "jawi",
+  "chapter": 1,
+  "title": "Sukukata Tertutup 'k' — Kata Jati Melayu",
+  "emoji": "✒️",
+  "colour": "#FF9800",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "سوكوكات ترتوتوف 'k' — Konsonan 'k' di Akhir Sukukata",
+      "body": "Dalam penulisan Jawi, konsonan 'k' di akhir sukukata tertutup pada kata jati Melayu hendaklah ditulis dengan huruf ق (qaf). Ini berbeza dengan penulisan huruf 'k' di tempat lain. Pelajaran ini mengajar cara mengenal dan menulis perkataan-perkataan tersebut dengan betul."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Hukum Penulisan 'k' — Kata Jati Melayu",
+          "body": {
+            "type": "list",
+            "intro": "Peraturan penulisan konsonan 'k' di akhir sukukata tertutup kata jati Melayu:",
+            "items": [
+              "Konsonan 'k' di akhir sukukata TERTUTUP kata jati Melayu ditulis dengan ق (qaf)",
+              "Sukukata tertutup bermaksud sukukata yang berakhir dengan konsonan",
+              "Huruf ق digunakan kerana bunyi 'k' di akhir kata Melayu berbunyi hentian glotis",
+              "Ini BERBEZA dengan 'k' dalam kata pinjaman Inggeris (yang guna ک)",
+              "Contoh: lubuk → لوبوق, tarik → تاريق, batik → باتيق"
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Contoh Kata Jati Melayu (ق)",
+          "body": {
+            "type": "list",
+            "intro": "Perkataan kata jati Melayu dengan sukukata tertutup 'k' — ditulis ق:",
+            "items": [
+              "lubuk = لوبوق (lubuk = kawasan dalam di sungai)",
+              "periksa = ڤريقسا (periksa = memeriksa)",
+              "tarik = تاريق (tarik = menarik)",
+              "keropok = كروڤوق (keropok = makanan ringan)",
+              "batik = باتيق (batik = kain batik)",
+              "siksaan = سيقساءن (siksaan = azab)",
+              "tembok = تمبوق (tembok = dinding tebal)",
+              "bakti = بقتي (bakti = taat setia)",
+              "makcik = ماقچيق (makcik = ibu saudara)"
+            ]
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Cara Mengenal Sukukata Tertutup",
+          "body": {
+            "type": "list",
+            "intro": "Bagaimana mengenal pasti sukukata tertutup?",
+            "items": [
+              "Sukukata tertutup = sukukata yang BERAKHIR dengan konsonan",
+              "Contoh: 'lu-buk' → sukukata kedua 'buk' adalah tertutup (berakhir 'k')",
+              "Contoh: 'ta-rik' → sukukata kedua 'rik' adalah tertutup (berakhir 'k')",
+              "Bandingkan: 'bu-ka' → sukukata terbuka (berakhir vokal 'a')",
+              "Cara mudah: pilah perkataan kepada sukukata, lihat akhiran"
+            ]
+          }
+        },
+        {
+          "icon": "✏️",
+          "title": "Latihan Kosa Kata",
+          "body": {
+            "type": "list",
+            "intro": "Lebih banyak kata jati Melayu sukukata tertutup 'k' (ditulis ق):",
+            "items": [
+              "lenggok = لغكوق",
+              "raksasa = رقساسا",
+              "senduk = سندوق",
+              "retak = رتق",
+              "belek = بيليق",
+              "seksa = سيقسا",
+              "cokmar = چوقمر",
+              "baliq / balik = باليق"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "list",
+        "intro": "Rumus penting — Konsonan 'k' sukukata tertutup kata jati Melayu:",
+        "items": [
+          "Kata jati Melayu + sukukata TERTUTUP ending 'k' → tulis dengan ق",
+          "Contoh: lubuk=لوبوق, tarik=تاريق, batik=باتيق",
+          "INGAT: ق hanya untuk kata JATI MELAYU, bukan kata pinjaman Inggeris!"
+        ],
+        "outro": "Ingat peraturan ini: kata jati Melayu + 'k' akhir tertutup = ق (qaf)!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menulis Konsonan 'k' dalam Jawi",
+      "items": [
+        "Kenal pasti jenis perkataan: kata jati Melayu atau kata pinjaman?",
+        "Pilah perkataan kepada sukukata untuk kenal pasti sukukata tertutup.",
+        "Jika kata jati Melayu dengan 'k' di akhir sukukata TERTUTUP → tulis ق.",
+        "Contoh: 'lu-buk' → sukukata 'buk' tertutup → لوبوق.",
+        "Latih menulis dan mengeja perkataan-perkataan ini dalam buku latihan."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Huruf Jawi apa yang digunakan untuk 'k' di akhir sukukata tertutup dalam kata jati Melayu?",
+      "options": [
+        "ک (kaf)",
+        "ق (qaf)",
+        "خ (kha)",
+        "ك (kaf biasa)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan 'tarik' dalam Jawi ditulis sebagai?",
+      "options": [
+        "تاريک",
+        "تاريخ",
+        "تاريق",
+        "تاريك"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Manakah BUKAN kata jati Melayu?",
+      "options": [
+        "lubuk",
+        "batik",
+        "matematik",
+        "keropok"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah maksud 'sukukata tertutup'?",
+      "options": [
+        "Sukukata yang berakhir dengan vokal",
+        "Sukukata yang berakhir dengan konsonan",
+        "Sukukata yang mempunyai dua konsonan",
+        "Sukukata yang pendek"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Konsonan 'k'", "colour": "#FF9800" },
+      { "id": "n2", "label": "Kata Jati Melayu", "colour": "#F57C00" },
+      { "id": "n3", "label": "Sukukata Tertutup", "colour": "#FB8C00" },
+      { "id": "n4", "label": "Tulis ق (qaf)", "colour": "#FFA726" },
+      { "id": "n5", "label": "lubuk تاريق", "colour": "#FFB74D" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis kata" },
+      { "id": "e2", "source": "n2", "target": "n3", "label": "jenis sukukata" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "→ hukum" },
+      { "id": "e4", "source": "n4", "target": "n5", "label": "contoh" }
+    ]
+  },
+  "vocab": [
+    { "word": "سوكوكات ترتوتوف", "meaning": "sukukata tertutup — berakhir konsonan" },
+    { "word": "كات جاتي ملايو", "meaning": "kata asli bahasa Melayu" },
+    { "word": "ق", "meaning": "huruf qaf — digunakan untuk 'k' tertutup kata Melayu" },
+    { "word": "لوبوق", "meaning": "lubuk — kawasan dalam di sungai/laut" },
+    { "word": "تاريق", "meaning": "tarik — menarik" }
+  ],
+  "funFact": "Tahukah kamu mengapa kata jati Melayu yang berakhir 'k' ditulis dengan ق (qaf) dan bukan ک? Ini kerana bunyi 'k' di akhir kata Melayu sebenarnya berbunyi seperti hentian glotis — bukan bunyi 'k' yang jelas. Orang-orang tua dahulu mengguna ق untuk mewakili bunyi hentian tersebut. Itulah sebabnya 'batik', 'tarik', 'lubuk' semua ditulis dengan ق di akhirnya dalam tulisan Jawi tradisional!"
+}

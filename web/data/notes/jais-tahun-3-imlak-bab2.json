@@ -1,0 +1,161 @@
+{
+  "id": "jais-tahun-3-imlak-bab2",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "imlak",
+  "chapter": 2,
+  "title": "Kalimah Isim Muthanna Muzakar",
+  "emoji": "✍️",
+  "colour": "#009688",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "كَلِمَة اسْم مُثَنَّى مُذَكَّر — Isim Muthanna Muzakar",
+      "body": "Isim Muthanna Muzakar ialah kata nama yang merujuk kepada dua benda atau dua orang berjantina lelaki. Cara membentuknya: tambah huruf الف dan نون berharakat kasrah (انِ) di akhir kalimah isim mufrad muzakar."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Cara Membentuk Isim Muthanna Muzakar",
+          "body": {
+            "type": "arabic",
+            "instruction": "Cara membentuk isim muthanna muzakar — tambah (انِ) di akhir isim mufrad muzakar:",
+            "arabic": "مُفْرَد → مُثَنَّى:\nرَجُلٌ → رَجُلَانِ\nقَلَمٌ → قَلَمَانِ\nكِتَابٌ → كِتَابَانِ\nبَيْتٌ → بَيْتَانِ",
+            "translation": "Mufrad → Muthanna: lelaki → dua lelaki / pena → dua pena / buku → dua buku / rumah → dua rumah",
+            "outro": "Huruf sebelum alif harus berharakat fathah (atas)."
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Senarai Kalimah Isim Muthanna Muzakar",
+          "body": {
+            "type": "arabic",
+            "instruction": "Baca dan hafaz kalimah-kalimah berikut:",
+            "arabic": "رَجُلَانِ — كُرْسِيَّانِ — وَجْهَانِ\nبَيْتَانِ — عَالِمَانِ — مَكْتَبَانِ\nتِلْمِيذَانِ — كِتَابَانِ — قَلَمَانِ\nأُسْتَاذَانِ — دُوْلَابَانِ — شَخْصَانِ",
+            "translation": "dua lelaki — dua kerusi — dua wajah / dua rumah — dua ulama — dua meja / dua murid — dua buku — dua pena / dua ustaz — dua almari — dua orang"
+          }
+        },
+        {
+          "icon": "📚",
+          "title": "Lebih Banyak Kalimah Muthanna Muzakar",
+          "body": {
+            "type": "arabic",
+            "instruction": "Kalimah isim muthanna muzakar yang lain:",
+            "arabic": "سِرْوَالَانِ — جَوْرَبَانِ — قَمِيصَانِ\nثَوْبَانِ — أُذُنَانِ — عَيْنَانِ\nرِجْلَانِ — بَابَانِ — تِمْسَاحَانِ\nأَسَدَانِ — حِصَانَانِ — مُسْلِمَانِ",
+            "translation": "dua seluar — dua stokin — dua baju / dua pakaian — dua telinga — dua mata / dua kaki — dua pintu — dua buaya / dua singa — dua kuda — dua muslim"
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "Cara Mengenal Isim Muthanna Muzakar",
+          "body": {
+            "type": "list",
+            "intro": "Ciri-ciri isim muthanna muzakar:",
+            "items": [
+              "Bilangan: dua (muthanna)",
+              "Jantina: lelaki (muzakar)",
+              "Berakhir dengan (انِ) — alif dan nun kasrah",
+              "Huruf sebelum alif berbaris fathah",
+              "Kata ganti nama: هُمَا (dua lelaki)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "arabic",
+        "instruction": "Rumus membentuk Isim Muthanna Muzakar:",
+        "arabic": "اسم مفرد مذكر + انِ = اسم مثنى مذكر\nمثال:\nقَلَمٌ + انِ = قَلَمَانِ\nكِتَابٌ + انِ = كِتَابَانِ",
+        "translation": "Isim mufrad muzakar + (انِ) = isim muthanna muzakar. Contoh: qalam + ani = qalamani (dua pena), kitab + ani = kitabani (dua buku).",
+        "outro": "Tambah (انِ) sahaja untuk menjadikan isim mufrad muzakar kepada muthanna!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menulis Isim Muthanna Muzakar",
+      "items": [
+        "Isim muthanna muzakar merujuk kepada dua benda berjantina lelaki.",
+        "Cara membentuknya: tambah (انِ) di akhir isim mufrad muzakar.",
+        {
+          "type": "arabic",
+          "arabic": "رَجُلٌ → رَجُلَانِ\nمُسْلِمٌ → مُسْلِمَانِ",
+          "translation": "Seorang lelaki → dua lelaki. Seorang muslim → dua muslim."
+        },
+        "Pastikan huruf sebelum alif berbaris fathah (baris atas).",
+        "Kata ganti nama yang digunakan: هُمَا (dua lelaki).",
+        "Latih menulis dengan menukar setiap kalimah mufrad kepada muthanna."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Bagaimana cara membentuk isim muthanna muzakar daripada isim mufrad muzakar?",
+      "options": [
+        "Tambah (ة) di akhirnya",
+        "Tambah (انِ) di akhirnya",
+        "Tambah (ونَ) di akhirnya",
+        "Tambah (اتٌ) di akhirnya"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah bentuk muthanna bagi kalimah 'قَلَمٌ'?",
+      "options": [
+        "قَلَمَاتٌ",
+        "أَقْلَامٌ",
+        "قَلَمَانِ",
+        "قَلَمَةٌ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kalimah 'بَيْتَانِ' bermaksud...",
+      "options": [
+        "Satu rumah",
+        "Dua rumah",
+        "Banyak rumah",
+        "Sebuah bilik"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kata ganti nama untuk isim muthanna muzakar ialah?",
+      "options": [
+        "هُوَ",
+        "هِيَ",
+        "هُمَا",
+        "هُمْ"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Isim Muthanna Muzakar", "colour": "#009688" },
+      { "id": "n2", "label": "Isim Mufrad Muzakar", "colour": "#00897B" },
+      { "id": "n3", "label": "Tambah (انِ)", "colour": "#26A69A" },
+      { "id": "n4", "label": "Dua benda", "colour": "#4DB6AC" },
+      { "id": "n5", "label": "هُمَا", "colour": "#80CBC4" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n2", "target": "n3", "label": "+" },
+      { "id": "e2", "source": "n3", "target": "n1", "label": "=" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "makna" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "kata ganti" }
+    ]
+  },
+  "vocab": [
+    { "word": "مُثَنَّى", "meaning": "dua / bilangan dua" },
+    { "word": "رَجُلَانِ", "meaning": "dua lelaki" },
+    { "word": "كِتَابَانِ", "meaning": "dua buku" },
+    { "word": "مُسْلِمَانِ", "meaning": "dua orang muslim" },
+    { "word": "هُمَا", "meaning": "mereka berdua (dua orang/benda)" }
+  ],
+  "funFact": "Tahukah kamu bahawa bahasa Arab adalah satu daripada sedikit bahasa di dunia yang mempunyai bentuk khas untuk 'dua'? Kebanyakan bahasa hanya ada bentuk tunggal dan jamak (ramai), tetapi bahasa Arab mempunyai tiga bentuk: mufrad (1), muthanna (2), dan jamak (3+). Ini menjadikan bahasa Arab sangat tepat dan jelas dalam menyatakan bilangan!"
+}

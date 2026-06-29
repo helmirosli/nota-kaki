@@ -1,0 +1,165 @@
+{
+  "id": "jais-tahun-3-imlak-bab1",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "imlak",
+  "chapter": 1,
+  "title": "Kalimah Isim Mufrad Muzakar",
+  "emoji": "✍️",
+  "colour": "#009688",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "كَلِمَة اسْم مُفْرَد مُذَكَّر — Isim Mufrad Muzakar",
+      "body": "Isim Mufrad Muzakar ialah kata nama tunggal yang merujuk kepada jantina lelaki (muzakar). Dalam bahasa Arab, setiap kata nama mempunyai jantina — sama ada muzakar (lelaki) atau muannas (perempuan). Pelajaran ini mengajar cara mengenali dan menulis kalimah isim mufrad muzakar dengan betul."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Pengertian Isim Mufrad Muzakar",
+          "body": {
+            "type": "list",
+            "intro": "Apa itu kalimah isim mufrad muzakar?",
+            "items": [
+              "Isim = kata nama (benda, orang, tempat)",
+              "Mufrad = satu / tunggal (bilangan 1)",
+              "Muzakar = jantina lelaki",
+              "Biasanya berakhir dengan tanwin (ٌ ً ٍ) dalam bentuk tak tentu",
+              "Tidak mempunyai tanda ta' marbutah (ة) di akhirnya"
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Senarai Kalimah Isim Mufrad Muzakar",
+          "body": {
+            "type": "arabic",
+            "instruction": "Baca dan hafaz kalimah-kalimah berikut:",
+            "arabic": "رَجُلٌ — أُسْتَاذٌ — إِنْسَانٌ\nقَلَمٌ — كِتَابٌ — عَالِمٌ\nتِلْمِيذٌ — دُوْلَابٌ — مَكْتَبٌ\nوَجْهٌ — كُرْسِيٌّ — بَيْتٌ",
+            "translation": "lelaki — ustaz — manusia / pena — buku — ulama / murid — almari — meja / wajah — kerusi — rumah"
+          }
+        },
+        {
+          "icon": "📚",
+          "title": "Lebih Banyak Kalimah Muzakar",
+          "body": {
+            "type": "arabic",
+            "instruction": "Kalimah isim mufrad muzakar yang lain:",
+            "arabic": "مُعَلِّمٌ — طَبِيبٌ — مُؤَذِّنٌ\nطَالِبٌ — إِمَامٌ — مُسْلِمٌ\nمَسْجِدٌ — مَكْتَبٌ — مِصْبَاحٌ\nمُدِيرٌ — خَطِيبٌ — مُدَرِّسٌ",
+            "translation": "guru — doktor — muazzin / pelajar — imam — muslim / masjid — meja — lampu / pengetua — khatib — pengajar"
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "Cara Mengenal Isim Mufrad Muzakar",
+          "body": {
+            "type": "list",
+            "intro": "Ciri-ciri isim mufrad muzakar:",
+            "items": [
+              "Bilangan: satu (mufrad)",
+              "Jantina: lelaki (muzakar)",
+              "Tiada huruf ة (ta' marbutah) di akhirnya",
+              "Kata ganti nama: هُوَ (dia lelaki) atau هَذَا (ini) atau ذَلِكَ (itu)",
+              "Tanwin dhammah (ٌ) di akhir untuk bentuk tak tentu"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "arabic",
+        "instruction": "Rumus penting Isim Mufrad Muzakar:",
+        "arabic": "اسم مفرد مذكر:\n— بيلڠن ١ (مفرد)\n— جنتين للاكي (مذكر)\n— تياد حروف \"ة\" د أخير كليمه\nكات ڬنتي نام: هُوَ ← هَذَا ← ذَلِكَ",
+        "translation": "Isim mufrad muzakar: bilangan 1, jantina lelaki, tiada ta' marbutah di akhirnya. Kata ganti: huwa (dia) — haza (ini) — zalika (itu).",
+        "outro": "Kenali isim mufrad muzakar dengan melihat tiada ة di akhirnya!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menulis Isim Mufrad Muzakar",
+      "items": [
+        "Isim mufrad muzakar adalah kata nama tunggal berjantina lelaki.",
+        "Ia tidak mempunyai huruf ta' marbutah (ة) di akhirnya.",
+        {
+          "type": "arabic",
+          "arabic": "رَجُلٌ — قَلَمٌ — كِتَابٌ — بَيْتٌ",
+          "translation": "Lelaki — pena — buku — rumah (semua tiada ة)"
+        },
+        "Kata ganti nama untuk muzakar: هُوَ (huwa = dia lelaki), هَذَا (haza = ini), ذَلِكَ (zalika = itu).",
+        "Baca dengan tanwin dhammah (ٌ) di akhir untuk bentuk tak tentu.",
+        "Latih menulis setiap kalimah dengan betul dalam buku latihan."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud 'Isim Mufrad Muzakar'?",
+      "options": [
+        "Kata nama tunggal berjantina perempuan",
+        "Kata nama tunggal berjantina lelaki",
+        "Kata nama dua berjantina lelaki",
+        "Kata nama jamak berjantina lelaki"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan manakah yang merupakan isim mufrad muzakar?",
+      "options": [
+        "مُعَلِّمَةٌ",
+        "رَجُلَانِ",
+        "قَلَمٌ",
+        "مُسْلِمَاتٌ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kata ganti nama yang digunakan untuk isim mufrad muzakar ialah?",
+      "options": [
+        "هِيَ",
+        "هُمْ",
+        "هُوَ",
+        "هُنَّ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Ciri-ciri isim mufrad muzakar adalah...",
+      "options": [
+        "Ada huruf ة di akhirnya",
+        "Tiada huruf ة di akhirnya",
+        "Berakhir dengan ون",
+        "Berakhir dengan انِ"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Isim Mufrad Muzakar", "colour": "#009688" },
+      { "id": "n2", "label": "Bilangan 1", "colour": "#00897B" },
+      { "id": "n3", "label": "Jantina Lelaki", "colour": "#00897B" },
+      { "id": "n4", "label": "Tiada ة", "colour": "#26A69A" },
+      { "id": "n5", "label": "هُوَ / هَذَا", "colour": "#4DB6AC" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "mufrad" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "muzakar" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "ciri" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "kata ganti" }
+    ]
+  },
+  "vocab": [
+    { "word": "اسْم", "meaning": "kata nama" },
+    { "word": "مُفْرَد", "meaning": "tunggal / satu" },
+    { "word": "مُذَكَّر", "meaning": "muzakar / jantina lelaki" },
+    { "word": "رَجُلٌ", "meaning": "seorang lelaki" },
+    { "word": "تِلْمِيذٌ", "meaning": "seorang murid" }
+  ],
+  "funFact": "Tahukah kamu bahawa dalam bahasa Arab, setiap benda pun ada jantina — sama ada muzakar (lelaki) atau muannas (perempuan)! Contohnya, 'kitab' (كِتَابٌ = buku) adalah muzakar, manakala 'madrasah' (مَدْرَسَةٌ = sekolah) adalah muannas. Ini berbeza dengan bahasa Melayu yang tidak membezakan jantina bagi benda mati. Itulah antara keunikan bahasa Arab!"
+}

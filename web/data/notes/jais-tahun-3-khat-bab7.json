@@ -1,0 +1,159 @@
+{
+  "id": "jais-tahun-3-khat-bab7",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "khat",
+  "chapter": 7,
+  "title": "Huruf ب، ت، ث Bersambung dalam Khat Naskh",
+  "emoji": "🖊️",
+  "colour": "#795548",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "حروف ب ت ث بrsambung — Ba', Ta', Tha' Bersambung",
+      "body": "Setelah menguasai huruf ba' (ب), ta' (ت), dan tha' (ث) dalam keadaan tunggal, pelajar kini perlu mempelajari cara menulisnya dalam keadaan bersambung. Huruf-huruf ini boleh berada di awal, tengah, atau akhir perkataan, dan bentuknya berubah sedikit mengikut kedudukannya."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Tiga Kedudukan Huruf",
+          "body": {
+            "type": "list",
+            "intro": "Huruf ba'/ta'/tha' boleh berada di tiga kedudukan:",
+            "items": [
+              "AWAL perkataan: huruf pertama yang disambung kepada huruf seterusnya",
+              "TENGAH perkataan: di antara dua huruf lain",
+              "AKHIR perkataan: huruf terakhir yang menerima sambungan dari huruf sebelumnya",
+              "Bentuk asas huruf dikekalkan tetapi disesuaikan untuk sambungan",
+              "Ekor di sebelah kiri dipendekan untuk sambungan ke huruf berikutnya"
+            ]
+          }
+        },
+        {
+          "icon": "ب",
+          "title": "Ba', Ta', Tha' di Awal Perkataan",
+          "body": {
+            "type": "arabic",
+            "instruction": "Bentuk Ba', Ta', Tha' di awal perkataan (bersambung ke kanan):",
+            "arabic": "بـ ← مثل: بَيْت، بَاب\nتـ ← مثل: تِلْمِيذ، تَاجِر\nثـ ← مثل: ثَمَرَة، ثَوْب",
+            "translation": "Ba' di awal: بـ — contoh: bayt (rumah), bab (pintu). Ta' di awal: تـ — contoh: tilmiz (murid), tajir (peniaga). Tha' di awal: ثـ — contoh: thamarah (buah), thawb (pakaian).",
+            "outro": "Di awal perkataan, hujung kanan huruf terbuka untuk disambung ke huruf seterusnya."
+          }
+        },
+        {
+          "icon": "ـبـ",
+          "title": "Ba', Ta', Tha' di Tengah Perkataan",
+          "body": {
+            "type": "arabic",
+            "instruction": "Bentuk Ba', Ta', Tha' di tengah perkataan:",
+            "arabic": "ـبـ ← مثل: كَبِيْر، أَبِي\nـتـ ← مثل: كِتَاب، فَتَى\nـثـ ← مثل: مَثَل، كَثِيْر",
+            "translation": "Ba' di tengah: ـبـ — contoh: kabir (besar), abi (ayahku). Ta' di tengah: ـتـ — contoh: kitab (buku), fata (pemuda). Tha' di tengah: ـثـ — contoh: mathal (perumpamaan), kathir (banyak).",
+            "outro": "Di tengah perkataan, kedua-dua belah huruf disambungkan."
+          }
+        },
+        {
+          "icon": "ـب",
+          "title": "Ba', Ta', Tha' di Akhir Perkataan",
+          "body": {
+            "type": "arabic",
+            "instruction": "Bentuk Ba', Ta', Tha' di akhir perkataan:",
+            "arabic": "ـب ← مثل: كِتَاب، بَاب\nـت ← مثل: بَيْت، وَقْت\nـث ← مثل: حَدِيْث، تُرَاث",
+            "translation": "Ba' di akhir: ـب — contoh: kitab (buku), bab (pintu). Ta' di akhir: ـت — contoh: bayt (rumah), waqt (waktu). Tha' di akhir: ـث — contoh: hadith (hadis), turath (warisan).",
+            "outro": "Di akhir perkataan, huruf menerima sambungan dari kiri dan berhenti."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "ب",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ringkasan Ba', Ta', Tha' dalam tiga kedudukan:",
+        "arabic": "أول: بـ / تـ / ثـ\nوسط: ـبـ / ـتـ / ـثـ\nآخر: ـب / ـت / ـث\nالنقاط تبقى نفسها في كل الحالات",
+        "translation": "Awal: بـ / تـ / ثـ. Tengah: ـبـ / ـتـ / ـثـ. Akhir: ـب / ـت / ـث. Titik-titik kekal sama dalam semua kedudukan.",
+        "outro": "Titik ba', ta', tha' tidak berubah walau di mana kedudukannya!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menulis Ba', Ta', Tha' Bersambung",
+      "items": [
+        "Tentukan kedudukan huruf: awal, tengah, atau akhir perkataan.",
+        "Di awal perkataan: tulis badan huruf, sambungkan ke kanan menuju huruf seterusnya.",
+        "Di tengah perkataan: sambungkan dari kiri (dari huruf sebelumnya) dan ke kanan (ke huruf selepasnya).",
+        "Di akhir perkataan: sambungkan dari kiri (dari huruf sebelumnya) dan akhiri tulisan.",
+        "Tambah titik yang betul: ba'=1 bawah, ta'=2 atas, tha'=3 atas.",
+        "Latih dengan menulis perkataan-perkataan yang mengandungi huruf-huruf ini."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Dalam berapa kedudukan huruf ba', ta', tha' boleh berada?",
+      "options": [
+        "1 kedudukan",
+        "2 kedudukan",
+        "3 kedudukan",
+        "4 kedudukan"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bagaimana bentuk ba' di awal perkataan?",
+      "options": [
+        "ـب",
+        "بـ",
+        "ـبـ",
+        "ب"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dalam perkataan 'كِتَاب', huruf ta' (ت) berada di kedudukan?",
+      "options": [
+        "Awal perkataan",
+        "Tengah perkataan",
+        "Akhir perkataan",
+        "Tunggal/berasingan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang TIDAK berubah apabila ba', ta', tha' bersambung?",
+      "options": [
+        "Saiz badan huruf",
+        "Kedudukan titik",
+        "Bilangan titik",
+        "Kedudukan titik dan bilangan titik"
+      ],
+      "answer": 3
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Ba'/Ta'/Tha' Bersambung", "colour": "#795548" },
+      { "id": "n2", "label": "Awal: بـ تـ ثـ", "colour": "#6D4C41" },
+      { "id": "n3", "label": "Tengah: ـبـ ـتـ ـثـ", "colour": "#5D4037" },
+      { "id": "n4", "label": "Akhir: ـب ـت ـث", "colour": "#4E342E" },
+      { "id": "n5", "label": "Titik Kekal Sama", "colour": "#8D6E63" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "di awal" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "di tengah" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "di akhir" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "sifat" }
+    ]
+  },
+  "vocab": [
+    { "word": "اول", "meaning": "awal — permulaan/awal" },
+    { "word": "وسط", "meaning": "tengah — pertengahan" },
+    { "word": "اخير", "meaning": "akhir — penghujung/akhir" },
+    { "word": "بـ", "meaning": "ba' di awal perkataan" },
+    { "word": "ـبـ", "meaning": "ba' di tengah perkataan" }
+  ],
+  "funFact": "Tahukah kamu bahawa kemampuan huruf Arab untuk berubah bentuk mengikut kedudukan dalam perkataan adalah satu kelebihan luar biasa tulisan Arab? Berbeza dengan tulisan Latin di mana 'b' sentiasa kelihatan sama, huruf ba' Arab boleh kelihatan berbeza di awal, tengah, dan akhir perkataan — namun masih mudah dikenal pasti melalui ciri titiknya. Ini menjadikan tulisan Arab dan Jawi kelihatan mengalir dan bersambung dengan indah — seperti air yang mengalir!"
+}

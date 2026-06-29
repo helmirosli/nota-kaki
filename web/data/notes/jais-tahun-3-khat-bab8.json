@@ -1,0 +1,163 @@
+{
+  "id": "jais-tahun-3-khat-bab8",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "khat",
+  "chapter": 8,
+  "title": "Huruf ج، چ، ح، خ dan د، ذ Bersambung",
+  "emoji": "🖊️",
+  "colour": "#795548",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "حروف ج چ ح خ و د ذ بrsambung — Bersambung",
+      "body": "Pelajaran terakhir dalam siri khat tahun ini adalah tentang cara menulis huruf jim, cha, ha', kha', dal, dan zal dalam keadaan bersambung. Perlu diingat bahawa dal (د) dan zal (ذ) mempunyai peraturan khas — mereka TIDAK boleh disambung kepada huruf selepasnya, walaupun huruf sebelumnya boleh bersambung kepada mereka."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "ج",
+          "title": "Jim, Cha, Ha', Kha' Bersambung",
+          "body": {
+            "type": "arabic",
+            "instruction": "Bentuk jim (ج), cha (چ), ha' (ح), kha' (خ) dalam tiga kedudukan:",
+            "arabic": "أول: جـ / چـ / حـ / خـ\nوسط: ـجـ / ـچـ / ـحـ / ـخـ\nآخر: ـج / ـچ / ـح / ـخ\nمثال أول: جَمِيل، حَسَن، خَلِيل\nمثال وسط: نَجَح، رَحَم\nمثال آخر: نَتَائِج، فَرَح",
+            "translation": "Awal: جـ/چـ/حـ/خـ. Tengah: ـجـ/ـچـ/ـحـ/ـخـ. Akhir: ـج/ـچ/ـح/ـخ. Contoh awal: jamil (cantik), hasan (baik), khalil (kawan). Contoh tengah: najah (berjaya), raham (kasih). Contoh akhir: nataaij (keputusan), farah (gembira).",
+            "outro": "Ekor huruf-huruf ini tetap mempunyai bahagian yang turun ke bawah garisan."
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Dal dan Zal — Peraturan Khas Bersambung",
+          "body": {
+            "type": "list",
+            "intro": "Peraturan khas untuk dal (د) dan zal (ذ) apabila bersambung:",
+            "items": [
+              "Dal dan zal TIDAK BOLEH disambung kepada huruf SELEPASNYA — walau dalam perkataan mana pun",
+              "Walau bagaimanapun, huruf SEBELUM dal/zal boleh bersambung dengan mereka",
+              "Ini bermakna: selepas dal/zal, penulis MESTI mengangkat kalam",
+              "Contoh dalam perkataan 'مَدْرَسَة': م bersambung ke د, kemudian ر dimulakan semula",
+              "Dal dan zal sentiasa 'memutuskan' aliran penulisan ke hadapan"
+            ]
+          }
+        },
+        {
+          "icon": "✏️",
+          "title": "Latihan Perkataan dengan Dal dan Zal",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh perkataan yang mengandungi dal dan zal:",
+            "arabic": "مَدْرَسَة — مَدِيْنَة — هُدَى\nأُسْتَاذ — مُحَمَّد — دَاوُد\nذِكْر — أَذَان — مُؤَذِّن\nعَهْد — عَبْد — رَشِيْد",
+            "translation": "madrasah (sekolah) — madinah (bandar) — huda (petunjuk) / ustaz — Muhammad — Daud (Nabi) / zikr (zikir) — azan — muazzin / 'ahd (perjanjian) — 'abd (hamba) — rashid (bijak).",
+            "outro": "Perhatikan bagaimana penulisan berhenti selepas setiap dal dan zal!"
+          }
+        },
+        {
+          "icon": "📊",
+          "title": "Ringkasan Sambungan Semua Huruf",
+          "body": {
+            "type": "list",
+            "intro": "Rumusan sambungan huruf yang dipelajari:",
+            "items": [
+              "ب ت ث — boleh bersambung ke HADAPAN dan BELAKANG (3 kedudukan)",
+              "ج چ ح خ — boleh bersambung ke HADAPAN dan BELAKANG (3 kedudukan)",
+              "د ذ — TIDAK boleh bersambung ke HADAPAN; hanya ke belakang",
+              "ا (alif) — TIDAK boleh bersambung ke hadapan",
+              "Ingat: 6 huruf tidak bersambung ke hadapan: ا د ذ ر ز و"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "✒️",
+      "text": {
+        "type": "arabic",
+        "instruction": "Peraturan sambungan huruf dalam Khat Naskh:",
+        "arabic": "ج چ ح خ: يتصل في الأول والوسط والآخر\nد ذ: لا يتصل للأمام أبداً!\nيتصل من الخلف فقط",
+        "translation": "Jim/Cha/Ha'/Kha': boleh bersambung di awal, tengah, akhir. Dal/Zal: TIDAK BOLEH sambung ke hadapan! Hanya menerima sambungan dari belakang sahaja.",
+        "outro": "Kuasai peraturan sambungan ini untuk menghasilkan khat yang indah dan betul!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Berlatih Menulis Huruf-Huruf Bersambung",
+      "items": [
+        "Mula dengan menulis perkataan mudah yang mengandungi jim/ha'/kha': مثل 'نَجَح', 'رَحَم'",
+        "Perhatikan bagaimana ekor huruf berubah apabila disambung.",
+        "Kemudian tulis perkataan dengan dal: مثل 'مَدْرَسَة', 'مَدِيْنَة'",
+        "Perhatikan bagaimana penulisan BERHENTI selepas dal — angkat kalam.",
+        "Latih menulis seluruh baris perkataan yang mengandungi huruf-huruf ini.",
+        "Bandingkan dengan contoh guru — betulkan mana yang tidak sempurna."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Bolehkah huruf Dal (د) disambung kepada huruf selepasnya dalam perkataan?",
+      "options": [
+        "Ya, boleh",
+        "Tidak boleh",
+        "Hanya di awal perkataan",
+        "Bergantung kepada huruf selepasnya"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dalam perkataan 'مَدْرَسَة', selepas menulis dal, penulis perlu?",
+      "options": [
+        "Sambung terus kepada ra'",
+        "Angkat kalam dan mulakan ra' dari kedudukan baru",
+        "Buat titik tambahan",
+        "Tukar kepada khat berbeza"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Huruf manakah yang boleh berada dalam TIGA kedudukan (awal, tengah, akhir)?",
+      "options": [
+        "Dal (د)",
+        "Jim (ج)",
+        "Alif (ا)",
+        "Zal (ذ)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa banyak huruf dalam tulisan Arab yang tidak bersambung ke hadapan?",
+      "options": [
+        "4 huruf",
+        "5 huruf",
+        "6 huruf",
+        "7 huruf"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Huruf Bersambung", "colour": "#795548" },
+      { "id": "n2", "label": "ج چ ح خ (3 kedudukan)", "colour": "#6D4C41" },
+      { "id": "n3", "label": "د ذ (tidak ke hadapan)", "colour": "#5D4037" },
+      { "id": "n4", "label": "Bersambung ke hadapan", "colour": "#4E342E" },
+      { "id": "n5", "label": "Putus ke hadapan", "colour": "#8D6E63" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "boleh" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "sifat" }
+    ]
+  },
+  "vocab": [
+    { "word": "بrsambung", "meaning": "bersambung — connected letters" },
+    { "word": "ڤوتوس", "meaning": "putus — break in writing" },
+    { "word": "كدودوكن", "meaning": "kedudukan — position (awal/tengah/akhir)" },
+    { "word": "نجح", "meaning": "najah — berjaya" },
+    { "word": "مدرسة", "meaning": "madrasah — sekolah" }
+  ],
+  "funFact": "Tahukah kamu bahawa kemahiran menulis khat adalah satu seni yang mengambil masa bertahun-tahun untuk dikuasai sepenuhnya? Di negara-negara Arab, terdapat sekolah-sekolah kaligrafi khas di mana pelajar menghabiskan 5-10 tahun hanya untuk menguasai satu jenis khat! Di Malaysia, pertandingan kaligrafi diadakan di peringkat sekolah, negeri, dan kebangsaan. Seorang kaligrafer Malaysia pernah memenangi pertandingan kaligrafi antarabangsa di Istanbul, Turkey — membuktikan bahawa orang Malaysia juga mampu menjadi kaligrafer bertaraf dunia!"
+}

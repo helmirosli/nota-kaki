@@ -1,0 +1,179 @@
+{
+  "id": "jais-tahun-3-akhlak-bab1",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "akhlak",
+  "chapter": 1,
+  "title": "Adab Menziarahi Orang Sakit",
+  "emoji": "🏥",
+  "colour": "#2E7D32",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Adab Menziarahi Orang Sakit",
+      "body": "Menziarahi orang sakit adalah hak seseorang Muslim ke atas Muslim yang lain. Dalam pelajaran ini kita belajar adab-adab yang betul ketika menziarahi orang sakit, dalil-dalilnya, serta faedah dan akibat jika tidak beradab semasa menziarahi."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📋",
+          "title": "Adab Menziarahi Orang Sakit",
+          "body": {
+            "type": "list",
+            "intro": "Adab-adab yang perlu dijaga ketika menziarahi orang sakit:",
+            "items": [
+              "Memilih waktu yang sesuai untuk berziarah",
+              "Memendekkan waktu ziarah",
+              "Berkata-kata yang baik sahaja",
+              "Merendahkan suara dengan penuh sopan",
+              "Mendoakan kesembuhan kepada orang sakit",
+              "Memberikan nasihat agar bersabar, tabah dan bersangka baik kepada Allah"
+            ]
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Faedah Menziarahi Orang Sakit",
+          "body": {
+            "type": "list",
+            "intro": "Berkat menziarahi orang sakit dengan adab yang betul:",
+            "items": [
+              "Mendapat pahala yang besar dari Allah",
+              "Mempererat hubungan silaturrahim",
+              "Dapat mendoakan kesembuhan si sakit",
+              "Allah memurahkan rezeki",
+              "Menyukakan hati orang yang sakit"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Akibat Tidak Beradab",
+          "body": {
+            "type": "list",
+            "intro": "Akibat buruk jika tidak beradab ketika menziarahi orang sakit:",
+            "items": [
+              "Tidak disukai oleh Allah dan Rasul-Nya",
+              "Tidak mendapat rahmat Allah",
+              "Menyusahkan hati orang sakit",
+              "Menyakiti perasaan orang sakit"
+            ]
+          }
+        },
+        {
+          "icon": "🤲",
+          "title": "Doa Menziarahi Orang Sakit",
+          "body": {
+            "type": "arabic",
+            "instruction": "Doa yang dibaca semasa menziarahi orang sakit — dari Hadis Riwayat Bukhari dan Muslim:",
+            "arabic": "اَللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَأْسَ اِشْفِهِ وَأَنْتَ الشَّافِي لَا شِفَاءَ إِلَّا شِفَاؤُكَ شِفَاءً لَا يُغَادِرُ سَقَمًا",
+            "translation": "Ya Allah, Tuhan sekalian manusia, hilangkanlah penyakit ini, sembuhkanlah dia. Engkaulah Tuhan yang menyembuhkan. Tidak ada kesembuhan melainkan kesembuhan-Mu, kesembuhan yang tidak meninggalkan sebarang penyakit.",
+            "source": "Hadis Riwayat Bukhari dan Muslim"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Dalil kelebihan menziarahi orang sakit — Rasulullah bersabda daripada Abu Hurairah:",
+        "arabic": "مَنْ زَارَ أَخًا لَهُ فِي اللَّهِ نَادَاهُ مُنَادٍ بِأَنْ طِبْتَ وَطَابَ مَمْشَاكَ وَتَبَوَّأْتَ مِنَ الْجَنَّةِ مَنْزِلًا",
+        "translation": "Sesiapa yang mengunjungi saudaranya sesama Islam, maka Malaikat akan berseru kepadanya: 'Berbahagialah engkau dan perjalananmu, dan sesungguhnya engkau akan ditempatkan di dalam syurga.'",
+        "source": "Hadis Riwayat al-Tirmidhi",
+        "outro": "Menziarahi orang sakit dengan adab yang betul membawa keberkatan dan pahala yang amat besar."
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Amalan Menziarahi Orang Sakit",
+      "items": [
+        "Beritahu atau dapatkan kebenaran dahulu sebelum datang berziarah.",
+        "Pilih waktu yang sesuai — jangan terlalu awal pagi atau lewat malam.",
+        {
+          "type": "arabic",
+          "arabic": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ",
+          "translation": "Ucapkan salam kepada penghuni rumah."
+        },
+        "Berkata-kata dengan perlahan, sopan, dan penuh kasih sayang.",
+        "Jangan duduk terlalu lama — hormati kerehatan si sakit.",
+        {
+          "type": "arabic",
+          "arabic": "اَللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَأْسَ اِشْفِهِ",
+          "translation": "Doakan kesembuhan si sakit."
+        },
+        "Bawa buah tangan untuk menggembirakan hati si sakit."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah antara adab menziarahi orang sakit?",
+      "options": [
+        "Duduk lama dan bercakap kuat",
+        "Memendekkan waktu ziarah dan bercakap perlahan",
+        "Datang pada malam hari tanpa beritahu",
+        "Membawa ramai orang bersama"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah faedah menziarahi orang sakit dengan adab betul?",
+      "options": [
+        "Mendapat pahala besar dan mempererat silaturrahim",
+        "Mendapat hadiah daripada si sakit",
+        "Boleh mengetahui rahsia si sakit",
+        "Tidak ada faedah khusus"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Hadis dalil menziarahi orang sakit adalah riwayat dari mana?",
+      "options": [
+        "Riwayat Abu Dawud",
+        "Riwayat al-Tirmidhi",
+        "Riwayat Ibn Majah",
+        "Riwayat Ahmad"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apa akibat tidak beradab semasa menziarahi orang sakit?",
+      "options": [
+        "Mendapat pahala lebih sedikit",
+        "Tidak dapat makan di rumah si sakit",
+        "Tidak disukai Allah dan menyusahkan hati si sakit",
+        "Perlu berziarah semula"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Menziarahi Orang Sakit", "colour": "#2E7D32" },
+      { "id": "n2", "label": "Adab-adab", "colour": "#388E3C" },
+      { "id": "n3", "label": "Faedah", "colour": "#388E3C" },
+      { "id": "n4", "label": "Akibat Tidak Beradab", "colour": "#C62828" },
+      { "id": "n5", "label": "Doa Menziarahi", "colour": "#1B5E20" },
+      { "id": "n6", "label": "Silaturrahim", "colour": "#81C784" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "perlu ada" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "menghasilkan" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "jika tiada adab" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "termasuk" },
+      { "id": "e5", "source": "n3", "target": "n6", "label": "mempererat" }
+    ]
+  },
+  "vocab": [
+    { "word": "زياره", "meaning": "ziarah / kunjungan" },
+    { "word": "أَدَب", "meaning": "adab / sopan santun" },
+    { "word": "شِفَاء", "meaning": "kesembuhan" },
+    { "word": "صِلَةُ الرَّحِم", "meaning": "mengeratkan hubungan kekeluargaan" },
+    { "word": "فَضِيلَة", "meaning": "kelebihan / faedah" }
+  ],
+  "funFact": "Tahukah kamu bahawa Rasulullah SAW sangat mengambil berat tentang amalan menziarahi orang sakit? Dalam satu hadis, baginda menyebut bahawa Allah akan bertanya kepada kita pada Hari Kiamat: 'Wahai anak Adam, Aku sakit tetapi kamu tidak menziarahi Aku.' Maksudnya, bila kita tinggalkan orang beriman yang sakit, seolah-olah kita meninggalkan Allah."
+}

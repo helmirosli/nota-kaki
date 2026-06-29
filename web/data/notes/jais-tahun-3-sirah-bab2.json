@@ -1,0 +1,169 @@
+{
+  "id": "jais-tahun-3-sirah-bab2",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "sirah",
+  "chapter": 2,
+  "title": "Peristiwa Kelahiran Nabi Muhammad SAW",
+  "emoji": "⭐",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Peristiwa Sebelum, Semasa dan Selepas Kelahiran",
+      "body": "Kelahiran Nabi Muhammad SAW adalah peristiwa paling bersejarah dalam kehidupan umat Islam. Banyak peristiwa luar biasa yang berlaku sebelum, semasa, dan selepas kelahiran Baginda — semuanya menunjukkan kemuliaan Baginda di sisi Allah."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🐘",
+          "title": "Peristiwa Sebelum Kelahiran — Tahun Gajah",
+          "body": {
+            "type": "list",
+            "intro": "Peristiwa penting sebelum kelahiran Nabi Muhammad SAW:",
+            "items": [
+              "Bapa Baginda, Abdullah bin Abdul Muttalib, wafat ketika Baginda masih dalam kandungan ibu",
+              "Bapa Baginda dikebumikan di Yathrib (kemudian dikenali sebagai Madinah)",
+              "Tentera Abraha datang ke Makkah dengan gajah untuk meruntuhkan Kaabah",
+              "Allah menghancurkan tentera Abraha dengan burung Ababil yang membawa batu",
+              "Tahun itu dinamakan 'Tahun Gajah' — tahun kelahiran Nabi"
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Peristiwa Semasa Kelahiran",
+          "body": {
+            "type": "list",
+            "intro": "Fakta penting tentang kelahiran Nabi Muhammad SAW:",
+            "items": [
+              "Lahir pada pagi hari Isnin, 12 Rabi'ul Awwal Tahun Gajah",
+              "Bersamaan bulan April 571 Masihi",
+              "Dilahirkan di Kota Makkah",
+              "Ketika Aminah melahirkan Baginda, keluar cahaya yang menerangi istana-istana di Syam",
+              "Kejadian ini adalah mukjizat yang menandai kemuliaan Baginda"
+            ]
+          }
+        },
+        {
+          "icon": "🤱",
+          "title": "Peristiwa Selepas Kelahiran",
+          "body": {
+            "type": "list",
+            "intro": "Peristiwa penting selepas kelahiran Nabi Muhammad SAW:",
+            "items": [
+              "Disusukan oleh Thuwayibah al-Aslamiyah pada peringkat awal",
+              "Kemudian disusukan oleh Halimah as-Sa'diyah sehingga berumur 4 tahun",
+              "Peristiwa pembelahan dada (syaqq al-sadr) — Jibril AS membelah dada Baginda untuk membersihkan hati",
+              "Usia 6 tahun: ibu (Aminah) wafat di Abwa' dalam perjalanan pulang ke Makkah",
+              "Usia 8 tahun: datuk (Abdul Muttalib bin Hashim) wafat"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Surah al-Fil — Peristiwa Tentera Gajah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Allah menceritakan peristiwa Tentera Gajah dalam Surah al-Fil:",
+            "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+            "translation": "Tidakkah engkau melihat bagaimana Tuhanmu telah lakukan terhadap tentera bergajah?",
+            "source": "Surah al-Fil: 1"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌙",
+      "text": {
+        "type": "list",
+        "intro": "Aعtibار (pengajaran) daripada peristiwa kelahiran Nabi Muhammad SAW:",
+        "items": [
+          "Allah melindungi Kaabah dari tentera Abraha — pertanda kemuliaan tempat itu",
+          "Cahaya yang keluar semasa kelahiran — petanda bahawa Baginda adalah cahaya bagi seluruh alam",
+          "Sebagai umat Baginda, kita harus mengambil iktibar dan bersyukur dilahirkan dalam agama Islam"
+        ],
+        "outro": "صلى اللَّه عليه وسلَّم — Baginda adalah rahmat untuk sekalian alam!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Fakta Penting yang Perlu Diingati",
+      "items": [
+        "Tarikh lahir: 12 Rabi'ul Awwal Tahun Gajah (April 571M)",
+        "Hari lahir: Isnin pagi",
+        "Tempat lahir: Kota Makkah",
+        "Ibu susu: Halimah as-Sa'diyah",
+        {
+          "type": "arabic",
+          "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+          "translation": "Tidakkah engkau melihat bagaimana Tuhanmu telah lakukan terhadap tentera bergajah?"
+        },
+        "Hafaz Surah al-Fil sebagai kenangan peristiwa Tahun Gajah."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Pada hari apakah Nabi Muhammad SAW dilahirkan?",
+      "options": ["Hari Jumaat", "Hari Isnin", "Hari Sabtu", "Hari Rabu"],
+      "answer": 1
+    },
+    {
+      "q": "Pada tarikh berapakah Nabi Muhammad SAW dilahirkan?",
+      "options": [
+        "1 Muharram",
+        "12 Rejab",
+        "12 Rabi'ul Awwal",
+        "27 Rejab"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Siapakah ibu susu Nabi Muhammad SAW yang menyusukannya sehingga berumur 4 tahun?",
+      "options": [
+        "Aminah binti Wahab",
+        "Thuwayibah al-Aslamiyah",
+        "Halimah as-Sa'diyah",
+        "Khadijah binti Khuwaylid"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Mengapakah tahun kelahiran Nabi Muhammad SAW dinamakan Tahun Gajah?",
+      "options": [
+        "Kerana ramai orang yang memiliki gajah",
+        "Kerana tentera Abraha datang dengan gajah hendak meruntuhkan Kaabah",
+        "Kerana ada gajah yang lahir pada tahun itu",
+        "Kerana orang Arab suka memelihara gajah"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Tahun Gajah", "colour": "#FF6F00" },
+      { "id": "n2", "label": "Tentera Abraha", "colour": "#C62828" },
+      { "id": "n3", "label": "Burung Ababil", "colour": "#43A047" },
+      { "id": "n4", "label": "Lahir 12 Rabi'ul Awwal", "colour": "#FFB300" },
+      { "id": "n5", "label": "Cahaya Syam", "colour": "#FFD54F" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n2", "target": "n1", "label": "terjadi pada" },
+      { "id": "e2", "source": "n3", "target": "n2", "label": "hancurkan" },
+      { "id": "e3", "source": "n4", "target": "n1", "label": "berlaku pada" },
+      { "id": "e4", "source": "n4", "target": "n5", "label": "keajaiban" }
+    ]
+  },
+  "vocab": [
+    { "word": "مِيلَاد", "meaning": "kelahiran / tarikh lahir" },
+    { "word": "الفِيل", "meaning": "gajah — nama surah" },
+    { "word": "أَبَابِيل", "meaning": "Ababil — burung dalam kisah" },
+    { "word": "رَبِيعُ الأَوَّل", "meaning": "Rabi'ul Awwal — bulan ke-3 Hijri" },
+    { "word": "شَقُّ الصَّدۡر", "meaning": "pembelahan dada — mukjizat Nabi" }
+  ],
+  "funFact": "Tahukah kamu bahawa semasa Aminah melahirkan Nabi Muhammad SAW, beliau melihat cahaya yang sangat terang keluar bersamanya? Cahaya itu menerangi istana-istana di negeri Syam (Syria)! Para ulama menyebut ini sebagai salah satu tanda kemuliaan kelahiran Baginda yang menjadi rahmat untuk seluruh alam."
+}
