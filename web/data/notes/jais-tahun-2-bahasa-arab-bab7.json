@@ -5,217 +5,180 @@
   "subject": "bahasa-arab",
   "chapter": 7,
   "title": "Buah-buahan yang Lazat",
-  "emoji": "🍓",
-  "colour": "#D32F2F",
+  "emoji": "🍎",
+  "colour": "#C62828",
   "estimatedMinutes": 12,
   "sections": [
     {
       "type": "intro",
-      "heading": "الْفَوَاكِهُ وَالثِّمَار — Buah-buahan",
-      "body": "Dalam pelajaran ini kita belajar nama-nama buah-buahan dalam bahasa Arab. الْفَوَاكِهُ وَالثِّمَارُ أَطْعِمَةٌ صِحِّيَّةٌ — Buah-buahan adalah makanan yang sihat! Allah telah menciptakan pelbagai jenis buah yang sedap dan berkhasiat untuk kita. Jom kita belajar nama-namanya dalam bahasa Arab!"
+      "heading": "الْفَوَاكِهُ وَالثِّمَارُ — Buah-buahan",
+      "body": "Dalam pelajaran ini kita belajar nama-nama buah-buahan dalam bahasa Arab. Buah-buahan adalah makanan yang sihat dan bermanfaat untuk tubuh badan. Seronoknya, banyak buah tempatan kita ada nama dalam bahasa Arab!"
     },
     {
       "type": "concept-cards",
       "items": [
         {
           "icon": "🍌",
-          "title": "Buah Tempatan Malaysia",
-          "body": "مَوْزٌ = pisang • جَوَّافَةٌ = jambu batu • مَانْجُو = mangga • رَامْبُوتَانٌ = rambutan • دُورِيَانٌ = durian • أَنَانَاسٌ = nanas • بَابَايَا = betik • فَاكِهَةُ النَّجْمَةِ = belimbing. Contoh: الْمَوْزُ حُلْوٌ = pisang itu manis. الْجَوَّافَةُ كَبِيرَةٌ = jambu batu itu besar."
+          "title": "Buah-buahan Tropika",
+          "body": {
+            "type": "arabic",
+            "instruction": "Nama buah-buahan tropika yang lazim di Malaysia dalam bahasa Arab:",
+            "arabic": "مَوْزٌ",
+            "translation": "pisang",
+            "more": [
+              { "arabic": "مَانْجُو", "translation": "mangga" },
+              { "arabic": "رَامْبُوتَانُ", "translation": "rambutan" },
+              { "arabic": "دُوْرِيَانُ", "translation": "durian" },
+              { "arabic": "أَنَانَاسُ", "translation": "nanas" },
+              { "arabic": "بَابَايَا", "translation": "betik / papaya" },
+              { "arabic": "جَوَّافَةٌ", "translation": "jambu batu" },
+              { "arabic": "فَاكِهَةُ النَّجْمَةِ", "translation": "belimbing bintang" }
+            ]
+          }
         },
         {
-          "icon": "🍎",
-          "title": "Buah Import",
-          "body": "تُفَّاحَةٌ = epal • عِنَبٌ = anggur • بُرْتُقَالٌ = oren • بِطِّيخٌ = tembikai • فَرَاوْلَةٌ = strawberi. Contoh: الْعِنَبُ لَذِيذٌ = anggur itu sedap. الْفَرَاوْلَةُ حَامِضَةٌ = strawberi itu masam. الدُّورِيَانُ رَائِحَتُهُ شَهِيَّةٌ = durian itu baunya harum (sedap)."
+          "icon": "🍉",
+          "title": "Buah-buahan Lain",
+          "body": {
+            "type": "arabic",
+            "instruction": "Buah-buahan yang juga popular di Malaysia:",
+            "arabic": "بِطِّيخٌ",
+            "translation": "tembikai",
+            "more": [
+              { "arabic": "بُرْتُقَالٌ", "translation": "oren" },
+              { "arabic": "تُفَّاحَةٌ", "translation": "epal" },
+              { "arabic": "عِنَبٌ", "translation": "anggur" },
+              { "arabic": "فَرَاوْلَةٌ", "translation": "strawberi" }
+            ]
+          }
         },
         {
-          "icon": "🍹",
+          "icon": "🌿",
+          "title": "Menerangkan Buah-buahan",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat-ayat untuk menerangkan rasa dan sifat buah-buahan:",
+            "arabic": "الْمَوْزُ حُلْوٌ",
+            "translation": "Pisang itu manis.",
+            "more": [
+              { "arabic": "الْعِنَبُ لَذِيذٌ", "translation": "Anggur itu sedap." },
+              { "arabic": "الْجَوَّافَةُ كَبِيرَةٌ", "translation": "Jambu batu itu besar." },
+              { "arabic": "الْفَرَاوْلَةُ حَامِضَةٌ", "translation": "Strawberi itu masam." },
+              { "arabic": "عَصِيرُ الْبِطِّيخِ حُلْوٌ", "translation": "Jus tembikai itu manis." }
+            ]
+          }
+        },
+        {
+          "icon": "💚",
           "title": "Kebaikan Buah-buahan",
-          "body": "الْفَوَاكِهُ مُفِيدَةٌ لِصِحَّةِ الْجِسْمِ = Buah-buahan bermanfaat untuk kesihatan tubuh badan. أَصْنَعُ عَصِيرَ الْأَنَانَاسِ = Saya buat jus nanas. كُلِ الْفَوَاكِهَ قَبْلَ تَنَاوُلِ الطَّعَامِ = Makanlah buah sebelum makan! Buah-buahan kaya dengan vitamin C dan serat yang baik untuk kesihatan."
-        },
-        {
-          "icon": "🛒",
-          "title": "Membeli Buah-buahan",
-          "body": "تَشْتَرِي الْأُمُّ الْمَوْزَ = Ibu membeli pisang. الدُّورِيَانُ رَائِحَتُهُ شَهِيَّةٌ = Durian berbau harum. Dialog: مَاذَا تَأْكُلُ يَا أَحْمَدُ؟ = Apa yang kamu makan, Ahmad? آكُلُ الْعِنَبَ = Saya makan anggur. Dalam Surah al-An'am, Allah menyebut buah zaitun, delima dan buah-buahan lain sebagai nikmat-Nya."
+          "body": {
+            "type": "arabic",
+            "instruction": "Buah-buahan sangat bermanfaat untuk kesihatan — dalam bahasa Arab:",
+            "arabic": "الْفَوَاكِهُ مُفِيدَةٌ لِصِحَّةِ الْجِسْمِ",
+            "translation": "Buah-buahan bermanfaat untuk kesihatan tubuh badan.",
+            "more": [
+              { "arabic": "تَشْتَرِي الأُمُّ الْمَوْزَ", "translation": "Ibu membeli pisang." },
+              { "arabic": "الدُّوْرِيَانُ رَائِحَتُهُ شَهِيَّةٌ", "translation": "Durian itu baunya harum/menarik." },
+              { "arabic": "أَصْنَعُ عَصِيرَ الأَنَانَاسِ", "translation": "Saya membuat jus nanas." }
+            ]
+          }
         }
       ]
     },
     {
       "type": "callout",
-      "icon": "💡",
+      "icon": "🌱",
       "text": {
         "type": "arabic",
-        "instruction": "Allah berfirman dalam Surah al-An'am ayat 141: 'Dialah yang menjadikan kebun-kebun yang berjunjung dan yang tidak berjunjung, pohon kurma, tanaman yang beraneka ragam buahnya, zaitun dan delima.",
-        "arabic": "كُلِ الْفَوَاكِهَ الصِّحِّيَّةَ الْمُفِيدَةَ"
+        "instruction": "Allah berfirman dalam Surah al-An'am ayat 141 tentang pelbagai jenis buah-buahan yang dikurniakan-Nya:",
+        "arabic": "وَهُوَ الَّذِي أَنشَأَ جَنَّاتٍ مَّعْرُوشَاتٍ وَغَيْرَ مَعْرُوشَاتٍ وَالنَّخْلَ وَالزَّرْعَ مُخْتَلِفًا أُكُلُهُ",
+        "translation": "Dan Dia-lah yang menjadikan kebun-kebun yang berjunjung dan yang tidak berjunjung, pohon kurma, tanaman-tanaman yang bermacam-macam buahnya.",
+        "source": "Surah al-An'am: 141",
+        "outro": "Makanlah buah-buahan yang sihat dan bermanfaat. Jangan membazir dan bersyukurlah kepada Allah!"
       }
     },
     {
       "type": "steps",
-      "heading": "Dialog dan Ayat tentang Buah-buahan",
+      "heading": "Dialog — Tentang Buah-buahan",
       "items": [
         {
           "type": "arabic",
-          "arabic": "الْعِنَبُ لَذِيذٌ"
+          "arabic": "مَا الْفَاكِهَةُ الَّتِي تُحِبُّهَا؟",
+          "translation": "Buah apa yang kamu suka?"
         },
         {
           "type": "arabic",
-          "arabic": "الْجَوَّافَةُ كَبِيرَةٌ"
+          "arabic": "أُحِبُّ الْمَوْزَ وَالْمَانْجُو",
+          "translation": "Saya suka pisang dan mangga."
         },
         {
           "type": "arabic",
-          "arabic": "الْمَوْزُ حُلْوٌ"
+          "arabic": "الْجَوَّافَةُ كَبِيرَةٌ",
+          "translation": "Jambu batu itu besar."
         },
         {
           "type": "arabic",
-          "arabic": "الْفَرَاوْلَةُ حَامِضَةٌ"
+          "arabic": "الْفَرَاوْلَةُ حَامِضَةٌ",
+          "translation": "Strawberi itu masam."
         },
         {
           "type": "arabic",
-          "arabic": "تَشْتَرِي الْأُمُّ الْمَوْزَ"
+          "arabic": "أَصْنَعُ عَصِيرَ الأَنَانَاسِ",
+          "translation": "Saya membuat jus nanas."
         },
         {
           "type": "arabic",
-          "arabic": "الْفَوَاكِهُ مُفِيدَةٌ لِصِحَّةِ الْجِسْمِ"
-        },
-        {
-          "type": "arabic",
-          "arabic": "الدُّورِيَانُ رَائِحَتُهُ شَهِيَّةٌ"
-        },
-        {
-          "type": "arabic",
-          "arabic": "أَصْنَعُ عَصِيرَ الْأَنَانَاسِ"
+          "arabic": "كُلِ الْفَوَاكِهَ الصِّحِّيَّةَ الْمُفِيدَةَ",
+          "translation": "Makanlah buah-buahan yang sihat dan bermanfaat."
         }
       ]
     }
   ],
   "quiz": [
     {
-      "q": "Apakah maksud دُورِيَانٌ dalam bahasa Melayu?",
-      "options": [
-        "Rambutan",
-        "Nanas",
-        "Durian",
-        "Mangga"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "الْفَرَاوْلَةُ حَامِضَةٌ bermaksud?",
-      "options": [
-        "Strawberi itu manis",
-        "Strawberi itu masam",
-        "Strawberi itu merah",
-        "Strawberi itu besar"
-      ],
+      "q": "Apakah maksud مَوْزٌ?",
+      "options": ["Mangga", "Pisang", "Tembikai", "Nanas"],
       "answer": 1
     },
     {
-      "q": "Buah manakah yang disebut جَوَّافَةٌ dalam bahasa Arab?",
-      "options": [
-        "Mangga",
-        "Betik",
-        "Jambu batu",
-        "Belimbing"
-      ],
+      "q": "الْفَرَاوْلَةُ حَامِضَةٌ bermaksud?",
+      "options": ["Strawberi itu manis", "Strawberi itu masam", "Strawberi itu besar", "Strawberi itu merah"],
+      "answer": 1
+    },
+    {
+      "q": "Buah apa yang dipanggil فَاكِهَةُ النَّجْمَةِ (buah bintang)?",
+      "options": ["Durian", "Rambutan", "Belimbing bintang", "Betik"],
       "answer": 2
     },
     {
-      "q": "أَصْنَعُ عَصِيرَ الْأَنَانَاسِ bermaksud?",
-      "options": [
-        "Saya minum jus nanas",
-        "Saya membeli nanas",
-        "Saya membuat jus nanas",
-        "Saya makan nanas"
-      ],
+      "q": "أَصْنَعُ عَصِيرَ الأَنَانَاسِ bermaksud?",
+      "options": ["Saya makan nanas", "Saya beli nanas", "Saya membuat jus nanas", "Saya suka nanas"],
       "answer": 2
     }
   ],
   "graph": {
     "nodes": [
-      {
-        "id": "n1",
-        "label": "الْفَوَاكِهُ وَالثِّمَار (Buah)",
-        "colour": "#D32F2F"
-      },
-      {
-        "id": "n2",
-        "label": "Buah Tempatan",
-        "colour": "#C62828"
-      },
-      {
-        "id": "n3",
-        "label": "Buah Import",
-        "colour": "#C62828"
-      },
-      {
-        "id": "n4",
-        "label": "مَوْزٌ (pisang)",
-        "colour": "#EF9A9A"
-      },
-      {
-        "id": "n5",
-        "label": "تُفَّاحَةٌ (epal)",
-        "colour": "#EF9A9A"
-      },
-      {
-        "id": "n6",
-        "label": "دُورِيَانٌ (durian)",
-        "colour": "#B71C1C"
-      }
+      { "id": "n1", "label": "الْفَوَاكِهُ (Buah)", "colour": "#C62828" },
+      { "id": "n2", "label": "Buah Tropika", "colour": "#E53935" },
+      { "id": "n3", "label": "Buah Lain", "colour": "#E53935" },
+      { "id": "n4", "label": "مَوْزٌ (pisang)", "colour": "#EF9A9A" },
+      { "id": "n5", "label": "دُوْرِيَانُ (durian)", "colour": "#EF9A9A" },
+      { "id": "n6", "label": "عِنَبٌ (anggur)", "colour": "#B71C1C" }
     ],
     "edges": [
-      {
-        "id": "e1",
-        "source": "n1",
-        "target": "n2",
-        "label": "jenis"
-      },
-      {
-        "id": "e2",
-        "source": "n1",
-        "target": "n3",
-        "label": "jenis"
-      },
-      {
-        "id": "e3",
-        "source": "n2",
-        "target": "n4",
-        "label": "contoh"
-      },
-      {
-        "id": "e4",
-        "source": "n3",
-        "target": "n5",
-        "label": "contoh"
-      },
-      {
-        "id": "e5",
-        "source": "n2",
-        "target": "n6",
-        "label": "ada"
-      }
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "contoh" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "contoh" },
+      { "id": "e5", "source": "n3", "target": "n6", "label": "contoh" }
     ]
   },
   "vocab": [
-    {
-      "word": "مَوْزٌ",
-      "meaning": "pisang"
-    },
-    {
-      "word": "جَوَّافَةٌ",
-      "meaning": "jambu batu"
-    },
-    {
-      "word": "عِنَبٌ",
-      "meaning": "anggur"
-    },
-    {
-      "word": "بِطِّيخٌ",
-      "meaning": "tembikai"
-    },
-    {
-      "word": "فَرَاوْلَةٌ",
-      "meaning": "strawberi"
-    }
+    { "word": "مَوْزٌ", "meaning": "pisang" },
+    { "word": "جَوَّافَةٌ", "meaning": "jambu batu" },
+    { "word": "دُوْرِيَانُ", "meaning": "durian" },
+    { "word": "أَنَانَاسُ", "meaning": "nanas" },
+    { "word": "عِنَبٌ", "meaning": "anggur" }
   ],
-  "funFact": "Durian dalam bahasa Arab disebut دُورِيَان (duriyan) — sama dengan sebutan Melayu! Buah durian ini terkenal di seluruh dunia dan ramai orang dari negara Arab yang datang ke Malaysia suka mencubanya. Bestkan ada buah Malaysia dalam buku Arab?"
+  "funFact": "Tahukah kamu bahawa buah belimbing bintang dipanggil 'faakihatu an-najmah' (buah bintang) dalam bahasa Arab? Memang tepat — kalau kita potong belimbing melintang, bentuknya seperti bintang! Cuba periksa sendiri."
 }
