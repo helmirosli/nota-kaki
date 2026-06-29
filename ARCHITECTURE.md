@@ -1,431 +1,314 @@
 # NOTA KAKI — Architecture Document
 
+*Last updated: 2026-06-29. Reflects the live codebase.*
+
 ---
 
 ## System Overview
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                        NOTA KAKI                            │
-│                                                             │
-│  ┌──────────────┐    ┌──────────────┐    ┌──────────────┐  │
-│  │  PDF Files   │───▶│  AI Pipeline │───▶│  JSON Notes  │  │
-│  │ (references/)│    │ (scripts/)   │    │ (src/data/)  │  │
-│  └──────────────┘    └──────────────┘    └──────┬───────┘  │
-│                                                 │           │
-│                                          ┌──────▼───────┐  │
-│                                          │  Next.js App │  │
-│                                          │  (src/app/)  │  │
-│                                          └──────────────┘  │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                        NOTA KAKI                             │
+│                                                              │
+│  ┌──────────────┐    ┌──────────────┐    ┌──────────────┐   │
+│  │  PDF Files   │───▶│  AI Pipeline │───▶│  JSON Notes  │   │
+│  │ (references/)│    │ (scripts/)   │    │ (data/notes/)│   │
+│  └──────────────┘    └──────────────┘    └──────┬───────┘   │
+│                                                 │            │
+│                                          ┌──────▼───────┐   │
+│                                          │  Next.js App │   │
+│                                          │  (web/app/)  │   │
+│                                          └──────────────┘   │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-The system has two distinct phases:
-1. **Build-time pipeline** — PDFs → AI → JSON (run once, or when new PDFs added)
-2. **Runtime app** — Next.js serves the JSON notes as an animated web app
+Two distinct phases:
+1. **Pipeline** — PDFs → text extraction → Claude AI → JSON (run once per bab)
+2. **App** — Next.js 16 SSR serves the JSON notes as an animated web app
 
 ---
 
 ## Phase 1: PDF Processing Pipeline
 
 ```
-PDF File
-   │
-   ▼
-┌─────────────────────────────┐
-│  extract-pdf.ts             │
-│  (pdfjs-dist)               │
-│  • Reads PDF page by page   │
-│  • Outputs raw text chunks  │
-└──────────────┬──────────────┘
-               │  raw text[]
-               ▼
-┌─────────────────────────────┐
-│  generate-notes.ts          │
-│  (Claude claude-haiku-4-5)  │
-│  • Sends text to Claude     │
-│  • Prompt: "Convert this    │
-│    Islamic textbook content │
-│    into kid-friendly JSON   │
-│    notes for age 7-12..."   │
-│  • Receives structured JSON │
-└──────────────┬──────────────┘
-               │  NoteSchema[]
-               ▼
-┌─────────────────────────────┐
-│  save-notes.ts              │
-│  • Writes JSON files to     │
-│    src/data/notes/          │
-│  • Updates manifest.json    │
-└─────────────────────────────┘
+web/scripts/
+├── extract-only.ts      ← extracts raw text from PDF, saves to data/extracted/
+├── extract-pdf.ts       ← pdfjs-dist wrapper
+├── generate-notes.ts    ← sends text to Claude, returns structured JSON
+└── run-pipeline.ts      ← orchestrates extract → generate → write JSON
 ```
 
-### Claude Prompt Strategy
-
-```
-System: You are a curriculum designer creating engaging notes 
-for Muslim children aged 7-12 in Malaysia. You write in Bahasa 
-Melayu. Notes must be simple, visual-friendly, and fun.
-
-User: Here is content from [Subject] [Year] chapter [N]:
-<text>...</text>
-
-Convert this into a JSON note with:
-- A catchy title
-- 3-6 concept sections (each with emoji, heading, 2-3 sentence body)
-- 4 quiz questions (multiple choice, age-appropriate)
-- 5-8 knowledge graph nodes showing concept relationships
-- A "fun fact" callout
-- Key vocabulary list (max 5 words)
+```bash
+cd web
+npx tsx scripts/run-pipeline.ts
 ```
 
-### Note JSON Schema
-
-```typescript
-interface Note {
-  id: string                    // "jais-tahun1-akhlak-bab1"
-  source: "jais"
-  year: "tahun-1" | "tahun-2"
-  subject: Subject
-  chapter: number
-  title: string
-  emoji: string
-  colour: string                // hex, unique per subject
-  estimatedMinutes: number
-  sections: Section[]
-  quiz: QuizQuestion[]
-  graph: KnowledgeGraph
-  vocab: VocabItem[]
-  funFact: string
-}
-
-type Section =
-  | { type: "intro"; heading: string; body: string; lottie?: string }
-  | { type: "concept-cards"; items: ConceptCard[] }
-  | { type: "callout"; icon: string; text: string }
-  | { type: "steps"; items: string[] }
-  | { type: "image-text"; imageAlt: string; text: string }
-
-interface KnowledgeGraph {
-  nodes: { id: string; label: string; colour: string }[]
-  edges: { from: string; to: string; label: string }[]
-}
-```
+> Note: many JAIS PDFs are image-based (scanned). pdfjs yields < 1000 chars.
+> In those cases, content is written manually using curriculum knowledge.
 
 ---
 
 ## Phase 2: Next.js App Architecture
 
-### Routing Structure (App Router)
+### Stack
+
+| Tool | Version | Role |
+|------|---------|------|
+| Next.js | 16.2.9 | App Router, SSR |
+| React | 19.2.4 | UI |
+| TypeScript | 5.x | Types |
+| Tailwind CSS | v4 | Styling |
+| Framer Motion | latest | All animations |
+| Zustand | 5 | Client state + localStorage |
+| Web Speech API | browser | Read-aloud (no library) |
+
+### Routing Structure
 
 ```
-src/app/
-├── layout.tsx                    ← Root layout (mascot, bg particles)
-├── page.tsx                      ← /  → Dashboard
-├── [source]/
-│   └── page.tsx                  ← /jais → Year picker
-│       [year]/
-│       └── page.tsx              ← /jais/tahun-1 → Subject grid
-│           [subject]/
-│           └── page.tsx          ← /jais/tahun-1/akhlak → Chapter list
-│               [noteId]/
-│               └── page.tsx      ← /jais/tahun-1/akhlak/bab-1 → Note
-└── progress/
-    └── page.tsx                  ← /progress → Trophy room
+web/app/
+├── layout.tsx                          ← Root layout (NavBar, Mascot, BackgroundParticles)
+├── page.tsx                            → /  (source picker)
+├── progress/page.tsx                   → /progress
+└── [source]/
+    ├── page.tsx                        → /jais
+    └── [year]/
+        ├── page.tsx                    → /jais/tahun-2
+        └── [subject]/
+            ├── page.tsx                → /jais/tahun-2/feqah  (chapter list)
+            └── [noteId]/
+                └── page.tsx            → /jais/tahun-2/feqah/jais-tahun-2-feqah-bab1
 ```
+
+**Important:** static route segments take priority over dynamic ones in App Router.
+Do NOT create any folder under `app/` that shadows a valid source/year/subject name
+(e.g. `app/jais/` would 404 all `/jais/...` routes).
 
 ### Component Tree
 
 ```
 <RootLayout>
-  <BackgroundParticles />      ← Framer Motion floating dots
-  <Mascot />                   ← Lottie crescent character (persistent)
-  <NavBar />
+  <BackgroundParticles />    ← 20 floating emoji particles (client-only via useEffect)
+  <NavBar />                 ← breadcrumbs + totalStars (mounted-guard for hydration)
+  <Mascot />
 
-  // Dashboard /
-  <DashboardPage>
-    <SourceCard source="jais"> ← Framer Motion scale + float
-      (click → navigate)
-    </SourceCard>
-  </DashboardPage>
+  // /
+  <HomePage>
+    source cards → navigate to /jais
+  </HomePage>
 
-  // Year level /jais
+  // /jais/tahun-2
   <YearPage>
-    <YearCard year="tahun-1" />
-    <YearCard year="tahun-2" />
+    <SubjectGrid notes={notes} />   ← "use client", framer-motion
   </YearPage>
 
-  // Subjects /jais/tahun-1
+  // /jais/tahun-2/feqah
   <SubjectPage>
-    <SubjectCard subject="akhlak" progress={60} />
-    <SubjectCard subject="bahasa-arab" progress={20} />
-    ...
+    <ChapterList notes={notes} meta={meta} />   ← "use client"
   </SubjectPage>
 
-  // Chapter list /jais/tahun-1/akhlak
-  <ChapterListPage>
-    <ChapterCard note={note} locked={false} stars={2} />
-    ...
-  </ChapterListPage>
-
-  // Note reader /jais/tahun-1/akhlak/bab-1
+  // /jais/tahun-2/feqah/jais-tahun-2-feqah-bab1
   <NotePage>
-    <NoteHero title emoji colour />
-    <NoteSection />              ← scroll-reveal per section
-    <ConceptCards />             ← flip-in animation
-    <KnowledgeGraph />           ← React Flow interactive
-    <VocabList />
-    <FunFact />
-    <QuizSection />              ← inline quiz
-    <ChapterNav prev next />
+    <NoteReader note={note} />
+      ├── <NoteSection />        ← renders each section type
+      ├── <KnowledgeGraph />     ← custom SVG graph
+      ├── <QuizSection />        ← inline quiz with stars
+      └── <ReadAloudButton />    ← Web Speech API
   </NotePage>
 </RootLayout>
 ```
 
 ---
 
-## Animation Architecture
+## Type System
 
-### Layer 1 — Page Transitions (Framer Motion)
-```typescript
-// Every page wrapped with:
-<motion.div
-  initial={{ opacity: 0, y: 30 }}
-  animate={{ opacity: 1, y: 0 }}
-  exit={{ opacity: 0, y: -30 }}
-  transition={{ duration: 0.4, ease: "easeOut" }}
->
-```
+All types live in `web/lib/types.ts`.
 
-### Layer 2 — Card Interactions (Framer Motion)
-```typescript
-<motion.div
-  whileHover={{ scale: 1.05, y: -8, boxShadow: "0 20px 40px rgba(0,0,0,0.15)" }}
-  whileTap={{ scale: 0.97 }}
-  transition={{ type: "spring", stiffness: 300, damping: 20 }}
->
-```
+### CardBody — Discriminated Union
 
-### Layer 3 — Scroll Reveals (Framer Motion whileInView)
-```typescript
-// Each note section:
-<motion.div
-  initial={{ opacity: 0, x: -40 }}
-  whileInView={{ opacity: 1, x: 0 }}
-  viewport={{ once: true, margin: "-50px" }}
-  transition={{ delay: index * 0.1 }}
->
-```
-
-### Layer 4 — Background Particles
-```typescript
-// 20-30 floating particles, each with random:
-// - position, size, opacity
-// - animation: y oscillation, slow rotation
-// Framer Motion keyframes loop
-```
-
-### Layer 5 — Lottie Illustrations
-```
-public/lottie/
-├── mascot-idle.json       ← Crescent moon bobbing
-├── mascot-happy.json      ← Mascot celebrates (quiz win)
-├── mascot-thinking.json   ← Mascot thinks (quiz question)
-├── star-sparkle.json      ← Star award animation
-├── book-open.json         ← Chapter start animation
-├── confetti.json          ← Quiz 3-star completion
-└── subject/
-    ├── akhlak.json
-    ├── bahasa-arab.json
-    ├── feqah.json
-    ├── jawi.json
-    ├── hafazan.json
-    └── tauhid.json
-```
-
-### Layer 6 — Quiz Feedback Animations (React Spring)
-```typescript
-// Correct answer: spring bounce scale 1 → 1.3 → 1
-// Wrong answer: shake x: 0 → -10 → 10 → -10 → 0
-// Stars: stagger in left to right with spring
-// Confetti: canvas-confetti burst from center
-```
-
----
-
-## State Management (Zustand)
+The most important type. All `body`, `text`, and `funFact` fields use this.
 
 ```typescript
-interface ProgressStore {
-  // Per note: stars earned (0-3)
-  noteProgress: Record<string, { stars: number; completed: boolean }>
+type CardBody = string | CardBodyList | CardBodyArabic
 
-  // Per subject: chapters completed / total
-  subjectProgress: Record<string, { completed: number; total: number }>
+interface CardBodyList {
+  type: "list"
+  intro?: string      // optional sentence before the list
+  items: string[]     // list items — plain Rumi text only, no Arabic script
+  outro?: string      // optional sentence after the list
+}
 
-  // Mascot state
-  mascotMood: "idle" | "happy" | "thinking" | "celebrating"
-
-  // Actions
-  completeNote: (noteId: string, stars: number) => void
-  setMascotMood: (mood: MascotMood) => void
+interface CardBodyArabic {
+  type: "arabic"
+  instruction?: string   // context before the Arabic box
+  arabic: string         // Arabic/Jawi text — renders RTL in coloured box
+  translation?: string   // Rumi translation shown below Arabic
+  source?: string        // badge text, e.g. "Surah al-Baqarah: 2"
+  outro?: string         // closing text after the source badge
+  more?: Array<{         // additional ayat/hadith in the same card
+    instruction?: string
+    arabic: string
+    translation?: string
+    source?: string
+  }>
 }
 ```
 
-Zustand middleware: `persist` → auto-saves to `localStorage`
+**Golden rule:** never mix Arabic script (`ب`, `س`, etc.) into a plain `string`.
+Always use `CardBodyArabic` for any content containing Arabic or Jawi script.
+
+### Note Schema
+
+```typescript
+interface Note {
+  id: string             // "jais-tahun-2-feqah-bab1"
+  source: Source         // "jais"
+  year: Year             // "tahun-1" | "tahun-2" | ...
+  subject: Subject       // "akhlak" | "bahasa-arab" | "feqah" | "jawi" | "hafazan" | "tauhid"
+  chapter: number
+  title: string
+  emoji: string
+  colour: string         // hex — unique per subject (see below)
+  estimatedMinutes: number
+  sections: Section[]
+  quiz: QuizQuestion[]
+  graph: KnowledgeGraph
+  vocab: VocabItem[]
+  funFact: CardBody      // can be string, list, or arabic
+}
+```
+
+### Section Types
+
+```typescript
+type Section =
+  | { type: "intro"; heading: string; body: CardBody }
+  | { type: "concept-cards"; items: ConceptCard[] }
+  | { type: "callout"; icon: string; text: CardBody }
+  | { type: "steps"; heading?: string; items: (string | CardBodyArabic)[] }
+
+interface ConceptCard {
+  icon: string
+  title: string
+  body: CardBody
+}
+```
+
+### Knowledge Graph
+
+```typescript
+interface KnowledgeGraph {
+  nodes: { id: string; label: string; colour: string }[]
+  edges: { id: string; source: string; target: string; label: string }[]
+  //                   ^^^^^^          ^^^^^^
+  //               node id ref      node id ref   (NOT "from"/"to")
+}
+```
+
+### Subject Colours
+
+```typescript
+const SUBJECTS: SubjectMeta[] = [
+  { id: "akhlak",      label: "Akhlak",      emoji: "🌱", colour: "#4CAF50" },
+  { id: "bahasa-arab", label: "Bahasa Arab",  emoji: "📖", colour: "#2196F3" },
+  { id: "feqah",       label: "Feqah",        emoji: "🕌", colour: "#9C27B0" },
+  { id: "jawi",        label: "Jawi",         emoji: "✏️",  colour: "#FF9800" },
+  { id: "hafazan",     label: "Hafazan",      emoji: "🎵", colour: "#E91E63" },
+  { id: "tauhid",      label: "Tauhid",       emoji: "⭐", colour: "#FFB300" },
+]
+```
 
 ---
 
-## Subject Colour System
+## Server vs Client Boundary
 
-| Subject | Colour | Emoji |
-|---------|--------|-------|
-| Akhlak | `#4CAF50` (green) | 🌱 |
-| Bahasa Arab | `#2196F3` (blue) | 📖 |
-| Feqah | `#9C27B0` (purple) | 🕌 |
-| Jawi | `#FF9800` (orange) | ✏️ |
-| Hafazan | `#F44336` (red-gold) | 🎵 |
-| Tauhid | `#FFD700` (gold) | ⭐ |
+| File | Directive | Notes |
+|------|-----------|-------|
+| `web/lib/notes.ts` | server (no directive) | Uses `fs`, `path` — Node only |
+| `web/store/progress.ts` | `"use client"` | Zustand persist → localStorage |
+| `web/components/dashboard/*` | `"use client"` | Framer Motion, Zustand |
+| `web/components/ui/NavBar.tsx` | `"use client"` | usePathname, Zustand |
+| `web/components/ui/BackgroundParticles.tsx` | `"use client"` | Math.random via useEffect |
+| All `app/*/page.tsx` | server components | Fetch notes server-side, pass as props |
 
----
+### Hydration Fixes Applied
 
-## Knowledge Graph (React Flow)
-
-Each note has a mini graph at the bottom:
-- Nodes rendered as coloured bubbles with emoji labels
-- Edges as animated dashed lines (CSS animation)
-- Tap node → tooltip with definition
-- Auto-layout using `dagre` algorithm
-- Pan + pinch zoom on mobile
-
+**BackgroundParticles** — `Math.random()` must not run during SSR (different values → mismatch):
+```tsx
+const [particles, setParticles] = useState([])
+useEffect(() => { setParticles(generateParticles()) }, [])
 ```
-Example: Akhlak Bab 1
 
-   [Allah] ──── "ciptaan" ────▶ [Manusia]
-      │                              │
-   "perintah"                   "mesti ada"
-      │                              │
-      ▼                              ▼
-  [Akhlak] ◀──── "contoh" ──── [Nabi Muhammad]
-      │
-  "jenis"
-   /     \
-[Baik] [Buruk]
+**NavBar totalStars** — Zustand reads localStorage on client only:
+```tsx
+const [mounted, setMounted] = useState(false)
+useEffect(() => setMounted(true), [])
+const totalStars = mounted ? totalStarsRaw : 0
 ```
 
 ---
 
-## Data Flow Diagram
+## State Management
 
+```typescript
+// web/store/progress.ts
+interface ProgressStore {
+  noteProgress: Record<string, { stars: number; completed: boolean }>
+  completeNote: (noteId: string, stars: number) => void
+  getNoteStars: (noteId: string) => number
+  isNoteCompleted: (noteId: string) => boolean
+  getTotalStars: () => number
+}
+// persisted to localStorage via Zustand persist middleware
 ```
-┌──────────────┐
-│  User lands  │
-│  /dashboard  │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────────────┐
-│  manifest.json       │  ← static, generated at build time
-│  { sources, years,   │
-│    subjects, notes } │
-└──────┬───────────────┘
-       │ Next.js reads at build time (generateStaticParams)
-       ▼
-┌──────────────────────┐
-│  Static pages        │  ← all routes pre-rendered
-│  (fully static site) │
-└──────┬───────────────┘
-       │
-       ▼
-┌──────────────────────┐
-│  Zustand (runtime)   │  ← progress, stars, mascot mood
-│  ↕ localStorage      │
-└──────────────────────┘
-```
-
-**The app is fully static** — no server runtime needed. Once notes are generated, it deploys as a static Next.js export to Vercel (free tier) or any static host.
 
 ---
 
-## Performance Considerations
+## Data Flow
+
+```
+User navigates to /jais/tahun-2/feqah/jais-tahun-2-feqah-bab1
+          │
+          ▼
+app/[source]/[year]/[subject]/[noteId]/page.tsx  (server component)
+  getNoteById("jais-tahun-2-feqah-bab1")
+    → reads web/data/notes/jais-tahun-2-feqah-bab1.json from disk
+          │
+          ▼
+<NoteReader note={note} />  (client component, receives serialised props)
+  renders sections, quiz, graph
+          │
+          ▼
+QuizSection completes → useProgressStore.completeNote(id, stars)
+  → saved to localStorage
+```
+
+---
+
+## Content Scope
+
+| Source | Years Available | Status |
+|--------|----------------|--------|
+| JAIS | Tahun 1 | 33 bab, all 6 subjects ✓ |
+| JAIS | Tahun 2 | 33 bab, all 6 subjects ✓ |
+| JAIS | Tahun 3–6 | PDFs to be added |
+| KSSR | Tahun 1–6 | Planned |
+
+### Adding Tahun 3
+
+See `CONTENT_GUIDE.md` for the full workflow. Quick summary:
+1. Add `"tahun-3"` to the `Year` union type in `web/lib/types.ts`
+2. Add year label to `YEAR_LABELS` in `web/components/ui/NavBar.tsx`
+3. Drop JSON files in `web/data/notes/` following the naming convention
+4. No code changes needed — routing is fully dynamic
+
+---
+
+## Performance Notes
 
 | Concern | Solution |
 |---------|----------|
-| 12 PDFs, heavy processing | Run pipeline once offline, commit JSONs |
-| Lottie files are large | Load lazily, use `dynamic()` import |
-| React Flow can be slow | Load only when note section is visible |
-| Mobile performance | `will-change: transform` on animated cards only |
-| Font loading | Next.js `next/font` with Nunito |
-
----
-
-## Security Notes
-
-- No user data sent to any server (progress is localStorage only)
-- Claude API key used only in build-time script (never in browser)
-- No auth needed for MVP (family-local use)
-- PDFs stay local, only extracted text sent to Claude API
-
----
-
-## Content Scope & Growth Plan
-
-### Current Sources
-| Source | Years | Status |
-|--------|-------|--------|
-| JAIS | Tahun 1–2 | PDFs available |
-| JAIS | Tahun 3–6 | PDFs added over time |
-| KSSR | Tahun 1–6 | Planned (second phase) |
-
-### Incremental Pipeline
-The pipeline checks `src/data/notes/manifest.json` before processing.  
-If a note JSON already exists for a PDF, it is **skipped** — only new PDFs are processed.
-
-```bash
-# First run — processes all PDFs
-npx tsx scripts/run-pipeline.ts
-
-# After adding new PDFs — only processes new ones
-npx tsx scripts/run-pipeline.ts
-```
-
-The manifest tracks processed PDFs by file path + last-modified date, so re-running is always safe.
-
-### Directory Convention for New Sources
-```
-references/
-├── jais/
-│   ├── tahun-1/
-│   ├── tahun-2/
-│   └── tahun-3/   ← drop PDF here, re-run pipeline
-└── kssr/          ← new source, same structure
-    ├── tahun-1/
-    └── ...
-```
-
----
-
-## Text-to-Speech
-
-Uses browser **Web Speech API** — no external library, no cost, works offline.
-
-```typescript
-const speak = (text: string) => {
-  const utterance = new SpeechSynthesisUtterance(text)
-  utterance.lang = "ms-MY"   // Bahasa Melayu
-  utterance.rate = 0.85       // slightly slower for kids
-  window.speechSynthesis.speak(utterance)
-}
-```
-
----
-
-## Future Extensions
-
-| Feature | Complexity |
-|---------|-----------|
-| Arabic text (RTL sections) | Medium — add `dir="rtl"` per section |
-| Offline PWA | Low — add next-pwa |
-| Parent dashboard | Medium — view child progress |
-| Jawi keyboard practice | High — custom canvas component |
-| KSSR source | Low — add PDFs, re-run pipeline |
+| PDFs are large (up to 45MB) | Gitignored — local only |
+| `node_modules` | Gitignored |
+| Math.random on server | Deferred to useEffect |
+| Zustand localStorage on server | mounted-guard pattern |
+| Static route shadow | No folders in app/ matching source/year/subject |
