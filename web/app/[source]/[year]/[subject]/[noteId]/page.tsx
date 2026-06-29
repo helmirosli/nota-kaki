@@ -17,6 +17,7 @@ export default async function NotePage({
   const prevNote = allNotes[currentIndex - 1] ?? null
   const nextNote = allNotes[currentIndex + 1] ?? null
   const meta = getSubjectMeta(subject as Subject)
+  if (!meta) notFound()
 
   return (
     <NoteReader
