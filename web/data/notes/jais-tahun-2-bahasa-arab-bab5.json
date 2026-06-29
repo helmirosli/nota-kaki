@@ -11,8 +11,8 @@
   "sections": [
     {
       "type": "intro",
-      "heading": "الْخَضْرَاوَات — Sayur-sayuran",
-      "body": "Dalam pelajaran ini kita belajar nama-nama sayur-sayuran dalam bahasa Arab. Sayur-sayuran sangat bagus untuk kesihatan tubuh badan kita. الْخَضْرَاوَاتُ طَازِجَة — Sayur-sayuran itu segar! Mari kita belajar nama-nama sayur dalam bahasa Arab."
+      "heading": "الْخَضْرَاوَاتُ — Sayur-sayuran",
+      "body": "Dalam pelajaran ini kita belajar nama-nama sayur-sayuran dalam bahasa Arab. Sayur-sayuran sangat bagus untuk kesihatan tubuh badan kita. Mari kita kenali nama-nama sayur dalam bahasa Arab!"
     },
     {
       "type": "concept-cards",
@@ -20,22 +20,64 @@
         {
           "icon": "🍅",
           "title": "Sayur Popular",
-          "body": "طَمَاطِمٌ = tomato • خِيَارٌ = timun • جَزَرٌ = lobak merah • بَصَلٌ = bawang • ثَوْمٌ = bawang putih • فِلْفِلٌ = cili/lada. Contoh: الْخِيَارُ لَوْنُهُ أَخْضَرُ = timun warnanya hijau. عَصِيرُ الْجَزَرِ لَذِيذٌ = jus lobak merah sedap!"
+          "body": {
+            "type": "arabic",
+            "instruction": "Nama-nama sayur yang popular dalam bahasa Arab:",
+            "arabic": "طَمَاطِمٌ",
+            "translation": "tomato",
+            "more": [
+              { "arabic": "خِيَارٌ", "translation": "timun" },
+              { "arabic": "جَزَرٌ", "translation": "lobak merah" },
+              { "arabic": "بَصَلٌ", "translation": "bawang" },
+              { "arabic": "ثَوْمٌ", "translation": "bawang putih" },
+              { "arabic": "فِلْفِلٌ", "translation": "cili / lada" }
+            ]
+          }
         },
         {
           "icon": "🥔",
           "title": "Sayur Umbi dan Lain-lain",
-          "body": "بَطَاطِسٌ = kentang • بَاذِنْجَانٌ = terung • بَامِيَةٌ = bendi • كُرُنْبٌ = kubis • خَرْدَلٌ = sawi • فُطْرٌ = cendawan. Contoh: أُمِّي تَطْبَخُ الْبَامِيَةَ = Ibu saya memasak bendi. الْبَصَلُ رَخِيصٌ = Bawang murah harganya."
+          "body": {
+            "type": "arabic",
+            "instruction": "Lebih nama sayur yang perlu kita tahu:",
+            "arabic": "بَطَاطِسٌ",
+            "translation": "kentang",
+            "more": [
+              { "arabic": "بَاذِنْجَانٌ", "translation": "terung" },
+              { "arabic": "بَامِيَةٌ", "translation": "bendi" },
+              { "arabic": "كُرُنْبٌ", "translation": "kubis" },
+              { "arabic": "خَرْدَلٌ", "translation": "sawi" },
+              { "arabic": "فُطْرٌ", "translation": "cendawan" }
+            ]
+          }
         },
         {
           "icon": "🥗",
           "title": "Kebaikan Sayur-sayuran",
-          "body": "الْخَضْرَاوَاتُ مُفِيدَةٌ لِصِحَّةِ الْجِسْمِ = Sayur-sayuran bermanfaat untuk kesihatan tubuh badan. أَكْثِرْ تَنَاوُلَ الْخَضْرَاوَاتِ فِي طَعَامِكَ = Perbanyakkan makan sayur dalam makananmu. Sayur-sayuran mengandungi vitamin dan mineral yang penting!"
+          "body": {
+            "type": "arabic",
+            "instruction": "Faedah sayur-sayuran untuk kesihatan — dalam bahasa Arab:",
+            "arabic": "الْخَضْرَاوَاتُ مُفِيدَةٌ لِصِحَّةِ الْجِسْمِ",
+            "translation": "Sayur-sayuran bermanfaat untuk kesihatan tubuh badan.",
+            "more": [
+              { "arabic": "أَكْثِرْ تَنَاوُلَ الْخَضْرَاوَاتِ فِي طَعَامِكَ", "translation": "Perbanyakkan makan sayur dalam makananmu." }
+            ]
+          }
         },
         {
           "icon": "🛒",
-          "title": "Aktiviti Membeli Sayur",
-          "body": "يَشْتَرِي أَبِي الْخَضْرَاوَاتِ = Ayah saya membeli sayur-sayuran. أُخْتِي تَغْسِلُ الْخَرْدَلَ = Kakak saya membasuh sawi. مَا الْخَضْرَاوَاتُ فِي السَّلَطَةِ يَا أُمِّي؟ = Apa sayur dalam salad, ibu? فِيهَا بَطَاطِسٌ وَطَمَاطِمٌ وَجَزَرٌ وَكُرُنْبٌ وَفِلْفِلٌ = Dalamnya ada kentang, tomato, lobak merah, kubis dan cili."
+          "title": "Dialog Membeli Sayur",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat-ayat tentang aktiviti membeli dan memasak sayur:",
+            "arabic": "يَشْتَرِي أَبِي الْخَضْرَاوَاتِ",
+            "translation": "Ayah saya membeli sayur-sayuran.",
+            "more": [
+              { "arabic": "أُخْتِي تَغْسِلُ الْخَرْدَلَ", "translation": "Kakak saya membasuh sawi." },
+              { "arabic": "الْبَصَلُ رَخِيصٌ", "translation": "Bawang murah harganya." },
+              { "arabic": "عَصِيرُ الْجَزَرِ لَذِيذٌ", "translation": "Jus lobak merah sedap!" }
+            ]
+          }
         }
       ]
     },
@@ -224,5 +266,5 @@
       "meaning": "bendi"
     }
   ],
-  "funFact": "Tahukah kamu bahawa perkataan 'timun' dalam bahasa Arab ialah خِيَار (khiyar)? Perkataan ini juga bermaksud 'pilihan terbaik'! Jadi bila kamu makan timun, kamu sedang memilih makanan terbaik untuk kesihatan!"
+  "funFact": "Tahukah kamu bahawa perkataan 'timun' dalam bahasa Arab ialah 'khiyar'? Perkataan yang sama juga boleh bermaksud 'pilihan terbaik'! Jadi bila kamu makan timun, kamu sedang memilih makanan terbaik untuk kesihatan!"
 }

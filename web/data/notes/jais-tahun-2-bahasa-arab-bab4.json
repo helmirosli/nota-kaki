@@ -5,220 +5,176 @@
   "subject": "bahasa-arab",
   "chapter": 4,
   "title": "Pakaian Kita",
-  "emoji": "👕",
-  "colour": "#9C27B0",
+  "emoji": "👗",
+  "colour": "#6A1B9A",
   "estimatedMinutes": 12,
   "sections": [
     {
       "type": "intro",
-      "heading": "الْمَلَابِس — Pakaian",
-      "body": "Dalam pelajaran ini kita belajar nama-nama pakaian dalam bahasa Arab. Pakaian adalah satu nikmat Allah yang kita gunakan setiap hari. Islam juga mengajar kita cara berpakaian yang sopan dan menutup aurat. Jom kita kenali nama-nama pakaian dalam bahasa Arab!"
+      "heading": "الْمَلَابِسُ — Pakaian",
+      "body": "Dalam pelajaran ini kita belajar nama-nama pakaian dalam bahasa Arab. Menutup aurat dan berpakaian bersih adalah tuntutan Islam. Mari kita kenali nama pakaian dalam bahasa Arab!"
     },
     {
       "type": "concept-cards",
       "items": [
         {
-          "icon": "👖",
-          "title": "Pakaian Asas",
-          "body": "سِرْوَالٌ = seluar • قَمِيصٌ = kemeja • ثَوْبٌ = jubah/baju • جَلَبِيَّةٌ = baju Melayu • إِزَارٌ = kain. Contoh: أَلْبَسُ الْقَمِيصَ = Saya memakai kemeja. أَبِي يَلْبَسُ الْجَلَبِيَّةَ = Ayah saya memakai baju Melayu. هَذَا ثَوْبٌ جَدِيدٌ = Ini jubah baru."
+          "icon": "👕",
+          "title": "Pakaian Harian",
+          "body": {
+            "type": "arabic",
+            "instruction": "Nama pakaian harian yang biasa kita pakai:",
+            "arabic": "قَمِيصٌ",
+            "translation": "baju / kemeja",
+            "more": [
+              { "arabic": "سِرْوَالٌ", "translation": "seluar panjang" },
+              { "arabic": "ثَوْبٌ", "translation": "jubah / pakaian labuh" },
+              { "arabic": "جَوْرَبٌ", "translation": "stokin" },
+              { "arabic": "حِذَاءٌ", "translation": "kasut" },
+              { "arabic": "نَعْلٌ", "translation": "sandal" },
+              { "arabic": "حِزَامٌ", "translation": "tali pinggang" }
+            ]
+          }
         },
         {
-          "icon": "👒",
-          "title": "Pelindung Kepala",
-          "body": "قَلَنْسُوَةٌ = kopiah • عِمَامَةٌ = serban • خِمَارٌ = tudung. Contoh: أَلْبَسُ الْقَلَنْسُوَةَ فِي الْمَسْجِدِ = Saya memakai kopiah di masjid. يَلْبَسُ جَدِّي الْعِمَامَةَ = Datuk saya memakai serban. تَلْبَسُ الْأُسْتَاذَةُ الْخِمَارَ = Cikgu perempuan memakai tudung."
+          "icon": "🕌",
+          "title": "Pakaian Islam dan Tradisional",
+          "body": {
+            "type": "arabic",
+            "instruction": "Pakaian yang berkaitan dengan amalan Islam dan budaya:",
+            "arabic": "جَلَبِيَّةٌ",
+            "translation": "jubah lelaki panjang",
+            "more": [
+              { "arabic": "خِمَارٌ", "translation": "tudung / hijab perempuan" },
+              { "arabic": "عِمَامَةٌ", "translation": "serban" },
+              { "arabic": "قَلَنْسُوَةٌ", "translation": "songkok / kopiah" },
+              { "arabic": "إِزَارٌ", "translation": "kain sarung" }
+            ]
+          }
         },
         {
-          "icon": "👟",
-          "title": "Kasut dan Aksesori",
-          "body": "حِذَاءٌ = kasut • جَوْرَبٌ = stokin • نَعْلٌ = sandal • حِزَامٌ = tali pinggang. Contoh: أَخِي يَلْبَسُ الْحِذَاءَ = Abang saya memakai kasut. الْجَوْرَبُ عَلَى الْأَرِيكَةِ = Stokin di atas sofa. هَذَا الْحِزَامُ طَوِيلٌ = Tali pinggang ini panjang."
+          "icon": "🧺",
+          "title": "Aksesori dan Kain",
+          "body": {
+            "type": "arabic",
+            "instruction": "Aksesori pelengkap dan bahan pakaian:",
+            "arabic": "مِنْشَفَةٌ",
+            "translation": "tuala",
+            "more": [
+              { "arabic": "قُمَاشٌ", "translation": "kain / fabrik" }
+            ]
+          }
         },
         {
-          "icon": "🛍️",
-          "title": "Kain dan Peralatan",
-          "body": "مِنْشَفَةٌ = tuala • قُمَاشٌ = kain (bahan). Contoh: السِّرْوَالُ فِي الْخِزَانَةِ = Seluar di dalam almari. نَحْنُ نَلْبَسُ الْإِزَارَ = Kami memakai kain. اشْتَرَى أَبِي الْمِنْشَفَةَ = Ayah saya membeli tuala."
+          "icon": "🧥",
+          "title": "Cara Menerangkan Pakaian",
+          "body": {
+            "type": "arabic",
+            "instruction": "Guna kata kerja يَلْبَسُ / أَلْبَسُ (memakai) untuk menerangkan pakaian seseorang:",
+            "arabic": "أَلْبَسُ الْقَمِيصَ",
+            "translation": "Saya memakai baju.",
+            "more": [
+              { "arabic": "أَبِي يَلْبَسُ الْجَلَبِيَّةَ", "translation": "Ayah saya memakai jubah." },
+              { "arabic": "يَلْبَسُ جَدِّي الْعِمَامَةَ", "translation": "Datuk saya memakai serban." },
+              { "arabic": "تَلْبَسُ الأُسْتَاذَةُ الْخِمَارَ", "translation": "Ustazah memakai tudung." }
+            ]
+          }
         }
       ]
     },
     {
       "type": "callout",
-      "icon": "💡",
+      "icon": "🌿",
       "text": {
         "type": "arabic",
-        "instruction": "Allah berfirman dalam Surah al-A'raf ayat 26:",
+        "instruction": "Allah berfirman dalam Surah al-A'raf ayat 26 tentang nikmat pakaian yang dikurniakan kepada manusia:",
         "arabic": "يَا بَنِي آدَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَارِي سَوْآتِكُمْ وَرِيشًا",
-        "translation": "Wahai anak-anak Adam! Sesungguhnya Kami telah menurunkan kepada kamu pakaian untuk menutup aurat kamu.",
+        "translation": "Wahai anak-anak Adam! Sesungguhnya Kami telah menurunkan kepada kamu pakaian yang menutup aurat kamu, dan pakaian perhiasan.",
         "source": "Surah al-A'raf: 26",
-        "outro": "اُسْتُرْ عَوْرَتَكَ — Tutuplah auratmu. نَظِّفْ ثِيَابَكَ — Bersihkanlah pakaianmu. Pakaian yang bersih dan menutup aurat adalah tanda seorang Muslim yang baik!"
+        "outro": "Jagalah pakaian kita — tutup aurat, pakai yang bersih, dan bersyukur atas nikmat Allah."
       }
     },
     {
       "type": "steps",
-      "heading": "Dialog Tentang Pakaian",
+      "heading": "Ayat-ayat tentang Pakaian",
       "items": [
         {
           "type": "arabic",
-          "arabic": "أَلْبَسُ الْقَمِيصَ"
+          "arabic": "أَلْبَسُ الْقَلَنْسُوَةَ فِي الْمَسْجِدِ",
+          "translation": "Saya memakai songkok di masjid."
         },
         {
           "type": "arabic",
-          "arabic": "يَلْبَسُ جَدِّي الْعِمَامَةَ"
+          "arabic": "أَخِي يَلْبَسُ الْحِذَاءَ",
+          "translation": "Abang saya memakai kasut."
         },
         {
           "type": "arabic",
-          "arabic": "أَخِي يَلْبَسُ الْحِذَاءَ"
+          "arabic": "السِّرْوَالُ فِي الْخِزَانَةِ",
+          "translation": "Seluar itu di dalam almari."
         },
         {
           "type": "arabic",
-          "arabic": "الْجَوْرَبُ عَلَى الْأَرِيكَةِ"
+          "arabic": "الْجَوْرَبُ عَلَى الأَرِيكَةِ",
+          "translation": "Stokin itu di atas sofa."
         },
         {
           "type": "arabic",
-          "arabic": "السِّرْوَالُ فِي الْخِزَانَةِ"
+          "arabic": "اشْتَرَى أَبِي الْمِنْشَفَةَ",
+          "translation": "Ayah saya membeli tuala."
         },
         {
           "type": "arabic",
-          "arabic": "أَبِي يَلْبَسُ الْجَلَبِيَّةَ"
-        },
-        {
-          "type": "arabic",
-          "arabic": "يَا شَفِيقُ، حِذَاؤُكَ جَمِيلٌ جِدًّا"
-        },
-        {
-          "type": "arabic",
-          "arabic": "اشْتَرَيْتُ هَذَا الْحِذَاءَ مِنَ الْمَحَلَّةِ التِّجَارِيَّةِ"
+          "arabic": "هَذَا ثَوْبٌ جَدِيدٌ",
+          "translation": "Ini jubah baru."
         }
       ]
     }
   ],
   "quiz": [
     {
-      "q": "Apakah maksud خِمَارٌ dalam bahasa Melayu?",
-      "options": [
-        "Kasut",
-        "Kopiah",
-        "Tudung",
-        "Serban"
-      ],
+      "q": "Apakah maksud خِمَارٌ?",
+      "options": ["Serban", "Stokin", "Tudung / hijab", "Jubah"],
       "answer": 2
     },
     {
-      "q": "Ayat manakah bermaksud 'Datuk saya memakai serban'?",
-      "options": [
-        "أَبِي يَلْبَسُ الْجَلَبِيَّةَ",
-        "يَلْبَسُ جَدِّي الْعِمَامَةَ",
-        "أَلْبَسُ الْقَلَنْسُوَةَ",
-        "أَخِي يَلْبَسُ الْحِذَاءَ"
-      ],
+      "q": "أَبِي يَلْبَسُ الْجَلَبِيَّةَ bermaksud?",
+      "options": ["Ayah saya membeli jubah", "Ayah saya memakai jubah", "Abang saya memakai jubah", "Ayah saya menanggal jubah"],
       "answer": 1
     },
     {
-      "q": "قَلَنْسُوَةٌ bermaksud?",
-      "options": [
-        "Tali pinggang",
-        "Stokin",
-        "Kopiah",
-        "Serban"
-      ],
+      "q": "Apakah maksud سِرْوَالٌ?",
+      "options": ["Baju", "Kasut", "Seluar panjang", "Tali pinggang"],
       "answer": 2
     },
     {
-      "q": "Apakah maksud الْجَوْرَبُ عَلَى الْأَرِيكَةِ?",
-      "options": [
-        "Seluar di dalam almari",
-        "Kasut di lantai",
-        "Stokin di atas sofa",
-        "Tuala di bilik air"
-      ],
-      "answer": 2
+      "q": "Pakaian manakah yang dipakai di masjid dalam ayat السِّرْوَالُ فِي الْخِزَانَةِ?",
+      "options": ["Seluar itu di masjid", "Seluar itu di almari", "Serban itu di masjid", "Baju itu di almari"],
+      "answer": 1
     }
   ],
   "graph": {
     "nodes": [
-      {
-        "id": "n1",
-        "label": "الْمَلَابِس (Pakaian)",
-        "colour": "#9C27B0"
-      },
-      {
-        "id": "n2",
-        "label": "Pakaian Badan",
-        "colour": "#7B1FA2"
-      },
-      {
-        "id": "n3",
-        "label": "Kepala",
-        "colour": "#7B1FA2"
-      },
-      {
-        "id": "n4",
-        "label": "قَمِيصٌ (kemeja)",
-        "colour": "#CE93D8"
-      },
-      {
-        "id": "n5",
-        "label": "عِمَامَةٌ (serban)",
-        "colour": "#CE93D8"
-      },
-      {
-        "id": "n6",
-        "label": "حِذَاءٌ (kasut)",
-        "colour": "#4A148C"
-      }
+      { "id": "n1", "label": "الْمَلَابِسُ (Pakaian)", "colour": "#6A1B9A" },
+      { "id": "n2", "label": "Pakaian Harian", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "Pakaian Islam", "colour": "#7B1FA2" },
+      { "id": "n4", "label": "قَمِيصٌ (baju)", "colour": "#CE93D8" },
+      { "id": "n5", "label": "خِمَارٌ (tudung)", "colour": "#CE93D8" },
+      { "id": "n6", "label": "يَلْبَسُ (memakai)", "colour": "#4A148C" }
     ],
     "edges": [
-      {
-        "id": "e1",
-        "source": "n1",
-        "target": "n2",
-        "label": "ada"
-      },
-      {
-        "id": "e2",
-        "source": "n1",
-        "target": "n3",
-        "label": "ada"
-      },
-      {
-        "id": "e3",
-        "source": "n2",
-        "target": "n4",
-        "label": "contoh"
-      },
-      {
-        "id": "e4",
-        "source": "n3",
-        "target": "n5",
-        "label": "contoh"
-      },
-      {
-        "id": "e5",
-        "source": "n1",
-        "target": "n6",
-        "label": "ada"
-      }
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "contoh" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "contoh" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "kata kerja" }
     ]
   },
   "vocab": [
-    {
-      "word": "قَمِيصٌ",
-      "meaning": "kemeja"
-    },
-    {
-      "word": "جَلَبِيَّةٌ",
-      "meaning": "baju Melayu"
-    },
-    {
-      "word": "قَلَنْسُوَةٌ",
-      "meaning": "kopiah"
-    },
-    {
-      "word": "خِمَارٌ",
-      "meaning": "tudung"
-    },
-    {
-      "word": "عِمَامَةٌ",
-      "meaning": "serban"
-    }
+    { "word": "قَمِيصٌ", "meaning": "baju / kemeja" },
+    { "word": "جَلَبِيَّةٌ", "meaning": "jubah lelaki" },
+    { "word": "خِمَارٌ", "meaning": "tudung / hijab" },
+    { "word": "حِذَاءٌ", "meaning": "kasut" },
+    { "word": "يَلْبَسُ", "meaning": "memakai" }
   ],
-  "funFact": "Perkataan جَلَبِيَّة dalam bahasa Arab asalnya bermaksud baju panjang. Di Malaysia kita panggil ia 'baju Melayu'! Ramai ulama dan orang Islam di seluruh dunia memakai jubah panjang yang dalam bahasa Arab dipanggil ثَوْب."
+  "funFact": "Tahukah kamu bahawa perkataan 'jubah' yang kita guna dalam bahasa Melayu sebenarnya datang dari bahasa Arab 'jalaabiyyah'? Banyak nama pakaian Islam yang kita pakai mempunyai asal-usul dalam bahasa Arab!"
 }

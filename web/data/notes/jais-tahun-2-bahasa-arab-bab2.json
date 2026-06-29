@@ -6,216 +6,171 @@
   "chapter": 2,
   "title": "Warna-warni dalam Bahasa Arab",
   "emoji": "🌈",
-  "colour": "#E91E63",
+  "colour": "#C62828",
   "estimatedMinutes": 12,
   "sections": [
     {
       "type": "intro",
-      "heading": "الأَلْوَان — Warna-warna",
-      "body": "Dalam pelajaran ini kita belajar nama-nama warna dalam bahasa Arab. Dalam bahasa Arab, warna ada dua bentuk — bentuk lelaki (مُذَكَّر) dan bentuk perempuan (مُؤَنَّث). Contohnya أَحْمَر (merah, lelaki) dan حَمْرَاء (merah, perempuan). Seronok kan?"
+      "heading": "الأَلْوَانُ — Warna-warna",
+      "body": "Dalam pelajaran ini kita belajar nama-nama warna dalam bahasa Arab. Warna dalam bahasa Arab ada dua bentuk: bentuk lelaki (muzakkar) dan bentuk perempuan (muannas). Kita guna 'lawnuhu' (warnanya) untuk menerangkan warna sesuatu benda."
     },
     {
       "type": "concept-cards",
       "items": [
         {
-          "icon": "🖤",
-          "title": "Warna Gelap",
-          "body": "أَسْوَد / سَوْدَاء = hitam • أَحْمَر / حَمْرَاء = merah • أَزْرَق / زَرْقَاء = biru • بَنَفْسَجِي / بَنَفْسَجِيَّة = ungu. Contoh: الْقَمِيصُ لَوْنُهُ أَحْمَرُ = baju lelaki warnanya merah. الْعِنَبُ لَوْنُهُ بَنَفْسَجِيٌّ = anggur warnanya ungu."
+          "icon": "🔴",
+          "title": "Warna Panas",
+          "body": {
+            "type": "arabic",
+            "instruction": "Warna merah, kuning dan oren — bentuk lelaki / perempuan:",
+            "arabic": "أَحْمَرُ / حَمْرَاءُ",
+            "translation": "merah (lelaki / perempuan)",
+            "more": [
+              { "arabic": "أَصْفَرُ / صَفْرَاءُ", "translation": "kuning (lelaki / perempuan)" },
+              { "arabic": "بُرْتُقَالِيٌّ / بُرْتُقَالِيَّةٌ", "translation": "oren (lelaki / perempuan)" }
+            ]
+          }
         },
         {
-          "icon": "🌿",
-          "title": "Warna Terang",
-          "body": "أَصْفَر / صَفْرَاء = kuning • أَخْضَر / خَضْرَاء = hijau • أَبْيَض / بَيْضَاء = putih • بُرْتُقَالِي / بُرْتُقَالِيَّة = oren. Contoh: الْمَوْزُ لَوْنُهُ أَصْفَرُ = pisang warnanya kuning. هَذَا التُّفَّاحُ أَخْضَرُ = epal ini hijau."
+          "icon": "🔵",
+          "title": "Warna Sejuk",
+          "body": {
+            "type": "arabic",
+            "instruction": "Warna biru, hijau dan ungu — bentuk lelaki / perempuan:",
+            "arabic": "أَزْرَقُ / زَرْقَاءُ",
+            "translation": "biru (lelaki / perempuan)",
+            "more": [
+              { "arabic": "أَخْضَرُ / خَضْرَاءُ", "translation": "hijau (lelaki / perempuan)" },
+              { "arabic": "بُنَفْسَجِيٌّ / بُنَفْسَجِيَّةٌ", "translation": "ungu (lelaki / perempuan)" }
+            ]
+          }
         },
         {
-          "icon": "🐇",
-          "title": "Warna Lain",
-          "body": "رَمَادِي / رَمَادِيَّة = kelabu • أَسْمَر / سَمْرَاء = sawo matang. Contoh: الْأَرْنَبُ لَوْنُهُ رَمَادِيٌّ = arnab warnanya kelabu. مَا لَوْنُ الْهَاتِفِ الْيَدَوِيِّ؟ لَوْنُهُ رَمَادِيٌّ = Apa warna telefon bimbit? Warnanya kelabu."
+          "icon": "⚫",
+          "title": "Warna Neutral",
+          "body": {
+            "type": "arabic",
+            "instruction": "Warna hitam, putih, kelabu dan coklat — bentuk lelaki / perempuan:",
+            "arabic": "أَسْوَدُ / سَوْدَاءُ",
+            "translation": "hitam (lelaki / perempuan)",
+            "more": [
+              { "arabic": "أَبْيَضُ / بَيْضَاءُ", "translation": "putih (lelaki / perempuan)" },
+              { "arabic": "رَمَادِيٌّ / رَمَادِيَّةٌ", "translation": "kelabu (lelaki / perempuan)" },
+              { "arabic": "أَسْمَرُ / سَمْرَاءُ", "translation": "coklat/gelap (lelaki / perempuan)" }
+            ]
+          }
         },
         {
-          "icon": "🌸",
-          "title": "Ayat Lengkap dengan Warna",
-          "body": "هَذِهِ وَرْدَةٌ حَمْرَاءُ = ini bunga ros berwarna merah • هَذَا كَعْكٌ بُرْتُقَالِيٌّ = ini kek berwarna oren • هَذِهِ سَيَّارَةٌ بَيْضَاءُ = ini kereta berwarna putih • هَذَا الْخِيَارُ أَخْضَرُ = timun ini hijau • الْجَوْرَبُ عَلَى الْأَرِيكَةِ أَزْرَقُ = stokin di sofa berwarna biru."
+          "icon": "🎨",
+          "title": "Cara Menerangkan Warna",
+          "body": {
+            "type": "arabic",
+            "instruction": "Guna corak لَوْنُهُ/لَوْنُهَا + warna untuk menerangkan warna benda:",
+            "arabic": "الْقَمِيصُ لَوْنُهُ أَحْمَرُ",
+            "translation": "Baju (lelaki) warnanya merah.",
+            "more": [
+              { "arabic": "الْعِنَبُ لَوْنُهُ بُنَفْسَجِيٌّ", "translation": "Anggur warnanya ungu." },
+              { "arabic": "الْمَوْزُ لَوْنُهُ أَصْفَرُ", "translation": "Pisang warnanya kuning." },
+              { "arabic": "هَذِهِ وَرْدَةٌ حَمْرَاءُ", "translation": "Ini sekuntum bunga merah." }
+            ]
+          }
         }
       ]
     },
     {
       "type": "callout",
-      "icon": "💡",
+      "icon": "🌍",
       "text": {
         "type": "arabic",
-        "instruction": "Allah berfirman dalam Surah ar-Rum ayat 22: 'Dan antara tanda-tanda kebesaranNya ialah kejadian langit dan bumi, dan perbezaan bahasa kamu dan warna kulit kamu.' Warna yang indah di alam ini adalah tanda kebesaran Allah!",
-        "arabic": "اِرْضَ بِمَا قَسَّمَ اللَّهُ لَكَ"
+        "instruction": "Allah berfirman dalam Surah ar-Rum ayat 22 tentang kepelbagaian bahasa dan warna kulit manusia sebagai tanda kebesaran-Nya:",
+        "arabic": "وَمِنْ آيَاتِهِ خَلْقُ السَّمَاوَاتِ وَالأَرْضِ وَاخْتِلَافُ أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ",
+        "translation": "Dan antara tanda-tanda kekuasaan-Nya ialah penciptaan langit dan bumi, dan perbezaan bahasa-bahasa kamu dan warna-warna kamu.",
+        "source": "Surah ar-Rum: 22",
+        "outro": "Warna-warni manusia dan alam semuanya adalah tanda kebesaran Allah. Bersyukurlah!"
       }
     },
     {
       "type": "steps",
-      "heading": "Dialog Tanya Jawab Warna",
+      "heading": "Dialog — Bertanya tentang Warna",
       "items": [
         {
           "type": "arabic",
-          "arabic": "مَا لَوْنُ ثَوْبِكِ يَا عَزِيزَةُ؟"
+          "arabic": "مَا لَوْنُ ثَوْبِكِ يَا عَزِيزَةُ؟",
+          "translation": "Apa warna pakaian kamu, Azizah?"
         },
         {
           "type": "arabic",
-          "arabic": "لَوْنُ ثَوْبِي أَزْرَقُ"
+          "arabic": "لَوْنُ ثَوْبِي أَزْرَقُ",
+          "translation": "Warna pakaian saya biru."
         },
         {
           "type": "arabic",
-          "arabic": "مَا لَوْنُ الْجَوَّافَةِ يَا أُمِّي؟"
+          "arabic": "هَلِ الْفَرَاوْلَةُ زَرْقَاءُ؟",
+          "translation": "Adakah strawberi berwarna biru?"
         },
         {
           "type": "arabic",
-          "arabic": "لَوْنُهَا أَخْضَرُ"
+          "arabic": "لَا، بَلِ الْفَرَاوْلَةُ حَمْرَاءُ",
+          "translation": "Tidak, bahkan strawberi itu merah."
         },
         {
           "type": "arabic",
-          "arabic": "هَلِ الْفَرَاوْلَةُ زَرْقَاءُ؟"
+          "arabic": "مَا لَوْنُ الْقَلَمِ؟ لَوْنُهُ أَسْوَدُ",
+          "translation": "Apa warna pensel itu? Warnanya hitam."
         },
         {
           "type": "arabic",
-          "arabic": "لَا، بَلِ الْفَرَاوْلَةُ حَمْرَاءُ"
-        },
-        {
-          "type": "arabic",
-          "arabic": "مَا لَوْنُ الْقَلَمِ؟ لَوْنُهُ أَسْوَدُ"
-        },
-        {
-          "type": "arabic",
-          "arabic": "هَلِ الْحَلِيبُ أَبْيَضُ؟ نَعَمْ، الْحَلِيبُ أَبْيَضُ"
+          "arabic": "الأَرْنَبُ لَوْنُهُ رَمَادِيٌّ",
+          "translation": "Arnab itu warnanya kelabu."
         }
       ]
     }
   ],
   "quiz": [
     {
-      "q": "Apakah warna أَخْضَر dalam bahasa Melayu?",
-      "options": [
-        "Biru",
-        "Kuning",
-        "Hijau",
-        "Merah"
-      ],
+      "q": "Apakah warna أَصْفَرُ?",
+      "options": ["Hijau", "Biru", "Kuning", "Merah"],
       "answer": 2
     },
     {
-      "q": "Warna bagi perempuan untuk 'merah' ialah?",
-      "options": [
-        "أَحْمَر",
-        "حَمْرَاء",
-        "أَزْرَق",
-        "زَرْقَاء"
-      ],
+      "q": "الْمَوْزُ لَوْنُهُ أَصْفَرُ bermaksud?",
+      "options": ["Epal warnanya hijau", "Pisang warnanya kuning", "Anggur warnanya ungu", "Oren warnanya merah"],
       "answer": 1
     },
     {
-      "q": "الْأَرْنَبُ لَوْنُهُ رَمَادِيٌّ bermaksud?",
-      "options": [
-        "Kucing warnanya putih",
-        "Arnab warnanya kelabu",
-        "Arnab warnanya hitam",
-        "Kambing warnanya kelabu"
-      ],
-      "answer": 1
+      "q": "Apakah bentuk perempuan bagi أَزْرَقُ (biru)?",
+      "options": ["أَزْرَقَاءُ", "زُرْقَةٌ", "زَرْقَاءُ", "أَزْرَقِيَّةٌ"],
+      "answer": 2
     },
     {
-      "q": "Apakah warna الْمَوْز (pisang)?",
-      "options": [
-        "أَحْمَر (merah)",
-        "أَزْرَق (biru)",
-        "أَخْضَر (hijau)",
-        "أَصْفَر (kuning)"
-      ],
-      "answer": 3
+      "q": "Warna apakah رَمَادِيٌّ?",
+      "options": ["Coklat", "Ungu", "Kelabu", "Oren"],
+      "answer": 2
     }
   ],
   "graph": {
     "nodes": [
-      {
-        "id": "n1",
-        "label": "الأَلْوَان (Warna)",
-        "colour": "#E91E63"
-      },
-      {
-        "id": "n2",
-        "label": "مُذَكَّر (Lelaki)",
-        "colour": "#C2185B"
-      },
-      {
-        "id": "n3",
-        "label": "مُؤَنَّث (Perempuan)",
-        "colour": "#AD1457"
-      },
-      {
-        "id": "n4",
-        "label": "أَحْمَر / حَمْرَاء",
-        "colour": "#F06292"
-      },
-      {
-        "id": "n5",
-        "label": "أَزْرَق / زَرْقَاء",
-        "colour": "#42A5F5"
-      },
-      {
-        "id": "n6",
-        "label": "أَخْضَر / خَضْرَاء",
-        "colour": "#66BB6A"
-      }
+      { "id": "n1", "label": "الأَلْوَان (Warna)", "colour": "#C62828" },
+      { "id": "n2", "label": "Warna Panas", "colour": "#EF5350" },
+      { "id": "n3", "label": "Warna Sejuk", "colour": "#1976D2" },
+      { "id": "n4", "label": "Warna Neutral", "colour": "#757575" },
+      { "id": "n5", "label": "مُذَكَّر (Lelaki)", "colour": "#A5D6A7" },
+      { "id": "n6", "label": "مُؤَنَّث (Perempuan)", "colour": "#F48FB1" }
     ],
     "edges": [
-      {
-        "id": "e1",
-        "source": "n1",
-        "target": "n2",
-        "label": "ada"
-      },
-      {
-        "id": "e2",
-        "source": "n1",
-        "target": "n3",
-        "label": "ada"
-      },
-      {
-        "id": "e3",
-        "source": "n2",
-        "target": "n4",
-        "label": "contoh"
-      },
-      {
-        "id": "e4",
-        "source": "n2",
-        "target": "n5",
-        "label": "contoh"
-      },
-      {
-        "id": "e5",
-        "source": "n2",
-        "target": "n6",
-        "label": "contoh"
-      }
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "jenis" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "ada bentuk" },
+      { "id": "e5", "source": "n2", "target": "n6", "label": "ada bentuk" }
     ]
   },
   "vocab": [
-    {
-      "word": "أَحْمَر / حَمْرَاء",
-      "meaning": "merah (lelaki/perempuan)"
-    },
-    {
-      "word": "أَزْرَق / زَرْقَاء",
-      "meaning": "biru (lelaki/perempuan)"
-    },
-    {
-      "word": "أَخْضَر / خَضْرَاء",
-      "meaning": "hijau (lelaki/perempuan)"
-    },
-    {
-      "word": "أَصْفَر / صَفْرَاء",
-      "meaning": "kuning (lelaki/perempuan)"
-    },
-    {
-      "word": "رَمَادِي / رَمَادِيَّة",
-      "meaning": "kelabu (lelaki/perempuan)"
-    }
+    { "word": "أَحْمَرُ", "meaning": "merah" },
+    { "word": "أَصْفَرُ", "meaning": "kuning" },
+    { "word": "أَزْرَقُ", "meaning": "biru" },
+    { "word": "أَخْضَرُ", "meaning": "hijau" },
+    { "word": "أَبْيَضُ", "meaning": "putih" }
   ],
-  "funFact": "Dalam bahasa Arab, warna mempunyai dua bentuk — satu untuk benda lelaki dan satu untuk benda perempuan. Contohnya باب (pintu) itu lelaki, jadi kita cakap 'الباب أَحْمَر', tapi سيارة (kereta) itu perempuan, jadi 'السيارة حَمْرَاء'!"
+  "funFact": "Tahukah kamu bahawa warna 'oren' dalam bahasa Arab ialah 'burtuqali' — diambil dari perkataan 'burtuqal' yang bermaksud buah oren? Nama warnanya ikut nama buah, sama seperti bahasa Melayu guna 'warna oren'!"
 }

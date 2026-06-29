@@ -6,216 +6,171 @@
   "chapter": 1,
   "title": "Nombor 101 hingga 200",
   "emoji": "🔢",
-  "colour": "#1976D2",
+  "colour": "#1565C0",
   "estimatedMinutes": 15,
   "sections": [
     {
       "type": "intro",
-      "heading": "الأعداد والأرقام — Nombor-nombor Arab",
-      "body": "Dalam pelajaran ini kita akan belajar nombor dari 101 hingga 200 dalam bahasa Arab. Nombor-nombor ini sangat berguna untuk menyebut harga, wang simpanan dan banyak lagi. Kita mulakan dengan مائة (mi'ah) yang bermaksud seratus!"
+      "heading": "الأَعْدَادُ وَالأَرْقَامُ — Nombor 101 hingga 200",
+      "body": "Dalam pelajaran ini kita belajar mengira dari 101 hingga 200 dalam bahasa Arab. Caranya mudah: sebut 'mi'ah' (seratus), kemudian tambah nombor berikutnya dengan perkataan 'wa' (dan)."
     },
     {
       "type": "concept-cards",
       "items": [
         {
           "icon": "💯",
-          "title": "Nombor 101–109",
-          "body": "مائة وواحد (101) • مائة واثنان (102) • مائة وثلاثة (103) • مائة وأربعة (104) • مائة وخمسة (105) • مائة وستة (106) • مائة وسبعة (107) • مائة وثمانية (108) • مائة وتسعة (109). Perkataan وَ bermaksud 'dan', jadi mائة وواحد = seratus DAN satu = 101."
+          "title": "Nombor 101 — 109",
+          "body": {
+            "type": "arabic",
+            "instruction": "Seratus satu hingga seratus sembilan — guna corak مِائَةٌ وَ + nombor:",
+            "arabic": "مِائَةٌ وَوَاحِدٌ",
+            "translation": "101 — seratus satu",
+            "more": [
+              { "arabic": "مِائَةٌ وَاثْنَانِ", "translation": "102 — seratus dua" },
+              { "arabic": "مِائَةٌ وَثَلَاثَةٌ", "translation": "103 — seratus tiga" },
+              { "arabic": "مِائَةٌ وَأَرْبَعَةٌ", "translation": "104 — seratus empat" },
+              { "arabic": "مِائَةٌ وَخَمْسَةٌ", "translation": "105 — seratus lima" },
+              { "arabic": "مِائَةٌ وَسِتَّةٌ", "translation": "106 — seratus enam" },
+              { "arabic": "مِائَةٌ وَسَبْعَةٌ", "translation": "107 — seratus tujuh" },
+              { "arabic": "مِائَةٌ وَثَمَانِيَةٌ", "translation": "108 — seratus lapan" },
+              { "arabic": "مِائَةٌ وَتِسْعَةٌ", "translation": "109 — seratus sembilan" }
+            ]
+          }
         },
         {
           "icon": "🔟",
-          "title": "Nombor 110–120",
-          "body": "مائة وعشرة (110) • مائة وأحد عشر (111) • مائة واثنا عشر (112) • مائة وثلاثة عشر (113) • مائة وأربعة عشر (114) • مائة وخمسة عشر (115) • مائة وستة عشر (116) • مائة وسبعة عشر (117) • مائة وثمانية عشر (118) • مائة وتسعة عشر (119) • مائة وعشرون (120)."
+          "title": "Nombor 110 — 120",
+          "body": {
+            "type": "arabic",
+            "instruction": "Seratus sepuluh hingga seratus dua puluh:",
+            "arabic": "مِائَةٌ وَعَشَرَةٌ",
+            "translation": "110 — seratus sepuluh",
+            "more": [
+              { "arabic": "مِائَةٌ وَأَحَدَ عَشَرَ", "translation": "111 — seratus sebelas" },
+              { "arabic": "مِائَةٌ وَاثْنَا عَشَرَ", "translation": "112 — seratus dua belas" },
+              { "arabic": "مِائَةٌ وَخَمْسَةَ عَشَرَ", "translation": "115 — seratus lima belas" },
+              { "arabic": "مِائَةٌ وَعِشْرُونَ", "translation": "120 — seratus dua puluh" }
+            ]
+          }
         },
         {
-          "icon": "🔢",
-          "title": "Puluhan 130–190",
-          "body": "مائة وثلاثون (130) • مائة وأربعون (140) • مائة وخمسون (150) • مائة وستون (160) • مائة وسبعون (170) • مائة وثمانون (180) • مائة وتسعون (190). Setiap puluhan ditambah وَ dan nombor kesatuan, contoh: مائة وواحد وعشرون (121)."
+          "icon": "5️⃣",
+          "title": "Puluhan 130 hingga 190",
+          "body": {
+            "type": "arabic",
+            "instruction": "Puluhan dalam lingkungan seratus — corak sama, tambah puluhan:",
+            "arabic": "مِائَةٌ وَثَلَاثُونَ",
+            "translation": "130 — seratus tiga puluh",
+            "more": [
+              { "arabic": "مِائَةٌ وَأَرْبَعُونَ", "translation": "140 — seratus empat puluh" },
+              { "arabic": "مِائَةٌ وَخَمْسُونَ", "translation": "150 — seratus lima puluh" },
+              { "arabic": "مِائَةٌ وَسِتُّونَ", "translation": "160 — seratus enam puluh" },
+              { "arabic": "مِائَةٌ وَسَبْعُونَ", "translation": "170 — seratus tujuh puluh" },
+              { "arabic": "مِائَةٌ وَثَمَانُونَ", "translation": "180 — seratus lapan puluh" },
+              { "arabic": "مِائَةٌ وَتِسْعُونَ", "translation": "190 — seratus sembilan puluh" }
+            ]
+          }
         },
         {
           "icon": "2️⃣",
-          "title": "Nombor 200",
-          "body": "مائتان (mi'ataan) bermaksud DUA RATUS (200). Dalam bahasa Arab, apabila ada dua daripada sesuatu, kita gunakan bentuk مثنى (dua). Jadi مائة menjadi مائتان untuk 200. Ini nombor terakhir dalam pelajaran kita!"
+          "title": "Dua Ratus — Bentuk Khas",
+          "body": {
+            "type": "arabic",
+            "instruction": "Dua ratus menggunakan bentuk 'dual' (tathnia) — bukan dua kali seratus, tapi satu perkataan khas:",
+            "arabic": "مِائَتَانِ",
+            "translation": "200 — dua ratus",
+            "outro": "Ingat: 200 bukan 'مِائَةٌ وَمِائَةٌ' tetapi cukup sebut 'مِائَتَانِ' sahaja!"
+          }
         }
       ]
     },
     {
       "type": "callout",
-      "icon": "💡",
+      "icon": "💰",
       "text": {
         "type": "arabic",
-        "instruction": "Allah berfirman dalam Surah al-Baqarah ayat 261: perumpamaan orang yang membelanjakan hartanya di jalan Allah adalah seperti sebiji benih yang menumbuhkan tujuh tangkai, setiap tangkai mengandungi seratus biji.",
-        "arabic": "أَنْفِقْ مَالَكَ لِلْمُحْتَاجِيْنَ"
+        "instruction": "Allah berfirman dalam Surah al-Baqarah ayat 261 tentang ganjaran sedekah yang berlipat-ganda hingga seratus kali:",
+        "arabic": "مَثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ كَمَثَلِ حَبَّةٍ أَنبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنبُلَةٍ مِّائَةُ حَبَّةٍ",
+        "translation": "Perumpamaan orang yang membelanjakan hartanya di jalan Allah seperti sebiji benih yang tumbuh mengeluarkan tujuh tangkai, pada setiap tangkai ada seratus biji.",
+        "source": "Surah al-Baqarah: 261",
+        "outro": "Perbanyakkanlah sedekah — ganjarannya berlipat hingga 100 kali ganda!"
       }
     },
     {
       "type": "steps",
-      "heading": "Dialog & Contoh Ayat",
+      "heading": "Dialog — Menggunakan Nombor dalam Percakapan",
       "items": [
         {
           "type": "arabic",
-          "arabic": "كَمِ ادَّخَرْتَ فِي هَذَا الشَّهْرِ؟"
+          "arabic": "كَمِ اِدَّخَرْتَ فِي هَذَا الشَّهْرِ؟",
+          "translation": "Berapa kamu menabung bulan ini?"
         },
         {
           "type": "arabic",
-          "arabic": "اِدَّخَرْتُ مِائَةً وَوَاحِدًا رِنْجِيْتًا"
+          "arabic": "اِدَّخَرْتُ مِائَةً وَوَاحِدًا رِنْجِيتًا",
+          "translation": "Saya menabung seratus satu ringgit."
         },
         {
           "type": "arabic",
-          "arabic": "اُذْكُرْ ذَلِكَ الرَّقْمَ يَا أَحْمَدُ"
+          "arabic": "كَمْ سِعْرُ ثَوْبِكَ يَا فَائِزُ؟",
+          "translation": "Berapa harga baju kamu, Faiz?"
         },
         {
           "type": "arabic",
-          "arabic": "هَذَا مِائَةٌ وَعَشَرَةٌ"
+          "arabic": "سِعْرُهُ مِائَةٌ وَخَمْسَةَ عَشَرَ رِنْجِيتًا",
+          "translation": "Harganya seratus lima belas ringgit."
         },
         {
           "type": "arabic",
-          "arabic": "كَمْ سِعْرُ ثَوْبِكَ يَا فَائِزُ؟"
-        },
-        {
-          "type": "arabic",
-          "arabic": "هَذِهِ مِائَةٌ وَخَمْسَةَ عَشَرَ لِرُسُومِ مَدْرَسَتِي"
-        },
-        {
-          "type": "arabic",
-          "arabic": "سِعْرُهُ مِائَةٌ وَعِشْرُونَ رِنْجِيْتًا"
-        },
-        {
-          "type": "arabic",
-          "arabic": "صُمْ رَمَضَانَ ثَلَاثِيْنَ يَوْمًا كَامِلَةً"
+          "arabic": "أَنْفِقْ مَالَكَ لِلْمُحْتَاجِينَ",
+          "translation": "Belanjakan hartamu untuk mereka yang memerlukan."
         }
       ]
     }
   ],
   "quiz": [
     {
-      "q": "Apakah maksud مائة وواحد dalam bahasa Melayu?",
-      "options": [
-        "Seratus satu (101)",
-        "Satu ratus sepuluh (110)",
-        "Dua ratus (200)",
-        "Seratus dua (102)"
-      ],
-      "answer": 0
-    },
-    {
-      "q": "Bagaimana cara sebut nombor 115 dalam bahasa Arab?",
-      "options": [
-        "مائة وخمسون",
-        "مائة وخمسة عشر",
-        "مائة وخمسة وعشرون",
-        "مائة وعشرة"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "مائتان bermaksud?",
-      "options": [
-        "Seratus dua",
-        "Seratus dua puluh",
-        "Dua ratus",
-        "Dua ribu"
-      ],
+      "q": "Apakah maksud مِائَةٌ وَخَمْسُونَ?",
+      "options": ["105", "115", "150", "500"],
       "answer": 2
     },
     {
-      "q": "Dalam dialog, اِدَّخَرْتُ bermaksud?",
-      "options": [
-        "Saya membeli",
-        "Saya simpan",
-        "Saya bayar",
-        "Saya sedekah"
-      ],
+      "q": "Bagaimana sebut '200' dalam bahasa Arab?",
+      "options": ["مِائَةٌ وَمِائَةٌ", "مِائَتَانِ", "مِائَةٌ وَصِفْرٌ", "مِائَتَانِ وَصِفْرٌ"],
+      "answer": 1
+    },
+    {
+      "q": "مِائَةٌ وَأَحَدَ عَشَرَ bermaksud nombor berapa?",
+      "options": ["101", "110", "111", "121"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah maksud اِدَّخَرْتُ dalam dialog?",
+      "options": ["Saya membelanjakan", "Saya menabung", "Saya mengira", "Saya membeli"],
       "answer": 1
     }
   ],
   "graph": {
     "nodes": [
-      {
-        "id": "n1",
-        "label": "الأعداد (Nombor)",
-        "colour": "#1976D2"
-      },
-      {
-        "id": "n2",
-        "label": "مائة (100)",
-        "colour": "#1565C0"
-      },
-      {
-        "id": "n3",
-        "label": "مائتان (200)",
-        "colour": "#1565C0"
-      },
-      {
-        "id": "n4",
-        "label": "101-109",
-        "colour": "#42A5F5"
-      },
-      {
-        "id": "n5",
-        "label": "110-120",
-        "colour": "#42A5F5"
-      },
-      {
-        "id": "n6",
-        "label": "130-190 (puluhan)",
-        "colour": "#0D47A1"
-      }
+      { "id": "n1", "label": "الأَعْدَاد (Nombor)", "colour": "#1565C0" },
+      { "id": "n2", "label": "مِائَةٌ (100)", "colour": "#1976D2" },
+      { "id": "n3", "label": "مِائَتَانِ (200)", "colour": "#1976D2" },
+      { "id": "n4", "label": "101–109", "colour": "#64B5F6" },
+      { "id": "n5", "label": "110–190 (Puluhan)", "colour": "#64B5F6" }
     ],
     "edges": [
-      {
-        "id": "e1",
-        "source": "n1",
-        "target": "n2",
-        "label": "bermula"
-      },
-      {
-        "id": "e2",
-        "source": "n1",
-        "target": "n3",
-        "label": "berakhir"
-      },
-      {
-        "id": "e3",
-        "source": "n2",
-        "target": "n4",
-        "label": "ada"
-      },
-      {
-        "id": "e4",
-        "source": "n2",
-        "target": "n5",
-        "label": "ada"
-      },
-      {
-        "id": "e5",
-        "source": "n2",
-        "target": "n6",
-        "label": "ada"
-      }
+      { "id": "e1", "source": "n1", "target": "n2", "label": "bermula" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "berakhir" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "tambah 1–9" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "tambah puluhan" }
     ]
   },
   "vocab": [
-    {
-      "word": "مائة",
-      "meaning": "seratus (100)"
-    },
-    {
-      "word": "مائتان",
-      "meaning": "dua ratus (200)"
-    },
-    {
-      "word": "اِدَّخَرْتُ",
-      "meaning": "saya simpan (wang)"
-    },
-    {
-      "word": "رُسُوْم",
-      "meaning": "yuran"
-    },
-    {
-      "word": "اِيْصَال",
-      "meaning": "resit"
-    }
+    { "word": "مِائَةٌ", "meaning": "seratus" },
+    { "word": "مِائَتَانِ", "meaning": "dua ratus" },
+    { "word": "اِدَّخَرَ", "meaning": "menabung" },
+    { "word": "سِعْرٌ", "meaning": "harga" },
+    { "word": "رِنْجِيتٌ", "meaning": "ringgit" }
   ],
-  "funFact": "Dalam bahasa Arab, nombor 200 disebut مائتان (mi'ataan) — bukan مائة وماية! Ini sebab bahasa Arab ada bentuk khas untuk dua benda yang dipanggil 'muthanna'. Bestkan?"
+  "funFact": "Tahukah kamu bahawa dalam bahasa Arab, nombor 11 hingga 19 disebut dengan cara terbalik berbanding bahasa Melayu? Kita kata 'sebelas' (satu + belas), tapi Arab kata 'ahada ashar' — maknanya sama: satu dan sepuluh. Hebat kan?"
 }
