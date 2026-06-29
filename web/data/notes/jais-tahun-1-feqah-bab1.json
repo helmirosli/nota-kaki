@@ -1,0 +1,215 @@
+{
+  "id": "jais-tahun-1-feqah-bab1",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "feqah",
+  "chapter": 1,
+  "title": "Rukun Islam — Lima Tiang Agama",
+  "emoji": "🕌",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Lima Tiang yang Menyokong Islam",
+      "body": {
+        "type": "arabic",
+        "instruction": "Islam dibina di atas lima perkara utama yang dinamakan Rukun Islam. Rukun bermaksud 'tiang' atau 'asas'. Nabi ﷺ bersabda:",
+        "arabic": "بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ شَهَادَةِ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ وَإِقَامِ الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ وَالْحَجِّ وَصَوْمِ رَمَضَانَ",
+        "translation": "Islam dibina di atas lima perkara: syahadah bahawa tiada Tuhan selain Allah dan Muhammad itu Rasul Allah, mendirikan solat, menunaikan zakat, haji, dan berpuasa di bulan Ramadan.",
+        "source": "Riwayat Bukhari & Muslim",
+        "outro": "Jom hafal dan fahami lima tiang utama ini!"
+      }
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "☝️",
+          "title": "Rukun 1 & 2: Syahadah dan Solat",
+          "body": {
+            "type": "arabic",
+            "instruction": "Syahadah: Mengucap",
+            "arabic": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللهِ",
+            "translation": "Aku bersaksi tiada tuhan melainkan Allah, dan aku bersaksi Muhammad itu Rasul Allah.' Solat: Mendirikan solat 5 waktu sehari semalam — Subuh, Zuhur, Asar, Maghrib, Isyak."
+          }
+        },
+        {
+          "icon": "💰",
+          "title": "Rukun 3: Zakat",
+          "body": {
+            "type": "list",
+            "intro": "Zakat bermaksud membersihkan harta dengan mengeluarkan sebahagian kecil harta kepada yang berhak menerimanya. Ada dua jenis",
+            "items": [
+              "Zakat Fitrah — dikeluarkan setiap tahun sebelum solat Hari Raya Aidilfitri",
+              "Zakat Harta — dikeluarkan apabila harta mencapai nisab (jumlah minimum)"
+            ]
+          }
+        },
+        {
+          "icon": "🌙",
+          "title": "Rukun 4: Puasa",
+          "body": "Berpuasa pada bulan Ramadan adalah wajib bagi setiap Muslim yang sudah baligh, sihat, dan tidak dalam perjalanan. Puasa bermaksud menahan diri dari makan, minum, dan perkara-perkara yang membatalkan puasa dari terbit fajar hingga terbenam matahari."
+        },
+        {
+          "icon": "🕋",
+          "title": "Rukun 5: Haji",
+          "body": "Menunaikan haji ke Makkah sekali seumur hidup — bagi yang MAMPU dari segi kewangan dan kesihatan. Haji dilakukan pada bulan Zulhijjah dengan melakukan beberapa amalan: ihram, tawaf, sa'i, wukuf di Arafah, dan lain-lain. Haji menyatukan umat Islam dari seluruh dunia!"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadis Nabi ﷺ:",
+        "arabic": "بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ شَهَادَةِ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ وَإِقَامِ الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ وَحَجِّ الْبَيْتِ وَصَوْمِ رَمَضَانَ",
+        "translation": "Islam dibina di atas lima perkara: Syahadah bahawa tiada tuhan melainkan Allah dan Muhammad itu Rasulullah, mendirikan solat, menunaikan zakat, berpuasa di bulan Ramadan, dan menunaikan haji ke Baitullah bagi yang mampu.",
+        "source": "Hadis Riwayat Bukhari & Muslim"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "5 Rukun Islam — Hafal dengan Jari!",
+      "items": [
+        "Jari Pertama (Telunjuk): SYAHADAH — Mengucap dua kalimah syahadah",
+        "Jari Kedua: SOLAT — Sembahyang 5 waktu sehari semalam",
+        "Jari Ketiga: ZAKAT — Mengeluarkan zakat fitrah dan zakat harta",
+        "Jari Keempat: PUASA — Berpuasa sebulan penuh di bulan Ramadan",
+        "Jari Kelima: HAJI — Pergi ke Makkah sekali seumur hidup bagi yang mampu"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa bilangan Rukun Islam?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah Rukun Islam yang PERTAMA?",
+      "options": [
+        "Solat",
+        "Syahadah",
+        "Zakat",
+        "Puasa"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Puasa wajib dilakukan pada bulan apakah?",
+      "options": [
+        "Syawal",
+        "Zulhijjah",
+        "Ramadan",
+        "Muharram"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Siapakah yang WAJIB menunaikan Haji?",
+      "options": [
+        "Semua Muslim tanpa syarat",
+        "Muslim yang sudah tua sahaja",
+        "Muslim yang mampu dari segi kewangan dan kesihatan",
+        "Hanya lelaki sahaja"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "5 Rukun Islam",
+        "colour": "#9C27B0"
+      },
+      {
+        "id": "n2",
+        "label": "1. Syahadah",
+        "colour": "#6A1B9A"
+      },
+      {
+        "id": "n3",
+        "label": "2. Solat (5 waktu)",
+        "colour": "#6A1B9A"
+      },
+      {
+        "id": "n4",
+        "label": "3. Zakat",
+        "colour": "#E1BEE7"
+      },
+      {
+        "id": "n5",
+        "label": "4. Puasa (Ramadan)",
+        "colour": "#6A1B9A"
+      },
+      {
+        "id": "n6",
+        "label": "5. Haji (jika mampu)",
+        "colour": "#4A148C"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "rukun 1"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "rukun 2"
+      },
+      {
+        "id": "e3",
+        "source": "n1",
+        "target": "n4",
+        "label": "rukun 3"
+      },
+      {
+        "id": "e4",
+        "source": "n1",
+        "target": "n5",
+        "label": "rukun 4"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n6",
+        "label": "rukun 5"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "rukun",
+      "meaning": "perkara yang wajib ada dan jika ditinggalkan merosakkan sesuatu amalan"
+    },
+    {
+      "word": "syahadah",
+      "meaning": "ikrar atau pengakuan bahawa Allah itu Tuhan dan Muhammad itu Rasul-Nya"
+    },
+    {
+      "word": "zakat",
+      "meaning": "harta yang wajib dikeluarkan oleh Muslim yang memenuhi syarat"
+    },
+    {
+      "word": "nisab",
+      "meaning": "had minimum harta yang menentukan sama ada wajib mengeluarkan zakat"
+    },
+    {
+      "word": "wukuf",
+      "meaning": "berdiam diri di Padang Arafah — amalan utama dalam ibadah Haji"
+    }
+  ],
+  "funFact": "Lebih 2 juta orang Muslim dari seluruh dunia berkumpul di Makkah setiap tahun untuk menunaikan haji! Ini adalah perhimpunan manusia terbesar di dunia. Semuanya memakai pakaian ihram yang sama — putih untuk lelaki — menunjukkan bahawa di sisi Allah, semua manusia adalah sama!"
+}

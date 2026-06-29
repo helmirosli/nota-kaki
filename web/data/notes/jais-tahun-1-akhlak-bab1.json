@@ -1,0 +1,237 @@
+{
+  "id": "jais-tahun-1-akhlak-bab1",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "akhlak",
+  "chapter": 1,
+  "title": "Adab dan Fadhilah Berdoa",
+  "emoji": "🤲",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Doa — Senjata Orang Beriman!",
+      "body": "Tahukah kamu bahawa doa adalah senjata orang yang beriman kepada Allah? Rasulullah ﷺ bersabda bahawa doa adalah ibadah! Allah sangat suka bila kita berdoa kepada-Nya. Jangan malu berdoa — Allah sentiasa mendengar doa kita."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🤲",
+          "title": "Apa Itu Doa?",
+          "body": {
+            "type": "arabic",
+            "instruction": "Doa bermaksud memohon atau meminta sesuatu kepada Allah SWT. Rasulullah ﷺ bersabda:",
+            "arabic": "اَلدُّعَاءُ هُوَ الْعِبَادَةُ",
+            "translation": "Doa itu adalah ibadah.",
+            "source": "Hadis Riwayat Tirmizi",
+            "outro": "Siapa yang tidak berdoa kepada Allah, Allah akan marah kepadanya. Jadi, sentiasa berdoa!"
+          }
+        },
+        {
+          "icon": "📐",
+          "title": "Adab Berdoa — Cara yang Betul",
+          "body": {
+            "type": "list",
+            "intro": "Adab berdoa:",
+            "items": [
+              "Menghadap kiblat (arah Kaabah)",
+              "Dalam keadaan berwudhu jika boleh",
+              "Angkat kedua belah tangan setinggi paras bahu",
+              "Mulakan dengan memuji Allah (حمد) dan berselawat ke atas Nabi Muhammad ﷺ"
+            ]
+          }
+        },
+        {
+          "icon": "💚",
+          "title": "Yakin Allah Akan Makbulkan Doa",
+          "body": {
+            "type": "arabic",
+            "instruction": "Berdoalah dengan penuh keyakinan bahawa Allah AKAN makbulkan doa kita. Allah berfirman:",
+            "arabic": "وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ",
+            "translation": "Dan Tuhan kamu berfirman: Berdoalah kepada-Ku, nescaya Aku perkenankan doa kamu.",
+            "source": "Surah Ghafir: 60",
+            "outro": "Allah tidak pernah mensia-siakan doa orang yang ikhlas!"
+          }
+        },
+        {
+          "icon": "⏰",
+          "title": "Waktu-Waktu Mustajab Berdoa",
+          "body": {
+            "type": "list",
+            "intro": "Ada waktu-waktu yang doa lebih mudah dimakbulkan:",
+            "items": [
+              "Sepertiga malam terakhir",
+              "Selepas solat fardhu",
+              "Antara azan dan iqamat",
+              "Ketika hujan turun",
+              "Hari Jumaat"
+            ],
+            "outro": "Manfaatkan waktu-waktu istimewa ini! 🌟"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Doa Penting",
+        "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+        "source": "Surah al-Baqarah: 201"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Berdoa yang Betul — Ikut Langkah Ini!",
+      "items": [
+        "Berwudhu dahulu jika boleh, duduk menghadap kiblat dengan tenang",
+        "Angkat kedua belah tangan setinggi bahu, tapak tangan menghadap ke atas",
+        {
+          "type": "arabic",
+          "instruction": "Mulakan dengan Bismillah dan memuji Allah",
+          "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Berselawat ke atas Nabi",
+          "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ"
+        },
+        "Sampaikan hajat dan permohonan dengan ikhlas dan penuh yakin. Akhiri dengan Amin!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Menurut Rasulullah ﷺ, doa adalah apa?",
+      "options": [
+        "Permainan",
+        "Ibadah",
+        "Pelajaran",
+        "Amalan sunah sahaja"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang perlu dilakukan PERTAMA SEKALI sebelum berdoa?",
+      "options": [
+        "Makan dahulu",
+        "Memuji Allah dan berselawat",
+        "Tidur",
+        "Bermain"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Ke arah manakah kita menghadap ketika berdoa?",
+      "options": [
+        "Timur",
+        "Barat",
+        "Kiblat (arah Kaabah)",
+        "Mana-mana sahaja"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang berlaku jika kita tidak berdoa kepada Allah?",
+      "options": [
+        "Allah gembira",
+        "Allah diam sahaja",
+        "Allah marah",
+        "Tidak ada apa-apa"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Doa",
+        "colour": "#4CAF50"
+      },
+      {
+        "id": "n2",
+        "label": "Adab Berdoa",
+        "colour": "#2E7D32"
+      },
+      {
+        "id": "n3",
+        "label": "Fadhilah Berdoa",
+        "colour": "#C8E6C9"
+      },
+      {
+        "id": "n4",
+        "label": "Hadap kiblat, wudhu, angkat tangan",
+        "colour": "#2E7D32"
+      },
+      {
+        "id": "n5",
+        "label": "Doa adalah ibadah",
+        "colour": "#C8E6C9"
+      },
+      {
+        "id": "n6",
+        "label": "Allah suka orang yang berdoa",
+        "colour": "#1B5E20"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "ada"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "ada"
+      },
+      {
+        "id": "e3",
+        "source": "n2",
+        "target": "n4",
+        "label": "contoh"
+      },
+      {
+        "id": "e4",
+        "source": "n3",
+        "target": "n5",
+        "label": "faedah"
+      },
+      {
+        "id": "e5",
+        "source": "n3",
+        "target": "n6",
+        "label": "faedah"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "doa",
+      "meaning": "memohon atau meminta sesuatu kepada Allah SWT"
+    },
+    {
+      "word": "fadhilah",
+      "meaning": "kelebihan atau keistimewaan sesuatu amalan"
+    },
+    {
+      "word": "makbul",
+      "meaning": "diterima dan ditunaikan oleh Allah"
+    },
+    {
+      "word": "kiblat",
+      "meaning": "arah menghadap Kaabah di Makkah ketika solat atau berdoa"
+    },
+    {
+      "word": "ikhlas",
+      "meaning": "melakukan sesuatu semata-mata kerana Allah, bukan untuk dipuji"
+    }
+  ],
+  "funFact": "Nabi Ibrahim a.s. digelar 'Bapa Para Nabi' kerana beliau sangat banyak berdoa kepada Allah. Salah satu doa beliau yang terkenal ialah doa untuk anak cucunya agar menjadi orang yang mendirikan solat. Subhanallah, doa itu masih diamalkan jutaan umat Islam sehingga hari ini!"
+}

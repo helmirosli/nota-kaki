@@ -1,0 +1,218 @@
+{
+  "id": "jais-tahun-1-hafazan-bab5",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "hafazan",
+  "chapter": 5,
+  "title": "Surah al-Asr — Nilai Masa",
+  "emoji": "⏳",
+  "colour": "#E91E63",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Surah al-Asr — Panduan Hidup Muslim ⏳",
+      "body": "Surah al-Asr adalah surah ke-103 dalam al-Quran. Ia hanya ada 3 ayat, tapi Imam al-Syafi'i berkata: 'Seandainya manusia merenungkan surah ini sahaja, sudah cukup menjadi panduan hidup!' Mari hafal dan fahami surah yang luar biasa ini."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Teks Surah al-Asr (Arab)",
+          "body": {
+            "type": "arabic",
+            "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ ۝ وَالْعَصْرِ ۝ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ ۝ إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ ۝"
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Transliterasi + Terjemahan",
+          "body": {
+            "type": "list",
+            "items": [
+              "Wal-'asr = Demi masa!",
+              "Innal-insana lafi khusr = Sesungguhnya manusia benar-benar dalam kerugian",
+              "Illal-lazina amanu wa 'amilus-salihat wa tawasau bil-haqqi wa tawasau bis-sabr = Kecuali orang-orang yang beriman dan beramal soleh, dan saling berpesan dengan kebenaran dan kesabaran"
+            ]
+          }
+        },
+        {
+          "icon": "🔑",
+          "title": "4 Kunci Jadi Muslim Berjaya",
+          "body": {
+            "type": "list",
+            "intro": "Ayat 3 ada 4 syarat selamat dari kerugian:",
+            "items": [
+              "آمَنُوا — BERIMAN kepada Allah dan semua rukun iman",
+              "عَمِلُوا الصَّالِحَات — BERAMAL SOLEH: solat, puasa, zakat, berbuat baik",
+              "تَوَاصَوْا بِالْحَق — SALING BERPESAN tentang kebenaran — ajak rakan ke arah kebaikan",
+              "تَوَاصَوْا بِالصَّبْر — SALING BERPESAN tentang KESABARAN"
+            ]
+          }
+        },
+        {
+          "icon": "⏰",
+          "title": "Mengapa Allah Sumpah Demi Masa?",
+          "body": {
+            "type": "list",
+            "intro": "Allah bersumpah demi MASA kerana:",
+            "items": [
+              "Masa adalah nikmat paling berharga yang Allah bagi — lebih berharga dari harta",
+              "Masa yang berlalu tidak akan kembali — setiap saat adalah peluang yang tidak boleh diulang",
+              "Manusia sering lalai dan membuang masa — Allah bersumpah untuk mengejutkan kita",
+              "Masa adalah amanah — kita akan ditanya bagaimana kita gunakan masa di dunia"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": "IMAM AL-SYAFI'I berkata: 'Seandainya Allah tidak menurunkan hujah kepada makhluk-Nya selain Surah al-Asr ini, nescaya ia sudah mencukupi mereka.' — Ini surah yang sangat padat dengan panduan hidup! Dua sahabat Nabi tidak akan berpisah sebelum salah seorang membacakan Surah al-Asr kepada yang lain sebagai pengingat tentang masa."
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Urus Masa seperti Muslim Berjaya 📅",
+      "items": [
+        "Bangun awal — solat Subuh tepat waktu, jangan tidur balik!",
+        "Ada jadual harian — tentukan masa belajar, bermain, dan ibadah",
+        "Gunakan masa lapang untuk baca al-Quran, zikir atau buat kebaikan",
+        "Jangan buang masa dengan benda sia-sia — masa yang berlalu tak akan kembali",
+        "Sebelum tidur, tanya diri: 'Hari ini aku dah buat apa yang baik?'"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Surah al-Asr ada berapa ayat?",
+      "options": [
+        "2 ayat",
+        "3 ayat",
+        "4 ayat",
+        "5 ayat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Menurut Surah al-Asr, manusia yang TIDAK rugi mesti ada 4 sifat. Yang mana BUKAN dari 4 sifat tersebut?",
+      "options": [
+        "Beriman",
+        "Beramal soleh",
+        "Kaya dan berjaya",
+        "Saling berpesan dengan kebenaran"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "وَالْعَصْرِ bermaksud...",
+      "options": [
+        "Demi manusia",
+        "Demi iman",
+        "Demi masa",
+        "Demi al-Quran"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Siapakah ulama yang berkata Surah al-Asr sahaja sudah cukup jadi panduan hidup?",
+      "options": [
+        "Imam Malik",
+        "Imam Ahmad",
+        "Imam al-Syafi'i",
+        "Imam Abu Hanifah"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Surah al-Asr",
+        "colour": "#E91E63"
+      },
+      {
+        "id": "n2",
+        "label": "آمَنُوا (Beriman)",
+        "colour": "#880E4F"
+      },
+      {
+        "id": "n3",
+        "label": "عَمِلُوا الصَّالِح",
+        "colour": "#F48FB1"
+      },
+      {
+        "id": "n4",
+        "label": "تَوَاصَوْا بِالْحَق",
+        "colour": "#880E4F"
+      },
+      {
+        "id": "n5",
+        "label": "تَوَاصَوْا بِالصَّبْر",
+        "colour": "#F48FB1"
+      },
+      {
+        "id": "n6",
+        "label": "Tidak Rugi!",
+        "colour": "#AD1457"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n2",
+        "target": "n6",
+        "label": "syarat 1"
+      },
+      {
+        "id": "e2",
+        "source": "n3",
+        "target": "n6",
+        "label": "syarat 2"
+      },
+      {
+        "id": "e3",
+        "source": "n4",
+        "target": "n6",
+        "label": "syarat 3"
+      },
+      {
+        "id": "e4",
+        "source": "n5",
+        "target": "n6",
+        "label": "syarat 4"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n2",
+        "label": "ajar"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "الْعَصْر",
+      "meaning": "masa / waktu Asar"
+    },
+    {
+      "word": "خُسْر",
+      "meaning": "kerugian"
+    },
+    {
+      "word": "آمَنُوا",
+      "meaning": "orang-orang yang beriman"
+    },
+    {
+      "word": "تَوَاصَوْا",
+      "meaning": "saling berpesan"
+    },
+    {
+      "word": "الصَّبْر",
+      "meaning": "kesabaran"
+    }
+  ],
+  "funFact": "Surah al-Asr hanya mempunyai 14 perkataan dalam 3 ayat — tapi ia mengandungi formula kejayaan lengkap untuk kehidupan manusia! Iman + Amal soleh + Nasihat kebenaran + Nasihat kesabaran = Insan sempurna. Ini adalah 'formula hidup' Muslim yang Allah sendiri ajar dalam al-Quran!"
+}

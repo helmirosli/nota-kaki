@@ -1,0 +1,176 @@
+{
+  "id": "jais-tahun-2-tauhid-bab6",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "tauhid",
+  "chapter": 6,
+  "title": "Beriman kepada Malaikat Allah",
+  "emoji": "👼",
+  "colour": "#FFB300",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Malaikat — Makhluk Mulia Ciptaan Allah",
+      "body": "Beriman kepada malaikat adalah RUKUN IMAN yang ke-2! Malaikat dicipta dari cahaya (nur), sentiasa taat kepada Allah, tidak pernah derhaka, tidak makan dan tidak tidur. Kita wajib percaya kepada SEMUA malaikat, tapi WAJIB kenal 10 malaikat yang utama!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "✨",
+          "title": "Sifat-sifat Malaikat",
+          "body": {
+            "type": "list",
+            "intro": "7 sifat malaikat yang wajib diketahui:",
+            "items": [
+              "Dicipta dari NUR (cahaya) — berbeza dari manusia (tanah) dan jin (api)",
+              "Tidak berjantina — bukan lelaki bukan perempuan",
+              "Tidak makan dan tidak minum",
+              "Tidak tidur — sentiasa berzikir kepada Allah",
+              "Sentiasa taat kepada Allah — tidak pernah derhaka walau sekali",
+              "Boleh bertukar rupa mengikut kehendak Allah",
+              "Jumlahnya sangat banyak — hanya Allah yang tahu berapa"
+            ]
+          }
+        },
+        {
+          "icon": "📋",
+          "title": "10 Malaikat Wajib Diketahui",
+          "body": {
+            "type": "arabic",
+            "instruction": "10 malaikat yang WAJIB diketahui beserta tugas mereka:",
+            "arabic": "جِبْرِيلُ",
+            "translation": "Jibril — Menyampaikan wahyu kepada Nabi",
+            "more": [
+              { "arabic": "مِيكَائِيلُ", "translation": "Mikail — Menurunkan hujan dan rezeki" },
+              { "arabic": "إِسْرَافِيلُ", "translation": "Israfil — Meniup sangkakala pada hari kiamat" },
+              { "arabic": "عِزْرَائِيلُ", "translation": "Izrail — Mencabut nyawa (malaikat maut)" },
+              { "arabic": "مُنْكَرٌ وَنَكِيرٌ", "translation": "Munkar & Nakir — Menyoal dalam kubur" },
+              { "arabic": "رَقِيبٌ وَعَتِيدٌ", "translation": "Raqib & Atid — Mencatat amalan baik & buruk" },
+              { "arabic": "مَالِكٌ", "translation": "Malik — Menjaga neraka" },
+              { "arabic": "رِضْوَانُ", "translation": "Ridhwan — Menjaga syurga" }
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Malaikat Raqib dan Atid — Selalu Bersama Kita!",
+          "body": {
+            "type": "arabic",
+            "instruction": "Dua malaikat pencatat amalan kita sentiasa ada di kiri dan kanan. Tiada satu kata pun yang terlepas dari catatan mereka:",
+            "arabic": "مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ",
+            "translation": "Tiada suatu perkataan yang diucapkan melainkan ada di sisinya malaikat pengawas yang siap sedia (mencatatnya).",
+            "source": "Surah Qaf: 18",
+            "outro": "رَقِيب (Raqib) = sebelah KANAN — catat amalan BAIK. عَتِيد (Atid) = sebelah KIRI — catat amalan BURUK."
+          }
+        },
+        {
+          "icon": "🎺",
+          "title": "Jibril — Malaikat Paling Utama",
+          "body": {
+            "type": "arabic",
+            "instruction": "Jibril adalah malaikat paling utama dan mulia. Tugasnya menyampaikan wahyu dari Allah kepada para Nabi. Jibril juga dikenali dengan nama-nama mulia:",
+            "arabic": "جِبْرِيلُ",
+            "translation": "Jibril — Malaikat pembawa wahyu",
+            "more": [
+              { "arabic": "الرُّوحُ الْأَمِينُ", "translation": "Ar-Ruhul Amin — Ruh yang dipercayai" },
+              { "arabic": "رُوحُ الْقُدُسِ", "translation": "Ruhul Qudus — Ruh yang suci" }
+            ],
+            "outro": "Nabi ﷺ pernah melihat Jibril dalam rupa asalnya yang mempunyai 600 sayap, hingga memenuhi ufuk langit!"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Beriman kepada malaikat adalah rukun iman yang ke-2 — wajib bagi setiap Muslim:",
+        "arabic": "كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ",
+        "translation": "Semuanya beriman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya dan rasul-rasul-Nya.",
+        "source": "Surah al-Baqarah: 285",
+        "outro": "Iman kepada malaikat bermaksud: percaya mereka wujud, tahu nama-nama yang wajib, dan tahu tugas-tugas mereka."
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Hafal 10 Malaikat dengan Mudah",
+      "items": [
+        "Jibril (Wahyu) → Mikail (Hujan/Rezeki) → Israfil (Sangkakala) → Izrail (Cabut Nyawa)",
+        "Munkar + Nakir (Soal dalam Kubur) — dua malaikat serentak",
+        "Raqib (Kanan = Baik) + Atid (Kiri = Buruk) — malaikat pencatat amalan kita",
+        "Malik (Neraka) ↔ Ridhwan (Syurga) — dua malaikat penjaga akhirat",
+        "Cara ingat: 4 malaikat pertama (J-M-I-I), 2 dalam kubur (M-N), 2 pencatat (R-A), 2 akhirat (M-R)"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Malaikat Jibril bertugas...",
+      "options": [
+        "Menjaga neraka",
+        "Menyampaikan wahyu Allah",
+        "Mencabut nyawa",
+        "Menurunkan hujan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Malaikat manakah yang mencatat amalan baik kita?",
+      "options": [
+        "Atid (sebelah kiri)",
+        "Nakir",
+        "Raqib (sebelah kanan)",
+        "Malik"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Malaikat dicipta dari...",
+      "options": [
+        "Tanah",
+        "Api",
+        "Cahaya (Nur)",
+        "Air"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Beriman kepada malaikat adalah Rukun Iman yang ke...",
+      "options": [
+        "Pertama",
+        "Kedua",
+        "Ketiga",
+        "Keempat"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "10 Malaikat Utama", "colour": "#FFB300" },
+      { "id": "n2", "label": "جِبْرِيل Wahyu", "colour": "#F57F17" },
+      { "id": "n3", "label": "مِيكَائِيل Rezeki", "colour": "#FFF9C4" },
+      { "id": "n4", "label": "رَقِيب+عَتِيد Catat", "colour": "#F57F17" },
+      { "id": "n5", "label": "مَالِك+رِضْوَان", "colour": "#FFF9C4" },
+      { "id": "n6", "label": "Rukun Iman ke-2", "colour": "#BF360C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "paling utama" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "tugas dunia" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "jaga manusia" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "jaga akhirat" },
+      { "id": "e5", "source": "n6", "target": "n1", "label": "wajib iman" }
+    ]
+  },
+  "vocab": [
+    { "word": "مَلَائِكَة", "meaning": "malaikat (jamak dari مَلَك)" },
+    { "word": "جِبْرِيل", "meaning": "Jibril — malaikat pembawa wahyu" },
+    { "word": "عِزْرَائِيل", "meaning": "Izrail — malaikat maut" },
+    { "word": "رَقِيب", "meaning": "Raqib — malaikat catat amalan baik (kanan)" },
+    { "word": "نُور", "meaning": "cahaya/nur — bahan penciptaan malaikat" }
+  ],
+  "funFact": "Malaikat Jibril pernah menampakkan dirinya dalam rupa manusia kepada Nabi ﷺ dan para sahabat. Dalam satu hadith terkenal (Hadith Jibril), Jibril datang sebagai orang asing bertanya tentang Islam, Iman, dan Ihsan — kemudian Nabi ﷺ beritahu sahabat bahawa orang itu adalah Jibril yang datang mengajar mereka tentang agama!"
+}

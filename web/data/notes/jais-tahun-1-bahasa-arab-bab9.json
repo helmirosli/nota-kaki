@@ -1,0 +1,225 @@
+{
+  "id": "jais-tahun-1-bahasa-arab-bab9",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "bahasa-arab",
+  "chapter": 9,
+  "title": "Haiwan Jinak dan Haiwan Liar",
+  "emoji": "🐾",
+  "colour": "#2196F3",
+  "estimatedMinutes": 13,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Kemahiran Pelajaran Ini 📚",
+      "body": "Selepas belajar Dars ini, kamu boleh: MENDENGAR nama haiwan dalam Bahasa Arab, MENYEBUT nama haiwan dengan betul, MEMBACA sifat-sifat haiwan, MENULIS nama haiwan dengan tepat, dan MEMBEZAKAN haiwan jinak (لَطِيفَة) dengan haiwan buas (مُفْتَرِسَة)!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🐔",
+          "title": "Haiwan Jinak — حَيَوَانَات لَطِيفَة",
+          "body": {
+            "type": "list",
+            "intro": "Haiwan ternakan (jinak) yang kita boleh pelihara:",
+            "items": [
+              "بَطّ — itik",
+              "دِيك — ayam jantan",
+              "دَجَاجَة — ayam betina",
+              "سُلَحْفَاة — kura-kura",
+              "حِصَان — kuda",
+              "أَرْنَب — arnab",
+              "بَقَر — lembu",
+              "جَامُوس — kerbau",
+              "غَنَم — kambing"
+            ]
+          }
+        },
+        {
+          "icon": "🦁",
+          "title": "Haiwan Buas — حَيَوَانَات مُفْتَرِسَة",
+          "body": {
+            "type": "list",
+            "intro": "Haiwan liar (buas) yang tinggal di hutan:",
+            "items": [
+              "قِطّ — kucing liar",
+              "كَلْب — anjing",
+              "هَمْسْتَر — hamster",
+              "نَمِر — harimau bintang",
+              "ذِئْب — serigala",
+              "تِمْسَاح — buaya",
+              "أَسَد — singa",
+              "فِيل — gajah",
+              "دُبّ — beruang",
+              "قِرْد — monyet",
+              "وَحِيدُ الْقَرْن — badak bercula",
+              "ضَبُع — hyena",
+              "ثُعْبَان — ular",
+              "فَهْد — cheetah",
+              "ثَوْر — lembu jantan besar"
+            ]
+          }
+        },
+        {
+          "icon": "🎨",
+          "title": "Sifat-sifat Haiwan",
+          "body": {
+            "type": "list",
+            "intro": "Sifat (ciri-ciri) setiap haiwan:",
+            "items": [
+              "الْغَنَمُ أَسْوَد — Kambing hitam",
+              "الْحِصَانُ أَسْمَر — Kuda sawo matang",
+              "الْأَرْنَبُ أَبْيَض — Arnab putih",
+              "السُّلَحْفَاةُ بَطِيئَة — Kura-kura perlahan",
+              "الْهَمْسْتَرُ صَغِير — Hamster kecil",
+              "الْبَطُّ جَمِيل — Itik cantik",
+              "الثُّعْبَانُ طَوِيل — Ular panjang",
+              "الْفِيلُ كَبِير — Gajah besar",
+              "الْقِطُّ سَمِين — Kucing gemuk",
+              "الْأَسَدُ قَوِيّ — Singa kuat"
+            ]
+          }
+        },
+        {
+          "icon": "🔢",
+          "title": "Nombor Arab 80 hingga 100",
+          "body": {
+            "type": "list",
+            "intro": "Nombor 80-100 untuk sempurnakan hafalan:",
+            "items": [
+              "٨٠ — ثَمَانُون (lapan puluh)",
+              "٨١ — وَاحِدٌ وَثَمَانُون (lapan puluh satu)",
+              "٨٥ — خَمْسَةٌ وَثَمَانُون (lapan puluh lima)",
+              "٩٠ — تِسْعُون (sembilan puluh)",
+              "٩١ — وَاحِدٌ وَتِسْعُون (sembilan puluh satu)",
+              "٩٥ — خَمْسَةٌ وَتِسْعُون (sembilan puluh lima)",
+              "٩٩ — تِسْعَةٌ وَتِسْعُون (sembilan puluh sembilan)",
+              "١٠٠ — مِائَة (seratus)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah SWT berfirman:",
+        "arabic": "وَمِنَ الْأَنْعَامِ حَمُولَةً وَفَرْشًا كُلُوا مِمَّا رَزَقَكُمُ اللهُ وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ",
+        "translation": "Dan di antara binatang ternakan itu ada yang dijadikan untuk pengangkutan dan ada untuk sembelihan. Makanlah dari apa yang telah dikurniakan Allah kepada kamu, dan janganlah kamu ikuti jejak syaitan. Sesungguhnya syaitan itu musuh kamu yang nyata.",
+        "source": "Surah al-Anam: 142",
+        "outro": "Allah ciptakan haiwan untuk memberi manfaat kepada kita — makan yang halal dan sayangilah haiwan!",
+        "more": [
+          {
+            "instruction": "Ayat Latihan — Sayangi Haiwan:",
+            "arabic": "اِرْحَمِ الْحَيَوَانَات",
+            "translation": "Kasihanilah haiwan-haiwan"
+          },
+          {
+            "instruction": "Ayat Latihan — Makan Halal:",
+            "arabic": "كُلْ حَلَالًا طَيِّبًا",
+            "translation": "Makanlah yang halal lagi baik"
+          }
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Dialog — Tentang Haiwan 🗣️",
+      "items": [
+        {
+          "type": "arabic",
+          "instruction": "Tanya nama haiwan:",
+          "arabic": "مَا هَذَا الْحَيَوَانُ؟ ← هَذَا أَسَدٌ",
+          "translation": "Apakah haiwan ini? ← Ini singa"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tanya warna arnab:",
+          "arabic": "مَا لَوْنُ الْأَرْنَبِ؟ ← الْأَرْنَبُ أَبْيَض",
+          "translation": "Apa warna arnab? ← Arnab putih"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tanya tentang saiz gajah:",
+          "arabic": "هَلِ الْفِيلُ كَبِيرٌ؟ ← نَعَمْ، الْفِيلُ كَبِيرٌ جِدًّا",
+          "translation": "Adakah gajah besar? ← Ya, gajah sangat besar"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tanya haiwan paling perlahan:",
+          "arabic": "أَيُّ الْحَيَوَانَاتِ أَبْطَأُ؟ ← السُّلَحْفَاةُ أَبْطَأُ الْحَيَوَانَات",
+          "translation": "Haiwan mana yang paling perlahan? ← Kura-kura adalah haiwan paling perlahan"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tanya tentang ular:",
+          "arabic": "هَلِ الثُّعْبَانُ خَطِيرٌ؟ ← نَعَمْ، بَعْضُ الثَّعَابِينِ خَطِيرَة",
+          "translation": "Adakah ular berbahaya? ← Ya, sebahagian ular berbahaya"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apa maksud الْأَسَدُ قَوِيّ?",
+      "options": ["Singa besar", "Singa laju", "Singa kuat", "Singa garang"],
+      "answer": 2
+    },
+    {
+      "q": "Haiwan mana yang bersifat بَطِيئَة (perlahan) menurut buku?",
+      "options": ["حِصَان (kuda)", "فِيل (gajah)", "سُلَحْفَاة (kura-kura)", "أَرْنَب (arnab)"],
+      "answer": 2
+    },
+    {
+      "q": "Apa maksud اِرْحَمِ الْحَيَوَانَات?",
+      "options": [
+        "Takutlah kepada haiwan",
+        "Kasihanilah haiwan",
+        "Larilah dari haiwan",
+        "Makanlah haiwan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Nombor 99 dalam Bahasa Arab ialah...",
+      "options": [
+        "تِسْعَةٌ وَثَمَانُون",
+        "تِسْعَةٌ وَسَبْعُون",
+        "تِسْعَةٌ وَتِسْعُون",
+        "ثَمَانِيَةٌ وَتِسْعُون"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "حَيَوَان (Haiwan)", "colour": "#2196F3" },
+      { "id": "n2", "label": "لَطِيفَة (Jinak)", "colour": "#1565C0" },
+      { "id": "n3", "label": "مُفْتَرِسَة (Buas)", "colour": "#42A5F5" },
+      { "id": "n4", "label": "أَرْنَب أَبْيَض", "colour": "#1565C0" },
+      { "id": "n5", "label": "أَسَد قَوِيّ", "colour": "#42A5F5" },
+      { "id": "n6", "label": "Sayang Haiwan", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "contoh sifat" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "contoh sifat" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "nilai Islam" }
+    ]
+  },
+  "vocab": [
+    { "word": "حَيَوَان", "meaning": "haiwan" },
+    { "word": "لَطِيفَة", "meaning": "jinak / mesra" },
+    { "word": "مُفْتَرِسَة", "meaning": "buas / liar" },
+    { "word": "أَبْيَض", "meaning": "putih (lelaki)" },
+    { "word": "بَطِيئَة", "meaning": "perlahan (perempuan)" },
+    { "word": "قَوِيّ", "meaning": "kuat" },
+    { "word": "طَوِيل", "meaning": "panjang / tinggi" },
+    { "word": "صَغِير", "meaning": "kecil" }
+  ],
+  "funFact": "Allah ada 99 nama istimewa (Asmaul Husna)! Salah satunya ialah الرَّحِيم (Maha Penyayang) — Allah sayang semua makhluk termasuk haiwan. Nabi ﷺ pernah cerita tentang seorang wanita yang masuk syurga kerana bagi minum seekor anjing yang kehausan. Betapa besarnya pahala menyayangi haiwan!"
+}

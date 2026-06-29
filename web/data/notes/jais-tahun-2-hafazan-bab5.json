@@ -1,0 +1,244 @@
+{
+  "id": "jais-tahun-2-hafazan-bab5",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "hafazan",
+  "chapter": 5,
+  "title": "Doa Qunut Subuh",
+  "emoji": "🌄",
+  "colour": "#E91E63",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Doa Qunut — Doa Istimewa dalam Solat Subuh 🌄",
+      "body": "Doa Qunut dibaca dalam solat Subuh selepas i'tidal di rakaat kedua sebelum sujud. Ia adalah doa yang sangat indah — kita minta petunjuk, perlindungan, berkat, kasih sayang dan keselamatan dari Allah. Hafal dan faham maknanya!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Teks Doa Qunut (Arab)",
+          "body": {
+            "type": "arabic",
+            "arabic": "اَللَّهُمَّ اهْدِنِي فِيمَنْ هَدَيْتَ، وَعَافِنِي فِيمَنْ عَافَيْتَ، وَتَوَلَّنِي فِيمَنْ تَوَلَّيْتَ، وَبَارِكْ لِي فِيمَا أَعْطَيْتَ، وَقِنِي شَرَّ مَا قَضَيْتَ، فَإِنَّكَ تَقْضِي وَلَا يُقْضَى عَلَيْكَ، وَإِنَّهُ لَا يَذِلُّ مَنْ وَالَيْتَ، وَلَا يَعِزُّ مَنْ عَادَيْتَ، تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ"
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Terjemahan Doa Qunut",
+          "body": "Ya Allah, tunjukilah aku bersama orang-orang yang Kau tunjuki. Sihatkan aku bersama yang Kau sihatkan. Jagalah aku bersama yang Kau jaga. Berkatilah aku dalam apa yang Kau berikan. Lindungilah aku dari keburukan yang Kau tetapkan. Sesungguhnya Engkau yang menetapkan, tiada yang boleh menetapkan ke atas-Mu. Tidak akan hina orang yang Kau jaga, tidak akan mulia orang yang Kau musuhi. Maha Berkat dan Maha Tinggi Engkau ya Tuhan kami."
+        },
+        {
+          "icon": "🙏",
+          "title": "5 Permintaan Utama dalam Qunut",
+          "body": {
+            "type": "arabic",
+            "instruction": "Permintaan pertama dalam Doa Qunut:",
+            "arabic": "اَللَّهُمَّ اهْدِنِي",
+            "translation": "Ya Allah, tunjukilah aku ke jalan yang benar.",
+            "more": [
+              {
+                "instruction": "Permintaan kedua:",
+                "arabic": "وَعَافِنِي",
+                "translation": "Dan sihatkan aku (badan dan jiwa)."
+              },
+              {
+                "instruction": "Permintaan ketiga:",
+                "arabic": "وَتَوَلَّنِي",
+                "translation": "Dan jagalah aku (lindungi dari musuh)."
+              },
+              {
+                "instruction": "Permintaan keempat:",
+                "arabic": "وَبَارِكْ لِي فِيمَا أَعْطَيْتَ",
+                "translation": "Dan berkatilah aku dalam apa yang Kau berikan."
+              },
+              {
+                "instruction": "Permintaan kelima:",
+                "arabic": "وَقِنِي شَرَّ مَا قَضَيْتَ",
+                "translation": "Dan lindungilah aku dari keburukan yang Kau tetapkan.",
+                "outro": "Lima permintaan yang lengkap — untuk hidayah, kesihatan, perlindungan, rezeki berkat, dan keselamatan dari keburukan!"
+              }
+            ]
+          }
+        },
+        {
+          "icon": "⭐",
+          "title": "Hukum dan Cara Baca Qunut",
+          "body": "Hukum: Sunat (digalakkan, tidak wajib). Bila: Selepas i'tidal di rakaat kedua solat Subuh — sebelum sujud. Cara: Angkat kedua tangan setentang dada, telapak tangan menghadap ke atas. Imam baca dengan suara perlahan (sirriyah). Makmum jawab AMIN setiap permintaan selesai. Selepas qunut → terus sujud."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Sayyidina al-Hasan bin Ali r.a. meriwayatkan — Nabi ﷺ mengajarnya doa ini untuk dibaca dalam solat Witir:",
+        "arabic": "عَلَّمَنِي رَسُولُ اللهِ ﷺ كَلِمَاتٍ أَقُولُهُنَّ فِي الْوِتْرِ",
+        "translation": "Rasulullah ﷺ mengajarkan kepadaku beberapa kalimat yang aku baca dalam solat Witir.",
+        "source": "Riwayat Abu Dawud & Tirmizi",
+        "outro": "Doa qunut ini adalah ajaran terus dari Nabi ﷺ kepada cucunya al-Hasan — sungguh istimewa dan berkat!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Tips Hafal Doa Qunut 📝",
+      "items": [
+        {
+          "type": "list",
+          "intro": "Bahagi kepada 5 bahagian",
+          "items": [
+            "Hidayah",
+            "Kesihatan",
+            "Perlindungan",
+            "Berkat rezeki",
+            "Jaga dari keburukan"
+          ]
+        },
+        "Perhatikan corak: Setiap bahagian bermula dengan permintaan + فِيمَنْ/فِيمَا (bersama orang/dalam apa)",
+        "Hafal makna terlebih dahulu — lebih senang hafal lafaz bila tahu maksudnya",
+        "Ulang baca setiap hari dalam solat Subuh — amalan berterusan = cepat hafal",
+        "Tulis doa qunut dalam buku dan tempel di dinding bilik — nampak setiap hari, cepat hafal!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Doa Qunut dibaca dalam solat apa?",
+      "options": [
+        "Zuhur",
+        "Asar",
+        "Subuh",
+        "Isyak"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Doa Qunut dibaca pada bila dalam solat Subuh?",
+      "options": [
+        "Sebelum rukuk rakaat pertama",
+        "Selepas i'tidal rakaat kedua sebelum sujud",
+        "Selepas sujud terakhir",
+        "Semasa tahiyyat akhir"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "اهْدِنِي dalam doa qunut bermaksud...",
+      "options": [
+        "Sihatkan aku",
+        "Tunjuki aku ke jalan yang benar",
+        "Berkatilah aku",
+        "Jagalah aku"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Siapakah yang mengajarkan Doa Qunut kepada Sayyidina al-Hasan?",
+      "options": [
+        "Sayyidina Umar",
+        "Sayyidina Ali",
+        "Nabi Muhammad ﷺ",
+        "Sayyidina Abu Bakar"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Doa Qunut Subuh",
+        "colour": "#E91E63"
+      },
+      {
+        "id": "n2",
+        "label": "اهْدِنِي Hidayah",
+        "colour": "#880E4F"
+      },
+      {
+        "id": "n3",
+        "label": "عَافِنِي Kesihatan",
+        "colour": "#F48FB1"
+      },
+      {
+        "id": "n4",
+        "label": "بَارِكْ Berkat",
+        "colour": "#880E4F"
+      },
+      {
+        "id": "n5",
+        "label": "قِنِي Perlindungan",
+        "colour": "#F48FB1"
+      },
+      {
+        "id": "n6",
+        "label": "Solat Subuh Rakaat 2",
+        "colour": "#AD1457"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "minta"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "minta"
+      },
+      {
+        "id": "e3",
+        "source": "n1",
+        "target": "n4",
+        "label": "minta"
+      },
+      {
+        "id": "e4",
+        "source": "n1",
+        "target": "n5",
+        "label": "minta"
+      },
+      {
+        "id": "e5",
+        "source": "n6",
+        "target": "n1",
+        "label": "dibaca dalam"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "قُنُوت",
+      "meaning": "qunut — doa khusus dalam solat"
+    },
+    {
+      "word": "اهْدِنِي",
+      "meaning": "tunjukilah aku"
+    },
+    {
+      "word": "عَافِنِي",
+      "meaning": "sihatkan aku / sejahterakan aku"
+    },
+    {
+      "word": "بَارِكْ",
+      "meaning": "berkatilah"
+    },
+    {
+      "word": "تَبَارَكْتَ",
+      "meaning": "Maha Berkat Engkau (Allah)"
+    }
+  ],
+  "funFact": {
+    "type": "arabic",
+    "instruction": "Doa Qunut mengandungi pengakuan yang sangat mendalam tentang kekuasaan Allah:",
+    "arabic": "فَإِنَّكَ تَقْضِي وَلَا يُقْضَى عَلَيْكَ",
+    "translation": "Sesungguhnya Engkau yang menentukan, tiada yang boleh menentukan ke atas-Mu.",
+    "outro": "Allah adalah HAKIM AGUNG — keputusan-Nya muktamad. Tiada manusia, malaikat, atau syaitan yang boleh ubah apa yang Allah tetapkan. Berserah kepada Allah adalah satu ketenangan yang luar biasa!"
+  }
+}

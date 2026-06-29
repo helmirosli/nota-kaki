@@ -1,0 +1,143 @@
+{
+  "id": "jais-tahun-2-jawi-bab4",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "jawi",
+  "chapter": 4,
+  "title": "Membaca dan Menulis Petikan Jawi",
+  "emoji": "📜",
+  "colour": "#FF9800",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Baca dan Tulis Petikan Ayat dalam Jawi 📜",
+      "body": "Setelah belajar huruf, vokal, konsonan, dan kata berimbuhan, kini tiba masa untuk baca dan tulis PETIKAN PENUH dalam Jawi! Ini kemahiran tertinggi dalam pembelajaran Jawi — dari huruf kepada perkataan kepada ayat penuh."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Petikan 1 — Tentang Islam",
+          "body": {
+            "type": "arabic",
+            "instruction": "Baca petikan Jawi ini dan faham maknanya:",
+            "arabic": "اسلام اداله اغام يغ دتوروکن اوليه الله کڤد ناب محمد صلى الله عليه وسلم",
+            "translation": "Islam adalah agama yang diturunkan oleh Allah kepada Nabi Muhammad ﷺ.",
+            "outro": "Islam mengajar kita supaya beriman kepada Allah, bersolat, berpuasa, berzakat dan menunaikan ibadah haji."
+          }
+        },
+        {
+          "icon": "🏫",
+          "title": "Petikan 2 — Tentang Sekolah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Baca petikan Jawi ini:",
+            "arabic": "اکو سيوکا بلاجر د سيکوله. گورو٢ سايا برائيق دن ڤنياياغ",
+            "translation": "Aku suka belajar di sekolah. Guru-guru saya baik dan penyayang.",
+            "outro": "Mereka mengajar dengan sabar. Aku akan belajar bersungguh-sungguh supaya menjadi pelajar yang berjaya."
+          }
+        },
+        {
+          "icon": "🤲",
+          "title": "Petikan 3 — Tentang Solat",
+          "body": {
+            "type": "arabic",
+            "instruction": "Baca petikan Jawi ini:",
+            "arabic": "صولت اداله تياغ اغام. کيت ميستي ملکسنکن صولت ليم واکتو سهاري سمالم",
+            "translation": "Solat adalah tiang agama. Kita mesti melaksanakan solat lima waktu sehari semalam.",
+            "outro": "Subuh 2 rakaat, Zuhur 4 rakaat, Asar 4 rakaat, Maghrib 3 rakaat, Isyak 4 rakaat."
+          }
+        },
+        {
+          "icon": "✍️",
+          "title": "Tips Membaca Teks Jawi",
+          "body": {
+            "type": "list",
+            "intro": "6 langkah untuk baca Jawi dengan baik:",
+            "items": [
+              "Baca dari KANAN ke KIRI (arah tulisan Jawi)",
+              "Kenali setiap huruf dahulu sebelum baca perkataan",
+              "Bahagi perkataan kepada suku kata",
+              "Perhatikan tanda baris (harakat) jika ada",
+              "Baca perlahan-lahan dan jelas",
+              "Ulang baca beberapa kali sehingga lancar"
+            ],
+            "outro": "Latihan berterusan = lancar!"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadis Nabi ﷺ tentang kelebihan belajar al-Quran (yang menggunakan tulisan Arab — asas kepada Jawi):",
+        "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+        "translation": "Sebaik-baik kamu adalah orang yang mempelajari al-Quran dan mengajarkannya.",
+        "source": "Riwayat Bukhari",
+        "outro": "Al-Quran ditulis dalam tulisan Arab yang menjadi asas tulisan Jawi. Dengan mahir Jawi, kamu lebih mudah belajar membaca al-Quran dengan betul!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Tingkatkan Kemahiran Membaca Jawi 📈",
+      "items": [
+        "Baca al-Quran setiap hari — ini latihan terbaik baca tulisan Arab/Jawi",
+        "Baca papan tanda Jawi yang ada di sekeliling — di masjid, sekolah agama, dan pejabat kerajaan",
+        "Salin ayat-ayat doa dalam Jawi — latihan menulis yang baik",
+        "Baca buku cerita atau majalah dalam tulisan Jawi",
+        "Minta guru atau ibu bapa bantu semak bacaan Jawi kamu setiap minggu"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Dalam tulisan Jawi, kita membaca dari arah...",
+      "options": ["Kiri ke kanan", "Kanan ke kiri", "Atas ke bawah", "Bawah ke atas"],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan 'bersolat' dalam tulisan Jawi ialah...",
+      "options": ["صولت", "برصولت", "مصولت", "ترصولت"],
+      "answer": 1
+    },
+    {
+      "q": "Apa manfaat mahir membaca tulisan Jawi?",
+      "options": ["Boleh baca buku bahasa Inggeris", "Mudah belajar al-Quran dan kitab agama lama", "Boleh tulis bahasa Cina", "Boleh faham bahasa Jawa"],
+      "answer": 1
+    },
+    {
+      "q": "اسلام اداله اغام يغ دتوروکن اوليه الله bermaksud...",
+      "options": ["Islam agama yang indah", "Islam adalah agama yang diturunkan oleh Allah", "Islam agama seluruh alam", "Islam agama yang wajib diamalkan"],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Petikan Jawi", "colour": "#FF9800" },
+      { "id": "n2", "label": "Huruf Jawi", "colour": "#E65100" },
+      { "id": "n3", "label": "Perkataan Jawi", "colour": "#FFE0B2" },
+      { "id": "n4", "label": "Ayat/Petikan", "colour": "#E65100" },
+      { "id": "n5", "label": "Baca al-Quran", "colour": "#FFE0B2" },
+      { "id": "n6", "label": "Kemahiran Jawi", "colour": "#BF360C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n2", "target": "n3", "label": "bentuk" },
+      { "id": "e2", "source": "n3", "target": "n4", "label": "bentuk" },
+      { "id": "e3", "source": "n4", "target": "n6", "label": "hasilkan" },
+      { "id": "e4", "source": "n5", "target": "n6", "label": "bantu" },
+      { "id": "e5", "source": "n1", "target": "n4", "label": "contoh" }
+    ]
+  },
+  "vocab": [
+    { "word": "ڤيتيکن", "meaning": "petikan — teks/perenggan untuk dibaca" },
+    { "word": "برايمن", "meaning": "beriman (dalam tulisan Jawi)" },
+    { "word": "برصولت", "meaning": "bersolat (dalam tulisan Jawi)" },
+    { "word": "برسوغغوه٢", "meaning": "bersungguh-sungguh (dalam tulisan Jawi)" },
+    { "word": "ملکسنکن", "meaning": "melaksanakan (dalam tulisan Jawi)" }
+  ],
+  "funFact": "Dokumen rasmi Malaysia masih menggunakan tulisan Jawi! Wang ringgit Malaysia ada tulisan Jawi, sijil rasmi kerajaan ada Jawi, nama jalan di kawasan Melayu ada Jawi, dan papan tanda di banyak tempat ada Jawi. Tulisan Jawi bukan warisan lama sahaja — ia HIDUP dan digunakan hingga hari ini!"
+}

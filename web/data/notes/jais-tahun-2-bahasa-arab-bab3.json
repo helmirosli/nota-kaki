@@ -1,0 +1,217 @@
+{
+  "id": "jais-tahun-2-bahasa-arab-bab3",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "bahasa-arab",
+  "chapter": 3,
+  "title": "Sukan dan Permainan",
+  "emoji": "⚽",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الأَلْعَابُ الرِّيَاضِيَّة — Sukan dan Permainan",
+      "body": "Dalam pelajaran ini kita belajar nama-nama sukan dalam bahasa Arab. Sukan adalah sangat penting untuk kesihatan tubuh badan kita. Nabi Muhammad SAW sendiri suka bersukan seperti memanah dan menunggang kuda. Mari kita belajar nama-nama sukan dalam bahasa Arab!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "⚽",
+          "title": "Sukan Bola",
+          "body": "كُرَةُ الْقَدَمِ = bola sepak • كُرَةُ الرِّيشَةِ = badminton • كُرَةُ الْمِضْرَبِ = tenis • كُرَةُ الطَّاوِلَةِ = ping pong • كُرَةُ الْيَدِ = bola tangan • كُرَةُ السَّلَّةِ = bola keranjang • كُرَةُ الطَّائِرَةِ = bola tampar."
+        },
+        {
+          "icon": "🏊",
+          "title": "Sukan Individu",
+          "body": "السِّبَاحَةُ = renang • الرِّمَايَةُ = memanah • الْجَرْيُ = berlari • الْجُودُو = judo • الْمُصَارَعَةُ = gusti • رَمْيُ الْأَثْقَالِ = rejam bola besi. Contoh: يَسْبَحُ أَحْمَدُ فِي الْمَسْبَحِ = Ahmad berenang di kolam renang."
+        },
+        {
+          "icon": "🐴",
+          "title": "Sukan Tradisional",
+          "body": "رُكُوبُ الْخَيْلِ = menunggang kuda • الْهُوكِي = hoki • الْقَفْزُ الطَّوِيلُ = lompat jauh • الشَّطْرَنْجُ = catur. Ini sukan-sukan yang menarik! Rasulullah SAW pun suka menunggang kuda dan memanah — rُكُوبُ الْخَيْلِ dan الرِّمَايَةُ."
+        },
+        {
+          "icon": "🏆",
+          "title": "Kosakata Sukan",
+          "body": "الْمَسْبَحُ = kolam renang • مُبَارَاةٌ = pertandingan • فَازَ = menang • هِوَايَةٌ = hobi • الْإِسْتَادُ = stadium. Contoh: فَازَ عُمَرُ فِي مُبَارَاةِ الْجُودُو = Umar menang dalam pertandingan judo! يُمَارِسُ كُرَةَ السَّلَّةِ فِي الْإِسْتَادِ = Dia bermain bola keranjang di stadium."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": "مَارِسِ الرِّيَاضَةَ فِي حَيَاتِكَ — Amalkan sukan dalam hidupmu! العَقْلُ السَّلِيمُ فِي الْجِسْمِ السَّلِيمِ — Akal yang sihat ada dalam tubuh yang sihat. Rasulullah SAW bersabda bahawa badan kita ada hak ke atas diri kita. Jadi, jaga kesihatan dengan bersukan!"
+    },
+    {
+      "type": "steps",
+      "heading": "Dialog tentang Sukan",
+      "items": [
+        {
+          "type": "arabic",
+          "arabic": "يَلْعَبُ التَّلْمِيذُ كُرَةَ الْقَدَمِ"
+        },
+        {
+          "type": "arabic",
+          "arabic": "تَلْعَبُ الطَّالِبَاتُ كُرَةَ السَّلَّةِ"
+        },
+        {
+          "type": "arabic",
+          "arabic": "يَسْبَحُ أَحْمَدُ فِي الْمَسْبَحِ"
+        },
+        {
+          "type": "arabic",
+          "arabic": "فَازَ عُمَرُ فِي مُبَارَاةِ الْجُودُو"
+        },
+        {
+          "type": "arabic",
+          "arabic": "مَا هِوَايَتُكَ الْمُفَضَّلَةُ يَا فَرِيدُ؟"
+        },
+        {
+          "type": "arabic",
+          "arabic": "هِوَايَتِي الْمُفَضَّلَةُ كُرَةُ الرِّيشَةِ، وَأَنْتَ يَا عُمَرُ؟"
+        },
+        {
+          "type": "arabic",
+          "arabic": "هِوَايَتِي الْمُفَضَّلَةُ السِّبَاحَةُ"
+        },
+        {
+          "type": "arabic",
+          "arabic": "يَا أَمِينُ، أَيْنَ تَسْبَحُ؟ أَسْبَحُ فِي الْمَسْبَحِ"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud كُرَةُ الرِّيشَةِ?",
+      "options": [
+        "Bola sepak",
+        "Bola tampar",
+        "Badminton",
+        "Tenis"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "السِّبَاحَةُ bermaksud?",
+      "options": [
+        "Berlari",
+        "Renang",
+        "Melompat",
+        "Mendaki"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "فَازَ عُمَرُ فِي مُبَارَاةِ الْجُودُو bermaksud?",
+      "options": [
+        "Umar kalah dalam badminton",
+        "Umar bermain judo",
+        "Umar menang dalam pertandingan judo",
+        "Umar berenang di kolam"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sukan apa yang disebut sebagai رُكُوبُ الْخَيْلِ?",
+      "options": [
+        "Menunggang kuda",
+        "Berlari kuda",
+        "Bola sepak",
+        "Lompat jauh"
+      ],
+      "answer": 0
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "الألعاب الرياضية (Sukan)",
+        "colour": "#4CAF50"
+      },
+      {
+        "id": "n2",
+        "label": "Sukan Bola",
+        "colour": "#388E3C"
+      },
+      {
+        "id": "n3",
+        "label": "Sukan Individu",
+        "colour": "#388E3C"
+      },
+      {
+        "id": "n4",
+        "label": "كُرَةُ الْقَدَمِ",
+        "colour": "#81C784"
+      },
+      {
+        "id": "n5",
+        "label": "السِّبَاحَةُ",
+        "colour": "#81C784"
+      },
+      {
+        "id": "n6",
+        "label": "رُكُوبُ الْخَيْلِ",
+        "colour": "#1B5E20"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "jenis"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "jenis"
+      },
+      {
+        "id": "e3",
+        "source": "n2",
+        "target": "n4",
+        "label": "contoh"
+      },
+      {
+        "id": "e4",
+        "source": "n3",
+        "target": "n5",
+        "label": "contoh"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n6",
+        "label": "ada"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "كُرَةُ الْقَدَمِ",
+      "meaning": "bola sepak"
+    },
+    {
+      "word": "السِّبَاحَةُ",
+      "meaning": "renang"
+    },
+    {
+      "word": "الرِّمَايَةُ",
+      "meaning": "memanah"
+    },
+    {
+      "word": "مُبَارَاةٌ",
+      "meaning": "pertandingan"
+    },
+    {
+      "word": "فَازَ",
+      "meaning": "menang"
+    }
+  ],
+  "funFact": "Rasulullah SAW sangat menggalakkan umat Islam bersukan! Baginda bersabda: 'Ajarkan anak-anakmu memanah, berenang dan menunggang kuda.' Ketiga-tiga sukan ini disebut dalam bahasa Arab: الرِّمَايَة، السِّبَاحَة، رُكُوبُ الْخَيْل!"
+}

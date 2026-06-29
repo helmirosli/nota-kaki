@@ -1,0 +1,126 @@
+{
+  "id": "jais-tahun-1-tauhid-bab1",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "tauhid",
+  "chapter": 1,
+  "title": "6 Rukun Iman – Tiang Kepercayaan Kita!",
+  "emoji": "🌟",
+  "colour": "#1565C0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Apa Itu Rukun Iman?",
+      "body": "Iman bermaksud percaya dengan sepenuh hati kepada Allah dan segala perkara yang diperintahkan untuk dipercayai. Sebagai seorang Muslim, kita wajib beriman kepada 6 Rukun Iman. Tanpa iman, ibadah kita tidak akan sempurna!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🤲",
+          "title": "Maksud Iman",
+          "body": "Iman ialah pengakuan dengan lisan (ucapan), membenarkan dalam hati, dan beramal dengan anggota badan. Ketiga-tiga ini mesti ada serentak!"
+        },
+        {
+          "icon": "📜",
+          "title": "Hukum Beriman",
+          "body": "Wajib ke atas setiap Muslim untuk meyakini keenam-enam Rukun Iman. Sesiapa yang ingkar salah satu daripadanya, imannya tidak sah."
+        },
+        {
+          "icon": "💪",
+          "title": "Iman Boleh Bertambah",
+          "body": "Iman seseorang boleh bertambah dengan banyak berzikir, membaca Al-Quran, dan beramal soleh. Jaga iman kita setiap hari!"
+        },
+        {
+          "icon": "🛡️",
+          "title": "Iman Pelindung Kita",
+          "body": "Iman yang kukuh menjadi benteng daripada melakukan kejahatan dan maksiat. Orang yang beriman kuat akan sentiasa menjauhi perkara yang buruk."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Rasulullah ﷺ bersabda:",
+        "arabic": "الْإِيمَانُ بِضْعٌ وَسَبْعُونَ شُعْبَةً",
+        "translation": "Iman itu ada lebih daripada tujuh puluh cabang.",
+        "source": "Hadith Riwayat Bukhari & Muslim",
+        "outro": "Ini bermakna iman bukan sekadar di mulut, tapi ditunjukkan dalam setiap perbuatan kita!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "6 Rukun Iman yang Wajib Kita Percayai",
+      "items": [
+        "Beriman kepada Allah – Percaya Allah itu Ada, Maha Esa, dan berhak disembah",
+        "Beriman kepada Malaikat – Percaya malaikat diciptakan daripada cahaya dan sentiasa taat kepada Allah",
+        "Beriman kepada Kitab – Percaya Allah menurunkan kitab-kitab suci kepada para Nabi dan Rasul",
+        "Beriman kepada Rasul – Percaya para Rasul adalah lelaki mulia yang menerima wahyu daripada Allah",
+        "Beriman kepada Hari Qiamat – Percaya dunia ini akan hancur dan semua makhluk akan dibangkitkan semula",
+        "Beriman kepada Qada' dan Qadar – Percaya segala yang berlaku adalah ketentuan dan ketetapan Allah"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapakah bilangan Rukun Iman yang wajib dipercayai oleh setiap Muslim?",
+      "options": ["4", "5", "6", "7"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah maksud Iman yang betul?",
+      "options": [
+        "Sekadar mengucap dengan mulut sahaja",
+        "Pengakuan lisan, membenarkan hati, dan beramal dengan anggota badan",
+        "Hanya perlu percaya dalam hati sahaja",
+        "Cukup dengan membuat amalan baik sahaja"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Malaikat diciptakan daripada apakah?",
+      "options": ["Tanah", "Api", "Cahaya", "Angin"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang dimaksudkan dengan Qadar?",
+      "options": [
+        "Pelaksanaan ketentuan Allah",
+        "Ketetapan Allah terhadap segala sesuatu",
+        "Hari akhirat yang akan tiba",
+        "Kitab-kitab yang diturunkan kepada Nabi"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Rukun Iman", "colour": "#1565C0" },
+      { "id": "n2", "label": "Beriman kepada Allah", "colour": "#1976D2" },
+      { "id": "n3", "label": "Beriman kepada Malaikat", "colour": "#BBDEFB" },
+      { "id": "n4", "label": "Beriman kepada Kitab", "colour": "#1976D2" },
+      { "id": "n5", "label": "Beriman kepada Rasul", "colour": "#BBDEFB" },
+      { "id": "n6", "label": "Hari Qiamat", "colour": "#1976D2" },
+      { "id": "n7", "label": "Qada' & Qadar", "colour": "#BBDEFB" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "rukun 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "rukun 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "rukun 3" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "rukun 4" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "rukun 5" },
+      { "id": "e6", "source": "n1", "target": "n7", "label": "rukun 6" }
+    ]
+  },
+  "vocab": [
+    { "word": "Iman", "meaning": "Kepercayaan yang teguh kepada Allah dan segala yang diperintahkan untuk dipercayai" },
+    { "word": "Rukun", "meaning": "Tiang atau asas yang menjadi syarat sahnya sesuatu perkara" },
+    { "word": "Qiamat", "meaning": "Hari akhir dunia apabila semua makhluk dibangkitkan untuk dihisab" },
+    { "word": "Qada'", "meaning": "Pelaksanaan atau berlakunya ketentuan Allah ke atas makhluk-Nya" },
+    { "word": "Qadar", "meaning": "Ketetapan atau takdir Allah terhadap segala sesuatu di alam ini" }
+  ],
+  "funFact": "Tahukah kamu? Susunan 6 Rukun Iman bermula dengan beriman kepada Allah, kerana Allah adalah punca segala-galanya. Kalau kita benar-benar kenal Allah, kita pasti akan percaya kepada semua yang lain juga!"
+}

@@ -1,0 +1,231 @@
+{
+  "id": "jais-tahun-1-jawi-bab6",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "jawi",
+  "chapter": 6,
+  "title": "e Pepet dan Kata Tertutup",
+  "emoji": "📚",
+  "colour": "#FF9800",
+  "estimatedMinutes": 13,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Misteri Bunyi 'e Pepet' dalam Jawi",
+      "body": "Bunyi 'e pepet' adalah bunyi 'e' yang tidak penuh — seperti bunyi 'e' dalam suku pertama perkataan 'beli' atau 'semua'. Yang peliknya, bunyi ini TIDAK ADA tanda atau huruf dalam tulisan Jawi! Kita kena tahu sendiri bila nak baca. Jom kuasai teknik ini!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🔇",
+          "title": "e Pepet — Tiada Padanan dalam Jawi",
+          "body": {
+            "type": "arabic",
+            "instruction": "Bunyi 'e pepet' seperti dalam 'beli' (suku be-), 'semua' (me-), 'mengaji' (me-) TIDAK ada huruf padanannya dalam Jawi. Kita hanya tulis konsonan tanpa vokal. Contoh: 'beli' ditulis sebagai:",
+            "arabic": "بلي",
+            "translation": "beli — huruf 'be' tidak ada vokal, terus ke 'li'",
+            "outro": "Pembaca perlu tahu sebutan sendiri untuk memahami perkataan ini."
+          }
+        },
+        {
+          "icon": "🔉",
+          "title": "e Taling — Ada Padanan (ي)",
+          "body": {
+            "type": "list",
+            "intro": "Bunyi 'e taling' (e penuh dan jelas) ditulis dengan huruf ي (ya). Contoh:",
+            "items": [
+              "بلي — beli (suku '-li' ada e taling, ditulis ي)",
+              "سني — seni",
+              "ميره — merah"
+            ],
+            "outro": "Ingat: e taling MESTI ditulis dengan ي. E pepet JANGAN tulis apa-apa!"
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Kata Tertutup — Berakhir dengan Konsonan",
+          "body": {
+            "type": "list",
+            "intro": "Kata tertutup berakhir dengan konsonan (bukan vokal). Contoh dalam Jawi:",
+            "items": [
+              "ڤين — pin (vokal 'i' ditulis ي)",
+              "تين — tin",
+              "بيق — beg",
+              "ڤن — pen (vokal 'e pepet' tidak ditulis)"
+            ],
+            "outro": "Perbandingan: pin = ڤين (ada ي) manakala pen = ڤن (tiada ي kerana e pepet)"
+          }
+        },
+        {
+          "icon": "🏛️",
+          "title": "Sejarah Jawi — Batu Bersurat Terengganu",
+          "body": "Jawi telah digunakan lebih 700 tahun! Batu Bersurat Terengganu (1303M) adalah bukti tulisan Jawi tertua di Malaysia. Bila kamu belajar Jawi, kamu menyambung warisan ilmu nenek moyang Melayu Muslim yang hebat!"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": "Cara Mudah Ingat: Kalau bunyi 'e' tu PENUH dan jelas (macam 'e' dalam 'teh' atau 'beli' suku kedua), tulis ي. Kalau bunyi 'e' tu SEPARUH atau tidak jelas (macam 'e' dalam suku pertama 'beli' atau 'semua'), JANGAN tulis apa-apa!"
+    },
+    {
+      "type": "steps",
+      "heading": "Latihan Membezakan e Pepet dan e Taling",
+      "items": [
+        {
+          "type": "arabic",
+          "instruction": "pin =",
+          "arabic": "ڤين"
+        },
+        {
+          "type": "arabic",
+          "instruction": "rin =",
+          "arabic": "رين"
+        },
+        {
+          "type": "arabic",
+          "instruction": "sin =",
+          "arabic": "سين"
+        },
+        {
+          "type": "arabic",
+          "instruction": "beli =",
+          "arabic": "بلي"
+        },
+        "Nasihat: Sentiasa bersolat dan membaca al-Quran sambil belajar Jawi — ilmu agama + ilmu bahasa!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah yang dimaksudkan dengan 'e pepet'?",
+      "options": [
+        "Bunyi 'e' yang penuh dan jelas",
+        "Bunyi 'e' yang separuh atau tidak jelas",
+        "Bunyi 'e' yang panjang",
+        "Bunyi 'e' yang diikuti konsonan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan 'pen' dalam tulisan Jawi ialah...",
+      "options": [
+        "ڤين",
+        "ڤيين",
+        "ڤن",
+        "ڤان"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Perkataan 'pin' dalam tulisan Jawi ialah...",
+      "options": [
+        "ڤن",
+        "ڤين",
+        "ڤان",
+        "ڤاين"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah nama tulisan Melayu tertua yang ditemui dalam Batu Bersurat Terengganu?",
+      "options": [
+        "Tulisan Rumi",
+        "Tulisan Cina",
+        "Tulisan Jawi",
+        "Tulisan Sanskrit"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Vokal 'e' dalam Jawi",
+        "colour": "#FF9800"
+      },
+      {
+        "id": "n2",
+        "label": "e Pepet",
+        "colour": "#E65100"
+      },
+      {
+        "id": "n3",
+        "label": "e Taling",
+        "colour": "#FFE0B2"
+      },
+      {
+        "id": "n4",
+        "label": "Tiada huruf padanan",
+        "colour": "#E65100"
+      },
+      {
+        "id": "n5",
+        "label": "Ditulis ي (ya)",
+        "colour": "#FFE0B2"
+      },
+      {
+        "id": "n6",
+        "label": "Contoh: pen=ڤن, pin=ڤين",
+        "colour": "#BF360C"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "jenis 1"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "jenis 2"
+      },
+      {
+        "id": "e3",
+        "source": "n2",
+        "target": "n4",
+        "label": "ciri"
+      },
+      {
+        "id": "e4",
+        "source": "n3",
+        "target": "n5",
+        "label": "ciri"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n6",
+        "label": "contoh banding"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "e pepet",
+      "meaning": "bunyi 'e' yang tidak penuh atau separuh, tiada padanan dalam Jawi"
+    },
+    {
+      "word": "e taling",
+      "meaning": "bunyi 'e' yang penuh dan jelas, ditulis dengan huruf ي dalam Jawi"
+    },
+    {
+      "word": "kata tertutup",
+      "meaning": "perkataan yang berakhir dengan konsonan, bukan vokal"
+    },
+    {
+      "word": "Batu Bersurat",
+      "meaning": "batu berukir dengan tulisan bersejarah yang ditemui di Terengganu"
+    },
+    {
+      "word": "warisan",
+      "meaning": "pusaka atau khazanah yang diwariskan dari generasi ke generasi"
+    }
+  ],
+  "funFact": "Batu Bersurat Terengganu yang ditemui pada tahun 1902 di tepi Sungai Terengganu adalah bukti bahawa tulisan Jawi telah digunakan di Malaysia sejak tahun 1303 Masihi — lebih 700 tahun yang lalu! Ia sekarang disimpan dengan selamat di Muzium Negara Kuala Lumpur."
+}

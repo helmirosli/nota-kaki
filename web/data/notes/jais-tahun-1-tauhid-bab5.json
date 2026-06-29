@@ -1,0 +1,195 @@
+{
+  "id": "jais-tahun-1-tauhid-bab5",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "tauhid",
+  "chapter": 5,
+  "title": "Ma'rifah Allah – Kenali Tuhanmu dengan Hati!",
+  "emoji": "🔍",
+  "colour": "#00695C",
+  "estimatedMinutes": 13,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Apa Itu Ma'rifah Allah?",
+      "body": "Ma'rifah Allah bermaksud mengenal Allah dengan keyakinan yang pasti dan teguh, disertai dengan dalil-dalil yang jelas. Ia bukan sekadar tahu nama Allah, tetapi benar-benar faham dan yakin tentang sifat-sifat kebesaran-Nya. Mengenal Allah adalah kewajipan ke atas setiap mukallaf iaitu lelaki dan perempuan yang berakal dan sudah baligh!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🧠",
+          "title": "Makna Ma'rifah",
+          "body": "Ma'rifah ialah keyakinan yang pasti (jazam) disertai dengan dalil. Kita bukan hanya tahu Allah itu ada, tetapi kita yakin sepenuhnya dengan penuh keyakinan berdasarkan bukti yang nyata."
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil Naqli (Nas Al-Quran)",
+          "body": "Surah Muhammad: 19 – 'Maka ketahuilah (wahai Muhammad) bahawa sesungguhnya tiada Tuhan yang berhak disembah melainkan Allah.' Allah sendiri menyuruh kita untuk mengenal-Nya!"
+        },
+        {
+          "icon": "🌌",
+          "title": "Dalil Aqli (Akal Fikiran)",
+          "body": "Alam semesta yang luas dan tersusun rapi ini – langit, bumi, bintang, planet – semuanya diciptakan dengan sangat teliti. Pasti ada Pencipta yang Maha Kuasa dan Maha Pentadbir yang menjadikan semuanya ini!"
+        },
+        {
+          "icon": "⚖️",
+          "title": "Siapa Wajib Berma'rifah?",
+          "body": "Setiap mukallaf iaitu lelaki dan perempuan yang berakal dan sudah baligh wajib mengenal Allah. Mengenal Allah bukan pilihan, ia adalah kewajipan yang mesti dilaksanakan!"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Firman Allah dalam Surah Muhammad (ayat 19)",
+        "arabic": "فَاعْلَمْ أَنَّهُ لَا إِلَهَ إِلَّا اللَّه",
+        "translation": "nya: 'Maka ketahuilah bahawa sesungguhnya tiada Tuhan yang berhak disembah melainkan Allah.' Allah menyuruh kita bukan sekadar percaya, tetapi untuk benar-benar MENGENAL-NYA!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara-cara Mengenal Allah (Ma'rifah)",
+      "items": [
+        "Pelajari sifat-sifat Allah – Seperti Qudrah (Maha Kuasa), Ilmu (Maha Mengetahui), Iradah (Maha Berkehendak)",
+        "Renungkan ciptaan Allah – Perhatikan alam sekitar, langit, bumi, haiwan dan tumbuhan",
+        "Baca dan faham Al-Quran – Al-Quran penuh dengan ayat-ayat yang menerangkan kebesaran Allah",
+        "Ikuti ajaran Ahli Sunnah wal Jamaah – Cara mengenal Allah yang betul mengikut pegangan umat Islam yang benar",
+        "Amalkan apa yang dipelajari – Gunakan pengetahuan tentang Allah untuk meningkatkan ibadah dan akhlak kita"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud Ma'rifah Allah?",
+      "options": [
+        "Menghafal nama-nama Allah sahaja",
+        "Keyakinan yang pasti disertai dalil tentang sifat-sifat Allah",
+        "Pergi ke masjid setiap hari",
+        "Membaca buku agama sahaja"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Surah manakah yang menjadi dalil naqli untuk Ma'rifah Allah?",
+      "options": [
+        "Surah Al-Fatihah",
+        "Surah Al-Baqarah",
+        "Surah Muhammad: 19",
+        "Surah An-Nas"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah dalil aqli (akal) untuk membuktikan kewujudan Allah?",
+      "options": [
+        "Cerita daripada orang tua-tua",
+        "Alam semesta yang luas dan tersusun rapi membuktikan ada Pencipta yang Maha Kuasa",
+        "Mimpi yang kita alami waktu tidur",
+        "Muzik yang merdu dan indah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Siapakah yang wajib berma'rifah (mengenal Allah)?",
+      "options": [
+        "Hanya ulama dan ustaz sahaja",
+        "Hanya orang dewasa berumur 40 tahun ke atas",
+        "Setiap mukallaf – lelaki dan perempuan yang berakal dan baligh",
+        "Hanya orang yang tinggal berhampiran masjid"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Ma'rifah Allah",
+        "colour": "#00695C"
+      },
+      {
+        "id": "n2",
+        "label": "Keyakinan Jazam",
+        "colour": "#00796B"
+      },
+      {
+        "id": "n3",
+        "label": "Dalil Naqli",
+        "colour": "#B2DFDB"
+      },
+      {
+        "id": "n4",
+        "label": "Dalil Aqli",
+        "colour": "#00796B"
+      },
+      {
+        "id": "n5",
+        "label": "Surah Muhammad: 19",
+        "colour": "#B2DFDB"
+      },
+      {
+        "id": "n6",
+        "label": "Alam Semesta",
+        "colour": "#00796B"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "bermaksud"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "dibuktikan"
+      },
+      {
+        "id": "e3",
+        "source": "n1",
+        "target": "n4",
+        "label": "dibuktikan"
+      },
+      {
+        "id": "e4",
+        "source": "n3",
+        "target": "n5",
+        "label": "contoh"
+      },
+      {
+        "id": "e5",
+        "source": "n4",
+        "target": "n6",
+        "label": "contoh"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "Ma'rifah",
+      "meaning": "Mengenal dengan keyakinan – pengenalan mendalam tentang sifat-sifat Allah berdasarkan dalil"
+    },
+    {
+      "word": "Jazam",
+      "meaning": "Keyakinan yang pasti dan tidak ragu-ragu sama sekali"
+    },
+    {
+      "word": "Dalil Naqli",
+      "meaning": "Bukti daripada nas Al-Quran atau Hadith"
+    },
+    {
+      "word": "Dalil Aqli",
+      "meaning": "Bukti yang diperolehi melalui pemikiran dan akal fikiran yang sihat"
+    },
+    {
+      "word": "Ahli Sunnah wal Jamaah",
+      "meaning": "Golongan umat Islam yang berpegang kepada ajaran Rasulullah ﷺ dan para sahabatnya"
+    }
+  ],
+  "funFact": "Saintis-saintis moden juga kagum melihat betapa teraturnya alam semesta ini! Bumi berputar pada paksinya dengan tepat, jarak dari matahari yang sesuai untuk kehidupan – semuanya ini membuktikan ada Pencipta yang Maha Bijaksana. Akal yang sihat pun mengakui kewujudan Allah!"
+}

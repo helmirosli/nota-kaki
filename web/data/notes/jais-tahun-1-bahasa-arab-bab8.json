@@ -1,0 +1,216 @@
+{
+  "id": "jais-tahun-1-bahasa-arab-bab8",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "bahasa-arab",
+  "chapter": 8,
+  "title": "Keluarga Tersayang",
+  "emoji": "👨‍👩‍👧‍👦",
+  "colour": "#2196F3",
+  "estimatedMinutes": 13,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Kemahiran Pelajaran Ini 📚",
+      "body": "Selepas belajar Dars ini, kamu boleh: MENDENGAR nama ahli keluarga, MENYEBUT nama ahli keluarga dengan betul, MEMBACA dialog tentang keluarga, MENULIS nama ahli keluarga dengan tepat, dan MEMPERKENALKAN ahli keluarga dalam Bahasa Arab!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "👪",
+          "title": "Ahli Keluarga — أَفْرَاد الْأُسْرَة",
+          "body": {
+            "type": "list",
+            "intro": "Nama semua ahli keluarga dalam Bahasa Arab:",
+            "items": [
+              "جَدّ — datuk (sebelah ayah)",
+              "جَدَّة — nenek (sebelah ayah)",
+              "أَب — ayah",
+              "أُمّ — ibu",
+              "عَمّ — pak cik (adik/abang ayah)",
+              "عَمَّة — mak cik (adik/kakak ayah)",
+              "خَال — pak cik (adik/abang ibu)",
+              "خَالَة — mak cik (adik/kakak ibu)",
+              "أَخ — abang / adik lelaki",
+              "أُخْت — kakak / adik perempuan",
+              "أَنَا — saya"
+            ]
+          }
+        },
+        {
+          "icon": "🏠",
+          "title": "Di Mana Ahli Keluarga?",
+          "body": {
+            "type": "list",
+            "intro": "Lokasi setiap ahli keluarga:",
+            "items": [
+              "الْجَدُّ فِي سَاحَةِ الْمَسْجِدِ — Datuk di pekarangan masjid",
+              "الْجَدَّةُ فِي الْمَطْبَخِ — Nenek di dapur",
+              "الْأُمُّ رَبَّةُ الْبَيْتِ — Ibu penjaga rumah",
+              "الْأَخُ فِي الْمُصَلَّى — Abang di surau",
+              "الْخَالُ فِي الْجَامِعَةِ — Pak cik di universiti",
+              "الْخَالَةُ فِي الْمَدْرَسَةِ — Mak cik di sekolah",
+              "الْأُخْتُ فِي الْبَيْتِ — Kakak di rumah"
+            ]
+          }
+        },
+        {
+          "icon": "👨‍⚕️",
+          "title": "Profesion Ahli Keluarga",
+          "body": {
+            "type": "list",
+            "intro": "Dialog — Perkenalkan ahli keluarga dan pekerjaannya:",
+            "items": [
+              "هَذَا أَبِي وَهُوَ مُعَلِّمٌ — Ini ayah saya, beliau seorang guru",
+              "هَذَا عَمِّي وَهُوَ طَبِيبٌ — Ini pak cik saya, beliau seorang doktor",
+              "هَذِهِ عَمَّتِي وَهِيَ مُمَرِّضَةٌ — Ini mak cik saya, beliau seorang jururawat"
+            ],
+            "outro": "هُوَ = dia lelaki • هِيَ = dia perempuan"
+          }
+        },
+        {
+          "icon": "🔢",
+          "title": "Nombor Arab 60 hingga 70",
+          "body": {
+            "type": "list",
+            "intro": "Nombor 60-70 dalam Bahasa Arab:",
+            "items": [
+              "٦٠ — سِتُّون (enam puluh)",
+              "٦١ — وَاحِدٌ وَسِتُّون (enam puluh satu)",
+              "٦٢ — اثْنَانِ وَسِتُّون (enam puluh dua)",
+              "٦٥ — خَمْسَةٌ وَسِتُّون (enam puluh lima)",
+              "٦٦ — سِتَّةٌ وَسِتُّون (enam puluh enam)",
+              "٧٠ — سَبْعُون (tujuh puluh)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah SWT berfirman:",
+        "arabic": "قُلْ إِنْ كَانَ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ وَإِخْوَانُكُمْ وَأَزْوَاجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَالٌ اقْتَرَفْتُمُوهَا أَحَبَّ إِلَيْكُمْ مِنَ اللهِ وَرَسُولِهِ فَتَرَبَّصُوا",
+        "translation": "Katakanlah: Jika bapa-bapa kamu, anak-anak kamu, saudara-saudara kamu, isteri-isteri kamu, kaum keluarga kamu, harta yang kamu usahakan lebih kamu cintai daripada Allah dan RasulNya — maka tunggulah.",
+        "source": "Surah al-Tawbah: 24",
+        "outro": "Cintai keluarga itu baik, tetapi cinta kepada Allah dan Rasul mestilah lebih utama!",
+        "more": [
+          {
+            "instruction": "Ayat Latihan — Hormati Ibu Bapa:",
+            "arabic": "اِحْتَرِمْ أَبَاكَ وَأُمَّك",
+            "translation": "Hormatilah ayah dan ibumu"
+          },
+          {
+            "instruction": "Ayat Latihan — Doakan Keluarga:",
+            "arabic": "اُدْعُ اللهَ تَعَالَى لِسَعَادَةِ أُسْرَتِك",
+            "translation": "Doakanlah kebahagiaan keluargamu kepada Allah SWT"
+          }
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Dialog — Perkenalkan Keluarga 🗣️",
+      "items": [
+        {
+          "type": "arabic",
+          "instruction": "Perkenalkan ayah:",
+          "arabic": "هَذَا أَبِي. أَبِي مُعَلِّمٌ",
+          "translation": "Ini ayah saya. Ayah saya seorang guru"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Perkenalkan ibu:",
+          "arabic": "هَذِهِ أُمِّي. أُمِّي رَبَّةُ الْبَيْتِ",
+          "translation": "Ini ibu saya. Ibu saya penjaga rumah"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Perkenalkan datuk:",
+          "arabic": "هَذَا جَدِّي. جَدِّي فِي سَاحَةِ الْمَسْجِد",
+          "translation": "Ini datuk saya. Datuk saya di pekarangan masjid"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Perkenalkan pak cik:",
+          "arabic": "هَذَا عَمِّي وَهُوَ طَبِيبٌ",
+          "translation": "Ini pak cik saya dan beliau seorang doktor"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Perkenalkan mak cik:",
+          "arabic": "هَذِهِ خَالَتِي وَهِيَ مُعَلِّمَةٌ",
+          "translation": "Ini mak cik saya dan beliau seorang guru"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apa maksud جَدَّة dalam Bahasa Melayu?",
+      "options": [
+        "Datuk (sebelah ayah)",
+        "Nenek (sebelah ayah)",
+        "Mak cik (sebelah ibu)",
+        "Mak cik (sebelah ayah)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "الْجَدُّ فِي سَاحَةِ الْمَسْجِدِ bermaksud...",
+      "options": [
+        "Datuk di rumah",
+        "Datuk di dapur",
+        "Datuk di pekarangan masjid",
+        "Datuk di sekolah"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Lengkapkan: هَذَا عَمِّي وَهُوَ... (Ini pak cik saya, beliau doktor)",
+      "options": ["مُعَلِّم", "طَبِيب", "مُمَرِّضَة", "مُدِير"],
+      "answer": 1
+    },
+    {
+      "q": "Nombor 65 dalam Bahasa Arab ialah...",
+      "options": [
+        "خَمْسَةٌ وَخَمْسُون",
+        "خَمْسَةٌ وَسِتُّون",
+        "خَمْسَةٌ وَسَبْعُون",
+        "خَمْسَةٌ وَثَمَانُون"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "أُسْرَة (Keluarga)", "colour": "#2196F3" },
+      { "id": "n2", "label": "أَب + أُمّ", "colour": "#1565C0" },
+      { "id": "n3", "label": "جَدّ + جَدَّة", "colour": "#42A5F5" },
+      { "id": "n4", "label": "عَمّ + خَال", "colour": "#1565C0" },
+      { "id": "n5", "label": "Profesion Keluarga", "colour": "#42A5F5" },
+      { "id": "n6", "label": "Quran al-Tawbah: 24", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "ada" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "ada" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "ada" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "bekerja" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "dalil cinta" }
+    ]
+  },
+  "vocab": [
+    { "word": "أَب", "meaning": "ayah" },
+    { "word": "أُمّ", "meaning": "ibu" },
+    { "word": "جَدّ", "meaning": "datuk (sebelah ayah)" },
+    { "word": "جَدَّة", "meaning": "nenek (sebelah ayah)" },
+    { "word": "خَال", "meaning": "pak cik (adik/abang ibu)" },
+    { "word": "طَبِيب", "meaning": "doktor" },
+    { "word": "مُمَرِّضَة", "meaning": "jururawat (perempuan)" },
+    { "word": "رَبَّةُ الْبَيْت", "meaning": "penjaga / ibu rumah tangga" }
+  ],
+  "funFact": "Dalam Islam, ibu mendapat darjat 3 kali lebih tinggi dari ayah! Nabi ﷺ ditanya: 'Siapa yang paling berhak mendapat layanan terbaik?' Baginda menjawab: 'Ibumu! Ibumu! Ibumu!' Baru kemudian Baginda sebut 'Ayahmu.' Muliakan ibu kita selalu!"
+}

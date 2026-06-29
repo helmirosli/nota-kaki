@@ -1,0 +1,196 @@
+{
+  "id": "jais-tahun-1-bahasa-arab-bab5",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "bahasa-arab",
+  "chapter": 5,
+  "title": "Hari-hari Dalam Seminggu",
+  "emoji": "📅",
+  "colour": "#2196F3",
+  "estimatedMinutes": 13,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Kemahiran Pelajaran Ini 📚",
+      "body": "Selepas belajar Dars ini, kamu boleh: MENDENGAR nama hari-hari seminggu, MENYEBUT hari-hari dengan betul, MEMBACA dialog tentang aktiviti harian, MENULIS nama hari-hari dengan tepat, dan BERTANYA tentang aktiviti pada hari tertentu!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📆",
+          "title": "7 Hari Dalam Seminggu",
+          "body": {
+            "type": "list",
+            "intro": "أَيَّامُ الْأُسْبُوعِ — Hari-hari dalam seminggu:",
+            "items": [
+              "يَوْمُ الْأَحَدِ — Hari Ahad",
+              "يَوْمُ الْاِثْنَيْنِ — Hari Isnin",
+              "يَوْمُ الثُّلَاثَاءِ — Hari Selasa",
+              "يَوْمُ الْأَرْبِعَاءِ — Hari Rabu",
+              "يَوْمُ الْخَمِيسِ — Hari Khamis",
+              "يَوْمُ الْجُمُعَةِ — Hari Jumaat",
+              "يَوْمُ السَّبْتِ — Hari Sabtu"
+            ]
+          }
+        },
+        {
+          "icon": "🏃",
+          "title": "Aktiviti Pada Hari Tertentu",
+          "body": {
+            "type": "list",
+            "intro": "Dialog — Bila kamu buat aktiviti ini? (مَتَى...؟)",
+            "items": [
+              "أَتَعَلَّمُ اللُّغَةَ الْعَرَبِيَّةَ فِي يَوْمِ الثُّلَاثَاءِ — Saya belajar Bahasa Arab pada Hari Selasa",
+              "أَرْكَبُ الْأُوتُوبِيسَ فِي يَوْمِ الاِثْنَيْنِ — Saya naik bas pada Hari Isnin",
+              "أُرَاجِعُ حِفْظَ الْقُرْآنِ فِي يَوْمِ الْخَمِيسِ — Saya ulang kaji hafalan al-Quran pada Hari Khamis",
+              "أَلْعَبُ الْكُرَةَ فِي يَوْمِ الْأَرْبِعَاءِ — Saya bermain bola pada Hari Rabu"
+            ]
+          }
+        },
+        {
+          "icon": "🕌",
+          "title": "Aktiviti Hujung Minggu",
+          "body": {
+            "type": "list",
+            "intro": "Aktiviti hari Jumaat, Sabtu dan Ahad:",
+            "items": [
+              "أُصَلِّي الْجُمُعَةَ فِي يَوْمِ الْجُمُعَةِ — Saya solat Jumaat pada Hari Jumaat",
+              "أَزُورُ جَدَّتِي فِي يَوْمِ السَّبْتِ — Saya lawat nenek saya pada Hari Sabtu",
+              "أُنَظِّفُ غُرْفَتِي مَعَ أُمِّي فِي يَوْمِ الْأَحَدِ — Saya kemas bilik bersama ibu pada Hari Ahad"
+            ]
+          }
+        },
+        {
+          "icon": "🔢",
+          "title": "Nombor Arab 11 hingga 20",
+          "body": {
+            "type": "list",
+            "intro": "Nombor 11-20 dalam Bahasa Arab:",
+            "items": [
+              "١١ — أَحَدَ عَشَرَ (sebelas)",
+              "١٢ — اثْنَا عَشَرَ (dua belas)",
+              "١٣ — ثَلَاثَةَ عَشَرَ (tiga belas)",
+              "١٤ — أَرْبَعَةَ عَشَرَ (empat belas)",
+              "١٥ — خَمْسَةَ عَشَرَ (lima belas)",
+              "١٦ — سِتَّةَ عَشَرَ (enam belas)",
+              "١٧ — سَبْعَةَ عَشَرَ (tujuh belas)",
+              "١٨ — ثَمَانِيَةَ عَشَرَ (lapan belas)",
+              "١٩ — تِسْعَةَ عَشَرَ (sembilan belas)",
+              "٢٠ — عِشْرُون (dua puluh)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah SWT berfirman:",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ",
+        "translation": "Wahai orang-orang yang beriman! Apabila dikumandangkan azan untuk solat pada Hari Jumaat, maka segeralah menuju kepada mengingati Allah dan tinggalkanlah jual beli.",
+        "source": "Surah al-Jumuah: 9",
+        "outro": "Hari Jumaat adalah hari paling mulia dalam seminggu — segerakan ke masjid apabila terdengar azan Jumaat!",
+        "more": [
+          {
+            "instruction": "Ayat Latihan — Hadir Sekolah:",
+            "arabic": "اُحْضُرِ الْمَدْرَسَةَ خِلَالَ أَيَّامِ الدِّرَاسَة",
+            "translation": "Hadiri sekolah sepanjang hari-hari persekolahan"
+          },
+          {
+            "instruction": "Ayat Latihan — Baca al-Quran:",
+            "arabic": "اقْرَأِ الْقُرْآنَ كُلَّ يَوْمٍ",
+            "translation": "Bacalah al-Quran setiap hari"
+          }
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Dialog — Aktiviti Pada Hari Apa? 🗣️",
+      "items": [
+        {
+          "type": "arabic",
+          "instruction": "Tanya tentang Bahasa Arab:",
+          "arabic": "مَتَى تَتَعَلَّمُ اللُّغَةَ الْعَرَبِيَّةَ؟ ← أَتَعَلَّمُ اللُّغَةَ الْعَرَبِيَّةَ فِي يَوْمِ الثُّلَاثَاء",
+          "translation": "Bila kamu belajar Bahasa Arab? ← Saya belajar pada Hari Selasa"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tanya tentang hafalan Quran:",
+          "arabic": "مَتَى تُرَاجِعُ حِفْظَ الْقُرْآنِ؟ ← أُرَاجِعُ حِفْظَ الْقُرْآنِ فِي يَوْمِ الْخَمِيس",
+          "translation": "Bila kamu ulang kaji hafalan? ← Saya ulang kaji pada Hari Khamis"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tanya tentang solat Jumaat:",
+          "arabic": "مَتَى تُصَلِّي الْجُمُعَةَ؟ ← أُصَلِّي الْجُمُعَةَ فِي يَوْمِ الْجُمُعَة",
+          "translation": "Bila kamu solat Jumaat? ← Saya solat Jumaat pada Hari Jumaat"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tanya tentang bermain bola:",
+          "arabic": "مَتَى تَلْعَبُ الْكُرَةَ؟ ← أَلْعَبُ الْكُرَةَ فِي يَوْمِ الْأَرْبِعَاء",
+          "translation": "Bila kamu bermain bola? ← Saya bermain pada Hari Rabu"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah Bahasa Arab bagi 'Hari Jumaat'?",
+      "options": ["يَوْمُ الْخَمِيس", "يَوْمُ الْجُمُعَة", "يَوْمُ السَّبْت", "يَوْمُ الْأَحَد"],
+      "answer": 1
+    },
+    {
+      "q": "أَتَعَلَّمُ اللُّغَةَ الْعَرَبِيَّةَ فِي يَوْمِ الثُّلَاثَاءِ bermaksud...",
+      "options": [
+        "Saya belajar Bahasa Arab pada Hari Isnin",
+        "Saya belajar Bahasa Arab pada Hari Selasa",
+        "Saya mengajar Bahasa Arab pada Hari Rabu",
+        "Saya belajar Bahasa Arab pada Hari Khamis"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Nombor Arab bagi 'lima belas' ialah...",
+      "options": ["خَمْسَةَ عَشَرَ", "أَرْبَعَةَ عَشَرَ", "سِتَّةَ عَشَرَ", "ثَلَاثَةَ عَشَرَ"],
+      "answer": 0
+    },
+    {
+      "q": "Hari apakah yang disebut dalam Surah al-Jumuah sebagai hari solat Jumaat?",
+      "options": ["يَوْمُ السَّبْت", "يَوْمُ الْأَحَد", "يَوْمُ الْجُمُعَة", "يَوْمُ الْخَمِيس"],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "أَيَّامُ الْأُسْبُوع", "colour": "#2196F3" },
+      { "id": "n2", "label": "الْجُمُعَة (Jumaat)", "colour": "#1565C0" },
+      { "id": "n3", "label": "الثُّلَاثَاء (Selasa)", "colour": "#42A5F5" },
+      { "id": "n4", "label": "الْخَمِيس (Khamis)", "colour": "#1565C0" },
+      { "id": "n5", "label": "مَتَى؟ (Bila?)", "colour": "#42A5F5" },
+      { "id": "n6", "label": "فِي يَوْمِ... (pada hari...)", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "hari mulia" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "belajar Arab" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "ulang kaji" },
+      { "id": "e4", "source": "n5", "target": "n6", "label": "jawab" },
+      { "id": "e5", "source": "n6", "target": "n1", "label": "guna" }
+    ]
+  },
+  "vocab": [
+    { "word": "يَوْم", "meaning": "hari" },
+    { "word": "أُسْبُوع", "meaning": "minggu" },
+    { "word": "مَتَى؟", "meaning": "bila? / kapan?" },
+    { "word": "الْجُمُعَة", "meaning": "Jumaat" },
+    { "word": "الْخَمِيس", "meaning": "Khamis" },
+    { "word": "الثُّلَاثَاء", "meaning": "Selasa" },
+    { "word": "الْأَرْبِعَاء", "meaning": "Rabu" },
+    { "word": "الْاِثْنَيْن", "meaning": "Isnin" }
+  ],
+  "funFact": "Hari dalam seminggu dalam Bahasa Arab bermula dengan يَوْمُ الْأَحَد (Ahad = hari pertama), bukan Isnin! Ini kerana perkataan أَحَد bermaksud 'satu' — hari pertama dalam seminggu Islam. Hari Jumaat pula adalah hari paling istimewa kerana ia hari perhimpunan solat Jumaat."
+}

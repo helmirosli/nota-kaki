@@ -1,0 +1,228 @@
+{
+  "id": "jais-tahun-2-bahasa-arab-bab5",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "bahasa-arab",
+  "chapter": 5,
+  "title": "Sayur-sayuran Segar",
+  "emoji": "🥦",
+  "colour": "#2E7D32",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْخَضْرَاوَات — Sayur-sayuran",
+      "body": "Dalam pelajaran ini kita belajar nama-nama sayur-sayuran dalam bahasa Arab. Sayur-sayuran sangat bagus untuk kesihatan tubuh badan kita. الْخَضْرَاوَاتُ طَازِجَة — Sayur-sayuran itu segar! Mari kita belajar nama-nama sayur dalam bahasa Arab."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🍅",
+          "title": "Sayur Popular",
+          "body": "طَمَاطِمٌ = tomato • خِيَارٌ = timun • جَزَرٌ = lobak merah • بَصَلٌ = bawang • ثَوْمٌ = bawang putih • فِلْفِلٌ = cili/lada. Contoh: الْخِيَارُ لَوْنُهُ أَخْضَرُ = timun warnanya hijau. عَصِيرُ الْجَزَرِ لَذِيذٌ = jus lobak merah sedap!"
+        },
+        {
+          "icon": "🥔",
+          "title": "Sayur Umbi dan Lain-lain",
+          "body": "بَطَاطِسٌ = kentang • بَاذِنْجَانٌ = terung • بَامِيَةٌ = bendi • كُرُنْبٌ = kubis • خَرْدَلٌ = sawi • فُطْرٌ = cendawan. Contoh: أُمِّي تَطْبَخُ الْبَامِيَةَ = Ibu saya memasak bendi. الْبَصَلُ رَخِيصٌ = Bawang murah harganya."
+        },
+        {
+          "icon": "🥗",
+          "title": "Kebaikan Sayur-sayuran",
+          "body": "الْخَضْرَاوَاتُ مُفِيدَةٌ لِصِحَّةِ الْجِسْمِ = Sayur-sayuran bermanfaat untuk kesihatan tubuh badan. أَكْثِرْ تَنَاوُلَ الْخَضْرَاوَاتِ فِي طَعَامِكَ = Perbanyakkan makan sayur dalam makananmu. Sayur-sayuran mengandungi vitamin dan mineral yang penting!"
+        },
+        {
+          "icon": "🛒",
+          "title": "Aktiviti Membeli Sayur",
+          "body": "يَشْتَرِي أَبِي الْخَضْرَاوَاتِ = Ayah saya membeli sayur-sayuran. أُخْتِي تَغْسِلُ الْخَرْدَلَ = Kakak saya membasuh sawi. مَا الْخَضْرَاوَاتُ فِي السَّلَطَةِ يَا أُمِّي؟ = Apa sayur dalam salad, ibu? فِيهَا بَطَاطِسٌ وَطَمَاطِمٌ وَجَزَرٌ وَكُرُنْبٌ وَفِلْفِلٌ = Dalamnya ada kentang, tomato, lobak merah, kubis dan cili."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah berfirman dalam Surah al-Baqarah ayat 61 tentang pelbagai jenis makanan yang dikurniakan. Dalam bahasa Arab:",
+        "arabic": "كُلِ الْأَطْعِمَةَ الصِّحِّيَّةَ الْمُفِيدَةَ",
+        "translation": "Makanlah makanan yang sihat dan bermanfaat!",
+        "more": [
+          {
+            "arabic": "أَكْثِرْ تَنَاوُلَ الْخَضْرَاوَاتِ فِي طَعَامِكَ",
+            "translation": "Perbanyakkan makan sayur dalam makananmu."
+          }
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Dialog tentang Sayur-sayuran",
+      "items": [
+        {
+          "type": "arabic",
+          "arabic": "يَشْتَرِي أَبِي الْخَضْرَاوَاتِ"
+        },
+        {
+          "type": "arabic",
+          "arabic": "أُمِّي تَطْبَخُ الْبَامِيَةَ"
+        },
+        {
+          "type": "arabic",
+          "arabic": "الْبَصَلُ رَخِيصٌ"
+        },
+        {
+          "type": "arabic",
+          "arabic": "الْخِيَارُ لَوْنُهُ أَخْضَرُ"
+        },
+        {
+          "type": "arabic",
+          "arabic": "الْخَضْرَاوَاتُ مُفِيدَةٌ لِصِحَّةِ الْجِسْمِ"
+        },
+        {
+          "type": "arabic",
+          "arabic": "مَاذَا تَطْبَخِينَ يَا أُمِّي طَعَامَ الْعَشَاءِ؟"
+        },
+        {
+          "type": "arabic",
+          "arabic": "أَطْبَخُ السَّلَطَةَ وَالدَّجَاجَ الْمَقْلِيَّ"
+        },
+        {
+          "type": "arabic",
+          "arabic": "عَصِيرُ الْجَزَرِ لَذِيذٌ"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud بَاذِنْجَانٌ dalam bahasa Melayu?",
+      "options": [
+        "Timun",
+        "Tomato",
+        "Terung",
+        "Bendi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "أُمِّي تَطْبَخُ الْبَامِيَةَ bermaksud?",
+      "options": [
+        "Ibu saya membeli bendi",
+        "Ibu saya memasak bendi",
+        "Ibu saya membasuh kubis",
+        "Ibu saya makan timun"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sayur manakah yang bermaksud 'lobak merah'?",
+      "options": [
+        "بَصَلٌ",
+        "ثَوْمٌ",
+        "جَزَرٌ",
+        "كُرُنْبٌ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "الْخَضْرَاوَاتُ مُفِيدَةٌ لِصِحَّةِ الْجِسْمِ bermaksud?",
+      "options": [
+        "Buah-buahan manis untuk makan",
+        "Sayur-sayuran bermanfaat untuk kesihatan",
+        "Kita perlu beli sayur di pasar",
+        "Sayur-sayuran berwarna hijau"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "الْخَضْرَاوَات (Sayur)",
+        "colour": "#2E7D32"
+      },
+      {
+        "id": "n2",
+        "label": "Sayur Popular",
+        "colour": "#388E3C"
+      },
+      {
+        "id": "n3",
+        "label": "Sayur Umbi",
+        "colour": "#388E3C"
+      },
+      {
+        "id": "n4",
+        "label": "طَمَاطِمٌ (tomato)",
+        "colour": "#81C784"
+      },
+      {
+        "id": "n5",
+        "label": "بَطَاطِسٌ (kentang)",
+        "colour": "#81C784"
+      },
+      {
+        "id": "n6",
+        "label": "بَامِيَةٌ (bendi)",
+        "colour": "#1B5E20"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "jenis"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "jenis"
+      },
+      {
+        "id": "e3",
+        "source": "n2",
+        "target": "n4",
+        "label": "contoh"
+      },
+      {
+        "id": "e4",
+        "source": "n3",
+        "target": "n5",
+        "label": "contoh"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n6",
+        "label": "ada"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "طَمَاطِمٌ",
+      "meaning": "tomato"
+    },
+    {
+      "word": "خِيَارٌ",
+      "meaning": "timun"
+    },
+    {
+      "word": "جَزَرٌ",
+      "meaning": "lobak merah"
+    },
+    {
+      "word": "بَصَلٌ",
+      "meaning": "bawang"
+    },
+    {
+      "word": "بَامِيَةٌ",
+      "meaning": "bendi"
+    }
+  ],
+  "funFact": "Tahukah kamu bahawa perkataan 'timun' dalam bahasa Arab ialah خِيَار (khiyar)? Perkataan ini juga bermaksud 'pilihan terbaik'! Jadi bila kamu makan timun, kamu sedang memilih makanan terbaik untuk kesihatan!"
+}

@@ -1,0 +1,263 @@
+{
+  "id": "jais-tahun-2-akhlak-bab6",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "akhlak",
+  "chapter": 6,
+  "title": "Adab dengan Mushaf al-Quran",
+  "emoji": "📖",
+  "colour": "#6A1B9A",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Al-Quran — Kalam Allah yang Mulia",
+      "body": "Al-Quran adalah kitab suci umat Islam dan merupakan Kalam Allah yang sangat mulia. Membaca al-Quran adalah satu ibadah yang mendapat pahala. Oleh sebab itu, kita perlu menjaga adab yang betul ketika membawa, membaca dan menyimpan Mushaf al-Quran supaya kita sentiasa memuliakan kitab suci ini."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Adab Membawa Mushaf al-Quran",
+          "body": {
+            "type": "list",
+            "items": [
+              "Pegang Mushaf al-Quran dengan tangan kanan",
+              "Berwudhu sebelum memegang mushaf",
+              "Angkat mushaf kira-kira setinggi dada",
+              "Berpakaian bersih dan menutup aurat"
+            ]
+          }
+        },
+        {
+          "icon": "🗣️",
+          "title": "Adab Membaca al-Quran",
+          "body": {
+            "type": "list",
+            "items": [
+              "Membaca dalam keadaan berwudhu dan menutup aurat",
+              "Mulakan dengan ta'awwudz dan basmalah",
+              "Membaca dengan tartil dan bertajwid",
+              "Lakukan sujud tilawah apabila tiba ayat sajdah",
+              "Ambil iktibar daripada apa yang dibaca"
+            ]
+          }
+        },
+        {
+          "icon": "📦",
+          "title": "Adab Menyimpan Mushaf al-Quran",
+          "body": {
+            "type": "list",
+            "items": [
+              "Simpan dengan penuh hormat di tempat yang sesuai",
+              "Tutup Mushaf al-Quran selepas selesai membaca",
+              "Tidak meletakkan sesuatu benda di atas mushaf"
+            ]
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "Faedah Beradab dengan al-Quran",
+          "body": {
+            "type": "list",
+            "items": [
+              "Tenang dan tenteram jiwa",
+              "Mendapat berkah kehidupan",
+              "Memahami dan menghayati ayat-ayat yang dibaca",
+              "Mendapat syafaat al-Quran",
+              "Mendapat pahala berlipat ganda"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Rasulullah ﷺ bersabda daripada Ali bin Abi Talib",
+        "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْءَآنَ وَعَلَّمَهُ",
+        "translation": "Sebaik-baik kamu adalah orang yang belajar al-Quran dan mengajarkannya.",
+        "source": "Riwayat Tirmizi, Abu Dawud dan Ibn Majah"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Adab Membawa Mushaf al-Quran",
+      "items": [
+        "Berada dalam keadaan berwudhu ketika membawa al-Quran",
+        "Pegang dengan tangan kanan",
+        "Angkat setinggi dada sebagai tanda hormat",
+        "Berpakaian bersih dan menutup aurat",
+        "Jaga al-Quran dengan penuh rasa hormat"
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Adab Membaca al-Quran",
+      "items": [
+        "Mulakan dengan membaca A'uzubillah lalu Bismillah",
+        "Baca dengan tartil (perlahan dan jelas) menggunakan tajwid yang betul",
+        "Beri tumpuan sepenuhnya semasa membaca",
+        "Ambil iktibar daripada ayat yang dibaca",
+        "Lakukan sujud tilawah selepas membaca ayat yang disunatkan sujud",
+        "Tutup Mushaf apabila selesai membaca"
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Adab Menyimpan Mushaf al-Quran",
+      "items": [
+        "Letakkan di tempat yang tinggi dan terhormat",
+        "Jangan letakkan al-Quran di tempat yang kotor atau rendah",
+        "Jangan letakkan sebarang benda lain di atas al-Quran",
+        "Tutup Mushaf dengan baik selepas membaca",
+        "Jangan bercakap perkara sia-sia semasa membaca al-Quran"
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Faedah Beradab dengan Mushaf al-Quran",
+      "items": [
+        "Mendapat ganjaran pahala yang besar",
+        "Al-Quran akan memberi syafaat pada Hari Kiamat",
+        "Mendapat keberkatan hidup",
+        "Jiwa menjadi tenang dan tenteram",
+        "Memahami dan menghayati ayat-ayat yang dibaca"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah syarat yang perlu dipenuhi sebelum memegang Mushaf al-Quran?",
+      "options": [
+        "Memakai baju baru",
+        "Berada dalam keadaan berwudhu",
+        "Membaca doa tidur",
+        "Makan terlebih dahulu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Di manakah kita perlu menyimpan Mushaf al-Quran?",
+      "options": [
+        "Di atas lantai",
+        "Di dalam beg sekolah sahaja",
+        "Di tempat yang tinggi dan terhormat",
+        "Di bawah bantal"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah maksud 'membaca dengan tartil'?",
+      "options": [
+        "Membaca dengan cepat-cepat",
+        "Membaca dengan perlahan, jelas dan betul",
+        "Membaca dalam hati sahaja",
+        "Membaca sambil berjalan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Mengikut hadith, siapakah yang dikatakan sebaik-baik manusia?",
+      "options": [
+        "Orang yang banyak harta",
+        "Orang yang belajar al-Quran dan mengajarkannya",
+        "Orang yang rajin bersukan",
+        "Orang yang pandai memasak"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Adab dengan al-Quran",
+        "colour": "#6A1B9A"
+      },
+      {
+        "id": "n2",
+        "label": "Membawa",
+        "colour": "#4A148C"
+      },
+      {
+        "id": "n3",
+        "label": "Membaca",
+        "colour": "#CE93D8"
+      },
+      {
+        "id": "n4",
+        "label": "Menyimpan",
+        "colour": "#4A148C"
+      },
+      {
+        "id": "n5",
+        "label": "Berwudhu",
+        "colour": "#CE93D8"
+      },
+      {
+        "id": "n6",
+        "label": "Hadith Ali bin Abi Talib",
+        "colour": "#1A0030"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "ada"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "ada"
+      },
+      {
+        "id": "e3",
+        "source": "n1",
+        "target": "n4",
+        "label": "ada"
+      },
+      {
+        "id": "e4",
+        "source": "n2",
+        "target": "n5",
+        "label": "syarat"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n6",
+        "label": "berdasarkan"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "mushaf",
+      "meaning": "buku atau kitab al-Quran yang ditulis lengkap dari surah al-Fatihah hingga surah al-Nas"
+    },
+    {
+      "word": "tartil",
+      "meaning": "cara membaca al-Quran dengan perlahan, jelas dan tenang"
+    },
+    {
+      "word": "tajwid",
+      "meaning": "ilmu tentang cara menyebut huruf-huruf al-Quran dengan betul mengikut makhraj"
+    },
+    {
+      "word": "syafaat",
+      "meaning": "pertolongan atau pembelaan di akhirat kelak"
+    },
+    {
+      "word": "sujud tilawah",
+      "meaning": "sujud yang dilakukan apabila membaca atau mendengar ayat-ayat sajdah dalam al-Quran"
+    }
+  ],
+  "funFact": "Tahukah kamu? Al-Quran adalah mukjizat Rasulullah ﷺ yang kekal hingga hari kiamat. Al-Quran akan memberi pertolongan (syafaat) kepada pembacanya di dunia dan di akhirat. Setiap huruf yang kita baca dalam al-Quran dikira satu pahala — bayangkan betapa banyak pahala jika kita membaca setiap hari!"
+}

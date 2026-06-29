@@ -1,0 +1,253 @@
+{
+  "id": "jais-tahun-2-akhlak-bab3",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "akhlak",
+  "chapter": 3,
+  "title": "Adab Berkenderaan",
+  "emoji": "🚌",
+  "colour": "#00897B",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Adab Semasa Menaiki Kenderaan",
+      "body": "Kenderaan adalah kurniaan Allah kepada kita untuk memudahkan perjalanan dari satu tempat ke tempat lain. Islam mengajar kita adab yang betul ketika menaiki kenderaan supaya perjalanan kita selamat dan mendapat pahala. Dengan beradab, kita juga menjaga keselamatan diri dan orang lain di jalan raya."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🦶",
+          "title": "Adab Menaiki Kenderaan",
+          "body": {
+            "type": "list",
+            "items": [
+              "Masuk ke dalam kenderaan dengan melangkah kaki kanan dahulu",
+              "Kenderaan yang dinaiki mestilah selamat dan sempurna",
+              "Baca doa sebelum memulakan perjalanan",
+              "Dahulukan orang yang lebih tua dan orang uzur",
+              "Patuhi peraturan jalan raya"
+            ]
+          }
+        },
+        {
+          "icon": "🚦",
+          "title": "Adab Semasa Dalam Kenderaan",
+          "body": {
+            "type": "list",
+            "items": [
+              "Jangan bergurau senda atau bergelak ketawa keterlaluan",
+              "Tidak berjudi-judi dalam kenderaan",
+              "Memahami dan mematuhi peraturan jalan raya",
+              "Bersyukur kepada Allah apabila selamat sampai ke destinasi"
+            ]
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "Faedah Beradab",
+          "body": {
+            "type": "list",
+            "items": [
+              "Mendapat pahala daripada Allah",
+              "Selamat dalam perjalanan",
+              "Mendisiplinkan diri di jalan raya",
+              "Kurang kesesakan lalu lintas",
+              "Mudah sampai ke tempat yang dituju"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Akibat Tidak Beradab",
+          "body": {
+            "type": "list",
+            "items": [
+              "Berlaku kemalangan",
+              "Menimbulkan kesesakan penggunaan jalan raya",
+              "Lambat sampai ke destinasi yang dituju",
+              "Menyebabkan kemarahan pengguna jalan raya lain"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🤲",
+      "text": {
+        "type": "arabic",
+        "instruction": "Doa Menaiki Kenderaan (Surah Az-Zukhruf 13-14)",
+        "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ وَإِنَّآ إِلَى رَبِّنَا لَمُنقَلِبُوْنَ",
+        "translation": "Maha Suci Tuhan yang telah memudahkan kenderaan ini bagi kami, sedang kami sebelum ini tidak terdaya menguasainya, dan sesungguhnya kepada Tuhan kami, kami akan kembali."
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Adab-adab Ketika Menaiki Kenderaan",
+      "items": [
+        "Pastikan kenderaan dalam keadaan selamat dan sempurna",
+        "Dahulukan orang yang lebih tua dan orang uzur",
+        "Melangkah masuk dengan kaki kanan terlebih dahulu",
+        "Baca doa sebelum memulakan perjalanan",
+        "Jangan bergelak ketawa atau bergurau keterlaluan",
+        "Patuhi peraturan jalan raya sepanjang perjalanan",
+        "Bersyukur kepada Allah apabila selamat sampai ke destinasi"
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Faedah Beradab Ketika Berkenderaan",
+      "items": [
+        "Mendapat ganjaran pahala daripada Allah",
+        "Mudah sampai ke destinasi yang dituju",
+        "Selamat sepanjang perjalanan",
+        "Melatih diri supaya berdisiplin di jalan raya",
+        "Mengurangkan kesesakan lalu lintas"
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Akibat Tidak Beradab Ketika Berkenderaan",
+      "items": [
+        "Lambat sampai ke destinasi yang dituju",
+        "Berlaku kemalangan yang membahayakan",
+        "Menimbulkan kemarahan pengguna jalan raya lain",
+        "Mendapat dosa kerana tidak bersyukur",
+        "Menyebabkan kesesakan dan masalah di jalan raya"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Kaki manakah yang perlu dilangkahkan terlebih dahulu ketika masuk ke dalam kenderaan?",
+      "options": [
+        "Kaki kiri",
+        "Kaki kanan",
+        "Mana-mana kaki",
+        "Kedua-dua kaki serentak"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Doa menaiki kenderaan diambil daripada surah manakah?",
+      "options": [
+        "Surah al-Fatihah",
+        "Surah al-Baqarah",
+        "Surah Az-Zukhruf",
+        "Surah al-Ikhlas"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang perlu kita lakukan apabila selamat sampai ke destinasi?",
+      "options": [
+        "Terus bermain",
+        "Bersyukur kepada Allah",
+        "Mengadu kepada ibu bapa",
+        "Tidur"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Siapakah yang perlu diutamakan ketika masuk ke dalam kenderaan?",
+      "options": [
+        "Kawan-kawan yang sama umur",
+        "Orang yang berlari lebih pantas",
+        "Orang yang lebih tua dan orang uzur",
+        "Sesiapa sahaja"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Adab Berkenderaan",
+        "colour": "#00897B"
+      },
+      {
+        "id": "n2",
+        "label": "Semasa Naik",
+        "colour": "#00695C"
+      },
+      {
+        "id": "n3",
+        "label": "Semasa Perjalanan",
+        "colour": "#B2DFDB"
+      },
+      {
+        "id": "n4",
+        "label": "Kaki Kanan Dahulu",
+        "colour": "#00695C"
+      },
+      {
+        "id": "n5",
+        "label": "Patuhi Peraturan",
+        "colour": "#B2DFDB"
+      },
+      {
+        "id": "n6",
+        "label": "Surah Az-Zukhruf 13-14",
+        "colour": "#004D40"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "ada"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "ada"
+      },
+      {
+        "id": "e3",
+        "source": "n2",
+        "target": "n4",
+        "label": "termasuk"
+      },
+      {
+        "id": "e4",
+        "source": "n3",
+        "target": "n5",
+        "label": "termasuk"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n6",
+        "label": "berdasarkan"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "kenderaan",
+      "meaning": "alat pengangkutan seperti kereta, bas, motosikal dan sebagainya"
+    },
+    {
+      "word": "uzur",
+      "meaning": "orang yang ada keuzuran atau kesusahan fizikal, seperti orang tua atau orang kurang upaya"
+    },
+    {
+      "word": "destinasi",
+      "meaning": "tempat yang dituju semasa dalam perjalanan"
+    },
+    {
+      "word": "peraturan jalan raya",
+      "meaning": "undang-undang dan peraturan yang perlu dipatuhi oleh semua pengguna jalan"
+    },
+    {
+      "word": "bersyukur",
+      "meaning": "berterima kasih dan mengucapkan pujian kepada Allah atas nikmat yang diterima"
+    }
+  ],
+  "funFact": "Tahukah kamu? Islam menggalakkan kita untuk bermusafir secara berkumpulan kerana ia lebih selamat. Rasulullah ﷺ bersabda bahawa bermusafir berjemaah adalah lebih baik. Ingatlah untuk berdoa setiap kali menaiki kenderaan di mana jua kita berada!"
+}

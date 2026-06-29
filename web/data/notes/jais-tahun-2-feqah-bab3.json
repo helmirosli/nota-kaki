@@ -1,0 +1,192 @@
+{
+  "id": "jais-tahun-2-feqah-bab3",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "feqah",
+  "chapter": 3,
+  "title": "Cara Solat yang Betul",
+  "emoji": "🙏",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Solat — Tiang Agama Islam 🙏",
+      "body": {
+        "type": "arabic",
+        "instruction": "Solat adalah ibadah paling utama dalam Islam selepas Syahadah. Nabi ﷺ bersabda:",
+        "arabic": "اَلصَّلَاةُ عِمَادُ الدِّينِ فَمَنْ أَقَامَهَا فَقَدْ أَقَامَ الدِّينَ وَمَنْ هَدَمَهَا فَقَدْ هَدَمَ الدِّينَ",
+        "translation": "Solat adalah tiang agama. Siapa yang mendirikannya, dia mendirikan agama. Siapa yang meninggalkannya, dia meruntuhkan agama.",
+        "source": "Hadis Riwayat al-Baihaqi",
+        "outro": "Mari belajar cara solat yang betul!"
+      }
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📋",
+          "title": "Rukun Solat (13 Rukun)",
+          "body": {
+            "type": "list",
+            "items": [
+              "Niat",
+              "Berdiri (bagi yang mampu)",
+              "Takbiratul Ihram (Allahu Akbar)",
+              "Baca al-Fatihah",
+              "Rukuk",
+              "I'tidal (bangun dari rukuk)",
+              "Sujud",
+              "Duduk antara dua sujud",
+              "Sujud kedua",
+              "Duduk tahiyyat akhir",
+              "Baca tahiyyat akhir",
+              "Berselawat atas Nabi",
+              "Memberi salam"
+            ],
+            "outro": "Rukun = WAJIB — terlepas satu = BATAL solat!"
+          }
+        },
+        {
+          "icon": "🤲",
+          "title": "Cara Berdiri dan Niat",
+          "body": {
+            "type": "list",
+            "items": [
+              "Berdiri tegak menghadap kiblat (Kaabah di Makkah)",
+              "Niat dalam hati mengikut solat yang hendak dilakukan",
+              "Contoh niat Subuh: 'Sahaja aku solat fardhu Subuh dua rakaat tunai kerana Allah Ta'ala.'",
+              "Takbiratul Ihram: angkat kedua tangan hingga telinga (lelaki) atau bahu (perempuan) sambil lafaz Allahu Akbar"
+            ]
+          }
+        },
+        {
+          "icon": "⬇️",
+          "title": "Rukuk, I'tidal, dan Sujud",
+          "body": {
+            "type": "arabic",
+            "instruction": "RUKUK: Tunduk 90°, tangan pada lutut, baca (3x):",
+            "arabic": "سُبْحَانَ رَبِّيَ الْعَظِيمِ",
+            "translation": "Maha Suci Tuhanku yang Maha Agung.",
+            "more": [
+              {
+                "instruction": "I'TIDAL: Bangun tegak, imam baca:",
+                "arabic": "سَمِعَ اللهُ لِمَنْ حَمِدَهُ",
+                "translation": "Allah mendengar orang yang memuji-Nya."
+              },
+              {
+                "instruction": "Jawapan i'tidal (makmum & imam):",
+                "arabic": "رَبَّنَا وَلَكَ الْحَمْد",
+                "translation": "Wahai Tuhan kami, bagi-Mu segala puji."
+              },
+              {
+                "instruction": "SUJUD: Dahi, hidung, kedua tangan, lutut, hujung kaki di lantai. Baca (3x):",
+                "arabic": "سُبْحَانَ رَبِّيَ الْأَعْلَى",
+                "translation": "Maha Suci Tuhanku yang Maha Tinggi."
+              }
+            ]
+          }
+        },
+        {
+          "icon": "🏁",
+          "title": "Tahiyyat dan Salam",
+          "body": {
+            "type": "arabic",
+            "instruction": "DUDUK TAHIYYAT AKHIR (duduk iftirasy), baca:",
+            "arabic": "اَلتَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ للهِ",
+            "translation": "Segala penghormatan yang berkat, segala sembahyang dan kebaikan adalah kepunyaan Allah.",
+            "more": [
+              {
+                "instruction": "Kemudian BERSELAWAT:",
+                "arabic": "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ",
+                "translation": "Ya Allah, limpahkan selawat ke atas Muhammad dan keluarga Muhammad."
+              },
+              {
+                "instruction": "SALAM: menoleh ke kanan kemudian ke kiri:",
+                "arabic": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ",
+                "translation": "Semoga keselamatan dan rahmat Allah ke atas kamu."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadis Nabi ﷺ:",
+        "arabic": "صَلُّوا كَمَا رَأَيْتُمُونِي أُصَلِّي",
+        "translation": "Solatlah kamu sepertimana kamu melihat aku solat.",
+        "source": "Riwayat Bukhari",
+        "outro": "Cara solat kita mengikut cara Nabi ﷺ yang diajar secara langsung. Solat adalah waktu perbualan antara kita dan Allah — buat dengan penuh khusyu' dan cinta!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Urutan Solat dari Mula hingga Salam 🙏",
+      "items": [
+        "Berdiri → Niat → Takbiratul Ihram (Allahu Akbar) → Baca al-Fatihah + Surah",
+        "Rukuk (Subhana rabbiyal 'azim 3x) → I'tidal (Sami'allahu liman hamidah)",
+        "Sujud (Subhana rabbiyal a'la 3x) → Duduk antara dua sujud → Sujud kedua",
+        "Rakaat ke-2: ulang (bila lebih dari 2 rakaat: baca tahiyyat awal di rakaat ke-2)",
+        "Rakaat terakhir: Tahiyyat akhir → Selawat → Salam kanan dan kiri"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa jumlah rukun solat?",
+      "options": ["10 rukun", "11 rukun", "13 rukun", "15 rukun"],
+      "answer": 2
+    },
+    {
+      "q": "Bacaan semasa sujud ialah...",
+      "options": ["سُبْحَانَ رَبِّيَ الْعَظِيمِ", "سُبْحَانَ رَبِّيَ الْأَعْلَى", "سَمِعَ اللهُ لِمَنْ حَمِدَهُ", "اَللهُ أَكْبَر"],
+      "answer": 1
+    },
+    {
+      "q": "Takbiratul Ihram ialah lafaz...",
+      "options": ["سُبْحَانَ اللهِ", "اَلْحَمْدُ للهِ", "اَللهُ أَكْبَر", "لَا إِلَهَ إِلَّا اللهُ"],
+      "answer": 2
+    },
+    {
+      "q": "Solat dianggap BATAL jika...",
+      "options": ["Lupa baca surah selepas al-Fatihah", "Terlepas satu rukun", "Solat terlambat sedikit", "Lupa berselawat"],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Cara Solat", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Niat+Takbir", "colour": "#6A1B9A" },
+      { "id": "n3", "label": "Baca+Rukuk", "colour": "#CE93D8" },
+      { "id": "n4", "label": "I'tidal+Sujud", "colour": "#6A1B9A" },
+      { "id": "n5", "label": "Tahiyyat+Salam", "colour": "#CE93D8" },
+      { "id": "n6", "label": "13 Rukun", "colour": "#4A148C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "mula" },
+      { "id": "e2", "source": "n2", "target": "n3", "label": "kemudian" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "kemudian" },
+      { "id": "e4", "source": "n4", "target": "n5", "label": "akhir" },
+      { "id": "e5", "source": "n6", "target": "n1", "label": "asas" }
+    ]
+  },
+  "vocab": [
+    { "word": "تَكْبِيرَة الْإِحْرَام", "meaning": "takbiratul ihram — Allahu Akbar untuk mula solat" },
+    { "word": "رُكُوع", "meaning": "rukuk — tunduk 90 darjah" },
+    { "word": "سُجُود", "meaning": "sujud — kepala ke lantai" },
+    { "word": "تَشَهُّد", "meaning": "tahiyyat/tashahhud — bacaan duduk akhir" },
+    { "word": "تَسْلِيم", "meaning": "salam — menoleh untuk akhiri solat" }
+  ],
+  "funFact": {
+    "type": "arabic",
+    "instruction": "Ketika sujud, kita paling dekat dengan Allah! Sabda Nabi ﷺ:",
+    "arabic": "أَقْرَبُ مَا يَكُونُ الْعَبْدُ مِنْ رَبِّهِ وَهُوَ سَاجِدٌ فَأَكْثِرُوا الدُّعَاءَ",
+    "translation": "Keadaan paling dekat seorang hamba dengan Tuhannya ialah ketika dia sujud, maka perbanyakkanlah doa.",
+    "source": "Riwayat Muslim",
+    "outro": "Dalam sujud, kita meletakkan dahi (bahagian paling mulia) di lantai (paling rendah) — tanda tunduk sepenuhnya kepada Allah. Manfaatkan waktu sujud untuk berdoa!"
+  }
+}

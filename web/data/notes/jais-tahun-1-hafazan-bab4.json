@@ -1,0 +1,227 @@
+{
+  "id": "jais-tahun-1-hafazan-bab4",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "hafazan",
+  "chapter": 4,
+  "title": "Surah al-Nas — Perlindungan dari Bisikan Syaitan",
+  "emoji": "🤲",
+  "colour": "#E91E63",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Surah al-Nas — Surah Terakhir al-Quran 🤲",
+      "body": "Surah al-Nas adalah surah ke-114 dan TERAKHIR dalam al-Quran. Kita memohon perlindungan Allah dari bisikan syaitan yang suka menggoda manusia. Bersama Surah al-Falaq, kedua-duanya dipanggil 'al-Mu'awwizatayn' (dua surah perlindungan)!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Teks Surah al-Nas (Arab)",
+          "body": {
+            "type": "arabic",
+            "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ ۝ قُلْ أَعُوذُ بِرَبِّ النَّاسِ ۝ مَلِكِ النَّاسِ ۝ إِلَهِ النَّاسِ ۝ مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ۝ الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ ۝ مِنَ الْجِنَّةِ وَالنَّاسِ ۝"
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Transliterasi + Terjemahan",
+          "body": {
+            "type": "list",
+            "items": [
+              "Qul a'uzu bi rabbin-nas = Katakanlah: Aku berlindung kepada Tuhan manusia",
+              "Malikin-nas = Raja manusia",
+              "Ilahin-nas = Tuhan (yang disembah) manusia",
+              "Min sharril-waswasil-khannas = Dari kejahatan syaitan yang membisik lalu bersembunyi",
+              "Allazi yuwaswisu fi sudurin-nas = Yang membisikkan kejahatan ke dalam dada manusia",
+              "Minal-jinnati wan-nas = Dari golongan jin dan manusia"
+            ]
+          }
+        },
+        {
+          "icon": "😈",
+          "title": "Siapa الْوَسْوَاس الْخَنَّاس?",
+          "body": {
+            "type": "list",
+            "items": [
+              "الْوَسْوَاس — yang membisik-bisik (syaitan)",
+              "الْخَنَّاس — yang bersembunyi apabila kita ingat Allah!",
+              "Strategi syaitan: bisik ajakan jahat ke hati kita, tapi apabila kita sebut nama Allah, dia terus LARI dan bersembunyi",
+              "Selalu ingat Allah untuk halau syaitan!"
+            ]
+          }
+        },
+        {
+          "icon": "🛡️",
+          "title": "3 Sifat Allah yang Disebut",
+          "body": {
+            "type": "list",
+            "items": [
+              "رَبِّ النَّاس — Tuhan manusia (yang mencipta dan menjaga)",
+              "مَلِكِ النَّاس — Raja manusia (yang berkuasa)",
+              "إِلَهِ النَّاس — Tuhan manusia (yang disembah)",
+              "Kita berlindung kepada Allah yang memiliki 3 sifat agung ini!"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "arabic",
+        "instruction": "CARA LINDUNGI DIRI: Bila ada bisikan jahat dalam hati (nak buat jahat, nak marah, nak bohong), segera sebut",
+        "arabic": "أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيمِ"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Amalan Harian dengan Surah al-Nas 🌙",
+      "items": [
+        "Baca setiap pagi (selepas Subuh) dan petang (selepas Asar) — 3 kali",
+        "Baca sebelum tidur bersama al-Ikhlas dan al-Falaq — tiup ke tangan, sapu badan",
+        {
+          "type": "arabic",
+          "instruction": "Bila ada bisikan jahat dalam hati: baca",
+          "arabic": "أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيمِ"
+        },
+        "Hafal bersama Surah al-Falaq — dua-dua surah perlindungan!",
+        "Baca dengan memahami makna — bukan sekadar bunyi sahaja"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Surah al-Nas ada berapa ayat?",
+      "options": [
+        "4 ayat",
+        "5 ayat",
+        "6 ayat",
+        "7 ayat"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "الْوَسْوَاس الْخَنَّاس bermaksud...",
+      "options": [
+        "Orang yang dengki",
+        "Syaitan yang membisik lalu bersembunyi",
+        "Malam gelap",
+        "Sihir"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dalam Surah al-Nas, Allah disebut dengan 3 sifat. Mana BUKAN dari tiga sifat tersebut?",
+      "options": [
+        "Tuhan manusia",
+        "Raja manusia",
+        "Tuhan yang disembah",
+        "Tuhan yang Maha Besar"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Al-Mu'awwizatayn merujuk kepada dua surah iaitu...",
+      "options": [
+        "al-Ikhlas dan al-Falaq",
+        "al-Falaq dan al-Nas",
+        "al-Nas dan al-Fatihah",
+        "al-Ikhlas dan al-Nas"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Surah al-Nas",
+        "colour": "#E91E63"
+      },
+      {
+        "id": "n2",
+        "label": "رَبّ النَّاس",
+        "colour": "#880E4F"
+      },
+      {
+        "id": "n3",
+        "label": "مَلِك النَّاس",
+        "colour": "#F48FB1"
+      },
+      {
+        "id": "n4",
+        "label": "إِلَه النَّاس",
+        "colour": "#880E4F"
+      },
+      {
+        "id": "n5",
+        "label": "الْوَسْوَاس",
+        "colour": "#F48FB1"
+      },
+      {
+        "id": "n6",
+        "label": "Perlindungan dari Syaitan",
+        "colour": "#AD1457"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "sifat Allah"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "sifat Allah"
+      },
+      {
+        "id": "e3",
+        "source": "n1",
+        "target": "n4",
+        "label": "sifat Allah"
+      },
+      {
+        "id": "e4",
+        "source": "n1",
+        "target": "n5",
+        "label": "lindung dari"
+      },
+      {
+        "id": "e5",
+        "source": "n6",
+        "target": "n1",
+        "label": "dengan membaca"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "النَّاس",
+      "meaning": "manusia"
+    },
+    {
+      "word": "الْوَسْوَاس",
+      "meaning": "bisikan (syaitan)"
+    },
+    {
+      "word": "الْخَنَّاس",
+      "meaning": "yang bersembunyi selepas ditegur"
+    },
+    {
+      "word": "صُدُور",
+      "meaning": "dada-dada (jamak dari صَدْر)"
+    },
+    {
+      "word": "الْجِنَّة",
+      "meaning": "golongan jin"
+    }
+  ],
+  "funFact": "Surah al-Nas adalah surah TERAKHIR dalam al-Quran — nombor 114! Al-Quran bermula dengan Surah al-Fatihah yang mengajar kita memuji Allah dan meminta hidayah, dan berakhir dengan Surah al-Nas yang mengajar kita mohon perlindungan dari syaitan. Dari awal hingga akhir, al-Quran ajar kita bergantung kepada Allah!"
+}

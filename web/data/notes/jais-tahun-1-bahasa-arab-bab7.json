@@ -1,0 +1,213 @@
+{
+  "id": "jais-tahun-1-bahasa-arab-bab7",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "bahasa-arab",
+  "chapter": 7,
+  "title": "Anggota Badan",
+  "emoji": "🙋",
+  "colour": "#2196F3",
+  "estimatedMinutes": 13,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Kemahiran Pelajaran Ini 📚",
+      "body": "Selepas belajar Dars ini, kamu boleh: MENDENGAR nama anggota badan, MENYEBUT nama anggota badan dengan betul, MEMBACA dialog tentang fungsi anggota badan, MENULIS nama anggota badan dengan tepat, dan MENJAWAB soalan tentang kegunaan anggota badan!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🫁",
+          "title": "Nama Anggota Badan",
+          "body": {
+            "type": "list",
+            "intro": "أَعْضَاءُ الْجِسْمِ — anggota-anggota badan:",
+            "items": [
+              "شَعْر — rambut",
+              "عَيْن — mata",
+              "أَنْف — hidung",
+              "أُذُن — telinga",
+              "فَم — mulut",
+              "لِسَان — lidah",
+              "يَد — tangan",
+              "بَطْن — perut",
+              "رُكْبَة — lutut",
+              "رِجْل — kaki",
+              "إِصْبَع — jari"
+            ]
+          }
+        },
+        {
+          "icon": "🪞",
+          "title": "Perkenalkan Anggota Badan Sendiri",
+          "body": {
+            "type": "list",
+            "intro": "Cara sebut anggota badan sendiri (هَذِهِ/هَذَا + ي = milikku):",
+            "items": [
+              "هَذِهِ عَيْنِي — Ini mataku",
+              "شَعْرِي لَوْنُهُ أَسْوَد — Rambutku warnanya hitam",
+              "هَذَا أَنْفِي — Ini hidungku",
+              "هَذَا فَمِي — Ini mulutku",
+              "هَذِهِ أُذُنِي — Ini telingaku"
+            ],
+            "outro": "Tambah ي di akhir = milik saya. عَيْن + ي = عَيْنِي (mataku)"
+          }
+        },
+        {
+          "icon": "❓",
+          "title": "Kegunaan Anggota Badan — بِمَ تَ...؟",
+          "body": {
+            "type": "list",
+            "intro": "بِمَ تَ...؟ = Dengan apa kamu...? Dialog fungsi anggota badan:",
+            "items": [
+              "بِمَ تَشُمُّ الزَّهْرَةَ؟ / بِالْأَنْفِ — Dengan apa kamu hidu bunga? / Dengan hidung",
+              "بِمَ تَسْمَعُ الْأَذَانَ؟ / بِالْأُذُنِ — Dengan apa kamu dengar azan? / Dengan telinga",
+              "بِمَ تَمْشِي؟ / بِالرِّجْلِ — Dengan apa kamu berjalan? / Dengan kaki",
+              "بِمَ تَنْظُرُ؟ / بِالْعَيْنِ — Dengan apa kamu melihat? / Dengan mata",
+              "بِمَ تَذُوقُ؟ / بِاللِّسَانِ — Dengan apa kamu merasa? / Dengan lidah",
+              "بِمَ تَكْتُبُ؟ / بِالْيَدِ — Dengan apa kamu menulis? / Dengan tangan"
+            ]
+          }
+        },
+        {
+          "icon": "🔢",
+          "title": "Nombor Arab 50 hingga 59",
+          "body": {
+            "type": "list",
+            "intro": "Nombor 50-59 dalam Bahasa Arab:",
+            "items": [
+              "٥٠ — خَمْسُون (lima puluh)",
+              "٥١ — وَاحِدٌ وَخَمْسُون (lima puluh satu)",
+              "٥٢ — اثْنَانِ وَخَمْسُون (lima puluh dua)",
+              "٥٥ — خَمْسَةٌ وَخَمْسُون (lima puluh lima)",
+              "٥٦ — سِتَّةٌ وَخَمْسُون (lima puluh enam)",
+              "٥٩ — تِسْعَةٌ وَخَمْسُون (lima puluh sembilan)"
+            ],
+            "outro": "Pola: nombor kecil + وَ + خَمْسُون"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah SWT berfirman:",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ وَامْسَحُوا بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى الْكَعْبَيْنِ",
+        "translation": "Wahai orang-orang yang beriman! Apabila kamu hendak mengerjakan solat, maka basuhlah muka kamu, dan tangan kamu hingga ke siku, dan sapulah kepala kamu, dan basuhlah kaki kamu hingga ke buku lali.",
+        "source": "Surah al-Maidah: 6",
+        "outro": "Anggota wudhu adalah anggota badan kita — wajah, tangan, kepala, kaki. Jaga kebersihan agar sentiasa bersedia untuk solat!",
+        "more": [
+          {
+            "instruction": "Ayat Latihan — Jaga Kesihatan:",
+            "arabic": "اِحْفَظْ عَلَى صِحَّتِك",
+            "translation": "Jagalah kesihatanmu"
+          },
+          {
+            "instruction": "Ayat Latihan — Rendah Suara:",
+            "arabic": "اِخْفِضْ صَوْتَكَ عِنْدَ الْكَلَام",
+            "translation": "Rendahkan suaramu ketika berbicara"
+          }
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Dialog — Kegunaan Anggota Badan 🗣️",
+      "items": [
+        {
+          "type": "arabic",
+          "instruction": "Tanya kegunaan telinga:",
+          "arabic": "بِمَ تَسْمَعُ الْأَذَانَ؟ ← أَسْمَعُهُ بِالْأُذُن",
+          "translation": "Dengan apa kamu dengar azan? ← Saya dengarnya dengan telinga"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tanya kegunaan lidah:",
+          "arabic": "بِمَ تَذُوقُ طَعْمَ الطَّعَامِ؟ ← أَذُوقُهُ بِاللِّسَان",
+          "translation": "Dengan apa kamu rasa makanan? ← Saya rasanya dengan lidah"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tanya kegunaan mata:",
+          "arabic": "بِمَ تَنْظُرُ الْمَنَاظِرَ؟ ← أَنْظُرُهَا بِالْعَيْن",
+          "translation": "Dengan apa kamu melihat pemandangan? ← Saya melihatnya dengan mata"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tanya kegunaan tangan:",
+          "arabic": "بِمَ تَكْتُبُ؟ ← أَكْتُبُ بِالْيَد",
+          "translation": "Dengan apa kamu menulis? ← Saya menulis dengan tangan"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tanya kegunaan kaki:",
+          "arabic": "بِمَ تَمْشِي؟ ← أَمْشِي بِالرِّجْل",
+          "translation": "Dengan apa kamu berjalan? ← Saya berjalan dengan kaki"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apa Bahasa Arab bagi 'telinga'?",
+      "options": ["عَيْن", "أَنْف", "أُذُن", "فَم"],
+      "answer": 2
+    },
+    {
+      "q": "بِمَ تَسْمَعُ الْأَذَانَ؟ bermaksud...",
+      "options": [
+        "Dengan apa kamu melihat azan?",
+        "Dengan apa kamu dengar azan?",
+        "Di mana kamu dengar azan?",
+        "Bila kamu dengar azan?"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "هَذِهِ عَيْنِي bermaksud...",
+      "options": ["Ini telingaku", "Ini hidungku", "Ini tanganku", "Ini mataku"],
+      "answer": 3
+    },
+    {
+      "q": "Nombor 55 dalam Bahasa Arab ialah...",
+      "options": [
+        "خَمْسَةٌ وَأَرْبَعُون",
+        "خَمْسَةٌ وَخَمْسُون",
+        "خَمْسَةٌ وَسِتُّون",
+        "خَمْسَةٌ وَسَبْعُون"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "أَعْضَاء الْجِسْم", "colour": "#2196F3" },
+      { "id": "n2", "label": "عَيْن (mata)", "colour": "#1565C0" },
+      { "id": "n3", "label": "أُذُن (telinga)", "colour": "#42A5F5" },
+      { "id": "n4", "label": "رِجْل (kaki)", "colour": "#1565C0" },
+      { "id": "n5", "label": "بِمَ؟ (Dengan apa?)", "colour": "#42A5F5" },
+      { "id": "n6", "label": "بِالْعَيْنِ / بِالْأُذُنِ", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "anggota" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "anggota" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "anggota" },
+      { "id": "e4", "source": "n5", "target": "n6", "label": "jawab" },
+      { "id": "e5", "source": "n6", "target": "n1", "label": "guna" }
+    ]
+  },
+  "vocab": [
+    { "word": "عَيْن", "meaning": "mata" },
+    { "word": "أُذُن", "meaning": "telinga" },
+    { "word": "أَنْف", "meaning": "hidung" },
+    { "word": "فَم", "meaning": "mulut" },
+    { "word": "لِسَان", "meaning": "lidah" },
+    { "word": "رِجْل", "meaning": "kaki" },
+    { "word": "يَد", "meaning": "tangan" },
+    { "word": "بِمَ؟", "meaning": "dengan apa?" }
+  ],
+  "funFact": "Dalam Bahasa Arab, untuk menyebut anggota badan yang berpasangan (seperti mata, telinga, tangan, kaki), ada bentuk khas yang dipanggil مُثَنَّى (musanna) iaitu bentuk dua! Contoh: عَيْن (satu mata) → عَيْنَان (dua mata). Uniknya, Bahasa Arab ada tiga bentuk: satu, dua, dan banyak!"
+}

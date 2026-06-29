@@ -1,0 +1,197 @@
+{
+  "id": "jais-tahun-2-jawi-bab1",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "jawi",
+  "chapter": 1,
+  "title": "Konsonan Bergabung dalam Jawi",
+  "emoji": "✏️",
+  "colour": "#FF9800",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Gabungan Konsonan dalam Tulisan Jawi ✏️",
+      "body": "Dalam tulisan Jawi, sesetengah bunyi bahasa Melayu memerlukan SATU huruf Jawi khas untuk mewakili bunyi yang dalam Rumi ditulis dua huruf. Ini dipanggil 'konsonan bergabung'. Mari belajar semua gabungan penting ini!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🔤",
+          "title": "Konsonan Bergabung Paling Penting",
+          "body": {
+            "type": "arabic",
+            "instruction": "Bunyi 'ng' dalam Rumi = satu huruf Jawi khas:",
+            "arabic": "ڠ",
+            "translation": "ng — huruf Nga (khusus untuk Bahasa Melayu)",
+            "more": [
+              {
+                "instruction": "Bunyi 'ny' dalam Rumi =",
+                "arabic": "ڽ",
+                "translation": "ny — huruf Nya (khusus untuk Bahasa Melayu)"
+              },
+              {
+                "instruction": "Bunyi 'kh' dalam Rumi =",
+                "arabic": "خ",
+                "translation": "kh — huruf Kha (dari huruf Arab)"
+              },
+              {
+                "instruction": "Bunyi 'sy' dalam Rumi =",
+                "arabic": "ش",
+                "translation": "sy — huruf Syin (dari huruf Arab)"
+              },
+              {
+                "instruction": "Bunyi 'gh' dalam Rumi =",
+                "arabic": "غ",
+                "translation": "gh — huruf Ghain (dari huruf Arab)"
+              }
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Contoh Kata dengan ng dan ny",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh kata dengan bunyi 'ng' (ڠ):",
+            "arabic": "انکاو",
+            "translation": "engkau",
+            "more": [
+              {
+                "arabic": "باڠسا",
+                "translation": "bangsa"
+              },
+              {
+                "arabic": "اڠسا",
+                "translation": "angsa"
+              },
+              {
+                "instruction": "Contoh kata dengan bunyi 'ny' (ڽ):",
+                "arabic": "ساڽغ",
+                "translation": "sayang"
+              },
+              {
+                "arabic": "ڽامق",
+                "translation": "nyamuk"
+              }
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Konsonan Bergabung Asal Arab",
+          "body": {
+            "type": "list",
+            "intro": "Perkataan-perkataan ini dipinjam dari Bahasa Arab — bunyi dan huruf Jawinya sama:",
+            "items": [
+              "kh (خ): khas, khabar, akhlak, ikhlas",
+              "gh (غ): ghaib, maghrib, baligh",
+              "sy (ش): syukur, syarat, syurga, syaitan",
+              "th (ث): thabit (teguh), mathal (contoh)"
+            ],
+            "outro": "Huruf kh, gh, sy dan th berasal terus dari huruf Arab — senang hafal!"
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "Rumi vs Jawi untuk Bunyi Bergabung",
+          "body": {
+            "type": "list",
+            "intro": "Kelebihan Jawi — bunyi bergabung lebih ringkas:",
+            "items": [
+              "Rumi 'ng' = 2 huruf, Jawi = 1 huruf (ڠ)",
+              "Rumi 'ny' = 2 huruf, Jawi = 1 huruf (ڽ)",
+              "Rumi 'kh' = 2 huruf, Jawi = 1 huruf (خ)",
+              "Rumi 'sy' = 2 huruf, Jawi = 1 huruf (ش)"
+            ],
+            "outro": "Bangsa Melayu bijak menyesuaikan huruf Arab untuk bahasa sendiri!"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": "NILAI: Tulisan Jawi adalah warisan budaya Islam Melayu yang amat bernilai. Ia mula digunakan di Nusantara sejak abad ke-14 lagi — Batu Bersurat Terengganu (1303M) adalah antara dokumen Jawi tertua yang ditemui. Dengan belajar Jawi, kamu menyambung warisan nenek moyang yang telah memeluk Islam dengan bangga!"
+    },
+    {
+      "type": "steps",
+      "heading": "Latihan Tulis Kata dengan Konsonan Bergabung ✍️",
+      "items": [
+        "ng (ڠ): tulis perkataan 'angsa', 'bangsa', 'mangkuk' dalam Jawi",
+        "ny (ڽ): tulis perkataan 'nyiur', 'nyamuk', 'sayang' dalam Jawi",
+        "kh (خ): tulis perkataan 'khabar', 'ikhlas', 'khas' dalam Jawi",
+        "sy (ش): tulis perkataan 'syukur', 'syarat', 'syair' dalam Jawi",
+        "gh (غ): tulis perkataan 'ghaib', 'maghfirah', 'baligh' dalam Jawi"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Bunyi 'ng' dalam Tulisan Jawi diwakili oleh huruf...",
+      "options": [
+        "ن",
+        "ڠ",
+        "ث",
+        "ش"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan 'syukur' dalam Jawi menggunakan huruf...",
+      "options": [
+        "س",
+        "ث",
+        "ش",
+        "خ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Konsonan bergabung 'ny' ditulis dalam Jawi dengan huruf...",
+      "options": [
+        "ن+ي",
+        "ڽ",
+        "ني",
+        "غ"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan 'khabar' dalam Jawi menggunakan huruf...",
+      "options": [
+        "ک",
+        "خ",
+        "که",
+        "ق"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Konsonan Bergabung", "colour": "#FF9800" },
+      { "id": "n2", "label": "ڠ = ng", "colour": "#E65100" },
+      { "id": "n3", "label": "ڽ = ny", "colour": "#FFE0B2" },
+      { "id": "n4", "label": "خ = kh", "colour": "#E65100" },
+      { "id": "n5", "label": "ش = sy", "colour": "#FFE0B2" },
+      { "id": "n6", "label": "Jawi lebih ringkas!", "colour": "#BF360C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "bunyi" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "bunyi" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "bunyi" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "bunyi" },
+      { "id": "e5", "source": "n6", "target": "n1", "label": "kelebihan" }
+    ]
+  },
+  "vocab": [
+    { "word": "ڠ", "meaning": "huruf Nga — mewakili bunyi 'ng' dalam BM" },
+    { "word": "ڽ", "meaning": "huruf Nya — mewakili bunyi 'ny' dalam BM" },
+    { "word": "خ", "meaning": "huruf Kha — mewakili bunyi 'kh'" },
+    { "word": "ش", "meaning": "huruf Syin — mewakili bunyi 'sy'" },
+    { "word": "غ", "meaning": "huruf Ghain — mewakili bunyi 'gh'" }
+  ],
+  "funFact": "Huruf Jawi untuk 'ng' (ڠ) dan 'ny' (ڽ) adalah huruf KHAS yang dicipta khusus untuk Bahasa Melayu — tidak wujud dalam huruf Arab asal! Nenek moyang kita tambah dua huruf baru ke dalam sistem Jawi supaya tulisan boleh mewakili bunyi Melayu dengan tepat. Kreativiti orang Melayu dalam mengembangkan tulisan Islam!"
+}

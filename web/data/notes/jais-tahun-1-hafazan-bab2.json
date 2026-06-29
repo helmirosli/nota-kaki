@@ -1,0 +1,224 @@
+{
+  "id": "jais-tahun-1-hafazan-bab2",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "hafazan",
+  "chapter": 2,
+  "title": "Surah al-Ikhlas — Satu Pertiga al-Quran",
+  "emoji": "💎",
+  "colour": "#E91E63",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Surah al-Ikhlas — Tentang Keesaan Allah 💎",
+      "body": "Surah al-Ikhlas adalah surah ke-112 dalam al-Quran. Ia mengajar kita tentang sifat-sifat Allah yang Maha Esa. Nabi ﷺ bersabda membaca surah ini sekali = pahala satu pertiga al-Quran!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Teks Surah al-Ikhlas (Arab)",
+          "body": {
+            "type": "arabic",
+            "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ ۝ قُلْ هُوَ اللهُ أَحَدٌ ۝ اَللهُ الصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ ۝"
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Transliterasi + Terjemahan Ayat demi Ayat",
+          "body": {
+            "type": "list",
+            "items": [
+              "Qul huwallahu ahad = Katakanlah: Dialah Allah Yang Maha Esa",
+              "Allahus-samad = Allah Yang menjadi tumpuan segala hajat",
+              "Lam yalid wa lam yulad = Dia tidak beranak dan tidak diperanakkan",
+              "Wa lam yakun lahu kufuwan ahad = Dan tidak ada siapapun yang setara dengan-Nya"
+            ]
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Makna Penting Setiap Ayat",
+          "body": {
+            "type": "list",
+            "items": [
+              "أَحَد — Maha Esa: Allah hanya SATU, tiada yang lain",
+              "الصَّمَد — Maha Kekal: semua makhluk bergantung kepada Allah",
+              "لَمْ يَلِدْ — Tidak beranak: Allah tidak punya anak",
+              "لَمْ يُولَدْ — Tidak diperanakkan: Allah tidak punya ibu bapa",
+              "كُفُوًا أَحَدٌ — Tiada yang setara: tiada sesuatu yang sama dengan Allah"
+            ]
+          }
+        },
+        {
+          "icon": "🏆",
+          "title": "Kelebihan Surah al-Ikhlas",
+          "body": {
+            "type": "arabic",
+            "instruction": "Nabi ﷺ bersabda:",
+            "arabic": "إِنَّ قُلْ هُوَ اللَّهُ أَحَدٌ تَعْدِلُ ثُلُثَ الْقُرْآنِ",
+            "translation": "Sesungguhnya Surah al-Ikhlas (Qul huwallahu ahad) bersamaan dengan satu pertiga al-Quran.",
+            "source": "Riwayat Bukhari",
+            "outro": "Membacanya 3 kali = seperti khatam al-Quran! Barang siapa membacanya 10 kali, Allah bina untuknya sebuah istana di syurga!"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Sahabat pernah bertanya kepada Nabi ﷺ tentang seorang lelaki yang sangat suka membaca Surah al-Ikhlas berbanding surah lain. Nabi ﷺ bersabda:",
+        "arabic": "حُبُّكَ إِيَّاهَا أَدْخَلَكَ الْجَنَّةَ",
+        "translation": "Kecintaanmu terhadap surah itu akan memasukkanmu ke dalam syurga!",
+        "source": "Riwayat Bukhari",
+        "outro": "Cintailah Surah al-Ikhlas!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Tips Hafazan Surah al-Ikhlas 📝",
+      "items": [
+        "Surah ini hanya 4 ayat — sangat mudah dihafal dalam masa 10 minit!",
+        "Fahami maksud: Ayat 1 = Allah Esa, Ayat 2 = Allah tempat bergantung, Ayat 3 = Tiada anak/ibu bapa, Ayat 4 = Tiada yang setara",
+        "Baca selepas setiap solat fardhu — sekali saja dah dapat pahala 1/3 al-Quran!",
+        "Baca 3 kali sebelum tidur — Nabi ﷺ buat ini setiap malam",
+        "Ajar kawan-kawan dan adik beradik — bila orang lain baca, kamu dapat pahala juga!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Surah al-Ikhlas ada berapa ayat?",
+      "options": [
+        "3 ayat",
+        "4 ayat",
+        "5 ayat",
+        "6 ayat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apa maksud اَللهُ الصَّمَدُ?",
+      "options": [
+        "Allah Maha Esa",
+        "Allah tidak beranak",
+        "Allah tempat tumpuan segala hajat",
+        "Tiada yang setara dengan Allah"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Membaca Surah al-Ikhlas sekali bersamaan pahala...",
+      "options": [
+        "Satu perempat al-Quran",
+        "Setengah al-Quran",
+        "Satu pertiga al-Quran",
+        "Satu perlima al-Quran"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "لَمْ يَلِدْ وَلَمْ يُولَدْ bermaksud...",
+      "options": [
+        "Allah Maha Esa",
+        "Allah tidak beranak dan tidak diperanakkan",
+        "Tiada yang setara dengan Allah",
+        "Allah tempat bergantung"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Surah al-Ikhlas",
+        "colour": "#E91E63"
+      },
+      {
+        "id": "n2",
+        "label": "أَحَد (Esa)",
+        "colour": "#880E4F"
+      },
+      {
+        "id": "n3",
+        "label": "الصَّمَد (Kekal)",
+        "colour": "#F48FB1"
+      },
+      {
+        "id": "n4",
+        "label": "لَمْ يَلِدْ",
+        "colour": "#880E4F"
+      },
+      {
+        "id": "n5",
+        "label": "لَا كُفُوَ لَه",
+        "colour": "#F48FB1"
+      },
+      {
+        "id": "n6",
+        "label": "1/3 al-Quran",
+        "colour": "#AD1457"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "ayat 1"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "ayat 2"
+      },
+      {
+        "id": "e3",
+        "source": "n1",
+        "target": "n4",
+        "label": "ayat 3"
+      },
+      {
+        "id": "e4",
+        "source": "n1",
+        "target": "n5",
+        "label": "ayat 4"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n6",
+        "label": "pahala"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "أَحَد",
+      "meaning": "Maha Esa / satu sahaja"
+    },
+    {
+      "word": "الصَّمَد",
+      "meaning": "Maha Kekal / tempat bergantung"
+    },
+    {
+      "word": "لَمْ يَلِدْ",
+      "meaning": "tidak beranak"
+    },
+    {
+      "word": "لَمْ يُولَدْ",
+      "meaning": "tidak diperanakkan"
+    },
+    {
+      "word": "كُفُوًا",
+      "meaning": "setara / sebanding"
+    }
+  ],
+  "funFact": "Surah al-Ikhlas ada 4 ayat tapi ia menjelaskan KEESAAN Allah dengan sangat sempurna! Ia menjawab semua soalan tentang Tuhan: Adakah Allah beranak? TIDAK. Adakah Allah punya ibu bapa? TIDAK. Adakah ada tuhan lain yang sama? TIDAK. Allah adalah SATU dan UNIK!"
+}

@@ -1,0 +1,242 @@
+{
+  "id": "jais-tahun-1-feqah-bab3",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "feqah",
+  "chapter": 3,
+  "title": "Wudhu — Kunci untuk Menunaikan Solat",
+  "emoji": "🚿",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Wudhu — Cara Allah Membersihkan Kita!",
+      "body": {
+        "type": "arabic",
+        "instruction": "Wudhu adalah syarat wajib sebelum menunaikan solat. Allah berfirman:",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ وَامْسَحُوا بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى الْكَعْبَيْنِ",
+        "translation": "Wahai orang-orang yang beriman! Apabila kamu hendak mengerjakan solat, maka basuhlah muka kamu, dan tangan kamu hingga ke siku, dan sapulah kepala kamu, dan basuhlah kaki kamu hingga ke buku lali.",
+        "source": "Surah al-Maidah: 6",
+        "outro": "Wudhu bukan sahaja membersihkan badan — ia juga membersihkan dosa kecil kita! Jom belajar wudhu yang sempurna."
+      }
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📋",
+          "title": "6 Fardu Wudhu yang Wajib Dilakukan",
+          "body": {
+            "type": "list",
+            "intro": "Fardu wudhu (perkara yang WAJIB)",
+            "items": [
+              "Niat dalam hati",
+              "Membasuh muka sekali — dari dahi ke dagu, dari telinga ke telinga",
+              "Membasuh kedua tangan hingga siku",
+              "Menyapu sebahagian kepala",
+              "Membasuh kedua kaki hingga buku lali",
+              "Tertib (mengikut susunan yang betul)"
+            ]
+          }
+        },
+        {
+          "icon": "⭐",
+          "title": "Sunah-Sunah Wudhu",
+          "body": {
+            "type": "list",
+            "intro": "Amalan sunah dalam wudhu",
+            "items": [
+              "Membaca bismillah di awal",
+              "Berkumur-kumur (madmadah)",
+              "Memasukkan air ke hidung (istinsyaq)",
+              "Menyapu seluruh kepala",
+              "Menyapu telinga",
+              "Menggosok celah-celah jari",
+              "Membasuh setiap anggota 3 kali",
+              "Berdoa selepas wudhu"
+            ]
+          }
+        },
+        {
+          "icon": "❌",
+          "title": "Perkara yang Membatalkan Wudhu",
+          "body": {
+            "type": "list",
+            "intro": "Wudhu batal apabila",
+            "items": [
+              "Keluar sesuatu dari kubul atau dubur (buang air, kentut)",
+              "Hilang akal kerana tidur, gila, atau pengsan",
+              "Bersentuhan kulit antara lelaki dan perempuan yang bukan mahram",
+              "Menyentuh kemaluan sendiri dengan tapak tangan"
+            ]
+          }
+        },
+        {
+          "icon": "🤲",
+          "title": "Doa Selepas Wudhu",
+          "body": {
+            "type": "arabic",
+            "instruction": "Selepas wudhu baca",
+            "arabic": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+            "translation": "Aku bersaksi tiada tuhan melainkan Allah semata-mata tiada sekutu bagi-Nya, dan aku bersaksi bahawa Muhammad itu hamba dan utusan-Nya."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadis Nabi ﷺ:",
+        "arabic": "لَا تُقْبَلُ صَلَاةٌ بِغَيْرِ طُهُورٍ وَلَا صَدَقَةٌ مِنْ غُلُولٍ",
+        "translation": "Solat tidak diterima tanpa wudhu, dan sedekah tidak diterima dari harta yang diperolehi secara haram.",
+        "source": "Hadis Riwayat Muslim",
+        "outro": "Wudhu yang sempurna adalah KUNCI diterima atau tidak solat kita oleh Allah!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Berwudhu — 6 Fardu Mengikut Tertib",
+      "items": [
+        "NIAT dalam hati: 'Aku niat berwudhu untuk menghilangkan hadas kecil kerana Allah'",
+        "BASUH MUKA: dari dahi ke dagu, dari telinga ke telinga — 3 kali",
+        "BASUH TANGAN: kanan dahulu hingga siku, kemudian kiri — masing-masing 3 kali",
+        "SAPU KEPALA: sapu sebahagian kepala dengan tangan basah — sekali",
+        "BASUH KAKI: kanan dahulu hingga buku lali, kemudian kiri — masing-masing 3 kali. Baca doa selepas wudhu!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa bilangan fardu wudhu?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Anggota mana yang dibasuh PERTAMA SEKALI dalam wudhu (selepas niat)?",
+      "options": [
+        "Tangan",
+        "Kaki",
+        "Muka",
+        "Kepala"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang MEMBATALKAN wudhu?",
+      "options": [
+        "Makan makanan halal",
+        "Membaca al-Quran",
+        "Keluar angin (kentut)",
+        "Menangis"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah hukum berwudhu sebelum solat?",
+      "options": [
+        "Sunah",
+        "Wajib (fardu)",
+        "Harus",
+        "Makruh"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Wudhu",
+        "colour": "#9C27B0"
+      },
+      {
+        "id": "n2",
+        "label": "6 Fardu Wudhu",
+        "colour": "#6A1B9A"
+      },
+      {
+        "id": "n3",
+        "label": "Sunah Wudhu",
+        "colour": "#E1BEE7"
+      },
+      {
+        "id": "n4",
+        "label": "Niat, Muka, Tangan, Kepala, Kaki, Tertib",
+        "colour": "#6A1B9A"
+      },
+      {
+        "id": "n5",
+        "label": "Bismillah, Berkumur, 3 kali basuh",
+        "colour": "#E1BEE7"
+      },
+      {
+        "id": "n6",
+        "label": "Batal: Buang air, tidur, sentuh",
+        "colour": "#4A148C"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "wajib ada"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "digalakkan"
+      },
+      {
+        "id": "e3",
+        "source": "n2",
+        "target": "n4",
+        "label": "iaitu"
+      },
+      {
+        "id": "e4",
+        "source": "n3",
+        "target": "n5",
+        "label": "contoh"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n6",
+        "label": "perkara batal"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "wudhu",
+      "meaning": "bersuci dengan air mengikut cara tertentu untuk menghilangkan hadas kecil"
+    },
+    {
+      "word": "fardu",
+      "meaning": "perkara yang wajib dilakukan — jika ditinggalkan, amalan tidak sah"
+    },
+    {
+      "word": "tertib",
+      "meaning": "mengikut susunan yang betul dan ditetapkan"
+    },
+    {
+      "word": "buku lali",
+      "meaning": "tulang yang menonjol di bahagian pergelangan kaki"
+    },
+    {
+      "word": "mahram",
+      "meaning": "orang yang haram dikahwini seperti ibu, bapa, adik-beradik"
+    }
+  ],
+  "funFact": "Saintis mendapati cara wudhu Islam sangat berkesan membersihkan kuman! Membasuh muka, tangan, dan kaki 5 kali sehari (setiap kali solat) menghilangkan berjuta-juta kuman berbahaya dari anggota badan yang paling kerap menyentuh persekitaran. Islam mengajar amalan bersih lebih 1400 tahun sebelum sains moden menemuinya!"
+}

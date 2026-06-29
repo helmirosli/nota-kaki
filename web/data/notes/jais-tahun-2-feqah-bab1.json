@@ -1,0 +1,156 @@
+{
+  "id": "jais-tahun-2-feqah-bab1",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "feqah",
+  "chapter": 1,
+  "title": "Tayammum — Pengganti Wudhu",
+  "emoji": "🌾",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Tayammum — Guna Tanah Ganti Air 🌾",
+      "body": "Tayammum adalah cara bersuci menggunakan DEBU/TANAH yang suci sebagai pengganti wudhu atau mandi wajib apabila tiada air atau tidak boleh guna air. Ini adalah RAHMAT Allah kepada orang yang dalam kesusahan!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "❓",
+          "title": "Sebab Boleh Bertayammum",
+          "body": {
+            "type": "list",
+            "items": [
+              "Tiada air sama sekali (dalam perjalanan, padang pasir)",
+              "Ada air tapi TIDAK BOLEH guna — kerana sakit (doktor larang kena air)",
+              "Air terlalu jauh dan dikhuatiri musuh/bahaya untuk pergi ambil",
+              "Air diperlukan untuk minum/masak (keselamatan jiwa lebih utama)"
+            ],
+            "outro": "Hukum tayammum: HARUS (dibenarkan syarak)."
+          }
+        },
+        {
+          "icon": "🌿",
+          "title": "Syarat Tayammum",
+          "body": {
+            "type": "list",
+            "items": [
+              "Masuk waktu solat",
+              "Ada sebab yang dibenarkan (tiada air/tidak boleh guna air)",
+              "Menggunakan debu/tanah yang SUCI (bersih)",
+              "Menghilangkan najis dahulu jika ada",
+              "Berniat tayammum"
+            ],
+            "outro": "Catatan: Tayammum HANYA untuk SATU SOLAT — perlu tayammum baru untuk solat seterusnya."
+          }
+        },
+        {
+          "icon": "✋",
+          "title": "Cara/Rukun Tayammum",
+          "body": {
+            "type": "list",
+            "intro": "Dua rukun utama:",
+            "items": [
+              "NIAT dalam hati: 'Sahaja aku bertayammum untuk mengharuskan solat kerana Allah Ta'ala.'",
+              "Tepuk kedua tangan pada debu suci → sapu MUKA sekali",
+              "Tepuk kedua tangan pada debu lagi → sapu KEDUA TANGAN hingga pergelangan"
+            ],
+            "outro": "Cuma dua tepukan dan dua sapuan — mudah!"
+          }
+        },
+        {
+          "icon": "💧",
+          "title": "Perkara yang Membatalkan Tayammum",
+          "body": {
+            "type": "list",
+            "items": [
+              "Semua perkara yang membatalkan wudhu (kentut, buang air, dll)",
+              "Nampak AIR yang boleh digunakan",
+              "Hilang sebab yang membenarkan tayammum (sembuh dari sakit)"
+            ],
+            "outro": "Bila dah ada air dan tiada sebab lagi, tayammum terbatal secara automatik!"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Dalil tayammum — Surah al-Maidah (5:6), Allah berfirman:",
+        "arabic": "فَتَيَمَّمُوا صَعِيدًا طَيِّبًا فَامْسَحُوا بِوُجُوهِكُمْ وَأَيْدِيكُمْ مِّنْهُ",
+        "translation": "...maka bertayammumlah dengan tanah yang suci, sapulah muka kamu dan tangan kamu dengannya...",
+        "source": "Surah al-Maidah: 6",
+        "outro": "Allah sendiri benarkan tayammum dalam al-Quran — ini tanda rahmat-Nya kepada kita!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Langkah-langkah Tayammum 🤲",
+      "items": [
+        "1. NIAT: Sahaja aku bertayammum untuk mengharuskan solat kerana Allah Ta'ala",
+        "2. Tepuk kedua tangan ke debu/tanah suci (tiup lebihan debu)",
+        "3. Sapu seluruh MUKA sekali dengan kedua tangan",
+        "4. Tepuk kedua tangan ke debu lagi",
+        "5. Sapu TANGAN KANAN dengan tangan kiri (hingga pergelangan), kemudian sapu TANGAN KIRI dengan tangan kanan"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Tayammum boleh dilakukan apabila...",
+      "options": ["Malas ambil wudhu", "Tiada air atau tidak boleh guna air", "Air kotor sedikit", "Nak solat cepat"],
+      "answer": 1
+    },
+    {
+      "q": "Tayammum menggunakan...",
+      "options": ["Air suam", "Minyak zaitun", "Debu/tanah yang suci", "Pasir basah"],
+      "answer": 2
+    },
+    {
+      "q": "Selepas tayammum, kita boleh solat berapa waktu?",
+      "options": ["Selagi belum ada air", "5 waktu sehari", "Satu waktu sahaja", "Dua waktu"],
+      "answer": 2
+    },
+    {
+      "q": "Anggota badan yang disapu semasa tayammum ialah...",
+      "options": ["Muka dan kaki", "Kepala dan kaki", "Muka dan kedua tangan hingga pergelangan", "Muka, tangan dan kaki"],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Tayammum", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Tiada Air", "colour": "#6A1B9A" },
+      { "id": "n3", "label": "Sakit", "colour": "#CE93D8" },
+      { "id": "n4", "label": "Niat", "colour": "#6A1B9A" },
+      { "id": "n5", "label": "Sapu Muka+Tangan", "colour": "#CE93D8" },
+      { "id": "n6", "label": "Rahmat Allah", "colour": "#4A148C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n2", "target": "n1", "label": "sebab" },
+      { "id": "e2", "source": "n3", "target": "n1", "label": "sebab" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "rukun 1" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "rukun 2+3" },
+      { "id": "e5", "source": "n6", "target": "n1", "label": "hikmah" }
+    ]
+  },
+  "vocab": [
+    { "word": "تَيَمُّم", "meaning": "tayammum — bersuci guna debu sebagai ganti air" },
+    { "word": "صَعِيد", "meaning": "tanah/debu yang suci untuk tayammum" },
+    { "word": "رُخْصَة", "meaning": "rukhsah — keringanan/kemudahan dari Allah" },
+    { "word": "حَدَث", "meaning": "hadas — keadaan yang perlu wudhu/mandi" },
+    { "word": "تَيَمَّمَ", "meaning": "dia bertayammum" }
+  ],
+  "funFact": {
+    "type": "arabic",
+    "instruction": "Tayammum adalah HADIAH khas dari Allah untuk umat Nabi Muhammad ﷺ! Sabda Nabi ﷺ:",
+    "arabic": "وَجُعِلَتْ لِيَ الْأَرْضُ مَسْجِدًا وَطَهُورًا",
+    "translation": "Dan dijadikan bumi untukku sebagai tempat solat dan alat bersuci.",
+    "source": "Riwayat Bukhari & Muslim",
+    "outro": "Bertayammum dengan tanah adalah keistimewaan umat Islam sahaja — rahmat Allah yang tiada penghujungnya!"
+  }
+}

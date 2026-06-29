@@ -1,0 +1,224 @@
+{
+  "id": "jais-tahun-2-bahasa-arab-bab6",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "bahasa-arab",
+  "chapter": 6,
+  "title": "Makanan dan Minuman",
+  "emoji": "🍽️",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 13,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْمَأْكُولَاتُ وَالْمَشْرُوبَات — Makanan dan Minuman",
+      "body": "Dalam pelajaran ini kita belajar nama-nama makanan dan minuman dalam bahasa Arab. Makanan adalah rezeki dari Allah yang kita wajib bersyukur. Sebelum makan, jangan lupa sebut Bismillah! Kita akan belajar nama makanan (الْمَأْكُولَات) dan minuman (الْمَشْرُوبَات) dalam pelajaran ini."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🍗",
+          "title": "Makanan Utama",
+          "body": "خُبْزٌ = roti • رُزٌّ = nasi • لَحْمٌ مَشْوِيٌّ = daging panggang • سَمَكٌ مَقْلِيٌّ = ikan goreng • شُورْبَةٌ = sup • شَعْرِيَّةٌ = mihun/bihun • مَكْرُونَةٌ = makaroni • رُزٌّ مَقْلِيٌّ = nasi goreng. Contoh: آكُلُ اللَّحْمَ الْمَشْوِيَّ = Saya makan daging panggang."
+        },
+        {
+          "icon": "🍰",
+          "title": "Makanan Ringan dan Pencuci Mulut",
+          "body": "بَسْكَوِيتٌ = biskut • كَعْكٌ = kek • شُكُولَتَةٌ = coklat • فَطِيرَةٌ = pai/pastri. Contoh: الْبَسْكَوِيتُ فِي الصَّحْنِ = Biskut di dalam pinggan. مَاذَا تُفَضِّلُ مِنَ الْمَأْكُولَاتِ؟ = Apa yang kamu gemari dari makanan? أُفَضِّلُ كَعْكًا يَا أُسْتَاذَةُ = Saya lebih suka kek, cikgu!"
+        },
+        {
+          "icon": "🧃",
+          "title": "Minuman Segar",
+          "body": "مَاءٌ مَعْدَنِيٌّ = air mineral • شَايٌ = teh • قَهْوَةٌ = kopi • حَلِيبٌ = susu • عَصِيرُ الْمَانْجُو = jus mangga • عَصِيرُ الْبُرْتُقَالِ = jus oren • عَصِيرُ الْبِطِّيخِ = jus tembikai • عَصِيرُ التُّفَّاحَةِ = jus epal • عَصِيرُ الْكِيوِي = jus kiwi."
+        },
+        {
+          "icon": "🍳",
+          "title": "Aktiviti di Dapur",
+          "body": "تَطْبَخُ أُمِّي الرُّزَّ = Ibu saya memasak nasi. السَّمَكُ عَلَى الْمَائِدَةِ = Ikan di atas meja makan. أَشْتَرِي عَصِيرَ الْمَانْجُو = Saya membeli jus mangga. أَشْرَبُ الْمَاءَ الْمَعْدَنِيَّ = Saya minum air mineral. عَصِيرُ الْبِطِّيخِ حُلْوٌ = Jus tembikai manis."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah berfirman dalam Surah al-A'raf ayat 31:",
+        "arabic": "وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ",
+        "translation": "Makan dan minumlah, tetapi janganlah berlebih-lebihan. Sesungguhnya Allah tidak menyukai orang yang berlebih-lebihan.",
+        "source": "Surah al-A'raf: 31",
+        "outro": "اُدْعُ اللَّهَ تَعَالَى قَبْلَ تَنَاوُلِ الطَّعَامِ وَبَعْدَهُ — Berdoalah kepada Allah sebelum dan selepas makan. لَا تُبَذِّرْ فِي طَعَامِكُمْ — Jangan membazir dalam makanan kamu!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Dialog tentang Makanan dan Minuman",
+      "items": [
+        {
+          "type": "arabic",
+          "arabic": "تَطْبَخُ أُمِّي الرُّزَّ"
+        },
+        {
+          "type": "arabic",
+          "arabic": "آكُلُ اللَّحْمَ الْمَشْوِيَّ"
+        },
+        {
+          "type": "arabic",
+          "arabic": "الْبَسْكَوِيتُ فِي الصَّحْنِ"
+        },
+        {
+          "type": "arabic",
+          "arabic": "السَّمَكُ عَلَى الْمَائِدَةِ"
+        },
+        {
+          "type": "arabic",
+          "arabic": "مَاذَا تَطْبَخُ فِي الْبَيْتِ يَا فَائِزُ؟"
+        },
+        {
+          "type": "arabic",
+          "arabic": "أَطْبَخُ الشَّعْرِيَّةَ"
+        },
+        {
+          "type": "arabic",
+          "arabic": "يَا أَنِيسُ، مَاذَا تَشْرَبِينَ؟ أَشْرَبُ الْحَلِيبَ"
+        },
+        {
+          "type": "arabic",
+          "arabic": "مَاذَا تَشْرَبُ يَا عُمَرُ؟ أَشْرَبُ عَصِيرَ الْمَانْجُو"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud لَحْمٌ مَشْوِيٌّ?",
+      "options": [
+        "Ikan goreng",
+        "Daging panggang",
+        "Ayam rebus",
+        "Roti bakar"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "تَطْبَخُ أُمِّي الرُّزَّ bermaksud?",
+      "options": [
+        "Ibu saya membeli nasi",
+        "Ibu saya makan nasi",
+        "Ibu saya memasak nasi",
+        "Ibu saya suka nasi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Minuman manakah yang bermaksud 'air mineral'?",
+      "options": [
+        "شَايٌ",
+        "قَهْوَةٌ",
+        "مَاءٌ مَعْدَنِيٌّ",
+        "حَلِيبٌ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "أُفَضِّلُ كَعْكًا bermaksud?",
+      "options": [
+        "Saya tidak suka kek",
+        "Saya lebih suka kek",
+        "Saya buat kek",
+        "Saya beli kek"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "المأكولات والمشروبات",
+        "colour": "#FF6F00"
+      },
+      {
+        "id": "n2",
+        "label": "الْمَأْكُولَات (Makanan)",
+        "colour": "#E65100"
+      },
+      {
+        "id": "n3",
+        "label": "الْمَشْرُوبَات (Minuman)",
+        "colour": "#E65100"
+      },
+      {
+        "id": "n4",
+        "label": "رُزٌّ (nasi)",
+        "colour": "#FFB74D"
+      },
+      {
+        "id": "n5",
+        "label": "عَصِيرٌ (jus)",
+        "colour": "#FFB74D"
+      },
+      {
+        "id": "n6",
+        "label": "كَعْكٌ (kek)",
+        "colour": "#BF360C"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "ada"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "ada"
+      },
+      {
+        "id": "e3",
+        "source": "n2",
+        "target": "n4",
+        "label": "contoh"
+      },
+      {
+        "id": "e4",
+        "source": "n3",
+        "target": "n5",
+        "label": "contoh"
+      },
+      {
+        "id": "e5",
+        "source": "n2",
+        "target": "n6",
+        "label": "ada"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "خُبْزٌ",
+      "meaning": "roti"
+    },
+    {
+      "word": "رُزٌّ",
+      "meaning": "nasi"
+    },
+    {
+      "word": "سَمَكٌ مَقْلِيٌّ",
+      "meaning": "ikan goreng"
+    },
+    {
+      "word": "شَايٌ",
+      "meaning": "teh"
+    },
+    {
+      "word": "عَصِيرٌ",
+      "meaning": "jus"
+    }
+  ],
+  "funFact": "Perkataan 'makaroni' dalam bahasa Arab ditulis مَكْرُونَة (makruna) — hampir sama dengan sebutan dalam bahasa Melayu! Banyak nama makanan moden masuk ke dalam bahasa Arab dari bahasa lain, kerana manusia di seluruh dunia suka berkongsi makanan!"
+}

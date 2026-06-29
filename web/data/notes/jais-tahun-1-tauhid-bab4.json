@@ -1,0 +1,194 @@
+{
+  "id": "jais-tahun-1-tauhid-bab4",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "tauhid",
+  "chapter": 4,
+  "title": "Dua Kalimah Syahadah – Ikrar Seorang Muslim!",
+  "emoji": "🗝️",
+  "colour": "#BF360C",
+  "estimatedMinutes": 13,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Apakah Dua Kalimah Syahadah?",
+      "body": "Dua Kalimah Syahadah adalah ikrar atau pengakuan paling penting bagi seorang Muslim. Ia merupakan Rukun Islam yang pertama dan menjadi kunci untuk memasuki Islam. Setiap kali kita solat, kita mengucapkan syahadah sebanyak sembilan kali sehari semalam!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📿",
+          "title": "Lafaz Syahadah",
+          "body": {
+            "type": "arabic",
+            "arabic": "أَشْهَدُ أَنْ لَّا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَّسُوْلُ اللَّهِ",
+            "translation": "nya: 'Aku bersaksi bahawa tiada Tuhan yang berhak disembah melainkan Allah, dan aku bersaksi bahawa Nabi Muhammad ﷺ adalah Rasul Allah."
+          }
+        },
+        {
+          "icon": "☝️",
+          "title": "Syahadah Pertama",
+          "body": "'Aku bersaksi bahawa tiada Tuhan yang berhak disembah melainkan Allah.' Ini bermakna kita mengakui Allah sahaja Tuhan kita dan menolak segala sembahan yang lain."
+        },
+        {
+          "icon": "🌟",
+          "title": "Syahadah Kedua",
+          "body": "'Aku bersaksi bahawa Nabi Muhammad ﷺ adalah Rasul (pesuruh) Allah.' Ini bermakna kita percaya Nabi Muhammad ﷺ adalah utusan Allah yang membawa Islam kepada kita."
+        },
+        {
+          "icon": "🔢",
+          "title": "Syahadah dalam Solat",
+          "body": "Kita mengucapkan Dua Kalimah Syahadah sebanyak 9 kali dalam solat fardhu sehari semalam. Ini menunjukkan betapa pentingnya syahadah dalam kehidupan seorang Muslim!"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": "Mengucap Dua Kalimah Syahadah adalah antara syarat yang paling utama bagi seseorang yang ingin memeluk Islam. Amalan berdzikir dengan memperbanyakkan syahadah juga amat dituntut agar iman kita sentiasa segar dan kuat dalam hati."
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Memahami Dua Kalimah Syahadah",
+      "items": [
+        "Ucap dengan lisan – Lafazkan syahadah dengan jelas dan betul",
+        "Faham maknanya – Tahu apa yang kita ucapkan iaitu pengakuan keesaan Allah dan kerasulan Nabi Muhammad ﷺ",
+        "Yakin dalam hati – Percaya dengan sepenuh hati tanpa ragu-ragu",
+        "Amalkan dalam kehidupan – Ikuti perintah Allah dan sunnah Nabi ﷺ dalam semua perkara",
+        "Perbanyak sebutan syahadah – Berzikir dengan syahadah untuk menguatkan iman kita setiap hari"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud Syahadah pertama: 'Asyhadu alla ilaha illallah'?",
+      "options": [
+        "Aku bersaksi bahawa Nabi Muhammad itu Rasul Allah",
+        "Aku bersaksi bahawa tiada Tuhan yang berhak disembah melainkan Allah",
+        "Aku bersaksi bahawa aku seorang Muslim",
+        "Aku bersaksi bahawa syurga itu ada"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa kali Dua Kalimah Syahadah diucapkan dalam solat fardhu sehari semalam?",
+      "options": [
+        "5 kali",
+        "7 kali",
+        "9 kali",
+        "17 kali"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang dimaksudkan dengan 'Rasul' dalam syahadah kedua?",
+      "options": [
+        "Raja yang memerintah negara",
+        "Pesuruh atau utusan Allah",
+        "Seorang yang sangat kaya",
+        "Pemimpin tentera Islam"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Bilakah seseorang perlu mengucap Dua Kalimah Syahadah?",
+      "options": [
+        "Hanya ketika hendak mati sahaja",
+        "Ketika memasuki Islam sebagai syarat pertama dan juga dalam solat",
+        "Hanya pada bulan Ramadan sahaja",
+        "Ketika pergi ke masjid sahaja"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Dua Kalimah Syahadah",
+        "colour": "#BF360C"
+      },
+      {
+        "id": "n2",
+        "label": "Syahadah Pertama",
+        "colour": "#D84315"
+      },
+      {
+        "id": "n3",
+        "label": "Syahadah Kedua",
+        "colour": "#FFCCBC"
+      },
+      {
+        "id": "n4",
+        "label": "Tiada Tuhan selain Allah",
+        "colour": "#D84315"
+      },
+      {
+        "id": "n5",
+        "label": "Muhammad ﷺ Rasul Allah",
+        "colour": "#FFCCBC"
+      },
+      {
+        "id": "n6",
+        "label": "9x dalam Solat Fardhu",
+        "colour": "#D84315"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "mengandungi"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "mengandungi"
+      },
+      {
+        "id": "e3",
+        "source": "n2",
+        "target": "n4",
+        "label": "bermaksud"
+      },
+      {
+        "id": "e4",
+        "source": "n3",
+        "target": "n5",
+        "label": "bermaksud"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n6",
+        "label": "diulang"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "Syahadah",
+      "meaning": "Pengakuan atau penyaksian – pernyataan iman yang paling asas dalam Islam"
+    },
+    {
+      "word": "أَشْهَدُ (Asyhadu)",
+      "meaning": "Aku bersaksi – perkataan pembuka syahadah yang bermaksud 'aku mengakui'"
+    },
+    {
+      "word": "إِلَهَ (Ilaha)",
+      "meaning": "Tuhan yang disembah – merujuk kepada sesuatu yang dijadikan sembahan"
+    },
+    {
+      "word": "رَسُوْل (Rasul)",
+      "meaning": "Utusan atau pesuruh Allah yang membawa wahyu kepada manusia"
+    },
+    {
+      "word": "Zikir",
+      "meaning": "Amalan mengingati Allah dengan menyebut nama atau kalimah-kalimah tertentu"
+    }
+  ],
+  "funFact": "Dua Kalimah Syahadah adalah kalimah yang pertama diucapkan kepada bayi yang baru lahir (azan di telinga kanan) dan kalimah yang terakhir diucapkan ketika seseorang hampir meninggal dunia. Betapa indahnya Islam bermula dan berakhir dengan syahadah!"
+}

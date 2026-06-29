@@ -1,0 +1,254 @@
+{
+  "id": "jais-tahun-1-jawi-bab5",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "jawi",
+  "chapter": 5,
+  "title": "Konsonan Bahagian 2 — h, v, w, ny, y, z",
+  "emoji": "🔠",
+  "colour": "#FF9800",
+  "estimatedMinutes": 14,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Konsonan Istimewa dalam Jawi",
+      "body": "Dalam bahagian ini, kita belajar konsonan yang lebih mencabar! Sesetengah konsonan Rumi mempunyai LEBIH DARI SATU padanan Jawi. Ini berlaku kerana bahasa Melayu meminjam banyak perkataan dari bahasa Arab. Jom belajar dengan teliti!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🔤",
+          "title": "Konsonan h, v, w, ny, y",
+          "body": {
+            "type": "list",
+            "intro": "Padanan konsonan istimewa:",
+            "items": [
+              "h = ه (ha biasa, kata Melayu) / ح (ha, kata Arab) / ە (ha di akhir perkataan)",
+              "v = ؤ (va)",
+              "w = و (wau)",
+              "ny = ث (nya)",
+              "y = ي (ya)"
+            ],
+            "outro": "Contoh: هاتي (hati, guna ه) • حالل (halal, guna ح)"
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Konsonan k, g, p, f, z",
+          "body": {
+            "type": "list",
+            "intro": "Padanan konsonan lain:",
+            "items": [
+              "k = ک (biasa) atau ق (dari Arab) — dua padanan!",
+              "g = ک (ga)",
+              "p = ڤ (pa)",
+              "f = ف (fa)",
+              "z = ز (biasa) / ذ (zal) / ظ (dari Arab) — tiga padanan!"
+            ],
+            "outro": "Contoh: كاسوت (kasut, guna ک) • قاسم (Qasim, guna ق)"
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Huruf Istimewa ع (Ain)",
+          "body": {
+            "type": "list",
+            "intro": "Huruf ع (ain) tidak ada bunyi padanan dalam Rumi — biasanya ditulis 'a'. Contoh:",
+            "items": [
+              "عمل — amal",
+              "عالماء — ulama",
+              "عبادة — ibadah",
+              "دعوة — dakwah"
+            ],
+            "outro": "Perkataan-perkataan ini dipinjam dari bahasa Arab dan kekal dengan huruf ain dalam tulisan Jawi."
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Konsonan Bergabung — kh, gh, sy, ng, ny",
+          "body": {
+            "type": "list",
+            "intro": "Konsonan bergabung dalam Rumi (dua huruf = satu bunyi) → satu huruf Jawi:",
+            "items": [
+              "kh = خ (kha)",
+              "gh = غ (ghain)",
+              "sy = ش (syin)",
+              "ng = غ (nga)",
+              "ny = ث (nya)"
+            ],
+            "outro": "Dalam Jawi, SATU huruf sahaja untuk setiap bunyi — lebih ringkas!"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": "Peraturan Penting: Perkataan yang berasal dari bahasa Arab biasanya menggunakan huruf Jawi yang asli dari Arab (seperti ح, ص, ق, ظ). Perkataan Melayu biasa guna huruf yang lebih mudah (ه, س, ک, ز). Kita perlu hafal tiap perkataan!"
+    },
+    {
+      "type": "steps",
+      "heading": "Contoh Kata dengan Padanan Pelbagai",
+      "items": [
+        {
+          "type": "arabic",
+          "instruction": "h ada 3 padanan: halal=",
+          "arabic": "حالل"
+        },
+        {
+          "type": "arabic",
+          "instruction": "k ada 2 padanan: kasut=",
+          "arabic": "كاسوت"
+        },
+        {
+          "type": "arabic",
+          "instruction": "z ada 3 padanan: zakat=",
+          "arabic": "زكاة"
+        },
+        {
+          "type": "arabic",
+          "instruction": "ع (ain) — ditulis 'a' dalam Rumi. Contoh:",
+          "arabic": "عمل • عالماء • عبادة",
+          "translation": "amal • ulama • ibadah"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Latihan: asing=",
+          "arabic": "اسيغ"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Huruf Jawi manakah yang digunakan untuk bunyi 'ny'?",
+      "options": [
+        "ن (nun)",
+        "ي (ya)",
+        "ث (nya)",
+        "و (wau)"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Perkataan 'halal' dalam tulisan Jawi menggunakan huruf 'h' yang manakah?",
+      "options": [
+        "ه (ha biasa)",
+        "ە (ha akhir)",
+        "ح (ha Arab)",
+        "خ (kha)"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Huruf konsonan Rumi 'z' mempunyai berapa padanan dalam tulisan Jawi?",
+      "options": [
+        "1 padanan",
+        "2 padanan",
+        "3 padanan",
+        "4 padanan"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Perkataan 'wang' dalam tulisan Jawi ialah...",
+      "options": [
+        "وغ",
+        "واغ",
+        "وان",
+        "وانغ"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Konsonan Pelbagai Padanan",
+        "colour": "#FF9800"
+      },
+      {
+        "id": "n2",
+        "label": "h = ه / ح / ە",
+        "colour": "#E65100"
+      },
+      {
+        "id": "n3",
+        "label": "k = ک / ق",
+        "colour": "#E65100"
+      },
+      {
+        "id": "n4",
+        "label": "z = ز / ذ / ظ",
+        "colour": "#FFE0B2"
+      },
+      {
+        "id": "n5",
+        "label": "Kata Melayu",
+        "colour": "#E65100"
+      },
+      {
+        "id": "n6",
+        "label": "Kata dari Arab",
+        "colour": "#BF360C"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "h"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "k"
+      },
+      {
+        "id": "e3",
+        "source": "n1",
+        "target": "n4",
+        "label": "z"
+      },
+      {
+        "id": "e4",
+        "source": "n2",
+        "target": "n5",
+        "label": "ه untuk"
+      },
+      {
+        "id": "e5",
+        "source": "n2",
+        "target": "n6",
+        "label": "ح untuk"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "halal",
+      "meaning": "sesuatu yang dibenarkan oleh Islam"
+    },
+    {
+      "word": "dakwah",
+      "meaning": "usaha mengajak orang lain kepada kebaikan dan Islam"
+    },
+    {
+      "word": "ulama",
+      "meaning": "orang yang berilmu dalam agama Islam"
+    },
+    {
+      "word": "ibadah",
+      "meaning": "segala perbuatan yang dilakukan kerana Allah"
+    },
+    {
+      "word": "amal",
+      "meaning": "perbuatan baik yang dilakukan dengan niat yang ikhlas"
+    }
+  ],
+  "funFact": "Huruf Arab ع (ain) sangat unik — ia ada dalam banyak perkataan Islam penting seperti عربي (Arab), عيد (Eid), عمر (Umar), tetapi tiada bunyi sepadannya dalam bahasa Inggeris atau Melayu asal! Bila kita membaca al-Quran, kita belajar bunyi 'ain' yang istimewa ini."
+}

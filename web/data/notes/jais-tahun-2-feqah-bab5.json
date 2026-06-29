@@ -1,0 +1,150 @@
+{
+  "id": "jais-tahun-2-feqah-bab5",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "feqah",
+  "chapter": 5,
+  "title": "Solat Sunat — Tambah Pahala!",
+  "emoji": "⭐",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Solat Sunat — Pahala Tambahan dari Allah ⭐",
+      "body": "Selain solat fardhu 5 waktu, ada BANYAK solat sunat yang boleh kita lakukan untuk tambah pahala dan mendekatkan diri kepada Allah. Solat sunat tidak wajib — tapi pahalanya besar dan ia 'menampal' kekurangan dalam solat fardhu kita!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🕌",
+          "title": "Solat Sunat Rawatib",
+          "body": {
+            "type": "list",
+            "intro": "Solat sunat yang mengiringi solat fardhu. MUAKKAD (amat digalakkan):",
+            "items": [
+              "2 rakaat sebelum Subuh",
+              "2 rakaat sebelum Zuhur",
+              "2 rakaat selepas Zuhur",
+              "2 rakaat selepas Maghrib",
+              "2 rakaat selepas Isyak"
+            ],
+            "outro": "Nabi ﷺ jarang tinggalkan solat rawatib muakkad ini — jumlahnya 10 rakaat sehari!"
+          }
+        },
+        {
+          "icon": "🏫",
+          "title": "Solat Tahiyyatul Masjid",
+          "body": {
+            "type": "arabic",
+            "instruction": "Tahiyyatul Masjid = 2 rakaat 'salam' kepada masjid. Wajib dilakukan SEBELUM duduk apabila masuk masjid. Hadis Nabi ﷺ:",
+            "arabic": "إِذَا دَخَلَ أَحَدُكُمُ الْمَسْجِدَ فَلَا يَجْلِسْ حَتَّى يُصَلِّيَ رَكْعَتَيْنِ",
+            "translation": "Apabila seseorang dari kamu masuk masjid, janganlah duduk sebelum solat 2 rakaat.",
+            "source": "Riwayat Bukhari & Muslim",
+            "outro": "Solat ini cara kita hormati masjid!"
+          }
+        },
+        {
+          "icon": "🌙",
+          "title": "Solat Sunat Dhuha",
+          "body": {
+            "type": "arabic",
+            "instruction": "Dhuha = solat pagi (selepas matahari naik sepenggalah hingga sebelum zuhur). Minimum 2 rakaat, maksimum 8 rakaat. Hadis Nabi ﷺ:",
+            "arabic": "مَنْ صَلَّى الضُّحَى اثْنَتَيْ عَشْرَةَ رَكْعَةً بَنَى اللَّهُ لَهُ بَيْتًا فِي الْجَنَّةِ مِنْ ذَهَبٍ",
+            "translation": "Siapa yang solat Dhuha 12 rakaat, Allah bina untuknya sebuah istana dari emas di syurga.",
+            "outro": "Kelebihan: buka pintu rezeki, panjangkan umur dengan berkat!"
+          }
+        },
+        {
+          "icon": "🌛",
+          "title": "Solat Sunat Witir",
+          "body": {
+            "type": "arabic",
+            "instruction": "Witir = solat bilangan ganjil (1, 3, 5, 7, 9 atau 11 rakaat). Dilakukan selepas Isyak hingga sebelum Subuh. Hadis Nabi ﷺ:",
+            "arabic": "اجْعَلُوا آخِرَ صَلَاتِكُمْ بِاللَّيْلِ وِتْرًا",
+            "translation": "Jadikan witir sebagai solat terakhir malam kamu.",
+            "source": "Riwayat Bukhari"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith Qudsi — Allah berfirman:",
+        "arabic": "مَا يَزَالُ عَبْدِي يَتَقَرَّبُ إِلَيَّ بِالنَّوَافِلِ حَتَّى أُحِبَّهُ",
+        "translation": "Hamba-Ku sentiasa mendekatkan diri kepada-Ku dengan amalan-amalan sunat sehingga Aku mencintainya.",
+        "source": "Riwayat Bukhari",
+        "outro": "Solat sunat = jalan mendapat cinta Allah!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Solat Sunat dalam Jadual Harianmu 📅",
+      "items": [
+        "Subuh: Solat sunat 2 rakaat sebelum solat fardhu Subuh (Rawatib Subuh)",
+        "Pagi: Solat Dhuha 2-8 rakaat selepas matahari naik (kira-kira jam 8-11 pagi)",
+        "Zuhur: 2 rakaat sebelum dan 2 rakaat selepas solat fardhu Zuhur",
+        "Masuk masjid/surau: Solat Tahiyyatul Masjid 2 rakaat sebelum duduk",
+        "Malam: Solat Witir sebelum tidur atau selepas bangun untuk qiyamullail"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Solat Tahiyyatul Masjid dilakukan...",
+      "options": ["Selepas keluar dari masjid", "Sebelum duduk apabila masuk masjid", "Selepas azan", "Sebelum azan"],
+      "answer": 1
+    },
+    {
+      "q": "Solat Dhuha dilakukan pada waktu...",
+      "options": ["Selepas Subuh sebelum matahari naik", "Pagi selepas matahari naik", "Tengah hari", "Selepas Asar"],
+      "answer": 1
+    },
+    {
+      "q": "Bilangan rakaat solat Witir mestilah...",
+      "options": ["Genap (2, 4, 6)", "Ganjil (1, 3, 5)", "Empat rakaat sahaja", "Dua rakaat sahaja"],
+      "answer": 1
+    },
+    {
+      "q": "Solat Rawatib Muakkad yang paling utama ialah...",
+      "options": ["2 rakaat sebelum Subuh", "2 rakaat sebelum Asar", "2 rakaat selepas Isyak", "4 rakaat sebelum Zuhur"],
+      "answer": 0
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Solat Sunat", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Rawatib", "colour": "#6A1B9A" },
+      { "id": "n3", "label": "Tahiyyatul Masjid", "colour": "#CE93D8" },
+      { "id": "n4", "label": "Dhuha", "colour": "#6A1B9A" },
+      { "id": "n5", "label": "Witir", "colour": "#CE93D8" },
+      { "id": "n6", "label": "Dekat dengan Allah", "colour": "#4A148C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "jenis" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "jenis" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "tujuan" }
+    ]
+  },
+  "vocab": [
+    { "word": "رَوَاتِب", "meaning": "rawatib — solat sunat yang mengiringi solat fardhu" },
+    { "word": "مُؤَكَّد", "meaning": "muakkad — amat digalakkan (hampir wajib)" },
+    { "word": "ضُحَى", "meaning": "dhuha — solat pagi pertengahan" },
+    { "word": "وِتْر", "meaning": "witir — solat bilangan ganjil" },
+    { "word": "تَحِيَّة", "meaning": "tahiyyah — penghormatan/salam" }
+  ],
+  "funFact": {
+    "type": "arabic",
+    "instruction": "Nabi ﷺ jarang sekali meninggalkan 12 rakaat solat sunat rawatib setiap hari! Sabda Nabi ﷺ:",
+    "arabic": "مَنْ صَلَّى اثْنَتَيْ عَشْرَةَ رَكْعَةً فِي يَوْمٍ وَلَيْلَةٍ بُنِيَ لَهُ بِهِنَّ بَيْتٌ فِي الْجَنَّةِ",
+    "translation": "Siapa yang solat 12 rakaat dalam sehari semalam, Allah bina untuknya sebuah rumah di syurga.",
+    "source": "Riwayat Muslim",
+    "outro": "12 rakaat sahaja = RUMAH DI SYURGA — rugi sangat kalau ditinggalkan!"
+  }
+}

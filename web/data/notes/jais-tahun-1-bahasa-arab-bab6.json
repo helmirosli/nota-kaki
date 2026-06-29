@@ -1,0 +1,197 @@
+{
+  "id": "jais-tahun-1-bahasa-arab-bab6",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "bahasa-arab",
+  "chapter": 6,
+  "title": "Jam dan Waktu",
+  "emoji": "🕐",
+  "colour": "#2196F3",
+  "estimatedMinutes": 13,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Kemahiran Pelajaran Ini 📚",
+      "body": "Selepas belajar Dars ini, kamu boleh: MENDENGAR dan MENYEBUT waktu dalam Bahasa Arab, MEMBACA waktu dengan betul, MENULIS waktu dengan tepat, dan BERTANYA serta MENJAWAB tentang waktu!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🕐",
+          "title": "Jam 1 hingga 12",
+          "body": {
+            "type": "list",
+            "intro": "Nombor jam dalam Bahasa Arab:",
+            "items": [
+              "السَّاعَةُ الْوَاحِدَة — Pukul 1",
+              "السَّاعَةُ الثَّانِيَة — Pukul 2",
+              "السَّاعَةُ الثَّالِثَة — Pukul 3",
+              "السَّاعَةُ الرَّابِعَة — Pukul 4",
+              "السَّاعَةُ الْخَامِسَة — Pukul 5",
+              "السَّاعَةُ السَّادِسَة — Pukul 6",
+              "السَّاعَةُ السَّابِعَة — Pukul 7",
+              "السَّاعَةُ الثَّامِنَة — Pukul 8",
+              "السَّاعَةُ التَّاسِعَة — Pukul 9",
+              "السَّاعَةُ الْعَاشِرَة — Pukul 10",
+              "السَّاعَةُ الْحَادِيَةَ عَشَرَة — Pukul 11",
+              "السَّاعَةُ الثَّانِيَةَ عَشَرَة — Pukul 12"
+            ]
+          }
+        },
+        {
+          "icon": "❓",
+          "title": "Tanya dan Jawab Tentang Jam",
+          "body": {
+            "type": "list",
+            "intro": "Cara tanya jam sekarang (كَمِ السَّاعَةُ الْآنَ؟):",
+            "items": [
+              "كَمِ السَّاعَةُ الْآنَ؟ — Pukul berapa sekarang?",
+              "الْآنَ السَّاعَةُ الْوَاحِدَة — Sekarang pukul satu",
+              "الْآنَ السَّاعَةُ الثَّانِيَة — Sekarang pukul dua",
+              "الْآنَ السَّاعَةُ الثَّالِثَة — Sekarang pukul tiga"
+            ],
+            "outro": "كَمِ السَّاعَةُ؟ = Pukul berapa? • الْآنَ = sekarang"
+          }
+        },
+        {
+          "icon": "📋",
+          "title": "Jadual Harian — Dialog Waktu",
+          "body": {
+            "type": "list",
+            "intro": "Tanya tentang aktiviti harian (مَتَى...؟):",
+            "items": [
+              "مَتَى تَسْتَيْقِظُ مِنَ النَّوْمِ؟ / أَسْتَيْقِظُ فِي السَّاعَةِ السَّادِسَةِ صَبَاحًا — Bila kamu bangun tidur? / Pukul 6 pagi",
+              "مَتَى تَلْعَبُ كُرَةَ الْقَدَمِ؟ / أَلْعَبُ فِي السَّاعَةِ الْخَامِسَةِ مَسَاءً — Bila kamu main bola? / Pukul 5 petang",
+              "مَتَى تَنَامُ فِي اللَّيْلِ؟ / أَنَامُ فِي السَّاعَةِ الْعَاشِرَةِ لَيْلًا — Bila kamu tidur? / Pukul 10 malam",
+              "مَتَى تُرَاجِعُ الدَّرْسَ؟ / أُرَاجِعُ الدَّرْسَ فِي السَّاعَةِ التَّاسِعَةِ لَيْلًا — Bila kamu ulang kaji? / Pukul 9 malam"
+            ]
+          }
+        },
+        {
+          "icon": "🔢",
+          "title": "Nombor Arab 20 hingga 39",
+          "body": {
+            "type": "list",
+            "intro": "Nombor 20-39 dalam Bahasa Arab:",
+            "items": [
+              "٢٠ — عِشْرُون (dua puluh)",
+              "٢١ — وَاحِدٌ وَعِشْرُون (dua puluh satu)",
+              "٢٢ — اثْنَانِ وَعِشْرُون (dua puluh dua)",
+              "٢٣ — ثَلَاثَةٌ وَعِشْرُون (dua puluh tiga)",
+              "٢٥ — خَمْسَةٌ وَعِشْرُون (dua puluh lima)",
+              "٣٠ — ثَلَاثُون (tiga puluh)",
+              "٣١ — وَاحِدٌ وَثَلَاثُون (tiga puluh satu)",
+              "٣٩ — تِسْعَةٌ وَثَلَاثُون (tiga puluh sembilan)"
+            ],
+            "outro": "Pola: satu digit + و (dan) + puluhan. Contoh: ٢١ = واحد وعشرون"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah SWT berfirman:",
+        "arabic": "وَالْعَصْرِ ۝ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ ۝ إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+        "translation": "Demi masa! Sesungguhnya manusia itu benar-benar dalam kerugian, kecuali orang yang beriman dan beramal soleh, dan saling berpesan dengan kebenaran dan saling berpesan dengan kesabaran.",
+        "source": "Surah al-Asr: 1-3",
+        "outro": "Masa sangat berharga — urus masa dengan bijak, solat tepat waktu, belajar bersungguh-sungguh!",
+        "more": [
+          {
+            "instruction": "Ayat Latihan — Hadir Awal:",
+            "arabic": "اُحْضُرِ الْمَدْرَسَةَ مُبَكِّرًا",
+            "translation": "Hadiri sekolah lebih awal"
+          },
+          {
+            "instruction": "Ayat Latihan — Tepati Janji:",
+            "arabic": "أَوْفِ بِوَعْدِك",
+            "translation": "Tepatilah janjimu"
+          }
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Dialog — Jadual Harianku 🗣️",
+      "items": [
+        {
+          "type": "arabic",
+          "instruction": "Tanya bila bangun tidur:",
+          "arabic": "مَتَى تَسْتَيْقِظُ مِنَ النَّوْمِ؟ ← أَسْتَيْقِظُ فِي السَّاعَةِ السَّادِسَةِ صَبَاحًا",
+          "translation": "Bila kamu bangun tidur? ← Saya bangun pukul 6 pagi"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tanya bila main bola:",
+          "arabic": "مَتَى تَلْعَبُ كُرَةَ الْقَدَمِ؟ ← أَلْعَبُ فِي السَّاعَةِ الْخَامِسَةِ مَسَاءً",
+          "translation": "Bila kamu main bola sepak? ← Saya main pukul 5 petang"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tanya bila ulang kaji:",
+          "arabic": "مَتَى تُرَاجِعُ الدَّرْسَ؟ ← أُرَاجِعُ الدَّرْسَ فِي السَّاعَةِ التَّاسِعَةِ لَيْلًا",
+          "translation": "Bila kamu ulang kaji? ← Saya ulang kaji pukul 9 malam"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tanya bila tidur:",
+          "arabic": "مَتَى تَنَامُ فِي اللَّيْلِ؟ ← أَنَامُ فِي السَّاعَةِ الْعَاشِرَةِ لَيْلًا",
+          "translation": "Bila kamu tidur malam? ← Saya tidur pukul 10 malam"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "كَمِ السَّاعَةُ الْآنَ؟ bermaksud...",
+      "options": ["Di mana jam itu?", "Pukul berapa sekarang?", "Bila kamu bangun?", "Berapa jam kamu tidur?"],
+      "answer": 1
+    },
+    {
+      "q": "Bagaimana cara sebut 'pukul lima' dalam Bahasa Arab?",
+      "options": ["السَّاعَةُ الرَّابِعَة", "السَّاعَةُ الْخَامِسَة", "السَّاعَةُ السَّادِسَة", "السَّاعَةُ السَّابِعَة"],
+      "answer": 1
+    },
+    {
+      "q": "صَبَاحًا bermaksud...",
+      "options": ["petang", "malam", "pagi", "tengah hari"],
+      "answer": 2
+    },
+    {
+      "q": "Nombor Arab bagi 'dua puluh satu' ialah...",
+      "options": ["عِشْرُون", "وَاحِدٌ وَعِشْرُون", "اثْنَانِ وَعِشْرُون", "أَحَدَ عَشَرَ"],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "السَّاعَة (Jam)", "colour": "#2196F3" },
+      { "id": "n2", "label": "كَمِ السَّاعَة؟ (Pukul berapa?)", "colour": "#1565C0" },
+      { "id": "n3", "label": "صَبَاحًا (pagi)", "colour": "#42A5F5" },
+      { "id": "n4", "label": "مَسَاءً (petang)", "colour": "#1565C0" },
+      { "id": "n5", "label": "لَيْلًا (malam)", "colour": "#42A5F5" },
+      { "id": "n6", "label": "الْآن (sekarang)", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n2", "target": "n1", "label": "tanya" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "waktu" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "waktu" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "waktu" },
+      { "id": "e5", "source": "n6", "target": "n1", "label": "hubung" }
+    ]
+  },
+  "vocab": [
+    { "word": "السَّاعَة", "meaning": "jam / pukul" },
+    { "word": "كَمِ السَّاعَة؟", "meaning": "pukul berapa?" },
+    { "word": "الْآن", "meaning": "sekarang" },
+    { "word": "صَبَاحًا", "meaning": "pada waktu pagi" },
+    { "word": "مَسَاءً", "meaning": "pada waktu petang" },
+    { "word": "لَيْلًا", "meaning": "pada waktu malam" },
+    { "word": "يَسْتَيْقِظ", "meaning": "bangun tidur" },
+    { "word": "يَنَام", "meaning": "tidur" }
+  ],
+  "funFact": "Orang Arab menggunakan nombor ordinal (pertama, kedua, ketiga...) untuk menyebut jam — bukan nombor biasa! Pukul 1 = الْوَاحِدَة (yang pertama), pukul 2 = الثَّانِيَة (yang kedua). Ini berbeza dengan Bahasa Melayu yang guna nombor biasa seperti 'pukul satu, dua, tiga'!"
+}

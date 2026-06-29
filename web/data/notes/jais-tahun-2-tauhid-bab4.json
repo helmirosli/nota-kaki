@@ -1,0 +1,157 @@
+{
+  "id": "jais-tahun-2-tauhid-bab4",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "tauhid",
+  "chapter": 4,
+  "title": "4 Sifat Wajib Rasul — STAT",
+  "emoji": "🌙",
+  "colour": "#FFB300",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Sifat Wajib Para Nabi dan Rasul",
+      "body": "Para Nabi dan Rasul yang diutus Allah adalah manusia yang terpilih dan terjaga. Mereka mempunyai 4 sifat WAJIB yang mesti ada. Mudah ingat dengan singkatan: S-T-A-T (Siddiq, Tabligh, Amanah, Fatanah)!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "✅",
+          "title": "S — Siddiq (صِدِّيق) = BENAR",
+          "body": {
+            "type": "arabic",
+            "instruction": "Siddiq bermaksud Benar/Jujur. Semua kata-kata dan perbuatan Nabi adalah BENAR — baik semasa menyampaikan wahyu mahupun dalam kehidupan seharian. Sifat wajib Rasul yang pertama:",
+            "arabic": "صِدِّيقٌ",
+            "translation": "Siddiq — Benar/Jujur dalam segala keadaan",
+            "outro": "Lawannya: كِذْب (Kizb = Bohong) — MUSTAHIL bagi Rasul."
+          }
+        },
+        {
+          "icon": "📢",
+          "title": "T — Tabligh (تَبْلِيغ) = MENYAMPAIKAN",
+          "body": {
+            "type": "arabic",
+            "instruction": "Tabligh bermaksud Menyampaikan. Nabi WAJIB sampaikan semua wahyu yang diterima dari Allah kepada umat manusia — tidak boleh sembunyikan atau ubah walau sedikit pun.",
+            "arabic": "تَبْلِيغٌ",
+            "translation": "Tabligh — Menyampaikan wahyu kepada umat",
+            "outro": "Lawannya: كِتْمَان (Kitman = Menyembunyikan) — MUSTAHIL bagi Rasul."
+          }
+        },
+        {
+          "icon": "🔑",
+          "title": "A — Amanah (أَمَانَة) = DIPERCAYAI",
+          "body": {
+            "type": "arabic",
+            "instruction": "Amanah bermaksud Boleh Dipercayai. Nabi adalah orang yang paling amanah dalam segala hal — harta titipan, rahsia, tanggungjawab. Orang Quraisy memberi Nabi ﷺ gelaran:",
+            "arabic": "الْأَمِينُ",
+            "translation": "Al-Amin — Yang Dipercayai",
+            "outro": "Lawannya: خِيَانَة (Khiyanah = Khianat) — MUSTAHIL bagi Rasul."
+          }
+        },
+        {
+          "icon": "🧠",
+          "title": "T — Fatanah (فَطَانَة) = CERDAS",
+          "body": {
+            "type": "arabic",
+            "instruction": "Fatanah bermaksud Bijaksana/Cerdas. Para Nabi dan Rasul adalah manusia yang paling bijaksana — boleh hadapi sebarang cabaran, soal jawab, dan perdebatan dengan kebijaksanaan.",
+            "arabic": "فَطَانَةٌ",
+            "translation": "Fatanah — Bijaksana/Cerdas",
+            "outro": "Lawannya: بَلَادَة (Baladah = Bodoh/Dungu) — MUSTAHIL bagi Rasul."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Firman Allah — Rasulullah ﷺ adalah contoh teladan terbaik untuk kita ikuti:",
+        "arabic": "لَّقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ",
+        "translation": "Sesungguhnya pada diri Rasulullah itu terdapat contoh teladan yang baik bagi kamu.",
+        "source": "Surah al-Ahzab: 21",
+        "outro": "Ikut sifat Nabi ﷺ dalam kehidupan kita: jadi benar (Siddiq), sampaikan kebaikan (Tabligh), amanah (Amanah), dan bijaksana (Fatanah)!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Teladani Sifat Rasul dalam Hidup Harian",
+      "items": [
+        "SIDDIQ — Sentiasa berkata benar, jangan bohong walaupun dalam bergurau",
+        "TABLIGH — Sampaikan ilmu yang kita belajar kepada orang lain — ajak rakan berbuat baik",
+        "AMANAH — Jaga amanah dengan baik: pulangkan barang pinjaman, jangan selewengkan wang",
+        "FATANAH — Belajar bersungguh-sungguh untuk jadi cerdas dan bijaksana",
+        "Ingat singkatan S-T-A-T: Siddiq-Tabligh-Amanah-Fatanah!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah singkatan mudah untuk hafal 4 sifat wajib Rasul?",
+      "options": [
+        "ABCD",
+        "STAR",
+        "STAT",
+        "SIAF"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Nama lain Nabi Muhammad ﷺ yang diberi orang Quraisy berkaitan sifat Amanah ialah...",
+      "options": [
+        "Al-Amin (Yang Dipercayai)",
+        "Al-Karim (Yang Mulia)",
+        "Al-Hakim (Yang Bijaksana)",
+        "Al-Hadi (Yang Memberi Petunjuk)"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sifat Tabligh bermaksud...",
+      "options": [
+        "Benar/Jujur",
+        "Menyampaikan wahyu",
+        "Boleh dipercayai",
+        "Bijaksana/Cerdas"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sifat mustahil bagi Rasul yang berlawanan dengan Siddiq ialah...",
+      "options": [
+        "Khiyanah (Khianat)",
+        "Kizb (Bohong)",
+        "Kitman (Sembunyi)",
+        "Baladah (Bodoh)"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "4 Sifat Wajib Rasul", "colour": "#FFB300" },
+      { "id": "n2", "label": "Siddiq (Benar)", "colour": "#F57F17" },
+      { "id": "n3", "label": "Tabligh (Sampaikan)", "colour": "#FFF9C4" },
+      { "id": "n4", "label": "Amanah (Dipercayai)", "colour": "#F57F17" },
+      { "id": "n5", "label": "Fatanah (Cerdas)", "colour": "#FFF9C4" },
+      { "id": "n6", "label": "S-T-A-T", "colour": "#BF360C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "S" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "T" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "A" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "T" },
+      { "id": "e5", "source": "n6", "target": "n1", "label": "singkatan" }
+    ]
+  },
+  "vocab": [
+    { "word": "صِدِّيق", "meaning": "siddiq — benar/jujur" },
+    { "word": "تَبْلِيغ", "meaning": "tabligh — menyampaikan (wahyu)" },
+    { "word": "أَمَانَة", "meaning": "amanah — boleh dipercayai" },
+    { "word": "فَطَانَة", "meaning": "fatanah — bijaksana/cerdas" },
+    { "word": "الْأَمِين", "meaning": "Al-Amin — gelaran Nabi bermaksud Yang Dipercayai" }
+  ],
+  "funFact": "Sebelum diangkat menjadi Nabi, Muhammad ﷺ sudah digelar 'Al-Amin' (Yang Dipercayai) oleh seluruh penduduk Makkah! Pernah berlaku pertikaian tentang siapa yang berhak letakkan Hajarul Aswad — semua golongan Quraisy setuju supaya Muhammad ﷺ yang putuskan kerana mereka semua percaya kepada kejujurannya. Itulah sifat Amanah yang luar biasa!"
+}

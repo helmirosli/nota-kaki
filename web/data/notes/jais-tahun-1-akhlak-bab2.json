@@ -1,0 +1,227 @@
+{
+  "id": "jais-tahun-1-akhlak-bab2",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "akhlak",
+  "chapter": 2,
+  "title": "Adab Qadha' Hajat — Gunakan Tandas dengan Sopan",
+  "emoji": "🚽",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Kenapa Perlu Ada Adab Masuk Tandas?",
+      "body": "Islam mengajar kita adab dalam setiap perkara — termasuklah ketika menggunakan tandas! Ini dinamakan adab qadha' hajat. Rasulullah ﷺ sendiri mengajar sahabat-sahabatnya cara yang betul untuk masuk dan keluar tandas. Ini menunjukkan betapa lengkapnya ajaran Islam!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🤲",
+          "title": "Doa Masuk Tandas",
+          "body": {
+            "type": "arabic",
+            "instruction": "Sebelum masuk tandas, baca",
+            "arabic": "اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الخُبُثِ وَالخَبَائِثِ",
+            "translation": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari syaitan lelaki dan syaitan perempuan.",
+            "source": "Hadis Riwayat Bukhari & Muslim"
+          }
+        },
+        {
+          "icon": "🦶",
+          "title": "Cara Masuk dan Keluar Tandas",
+          "body": "MASUK tandas: guna kaki KIRI dahulu — ini sunah Nabi ﷺ. KELUAR tandas: guna kaki KANAN dahulu. Ini berlawanan dengan cara masuk masjid atau rumah (masuk dengan kaki kanan). Mudah ingat — tandas guna kaki kiri masuk!"
+        },
+        {
+          "icon": "🤫",
+          "title": "Jangan Bercakap dalam Tandas",
+          "body": "Ketika berada dalam tandas, jangan bercakap, jangan membaca al-Quran, dan jangan menjawab salam. Ini adalah adab yang diajar oleh Islam untuk menjaga kemuliaan kalam Allah dan ucapan salam. Tandas adalah tempat yang tidak sesuai untuk berzikir dengan kuat."
+        },
+        {
+          "icon": "🚪",
+          "title": "Doa Keluar Tandas",
+          "body": {
+            "type": "arabic",
+            "instruction": "Selepas keluar tandas, baca:",
+            "arabic": "غُفْرَانَكَ",
+            "translation": "Aku memohon keampunan-Mu ya Allah.",
+            "source": "Hadis Riwayat Abu Daud & Tirmizi",
+            "more": [
+              {
+                "instruction": "Boleh juga sambung dengan:",
+                "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَذْهَبَ عَنِّي الْأَذَى وَعَافَانِي",
+                "translation": "Segala puji bagi Allah yang telah menghilangkan kesakitan dariku dan menyihatkanku."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "list",
+        "intro": "Ingat 3 Perkara Penting:",
+        "items": [
+          "Masuk dengan kaki KIRI",
+          "Jangan bercakap dalam tandas",
+          "Keluar dengan kaki KANAN dan baca doa 'غُفْرَانَكَ'"
+        ],
+        "outro": "Amalkan setiap hari!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Adab Lengkap Menggunakan Tandas",
+      "items": [
+        {
+          "type": "arabic",
+          "instruction": "Sebelum masuk: baca bismillah dan doa:",
+          "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الخُبُثِ وَالخَبَائِثِ",
+          "translation": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari syaitan lelaki dan syaitan perempuan."
+        },
+        "Masuk dengan kaki kiri dahulu — ini sunah Rasulullah ﷺ",
+        "Dalam tandas: jangan bercakap, jangan bermain telefon, jangan baca al-Quran",
+        "Beristinja' (bersihkan diri) dengan menggunakan air dengan betul dan bersih",
+        {
+          "type": "arabic",
+          "instruction": "Keluar dengan kaki kanan dahulu, baca doa",
+          "arabic": "غُفْرَانَكَ"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Kaki manakah yang digunakan untuk MASUK tandas?",
+      "options": [
+        "Kaki kanan",
+        "Kaki kiri",
+        "Mana-mana kaki",
+        "Kedua kaki serentak"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah doa yang dibaca selepas KELUAR dari tandas?",
+      "options": [
+        "بسم الله",
+        "الحمد لله",
+        "غُفْرَانَكَ",
+        "سبحان الله"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang TIDAK BOLEH dilakukan ketika berada di dalam tandas?",
+      "options": [
+        "Beristinja' dengan air",
+        "Membaca al-Quran dengan kuat",
+        "Menjaga kebersihan",
+        "Menggunakan air dengan betul"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah maksud doa 'اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الخُبُثِ وَالخَبَائِثِ'?",
+      "options": [
+        "Ya Allah, terima kasih atas nikmat ini",
+        "Ya Allah, aku berlindung kepada-Mu dari syaitan",
+        "Ya Allah, bersihkan aku dari dosa",
+        "Ya Allah, ampunkan kesalahanku"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Adab Qadha' Hajat",
+        "colour": "#4CAF50"
+      },
+      {
+        "id": "n2",
+        "label": "Sebelum Masuk",
+        "colour": "#2E7D32"
+      },
+      {
+        "id": "n3",
+        "label": "Dalam Tandas",
+        "colour": "#C8E6C9"
+      },
+      {
+        "id": "n4",
+        "label": "Selepas Keluar",
+        "colour": "#2E7D32"
+      },
+      {
+        "id": "n5",
+        "label": "Doa + Kaki Kiri",
+        "colour": "#1B5E20"
+      },
+      {
+        "id": "n6",
+        "label": "غُفْرَانَكَ + Kaki Kanan",
+        "colour": "#1B5E20"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "pertama"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "semasa"
+      },
+      {
+        "id": "e3",
+        "source": "n1",
+        "target": "n4",
+        "label": "akhir"
+      },
+      {
+        "id": "e4",
+        "source": "n2",
+        "target": "n5",
+        "label": "lakukan"
+      },
+      {
+        "id": "e5",
+        "source": "n4",
+        "target": "n6",
+        "label": "lakukan"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "qadha' hajat",
+      "meaning": "buang air besar atau air kecil"
+    },
+    {
+      "word": "istinja'",
+      "meaning": "membersihkan tempat keluar najis dengan air"
+    },
+    {
+      "word": "syaitan",
+      "meaning": "makhluk jahat dari jin yang menggoda manusia ke arah kejahatan"
+    },
+    {
+      "word": "berlindung",
+      "meaning": "meminta perlindungan atau penjagaan"
+    },
+    {
+      "word": "sunah",
+      "meaning": "amalan yang diajar dan dilakukan oleh Nabi Muhammad ﷺ"
+    }
+  ],
+  "funFact": "Rasulullah ﷺ mengajar sahabat-sahabatnya tentang adab tandas secara terperinci kerana Islam adalah agama yang mementingkan kebersihan! Ada hadis yang menyebut bahawa 'kebersihan adalah sebahagian daripada iman.' Setiap kali kita amalkan adab ini, kita mengikuti sunah Nabi yang mulia."
+}

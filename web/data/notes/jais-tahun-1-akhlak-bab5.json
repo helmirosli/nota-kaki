@@ -1,0 +1,221 @@
+{
+  "id": "jais-tahun-1-akhlak-bab5",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "akhlak",
+  "chapter": 5,
+  "title": "Adab Menyikat Rambut",
+  "emoji": "💇",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Nabi ﷺ Sangat Menjaga Kekemasan Rambut!",
+      "body": "Rasulullah ﷺ adalah orang yang paling kemas dan paling wangi. Baginda sangat menjaga penampilan rambut — sentiasa kemas, bersih, dan wangi. Bila kita menjaga kekemasan rambut, kita sebenarnya mengikut contoh terbaik iaitu Nabi Muhammad ﷺ. Jom belajar adab menyikat rambut yang betul!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📅",
+          "title": "Bila Perlu Sikat Rambut?",
+          "body": "Menyikat rambut adalah sunah yang dianjurkan setiap hari. Yang terbaik adalah selepas mandi, sebelum keluar rumah, dan sebelum pergi ke sekolah atau masjid. Nabi ﷺ sering menyikat rambutnya dan menjaga penampilannya dengan baik. Ini menunjukkan pentingnya kemas dalam Islam."
+        },
+        {
+          "icon": "🪮",
+          "title": "Cara Sikat Rambut yang Betul",
+          "body": {
+            "type": "list",
+            "intro": "Cara menyikat rambut",
+            "items": [
+              "Mulakan dari bahagian KANAN kepala dahulu — ini sunah Nabi untuk memulakan sesuatu dari kanan",
+              "Sikat dengan lembut dari atas ke bawah",
+              "Jangan terlalu kuat menolak supaya rambut tidak tercabut",
+              "Ulangi dari kiri selepas selesai kanan"
+            ]
+          }
+        },
+        {
+          "icon": "💆",
+          "title": "Jangan Berlebihan dalam Berhias",
+          "body": {
+            "type": "arabic",
+            "instruction": "Islam mengajar kita supaya berhias secara sederhana — berhias untuk Allah, bukan untuk bermegah. Hadis Nabi ﷺ:",
+            "arabic": "إِنَّ اللَّهَ جَمِيلٌ يُحِبُّ الْجَمَالَ",
+            "translation": "Sesungguhnya Allah itu Maha Indah dan suka kepada keindahan."
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Faedah Menjaga Kekemasan Rambut",
+          "body": {
+            "type": "list",
+            "intro": "Manfaat menjaga rambut",
+            "items": [
+              "Penampilan kemas dan menarik — orang suka lihat kita",
+              "Rambut sihat kerana disikat secara teratur merangsang aliran darah di kepala",
+              "Mendapat pahala mengikut sunah Nabi",
+              "Menghormati diri sendiri dan orang sekeliling",
+              "Cermin peribadi Muslim yang baik"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadis Nabi ﷺ:",
+        "arabic": "مَنْ كَانَ لَهُ شَعْرٌ فَلْيُكْرِمْهُ",
+        "translation": "Sesiapa yang mempunyai rambut, hendaklah dia memuliakan rambut itu (dengan menjaganya).",
+        "source": "Hadis Riwayat Abu Daud",
+        "outro": "Menjaga rambut bukan sekadar bersolek — ia adalah cara memuliakan nikmat Allah kepada kita!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Langkah Menyikat Rambut dengan Betul",
+      "items": [
+        "Baca bismillah sebelum menyikat rambut",
+        "Mulakan dari bahagian KANAN kepala — ikut sunah Nabi",
+        "Sikat dari atas kepala ke bawah dengan lembut dan perlahan",
+        "Boleh gunakan sedikit minyak rambut atau air supaya rambut kemas",
+        "Selesaikan dengan bahagian kiri — rambut kemas, penampilan berseri!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Dari bahagian manakah kita perlu mulakan menyikat rambut?",
+      "options": [
+        "Bahagian kiri",
+        "Bahagian kanan",
+        "Bahagian tengah",
+        "Bahagian belakang"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Mengapa kita tidak boleh berlebih-lebihan dalam berhias rambut?",
+      "options": [
+        "Kerana rambut mudah rosak",
+        "Kerana Islam larang berhias langsung",
+        "Kerana boleh membawa kepada sifat sombong dan riak",
+        "Kerana minyak rambut mahal"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang dikatakan oleh Hadis tentang Allah dan keindahan?",
+      "options": [
+        "Allah tidak suka keindahan",
+        "Allah Maha Indah dan suka kepada keindahan",
+        "Allah hanya suka keindahan dalaman",
+        "Allah tidak peduli tentang penampilan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah faedah menyikat rambut secara teratur?",
+      "options": [
+        "Rambut menjadi lebih panjang",
+        "Mendapat pahala dan rambut sihat",
+        "Rambut tidak akan beruban",
+        "Rambut menjadi lebih gelap"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Adab Menyikat Rambut",
+        "colour": "#4CAF50"
+      },
+      {
+        "id": "n2",
+        "label": "Cara: Kanan dahulu",
+        "colour": "#2E7D32"
+      },
+      {
+        "id": "n3",
+        "label": "Sederhana, tidak berlebihan",
+        "colour": "#C8E6C9"
+      },
+      {
+        "id": "n4",
+        "label": "Gunakan minyak rambut",
+        "colour": "#2E7D32"
+      },
+      {
+        "id": "n5",
+        "label": "Faedah: Kemas, sihat, pahala",
+        "colour": "#C8E6C9"
+      },
+      {
+        "id": "n6",
+        "label": "Ikut contoh Nabi ﷺ",
+        "colour": "#1B5E20"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "cara"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "prinsip"
+      },
+      {
+        "id": "e3",
+        "source": "n1",
+        "target": "n4",
+        "label": "boleh"
+      },
+      {
+        "id": "e4",
+        "source": "n1",
+        "target": "n5",
+        "label": "menghasilkan"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n6",
+        "label": "tujuan"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "kemas",
+      "meaning": "bersih, tersusun, dan menarik penampilan"
+    },
+    {
+      "word": "sunah",
+      "meaning": "amalan yang diajar dan dilakukan oleh Nabi Muhammad ﷺ"
+    },
+    {
+      "word": "riak",
+      "meaning": "berhias atau berbuat sesuatu untuk dipuji oleh manusia"
+    },
+    {
+      "word": "sederhana",
+      "meaning": "tidak terlalu banyak dan tidak terlalu sedikit — bersederhana"
+    },
+    {
+      "word": "penampilan",
+      "meaning": "cara seseorang kelihatan dari segi pakaian, kekemasan, dan kebersihan"
+    }
+  ],
+  "funFact": "Rasulullah ﷺ sering menggunakan minyak wangi dan menjaga penampilannya dengan sangat baik. Sahabat-sahabat Baginda menceritakan bahawa bau wangi Nabi ﷺ lebih harum dari sebarang minyak wangi! Ini mengajar kita bahawa menjaga penampilan dan kebersihan diri adalah sebahagian daripada akhlak mulia seorang Muslim."
+}

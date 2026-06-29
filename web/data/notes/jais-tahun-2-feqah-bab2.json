@@ -1,0 +1,157 @@
+{
+  "id": "jais-tahun-2-feqah-bab2",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "feqah",
+  "chapter": 2,
+  "title": "Mandi Wajib — Bersuci dari Hadas Besar",
+  "emoji": "🚿",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Mandi Wajib — Bersuci dari Hadas Besar 🚿",
+      "body": "Hadas besar adalah keadaan yang mewajibkan seseorang mandi untuk bersuci sebelum boleh menunaikan solat, memegang al-Quran, tawaf, dan lain-lain. Mandi wajib adalah cara bersuci yang lebih menyeluruh dari wudhu."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "❓",
+          "title": "Sebab Wajib Mandi (Hadas Besar)",
+          "body": {
+            "type": "list",
+            "items": [
+              "Junub — keluar mani (termasuk mimpi basah)",
+              "Haid — datang bulan bagi perempuan",
+              "Nifas — darah selepas bersalin",
+              "Wiladah — selepas melahirkan anak",
+              "Mati — mayat Muslim wajib dimandikan"
+            ],
+            "outro": "Orang yang berhadas besar TIDAK BOLEH solat, pegang al-Quran, tawaf, atau masuk masjid."
+          }
+        },
+        {
+          "icon": "🚿",
+          "title": "Fardu/Rukun Mandi Wajib",
+          "body": {
+            "type": "list",
+            "intro": "Hanya DUA rukun wajib:",
+            "items": [
+              "NIAT — 'Sahaja aku mandi untuk mengangkat hadas besar kerana Allah Ta'ala.'",
+              "BASUH/RATAKAN AIR ke seluruh tubuh badan termasuk rambut dan kulit"
+            ],
+            "outro": "Sunat tambah: mulakan dengan basuh tangan, bersihkan najis, berwudhu, kemudian mandi dari kanan ke kiri."
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "Sunah-sunah Mandi Wajib",
+          "body": {
+            "type": "list",
+            "items": [
+              "Membaca Bismillah",
+              "Membasuh tangan 3 kali",
+              "Membersihkan kemaluan",
+              "Berwudhu dengan sempurna sebelum mandi",
+              "Menyiram air ke atas kepala 3 kali",
+              "Membasuh badan dari kanan ke kiri",
+              "Memastikan air sampai ke semua bahagian termasuk bawah rambut"
+            ]
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "Perbezaan Wudhu dan Mandi Wajib",
+          "body": {
+            "type": "list",
+            "intro": "Dua cara bersuci yang berbeza:",
+            "items": [
+              "WUDHU: untuk hadas kecil (kentut, buang air, tidur) — basuh anggota tertentu sahaja (muka, tangan, kepala, kaki)",
+              "MANDI WAJIB: untuk hadas besar (junub, haid, nifas) — mesti basuh SELURUH TUBUH termasuk rambut"
+            ],
+            "outro": "Selepas mandi wajib, tak perlu wudhu lagi — terus boleh solat!"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Dalil mandi wajib — Surah al-Maidah (5:6), Allah berfirman:",
+        "arabic": "وَإِن كُنتُمْ جُنُبًا فَاطَّهَّرُوا",
+        "translation": "...dan jika kamu junub, maka mandilah (bersuci)...",
+        "source": "Surah al-Maidah: 6",
+        "outro": "Allah menetapkan mandi wajib dalam al-Quran — Islam sangat menitikberatkan kebersihan sebagai syarat ibadat."
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mandi Wajib yang Betul 🚿",
+      "items": [
+        "1. NIAT: 'Sahaja aku mandi wajib untuk mengangkat hadas besar kerana Allah Ta'ala'",
+        "2. Baca Bismillah, basuh tangan 3 kali, bersihkan tempat najis",
+        "3. Berwudhu dengan sempurna (seperti wudhu solat biasa)",
+        "4. Siram kepala 3 kali — pastikan air basah ke akar rambut",
+        "5. Siram seluruh badan dari kanan ke kiri — ratakan air ke SEMUA bahagian tubuh"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Mandi wajib diperlukan apabila seseorang berhadas...",
+      "options": ["Kecil (kentut)", "Besar (junub, haid)", "Sederhana", "Tidak perlu sebab"],
+      "answer": 1
+    },
+    {
+      "q": "Rukun mandi wajib ada berapa?",
+      "options": ["1 rukun", "2 rukun", "4 rukun", "6 rukun"],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang TIDAK boleh dilakukan semasa berhadas besar?",
+      "options": ["Tidur", "Makan", "Solat dan pegang al-Quran", "Berjalan"],
+      "answer": 2
+    },
+    {
+      "q": "Selepas mandi wajib, adakah perlu berwudhu lagi untuk solat?",
+      "options": ["Ya, wajib wudhu lagi", "Tidak, terus boleh solat", "Perlu tunggu sejam dulu", "Bergantung pada waktu solat"],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Mandi Wajib", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Hadas Besar", "colour": "#6A1B9A" },
+      { "id": "n3", "label": "Junub/Haid", "colour": "#CE93D8" },
+      { "id": "n4", "label": "Niat", "colour": "#6A1B9A" },
+      { "id": "n5", "label": "Basuh Seluruh Tubuh", "colour": "#CE93D8" },
+      { "id": "n6", "label": "Boleh Solat", "colour": "#4A148C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n2", "target": "n1", "label": "perlu" },
+      { "id": "e2", "source": "n3", "target": "n2", "label": "contoh" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "rukun 1" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "rukun 2" },
+      { "id": "e5", "source": "n5", "target": "n6", "label": "hasilkan" }
+    ]
+  },
+  "vocab": [
+    { "word": "غُسْل", "meaning": "mandi wajib — basuh seluruh tubuh" },
+    { "word": "جُنُب", "meaning": "junub — hadas besar kerana hubungan suami isteri/keluar mani" },
+    { "word": "حَيْض", "meaning": "haid — datang bulan" },
+    { "word": "نِفَاس", "meaning": "nifas — darah selepas bersalin" },
+    { "word": "حَدَث كَبِير", "meaning": "hadas besar — perlu mandi wajib" }
+  ],
+  "funFact": {
+    "type": "arabic",
+    "instruction": "Islam adalah agama yang paling teliti tentang kebersihan! Sabda Nabi ﷺ:",
+    "arabic": "الطَّهُورُ شَطْرُ الْإِيمَانِ",
+    "translation": "Kebersihan itu separuh daripada iman.",
+    "source": "Riwayat Muslim",
+    "outro": "Kita wajib mandi wajib bila berhadas besar, wudhu sebelum setiap solat, dan digalakkan mandi sunat Jumaat & Hari Raya. Kebersihan bukan sekadar amalan — ia sebahagian dari iman!"
+  }
+}

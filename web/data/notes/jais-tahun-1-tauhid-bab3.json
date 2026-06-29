@@ -1,0 +1,128 @@
+{
+  "id": "jais-tahun-1-tauhid-bab3",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "tauhid",
+  "chapter": 3,
+  "title": "Beriman kepada Allah – Mengenal Tuhan Kita!",
+  "emoji": "✨",
+  "colour": "#6A1B9A",
+  "estimatedMinutes": 14,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Kenapa Kita Perlu Beriman kepada Allah?",
+      "body": "Beriman kepada Allah adalah Rukun Iman yang pertama dan paling utama. Ia bermaksud kita wajib meyakini dengan sepenuh hati bahawa Allah itu Ada, Maha Esa, dan Dialah satu-satunya Tuhan yang berhak disembah. Melihat alam ciptaan Allah di sekeliling kita – pokok, haiwan, gunung-ganang, lautan, dan langit – semuanya membuktikan kebesaran Allah!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🌍",
+          "title": "Allah Itu Ada",
+          "body": "Kita wajib meyakini bahawa Allah itu Ada. Segala yang ada di alam ini – langit, bumi, manusia, haiwan – semuanya diciptakan oleh Allah yang Maha Kuasa."
+        },
+        {
+          "icon": "☝️",
+          "title": "Allah Maha Esa",
+          "body": "Allah Maha Esa bermaksud Allah hanya Satu, tiada sekutu atau rakan kongsi bagi-Nya. Kita tidak boleh menyembah selain daripada Allah."
+        },
+        {
+          "icon": "🙌",
+          "title": "Allah Berhak Disembah",
+          "body": "Hanya Allah sahaja yang berhak kita sembah dan pohon pertolongan. Seluruh ibadah kita – solat, puasa, doa – semuanya hanya untuk Allah."
+        },
+        {
+          "icon": "👑",
+          "title": "Allah Memiliki Nama & Sifat Sempurna",
+          "body": "Allah memiliki nama-nama yang indah (Asma'ul Husna) dan sifat-sifat yang sempurna. Tiada sesiapa pun yang boleh menyamainya. Sifat-sifat-Nya sempurna dan tiada kekurangan langsung."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah SWT berfirman:",
+        "arabic": "قُلْ هُوَ اللهُ أَحَدٌ ۝ اَللهُ الصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+        "translation": "Katakanlah: Allah itu Maha Esa. Allah tempat memohon segala hajat. Ia tidak beranak, dan Ia pula tidak diperanakkan. Dan tidak ada sesiapa pun yang setara dengan-Nya.",
+        "source": "Surah al-Ikhlas: 1-4",
+        "outro": "Surah ini sangat istimewa — membacanya sekali nilainya seperti membaca sepertiga al-Quran!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "4 Perkara Wajib Dipercayai Tentang Allah",
+      "items": [
+        "Allah itu Ada – Kewujudan Allah adalah satu kepastian yang tidak boleh dinafikan",
+        "Allah itu Maha Esa – Tiada Tuhan lain selain Allah, tiada sekutu bagi-Nya",
+        "Allah yang berhak disembah – Hanya Allah yang layak menerima segala ibadah dan pujian kita",
+        "Allah memiliki nama-nama yang indah (Asma'ul Husna) – Seperti Ar-Rahman (Maha Pengasih) dan Ar-Rahim (Maha Penyayang)",
+        "Allah memiliki sifat-sifat yang sempurna – Sifat-sifat-Nya tiada tandingan dan tidak serupa dengan makhluk"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud beriman kepada Allah?",
+      "options": [
+        "Meyakini bahawa Allah itu Ada, Maha Esa, berhak disembah dan memiliki sifat sempurna",
+        "Hanya menyebut nama Allah sahaja",
+        "Pergi ke masjid pada hari Jumaat",
+        "Membaca Al-Quran setiap hari"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Surah apakah yang menjadi dalil beriman kepada Allah tentang keesaan-Nya?",
+      "options": ["Surah Al-Baqarah", "Surah Al-Fatihah", "Surah Al-Ikhlas", "Surah Yasin"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang dimaksudkan dengan Allah Maha Esa?",
+      "options": [
+        "Allah mempunyai banyak pembantu",
+        "Allah hanya Satu dan tiada sekutu bagi-Nya",
+        "Allah hanya ada di syurga sahaja",
+        "Allah selalu tidur pada waktu malam"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Siapa yang wajib mengenal Allah (Ma'rifah Allah)?",
+      "options": [
+        "Hanya orang tua sahaja",
+        "Hanya ulama dan ustaz sahaja",
+        "Setiap mukallaf iaitu lelaki dan perempuan yang berakal baligh",
+        "Hanya orang yang tinggal di kawasan bandar"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Beriman kepada Allah", "colour": "#6A1B9A" },
+      { "id": "n2", "label": "Allah Ada", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "Allah Maha Esa", "colour": "#E1BEE7" },
+      { "id": "n4", "label": "Allah Berhak Disembah", "colour": "#7B1FA2" },
+      { "id": "n5", "label": "Sifat Sempurna", "colour": "#E1BEE7" },
+      { "id": "n6", "label": "Dalil: Surah Al-Ikhlas", "colour": "#7B1FA2" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "bermaksud" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "bermaksud" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "bermaksud" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "bermaksud" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "dibuktikan" }
+    ]
+  },
+  "vocab": [
+    { "word": "Maha Esa", "meaning": "Satu dan tiada sekutu – Allah adalah Satu tanpa tandingan" },
+    { "word": "Asma'ul Husna", "meaning": "Nama-nama Allah yang indah, berjumlah 99 nama" },
+    { "word": "Mukallaf", "meaning": "Orang yang wajib menjalankan perintah agama iaitu yang berakal dan sudah baligh" },
+    { "word": "Ma'rifah", "meaning": "Pengenalan atau pengetahuan yang pasti tentang sifat-sifat Allah" },
+    { "word": "Dalil", "meaning": "Bukti atau hujah yang digunakan untuk membuktikan sesuatu kebenaran" }
+  ],
+  "funFact": "Surah Al-Ikhlas hanya terdiri daripada 4 ayat yang pendek, tetapi ia mengandungi seluruh makna keesaan Allah! Rasulullah ﷺ berkata membacanya sekali seperti membaca sepertiga Al-Quran. Cuba hafal sekarang!"
+}

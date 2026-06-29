@@ -1,0 +1,206 @@
+{
+  "id": "jais-tahun-1-bahasa-arab-bab4",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "bahasa-arab",
+  "chapter": 4,
+  "title": "Alat-alat Pelajaran",
+  "emoji": "🎒",
+  "colour": "#2196F3",
+  "estimatedMinutes": 14,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Kemahiran Pelajaran Ini 📚",
+      "body": "Selepas belajar Dars ini, kamu boleh: MENDENGAR dan MENYEBUT nama alat-alat pelajaran, MEMBACA nama alat pelajaran dengan betul, MENULIS nama alat pelajaran dengan tepat, dan BERTANYA serta MENJAWAB tentang alat pelajaran!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "✏️",
+          "title": "Alat-alat Pelajaran",
+          "body": {
+            "type": "list",
+            "intro": "هَذِهِ أَدَوَاتٌ دِرَاسِيَّة — Ini alat-alat pelajaran:",
+            "items": [
+              "مِسْرَم — pensel warna",
+              "مِسْطَرَة — pembaris",
+              "قَلَم — pen",
+              "مِمْسَحَة — pemadam",
+              "سَبُّورَة — papan tulis",
+              "كِتَاب — buku",
+              "حَقِيبَة — beg",
+              "دَفْتَر — buku latihan"
+            ]
+          }
+        },
+        {
+          "icon": "📍",
+          "title": "Di Mana Alat Itu? — Kata Sendi Tempat",
+          "body": {
+            "type": "list",
+            "intro": "Lokasi alat-alat pelajaran:",
+            "items": [
+              "الْقَلَمُ عَلَى الْكُرْسِيِّ — pen di atas kerusi",
+              "الْمِسْرَمُ عَلَى الْمَكْتَبِ — pensel warna di atas meja",
+              "الْمِسْطَرَةُ عَلَى الْحَقِيبَةِ — pembaris di atas beg",
+              "الدَّفْتَرُ فِي الدُّرْجِ — buku latihan dalam laci",
+              "الْكِتَابُ فِي الْخِزَانَةِ — buku dalam almari",
+              "السَّبُّورَةُ فِي الْفَصْلِ — papan tulis dalam kelas",
+              "الْمِمْسَحَةُ عَلَى الْمَكْتَبِ — pemadam di atas meja",
+              "الْحَقِيبَةُ فِي الْمَعْمَلِ — beg dalam makmal"
+            ],
+            "outro": "عَلَى = di atas • فِي = di dalam"
+          }
+        },
+        {
+          "icon": "🗣️",
+          "title": "Dialog — Adakah Kamu Ada...?",
+          "body": {
+            "type": "list",
+            "intro": "Soal jawab tentang alat pelajaran (هَلْ عِنْدَكَ...؟):",
+            "items": [
+              "هَلْ عِنْدَكَ قَلَمٌ؟ / نَعَمْ، عِنْدِي قَلَمٌ — Adakah kamu ada pen? / Ya, saya ada pen",
+              "هَلْ عِنْدَكَ مِسْرَمٌ؟ / نَعَمْ، عِنْدِي مِسْرَمٌ — Adakah kamu ada pensel warna?",
+              "هَلْ عِنْدَكَ حَقِيبَةٌ؟ / نَعَمْ، عِنْدِي حَقِيبَةٌ — Adakah kamu ada beg?",
+              "هَلْ عِنْدَكَ دَفْتَرٌ؟ / نَعَمْ، عِنْدِي دَفْتَرٌ — Adakah kamu ada buku latihan?",
+              "هَلْ عِنْدَكَ مِمْسَحَةٌ؟ / نَعَمْ، عِنْدِي مِمْسَحَةٌ — Adakah kamu ada pemadam?"
+            ],
+            "outro": "عِنْدَكَ = kamu ada (tanya) • عِنْدِي = saya ada (jawab)"
+          }
+        },
+        {
+          "icon": "🔢",
+          "title": "Nombor Arab Puluhan (10–100)",
+          "body": {
+            "type": "list",
+            "intro": "Nombor puluhan dalam Bahasa Arab:",
+            "items": [
+              "١٠ — عَشَرَة (sepuluh)",
+              "٢٠ — عِشْرُون (dua puluh)",
+              "٣٠ — ثَلَاثُون (tiga puluh)",
+              "٤٠ — أَرْبَعُون (empat puluh)",
+              "٥٠ — خَمْسُون (lima puluh)",
+              "٦٠ — سِتُّون (enam puluh)",
+              "٧٠ — سَبْعُون (tujuh puluh)",
+              "٨٠ — ثَمَانُون (lapan puluh)",
+              "٩٠ — تِسْعُون (sembilan puluh)",
+              "١٠٠ — مِائَة (seratus)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah SWT berfirman:",
+        "arabic": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ ۝ خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ ۝ اقْرَأْ وَرَبُّكَ الْأَكْرَمُ ۝ الَّذِي عَلَّمَ بِالْقَلَمِ ۝ عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ",
+        "translation": "Bacalah dengan nama Tuhanmu yang menciptakan. Dia menciptakan manusia dari segumpal darah. Bacalah, dan Tuhanmulah yang Maha Mulia. Yang mengajar dengan pena (qalam). Mengajar manusia apa yang tidak diketahuinya.",
+        "source": "Surah al-Alaq: 1-5",
+        "outro": "Allah mengajar manusia dengan القلم (pena/qalam) — itulah sebabnya alat pelajaran sangat penting!",
+        "more": [
+          {
+            "instruction": "Ayat Latihan — Buat Kerja Rumah:",
+            "arabic": "اِعْمَلِ الْوَاجِبَاتِ الْمَدْرَسِيَّة",
+            "translation": "Lakukanlah kerja-kerja sekolah (homework)"
+          },
+          {
+            "instruction": "Ayat Latihan — Ulang Kaji:",
+            "arabic": "رَاجِعْ دُرُوسَك",
+            "translation": "Ulang kajilah pelajaranmu"
+          }
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Dialog — Alat Pelajaran Saya 🗣️",
+      "items": [
+        {
+          "type": "arabic",
+          "instruction": "Tanya tentang pen:",
+          "arabic": "هَلْ عِنْدَكَ قَلَمٌ؟ ← نَعَمْ، عِنْدِي قَلَمٌ",
+          "translation": "Adakah kamu ada pen? ← Ya, saya ada pen"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tanya tentang buku:",
+          "arabic": "هَلْ عِنْدَكَ كِتَابٌ؟ ← نَعَمْ، عِنْدِي كِتَابٌ",
+          "translation": "Adakah kamu ada buku? ← Ya, saya ada buku"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tanya tentang beg:",
+          "arabic": "هَلْ عِنْدَكَ حَقِيبَةٌ؟ ← نَعَمْ، عِنْدِي حَقِيبَةٌ",
+          "translation": "Adakah kamu ada beg? ← Ya, saya ada beg"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tanya tentang pembaris:",
+          "arabic": "هَلْ عِنْدَكَ مِسْطَرَةٌ؟ ← نَعَمْ، عِنْدِي مِسْطَرَةٌ",
+          "translation": "Adakah kamu ada pembaris? ← Ya, saya ada pembaris"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tanya tentang pemadam:",
+          "arabic": "هَلْ عِنْدَكَ مِمْسَحَةٌ؟ ← نَعَمْ، عِنْدِي مِمْسَحَةٌ",
+          "translation": "Adakah kamu ada pemadam? ← Ya, saya ada pemadam"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah Bahasa Arab bagi 'buku latihan'?",
+      "options": ["كِتَاب", "دَفْتَر", "حَقِيبَة", "مِسْطَرَة"],
+      "answer": 1
+    },
+    {
+      "q": "الْقَلَمُ عَلَى الْمَكْتَبِ bermaksud...",
+      "options": ["Pen dalam laci", "Pen di atas meja", "Pen dalam beg", "Pen di atas kerusi"],
+      "answer": 1
+    },
+    {
+      "q": "Bagaimana cara tanya 'Adakah kamu ada pembaris?' dalam Bahasa Arab?",
+      "options": ["مَا مِسْطَرَة؟", "هَلْ عِنْدَكَ مِسْطَرَةٌ؟", "أَيْنَ الْمِسْطَرَة؟", "هَذِهِ مِسْطَرَة"],
+      "answer": 1
+    },
+    {
+      "q": "Nombor Arab bagi 'enam puluh' ialah...",
+      "options": ["خَمْسُون", "سِتُّون", "سَبْعُون", "ثَمَانُون"],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "أَدَوَات دِرَاسِيَّة", "colour": "#2196F3" },
+      { "id": "n2", "label": "قَلَم / مِسْرَم", "colour": "#1565C0" },
+      { "id": "n3", "label": "كِتَاب / دَفْتَر", "colour": "#42A5F5" },
+      { "id": "n4", "label": "حَقِيبَة / مِسْطَرَة", "colour": "#1565C0" },
+      { "id": "n5", "label": "عَلَى = di atas", "colour": "#42A5F5" },
+      { "id": "n6", "label": "فِي = di dalam", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "contoh" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "contoh" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "contoh" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "lokasi" },
+      { "id": "e5", "source": "n3", "target": "n6", "label": "lokasi" }
+    ]
+  },
+  "vocab": [
+    { "word": "قَلَم", "meaning": "pen" },
+    { "word": "مِسْرَم", "meaning": "pensel warna" },
+    { "word": "مِسْطَرَة", "meaning": "pembaris" },
+    { "word": "مِمْسَحَة", "meaning": "pemadam" },
+    { "word": "دَفْتَر", "meaning": "buku latihan" },
+    { "word": "حَقِيبَة", "meaning": "beg" },
+    { "word": "سَبُّورَة", "meaning": "papan tulis" },
+    { "word": "عِنْدِي", "meaning": "saya ada / saya mempunyai" }
+  ],
+  "funFact": "Perkataan قَلَم (qalam) dalam Bahasa Arab bermaksud 'pena/pen'. Allah bersumpah demi قلم dalam Surah al-Qalam (Surah 68): 'Nun. Demi pena dan apa yang mereka tulis!' — pen adalah alat ilmu yang sangat mulia dalam Islam!"
+}

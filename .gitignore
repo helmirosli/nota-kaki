@@ -1,0 +1,29 @@
+# PDFs — too large for git (use references/ folder locally)
+references/**/*.pdf
+
+# Next.js
+web/.next/
+web/out/
+
+# Dependencies
+web/node_modules/
+
+# Build artifacts
+web/tsconfig.tsbuildinfo
+
+# Environment
+web/.env
+web/.env.local
+web/.env*.local
+
+# Obsidian vault
+nota-kaki-vault/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+web/npm-debug.log*
+web/yarn-debug.log*
+web/yarn-error.log*

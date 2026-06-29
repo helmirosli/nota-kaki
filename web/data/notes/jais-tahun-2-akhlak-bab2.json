@@ -1,0 +1,260 @@
+{
+  "id": "jais-tahun-2-akhlak-bab2",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "akhlak",
+  "chapter": 2,
+  "title": "Adab Tidur",
+  "emoji": "😴",
+  "colour": "#5C6BC0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Kenapa Adab Tidur Itu Penting?",
+      "body": "Tidur adalah anugerah Allah kepada kita supaya badan kita dapat berehat dan bertenaga semula. Islam mengajar kita adab yang betul sebelum dan selepas tidur supaya kita sentiasa dalam keadaan bersih, selamat, dan mendapat pahala. Nabi Muhammad ﷺ juga mengamalkan adab-adab ini setiap hari."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🪥",
+          "title": "Adab Sebelum Tidur",
+          "body": {
+            "type": "list",
+            "items": [
+              "Ambil wudhu sebelum tidur",
+              "Gosok gigi (bersugi) sebelum tidur",
+              "Berpakaian bersih dan selesa",
+              "Meminta maaf kepada ibu bapa",
+              "Baca doa sebelum tidur"
+            ]
+          }
+        },
+        {
+          "icon": "🤲",
+          "title": "Doa Sebelum Tidur",
+          "body": {
+            "type": "arabic",
+            "instruction": "Daripada Hudzaifah, Rasulullah ﷺ bersabda:",
+            "arabic": "اَللَّهُمَّ بِاسْمِكَ أَمُوتُ وَأَحْيَا",
+            "translation": "Wahai Allah, dengan nama-Mu aku mati dan aku hidup.",
+            "source": "Riwayat Bukhari"
+          }
+        },
+        {
+          "icon": "🌅",
+          "title": "Adab Selepas Bangun Tidur",
+          "body": {
+            "type": "list",
+            "items": [
+              "Baca doa selepas bangun tidur",
+              "Gosok gigi terlebih dahulu",
+              "Mandi dan bersuci",
+              "Kemas bilik tidur dengan rapi",
+              "Berpakaian bersih dan kemas"
+            ]
+          }
+        },
+        {
+          "icon": "☀️",
+          "title": "Doa Selepas Bangun",
+          "body": {
+            "type": "arabic",
+            "instruction": "Baca doa",
+            "arabic": "اَلْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُوْرُ",
+            "translation": "Segala puji bagi Allah yang menghidupkan kami selepas mematikan kami dan kepada-Nya kami akan kembali.",
+            "source": "Riwayat Bukhari"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah berfirman dalam Surah al-Naba' ayat 9",
+        "arabic": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+        "translation": "Dan Kami jadikan tidurmu sebagai berehat.' Tidur adalah nikmat besar daripada Allah untuk memulihkan tenaga tubuh badan kita."
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Adab-adab Sebelum Tidur",
+      "items": [
+        "Gosok gigi (bersugi) sebelum tidur",
+        "Pakai pakaian yang bersih dan selesa",
+        "Ambil wudhu sebelum tidur",
+        "Mohon maaf kepada ibu bapa",
+        "Baca doa sebelum tidur: Bismika Allahumma amutu wa ahya",
+        "Tidur menghadap ke arah kanan (seperti sunnah Nabi)"
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Adab-adab Selepas Bangun Tidur",
+      "items": [
+        "Baca doa selepas bangun tidur",
+        "Gosok gigi terlebih dahulu",
+        "Kemas bilik tidur dengan rapi",
+        "Mandi dan bersuci",
+        "Pakai pakaian yang bersih dan kemas",
+        "Solat Subuh dua rakaat — wajib ditaati"
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Faedah Beradab Semasa Tidur",
+      "items": [
+        "Mengamalkan sunnah Nabi Muhammad ﷺ",
+        "Menjaga kesihatan tubuh badan",
+        "Melatih diri supaya berdisiplin",
+        "Sentiasa cergas dan cerdas fikiran",
+        "Disayangi oleh keluarga dan masyarakat"
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Akibat Tidak Beradab Semasa Tidur",
+      "items": [
+        "Hilang selera makan pada waktu pagi",
+        "Susah mengingati pelajaran di sekolah",
+        "Tidak berdisiplin dalam kehidupan seharian",
+        "Mudah mendapat penyakit",
+        "Rasa mengantuk ketika belajar di sekolah"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah doa yang dibaca sebelum tidur?",
+      "options": [
+        "Alhamdulillahil-lazi ahyana",
+        "Bismika Allahumma amutu wa ahya",
+        "Subhanallah wa bihamdih",
+        "Allahu Akbar wa lillahil hamd"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah perkara pertama yang perlu dilakukan selepas bangun tidur?",
+      "options": [
+        "Terus makan sarapan",
+        "Bermain telefon",
+        "Baca doa bangun tidur",
+        "Pergi sekolah"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Surah apakah yang menyebut bahawa tidur adalah sebagai berehat?",
+      "options": [
+        "Surah al-Fatihah",
+        "Surah al-Baqarah",
+        "Surah al-Naba'",
+        "Surah al-Ikhlas"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah salah satu adab sebelum tidur?",
+      "options": [
+        "Makan makanan yang banyak",
+        "Ambil wudhu dan mohon maaf kepada ibu bapa",
+        "Tidur terus tanpa berdoa",
+        "Bermain hingga lewat malam"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Adab Tidur",
+        "colour": "#5C6BC0"
+      },
+      {
+        "id": "n2",
+        "label": "Sebelum Tidur",
+        "colour": "#3949AB"
+      },
+      {
+        "id": "n3",
+        "label": "Selepas Bangun",
+        "colour": "#C5CAE9"
+      },
+      {
+        "id": "n4",
+        "label": "Ambil Wudhu",
+        "colour": "#3949AB"
+      },
+      {
+        "id": "n5",
+        "label": "Kemas Bilik",
+        "colour": "#C5CAE9"
+      },
+      {
+        "id": "n6",
+        "label": "Surah al-Naba' 9",
+        "colour": "#1A237E"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "ada"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "ada"
+      },
+      {
+        "id": "e3",
+        "source": "n2",
+        "target": "n4",
+        "label": "termasuk"
+      },
+      {
+        "id": "e4",
+        "source": "n3",
+        "target": "n5",
+        "label": "termasuk"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n6",
+        "label": "berdasarkan"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "wudhu",
+      "meaning": "bersuci dengan air mengikut cara yang ditetapkan Islam sebelum solat atau ibadah"
+    },
+    {
+      "word": "sunnah",
+      "meaning": "amalan yang dilakukan oleh Nabi Muhammad ﷺ yang digalakkan untuk diikuti"
+    },
+    {
+      "word": "berdisiplin",
+      "meaning": "mematuhi peraturan dan mempunyai kawalan diri yang baik"
+    },
+    {
+      "word": "bersuci",
+      "meaning": "membersihkan diri dari kekotoran sama ada fizikal atau hadas"
+    },
+    {
+      "word": "cergas",
+      "meaning": "sihat, aktif dan bersemangat untuk melakukan sesuatu"
+    }
+  ],
+  "funFact": "Tahukah kamu? Nabi Muhammad ﷺ menggosok gigi (bersugi) sebelum tidur dan selepas bangun tidur. Saintis kini membuktikan bahawa menggosok gigi sebelum tidur adalah sangat baik untuk kesihatan gigi kita!"
+}

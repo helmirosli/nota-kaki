@@ -1,0 +1,225 @@
+{
+  "id": "jais-tahun-2-hafazan-bab1",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "hafazan",
+  "chapter": 1,
+  "title": "Surah al-Kafirun — Batas Antara Islam dan Kufur",
+  "emoji": "✊",
+  "colour": "#E91E63",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Surah al-Kafirun — Kebebasan Beragama dalam Islam ✊",
+      "body": "Surah al-Kafirun adalah surah ke-109. Ia menegaskan pendirian tegas orang Islam tentang akidah — kita tidak mencampur-aduk agama dengan orang kafir. Nabi ﷺ ajar kita baca surah ini dalam solat sunat Subuh dan Maghrib!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Teks Surah al-Kafirun (Arab)",
+          "body": {
+            "type": "arabic",
+            "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ ۝ قُلْ يَا أَيُّهَا الْكَافِرُونَ ۝ لَا أَعْبُدُ مَا تَعْبُدُونَ ۝ وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ ۝ وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ ۝ وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ ۝ لَكُمْ دِينُكُمْ وَلِيَ دِينِ ۝"
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Transliterasi + Terjemahan",
+          "body": {
+            "type": "list",
+            "items": [
+              "(1) Qul ya ayyuhal kafirun = Katakanlah: Wahai orang-orang kafir!",
+              "(2) La a'budu ma ta'budun = Aku tidak menyembah apa yang kamu sembah.",
+              "(3) Wa la antum 'abiduna ma a'bud = Dan kamu bukan penyembah Tuhan yang aku sembah.",
+              "(4) Wa la ana 'abidun ma 'abadtum = Dan aku tidak pernah menyembah apa yang kamu sembah.",
+              "(5) Wa la antum 'abiduna ma a'bud = Dan kamu bukan penyembah Tuhan yang aku sembah.",
+              "(6) Lakum dinukum wa liya din = Untukmu agamamu, dan untukku agamaku."
+            ]
+          }
+        },
+        {
+          "icon": "🔑",
+          "title": "Mesej Utama Surah ini",
+          "body": "Surah ini diturunkan apabila pemimpin Quraisy tawaran kepada Nabi ﷺ: 'Kamu sembah tuhan kami setahun, kami sembah tuhan kamu setahun!' Nabi tegas MENOLAK — turunlah surah ini! Mesej: Dalam akidah dan sembahan, TIDAK ADA kompromi. Tapi kita HORMATI hak orang lain beragama."
+        },
+        {
+          "icon": "🏆",
+          "title": "Kelebihan Surah al-Kafirun",
+          "body": {
+            "type": "list",
+            "items": [
+              "Nabi ﷺ ajar baca dalam solat sunat Subuh (rakaat 1) dan solat sunat Maghrib (rakaat 1)",
+              "Membacanya = dibebaskan dari syirik",
+              "Pahala: bersamaan satu perempat al-Quran (Riwayat Ahmad)",
+              "Digalakkan baca sebelum tidur untuk perlindungan malam"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ayat terakhir Surah al-Kafirun — pesanan paling kuat:",
+        "arabic": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+        "translation": "Untukmu agamamu, dan untukku agamaku.",
+        "source": "Surah al-Kafirun: 6",
+        "outro": "Ini ajar kita: akidah Islam tidak boleh dicampur-aduk. Kita hormati hak orang lain beragama, tapi kita tidak ikut agama mereka. Islam = tegas dalam prinsip, lembut dalam pergaulan!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Tips Hafazan Surah al-Kafirun 📝",
+      "items": [
+        "Perhatikan ayat 2 dan 4 hampir sama, ayat 3 dan 5 juga hampir sama — itu yang ramai tersalah!",
+        "Perbezaan: Ayat 2 = PRESENT (sekarang), Ayat 4 = PAST (dahulu, 'abadtum')",
+        "Ayat terakhir (6): Lakum dinukum wa liya din — ini ayat yang paling terkenal!",
+        "Baca dalam solat sunat Subuh (rakaat 1) dan Maghrib (rakaat 1) — cara terbaik hafal",
+        "Faham konteks: Nabi menolak tawaran campur-aduk agama — tegasnya akidah Nabi!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Surah al-Kafirun ada berapa ayat?",
+      "options": [
+        "4 ayat",
+        "5 ayat",
+        "6 ayat",
+        "7 ayat"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ bermaksud...",
+      "options": [
+        "Aku tidak sembah tuhan kamu",
+        "Untukmu agamamu, untukku agamaku",
+        "Kamu bukan penyembah Tuhanku",
+        "Aku tidak mencampur agama"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Surah al-Kafirun diturunkan sebagai jawapan kepada...",
+      "options": [
+        "Perang Badar",
+        "Tawaran Quraisy campur-aduk ibadah",
+        "Hijrah ke Madinah",
+        "Pembukaan Makkah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Nabi ﷺ ajar baca Surah al-Kafirun dalam solat sunat...",
+      "options": [
+        "Dhuha",
+        "Witir",
+        "Subuh dan Maghrib",
+        "Tahajjud"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Surah al-Kafirun",
+        "colour": "#E91E63"
+      },
+      {
+        "id": "n2",
+        "label": "6 Ayat Tegas",
+        "colour": "#880E4F"
+      },
+      {
+        "id": "n3",
+        "label": "Tolak Campur Agama",
+        "colour": "#F48FB1"
+      },
+      {
+        "id": "n4",
+        "label": "لَكُمْ دِينُكُمْ",
+        "colour": "#880E4F"
+      },
+      {
+        "id": "n5",
+        "label": "Bebas dari Syirik",
+        "colour": "#F48FB1"
+      },
+      {
+        "id": "n6",
+        "label": "1/4 al-Quran",
+        "colour": "#AD1457"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "ada"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "mesej"
+      },
+      {
+        "id": "e3",
+        "source": "n1",
+        "target": "n4",
+        "label": "ayat terakhir"
+      },
+      {
+        "id": "e4",
+        "source": "n1",
+        "target": "n5",
+        "label": "kelebihan"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n6",
+        "label": "pahala"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "كَافِرُون",
+      "meaning": "orang-orang kafir (jamak dari kafir)"
+    },
+    {
+      "word": "أَعْبُد",
+      "meaning": "aku menyembah"
+    },
+    {
+      "word": "تَعْبُدُون",
+      "meaning": "kamu menyembah"
+    },
+    {
+      "word": "دِين",
+      "meaning": "agama"
+    },
+    {
+      "word": "شِرْك",
+      "meaning": "syirik — menyekutukan Allah"
+    }
+  ],
+  "funFact": {
+    "type": "arabic",
+    "instruction": "Ayat terakhir Surah al-Kafirun adalah deklarasi kebebasan beragama paling awal dalam sejarah manusia — diturunkan 1,400 tahun lalu!",
+    "arabic": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+    "translation": "Untukmu agamamu, dan untukku agamaku.",
+    "source": "Surah al-Kafirun: 6",
+    "outro": "Islam ajar kita hormati hak orang lain beragama, tapi kita juga tegas dengan akidah sendiri. Inilah keindahan Islam yang sebenar!"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "id": "jais-tahun-2-tauhid-bab5",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "tauhid",
+  "chapter": 5,
+  "title": "4 Sifat Mustahil bagi Rasul",
+  "emoji": "❌",
+  "colour": "#FFB300",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Sifat Mustahil Rasul — Perkara yang TIDAK MUNGKIN bagi Nabi",
+      "body": "Sama seperti Allah ada sifat mustahil, para Nabi dan Rasul juga ada sifat mustahil iaitu perkara yang TIDAK MUNGKIN ada pada diri mereka. Sifat mustahil ini adalah LAWAN dari 4 sifat wajib: S-T-A-T."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🚫",
+          "title": "Kizb (كِذْب) = BOHONG — Mustahil!",
+          "body": {
+            "type": "arabic",
+            "instruction": "Mustahil Nabi berbohong dalam apa juga keadaan. Lawan dari sifat wajib Siddiq (Benar).",
+            "arabic": "كِذْبٌ",
+            "translation": "Kizb — Bohong/Dusta",
+            "outro": "Seluruh kehidupan Nabi ﷺ adalah benar, dari masa kecil hinggalah meninggal dunia. Tiada sesiapa pun yang dapat buktikan Nabi pernah berbohong!"
+          }
+        },
+        {
+          "icon": "🙈",
+          "title": "Kitman (كِتْمَان) = SEMBUNYIKAN — Mustahil!",
+          "body": {
+            "type": "arabic",
+            "instruction": "Mustahil Nabi sembunyikan walau satu ayat pun wahyu yang diterima dari Allah. Lawan dari sifat wajib Tabligh (Menyampaikan).",
+            "arabic": "كِتْمَانٌ",
+            "translation": "Kitman — Menyembunyikan wahyu",
+            "outro": "Allah jaga Nabi supaya semua wahyu disampaikan dengan sempurna dan lengkap kepada umat manusia."
+          }
+        },
+        {
+          "icon": "💔",
+          "title": "Khiyanah (خِيَانَة) = KHIANAT — Mustahil!",
+          "body": {
+            "type": "arabic",
+            "instruction": "Mustahil Nabi mengkhianati amanah yang diberikan — sama ada dari Allah mahupun dari manusia. Lawan dari sifat wajib Amanah (Dipercayai).",
+            "arabic": "خِيَانَةٌ",
+            "translation": "Khiyanah — Khianat/Tidak amanah",
+            "outro": "Nabi ﷺ adalah contoh terbaik amanah dalam sejarah manusia — dipercayai oleh kawan dan lawan!"
+          }
+        },
+        {
+          "icon": "🤦",
+          "title": "Baladah (بَلَادَة) = BODOH/DUNGU — Mustahil!",
+          "body": {
+            "type": "arabic",
+            "instruction": "Mustahil Nabi adalah orang yang bodoh atau tidak cerdas. Lawan dari sifat wajib Fatanah (Bijaksana/Cerdas).",
+            "arabic": "بَلَادَةٌ",
+            "translation": "Baladah — Bodoh/Dungu",
+            "outro": "Para Nabi adalah manusia paling cerdas — boleh hadapi sebarang cabaran dengan akal yang tajam dan hati yang bersih."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Dalil bahawa Nabi ﷺ tidak pernah berbohong dan tidak menyembunyikan wahyu — semua yang Baginda ucapkan adalah dari Allah:",
+        "arabic": "وَمَا يَنطِقُ عَنِ الْهَوَىٰ",
+        "translation": "Dan dia tidak berkata-kata menurut kemahuannya sendiri.",
+        "source": "Surah al-Najm: 3-4",
+        "more": [
+          {
+            "arabic": "إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ",
+            "translation": "Ia tidak lain melainkan wahyu yang diwahyukan (kepadanya)."
+          }
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Ringkasan: 4 Wajib ↔ 4 Mustahil Rasul",
+      "items": [
+        "Siddiq (Benar) ↔ Kizb (Bohong) — Nabi MESTI benar, MUSTAHIL bohong",
+        "Tabligh (Sampaikan) ↔ Kitman (Sembunyikan) — Nabi MESTI sampaikan, MUSTAHIL sorok",
+        "Amanah (Dipercayai) ↔ Khiyanah (Khianat) — Nabi MESTI amanah, MUSTAHIL khianat",
+        "Fatanah (Bijaksana) ↔ Baladah (Dungu) — Nabi MESTI cerdas, MUSTAHIL bodoh",
+        "Ingat: Sifat mustahil = lawan sifat wajib. Hafal S-T-A-T = hafal dua-duanya!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah sifat mustahil Rasul yang berlawanan dengan Tabligh?",
+      "options": ["Kizb (Bohong)", "Kitman (Sembunyikan)", "Khiyanah (Khianat)", "Baladah (Dungu)"],
+      "answer": 1
+    },
+    {
+      "q": "خِيَانَة (Khiyanah) adalah mustahil kerana Rasul bersifat...",
+      "options": ["Siddiq", "Tabligh", "Amanah", "Fatanah"],
+      "answer": 2
+    },
+    {
+      "q": "Berapa jumlah sifat mustahil bagi Rasul?",
+      "options": ["2", "3", "4", "5"],
+      "answer": 2
+    },
+    {
+      "q": "Surah al-Najm ayat 3-4 membuktikan bahawa Nabi...",
+      "options": ["Adalah manusia biasa", "Tidak bohong dan wahyunya dari Allah", "Paling cerdas di dunia", "Sangat amanah dengan harta"],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Sifat Mustahil Rasul", "colour": "#FFB300" },
+      { "id": "n2", "label": "كِذْب (Bohong)", "colour": "#F57F17" },
+      { "id": "n3", "label": "كِتْمَان (Sembunyikan)", "colour": "#FFF9C4" },
+      { "id": "n4", "label": "خِيَانَة (Khianat)", "colour": "#F57F17" },
+      { "id": "n5", "label": "بَلَادَة (Dungu)", "colour": "#FFF9C4" },
+      { "id": "n6", "label": "Lawan Sifat Wajib", "colour": "#BF360C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "lawan Siddiq" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "lawan Tabligh" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "lawan Amanah" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "lawan Fatanah" },
+      { "id": "e5", "source": "n6", "target": "n1", "label": "prinsip" }
+    ]
+  },
+  "vocab": [
+    { "word": "كِذْب", "meaning": "kizb — bohong/dusta" },
+    { "word": "كِتْمَان", "meaning": "kitman — menyembunyikan" },
+    { "word": "خِيَانَة", "meaning": "khiyanah — khianat" },
+    { "word": "بَلَادَة", "meaning": "baladah — bodoh/dungu" },
+    { "word": "وَحْي", "meaning": "wahyu — perutusan dari Allah" }
+  ],
+  "funFact": "Dalam sejarah 23 tahun kenabian Nabi Muhammad ﷺ, tidak ada satu pun bukti bahawa Baginda pernah berbohong, mengkhianati atau menyembunyikan wahyu. Malah musuh-musuh Islam pun tidak boleh dedahkan satu pun penipuan Nabi! Ini membuktikan sifat Siddiq, Amanah dan Tabligh Baginda yang sempurna."
+}

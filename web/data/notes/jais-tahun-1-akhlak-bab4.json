@@ -1,0 +1,207 @@
+{
+  "id": "jais-tahun-1-akhlak-bab4",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "akhlak",
+  "chapter": 4,
+  "title": "Adab Memotong Kuku",
+  "emoji": "💅",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Memotong Kuku — Amalan Nabi yang Mulia!",
+      "body": "Tahukah kamu bahawa memotong kuku adalah SUNAH Nabi Muhammad ﷺ? Rasulullah ﷺ mengajar cara yang betul untuk memotong kuku — bukan sahaja bila nak potong, tetapi juga urutan jari mana yang perlu dipotong dahulu. Sunah yang kelihatan kecil ini membawa pahala yang besar!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📅",
+          "title": "Bila Perlu Potong Kuku?",
+          "body": "Sunah memotong kuku: setiap minggu pada hari Jumaat atau Khamis (paling afdal). Sekurang-kurangnya sekali dalam 40 hari — melewatkan lebih dari 40 hari adalah makruh. Nabi ﷺ bersabda bahawa antara fitrah (tabiat semulajadi manusia) ialah memotong kuku."
+        },
+        {
+          "icon": "✋",
+          "title": "Urutan Potong Kuku Tangan",
+          "body": "Urutan TANGAN KANAN: jari kelingking kanan (5), manis kanan (6), hantu kanan (7), telunjuk kanan (8), ibu jari kanan (9). Kemudian TANGAN KIRI: telunjuk kiri (1), hantu kiri (2), manis kiri (3), kelingking kiri (4), ibu jari kiri (10). Mulakan dari kanan!"
+        },
+        {
+          "icon": "🦶",
+          "title": "Urutan Potong Kuku Kaki",
+          "body": "Potong kuku kaki bermula dari jari kelingking kaki kanan, bergerak ke jari besar, kemudian beralih ke kaki kiri bermula dari jari besar hingga ke kelingking. Ingat: kanan dahulu, kemudian kiri — ini prinsip Islam yang konsisten!"
+        },
+        {
+          "icon": "✨",
+          "title": "Faedah Memotong Kuku",
+          "body": {
+            "type": "list",
+            "intro": "Kelebihan potong kuku",
+            "items": [
+              "Menjaga kebersihan diri — kuku panjang menyimpan kuman dan kotoran",
+              "Menjaga kesihatan — kuku panjang mudah patah dan menyakitkan",
+              "Mendapat pahala mengikut sunah Nabi",
+              "Penampilan menarik dan kemas",
+              "Wudhu lebih sempurna kerana air sampai ke bawah kuku"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadis Penting — Rasulullah ﷺ bersabda:",
+        "arabic": "الْفِطْرَةُ خَمْسٌ الْخِتَانُ وَالِاسْتِحْدَادُ وَقَصُّ الشَّارِبِ وَتَقْلِيمُ الْأَظْفَارِ وَنَتْفُ الْإِبِطِ",
+        "translation": "Lima perkara termasuk fitrah: berkhitan, mencukur bulu ari-ari, mencukur kumis, memotong kuku, dan mencabut bulu ketiak.",
+        "source": "Hadis Riwayat Bukhari & Muslim",
+        "outro": "Memotong kuku bukan sekadar kemas — ia adalah fitrah manusia Muslim!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Urutan Memotong Kuku — Ikut Sunah Nabi!",
+      "items": [
+        "Mulakan dengan Bismillah dan niat mengikut sunah Nabi Muhammad ﷺ",
+        "Tangan kanan dahulu: kelingking(5) → manis(6) → hantu(7) → telunjuk(8) → ibu jari(9)",
+        "Kemudian tangan kiri: telunjuk(1) → hantu(2) → manis(3) → kelingking(4) → ibu jari(10)",
+        "Potong kuku kaki: bermula kaki kanan dari kelingking ke ibu jari, kemudian kaki kiri",
+        "Buang kuku yang dipotong dalam tong sampah — jangan tinggal merata-rata"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa hari sekurang-kurangnya kita perlu memotong kuku?",
+      "options": [
+        "7 hari",
+        "14 hari",
+        "40 hari",
+        "60 hari"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Jari manakah yang PERTAMA dipotong kukunya pada tangan kanan?",
+      "options": [
+        "Ibu jari",
+        "Telunjuk",
+        "Hantu",
+        "Kelingking"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Mengapa kita perlu potong kuku secara berkala?",
+      "options": [
+        "Supaya kuku lebih panjang",
+        "Supaya badan bersih, sihat, dan mengikut sunah",
+        "Supaya cantik sahaja",
+        "Supaya mudah menulis"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Memotong kuku adalah antara amalan apakah dalam Islam?",
+      "options": [
+        "Wajib",
+        "Haram",
+        "Fitrah (sunah)",
+        "Makruh"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Adab Potong Kuku",
+        "colour": "#4CAF50"
+      },
+      {
+        "id": "n2",
+        "label": "Bila: Setiap minggu / 40 hari",
+        "colour": "#2E7D32"
+      },
+      {
+        "id": "n3",
+        "label": "Cara: Tangan kanan dahulu",
+        "colour": "#C8E6C9"
+      },
+      {
+        "id": "n4",
+        "label": "Urutan jari yang betul",
+        "colour": "#2E7D32"
+      },
+      {
+        "id": "n5",
+        "label": "Faedah: Bersih, sihat, pahala",
+        "colour": "#C8E6C9"
+      },
+      {
+        "id": "n6",
+        "label": "Termasuk dalam Fitrah Islam",
+        "colour": "#1B5E20"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "masa"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "cara"
+      },
+      {
+        "id": "e3",
+        "source": "n3",
+        "target": "n4",
+        "label": "ikut"
+      },
+      {
+        "id": "e4",
+        "source": "n1",
+        "target": "n5",
+        "label": "faedah"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n6",
+        "label": "status"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "kuku",
+      "meaning": "lapisan keras yang tumbuh di hujung jari tangan dan kaki"
+    },
+    {
+      "word": "fitrah",
+      "meaning": "tabiat semulajadi manusia yang bersih dan baik"
+    },
+    {
+      "word": "sunah",
+      "meaning": "amalan yang dilakukan atau disyorkan oleh Nabi Muhammad ﷺ"
+    },
+    {
+      "word": "makruh",
+      "meaning": "perbuatan yang tidak digalakkan dalam Islam walaupun tidak haram"
+    },
+    {
+      "word": "kelingking",
+      "meaning": "jari yang paling kecil pada tangan atau kaki"
+    }
+  ],
+  "funFact": "Urutan memotong kuku yang diajar oleh ulama Islam bermula dari jari kelingking tangan kanan bukan jari telunjuk atau ibu jari! Setiap detail adab Islam ada hikmahnya. Para ulama menyusun urutan ini berdasarkan hadis dan petunjuk Nabi ﷺ supaya setiap amalan kita menjadi ibadah."
+}

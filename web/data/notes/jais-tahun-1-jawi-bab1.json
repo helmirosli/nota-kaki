@@ -1,0 +1,106 @@
+{
+  "id": "jais-tahun-1-jawi-bab1",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "jawi",
+  "chapter": 1,
+  "title": "37 Huruf Jawi",
+  "emoji": "✏️",
+  "colour": "#FF9800",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Apa Itu Tulisan Jawi?",
+      "body": "Tulisan Jawi adalah tulisan Melayu yang paling tua di dunia! Ia menggunakan huruf-huruf yang berasal dari tulisan Arab. Dalam tulisan Jawi, ada 37 huruf yang perlu kita hafal dan kuasai."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🌟",
+          "title": "Asal Usul Huruf Jawi",
+          "body": "Huruf Jawi diambil dari tulisan Arab. Tulisan Jawi adalah tulisan Melayu tertua di dunia. Batu Bersurat Terengganu (tahun 1303M) menggunakan tulisan Jawi — ia sudah berusia lebih 700 tahun!"
+        },
+        {
+          "icon": "📝",
+          "title": "Cara Menulis Jawi",
+          "body": "Tulisan Jawi ditulis dari kanan ke kiri — berlawanan dengan tulisan Rumi! Mulakan menulis dari sebelah kanan halaman dan bergerak ke kiri. Ini adalah cara unik tulisan Jawi."
+        },
+        {
+          "icon": "🔤",
+          "title": "Huruf Tambahan Malaysia",
+          "body": "Lima huruf istimewa ditambah untuk bahasa Melayu: چ (ca), غ (nga), ڤ (pa), ک (ga), ث (nya). Huruf-huruf ini tidak ada dalam tulisan Arab asal tetapi diperlukan untuk bunyi bahasa Melayu!"
+        },
+        {
+          "icon": "📖",
+          "title": "Jumlah Huruf Jawi",
+          "body": "Terdapat 37 huruf Jawi kesemuanya. Ini termasuk huruf-huruf dari Arab dan huruf tambahan Malaysia. Hafal semua 37 huruf ini untuk mahir dalam tulisan Jawi!"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": "Fakta Menarik: Tulisan Jawi telah digunakan oleh orang Melayu selama lebih 700 tahun! Bila kamu belajar Jawi, kamu menyambung warisan nenek moyang kita yang mulia."
+    },
+    {
+      "type": "steps",
+      "heading": "37 Huruf Jawi — Hafal Satu Per Satu!",
+      "items": [
+        "ا (alif), ب (ba), ت (ta), ج (jim), چ (ca), ح (ha), خ (kho), ث (sa/tha)",
+        "ة (ta marbutah), د (dal), ذ (zal), ر (ro), ز (zai), س (sin), ص (sod), ض (dhod)",
+        "ط (to), ظ (zo), ش (syin), ع (ain), غ (ghain), غ (nga), ق (qaf), ک (kaf)",
+        "ک (ga), ڤ (pa), ف (fa), ل (lam), م (mim), ن (nun), و (wau), ؤ (va)",
+        "ء (hamzah), ي (ya), ى (ye), ث (nya), ە (ha)"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa jumlah huruf Jawi yang perlu kita hafal?",
+      "options": ["26 huruf", "28 huruf", "37 huruf", "40 huruf"],
+      "answer": 2
+    },
+    {
+      "q": "Tulisan Jawi ditulis dari mana ke mana?",
+      "options": ["Kiri ke kanan", "Kanan ke kiri", "Atas ke bawah", "Bawah ke atas"],
+      "answer": 1
+    },
+    {
+      "q": "Manakah huruf TAMBAHAN yang ada dalam tulisan Jawi Melayu tetapi TIDAK ada dalam tulisan Arab asal?",
+      "options": ["ا (alif)", "ب (ba)", "چ (ca)", "م (mim)"],
+      "answer": 2
+    },
+    {
+      "q": "Tulisan Jawi berasal dari tulisan apakah?",
+      "options": ["Tulisan Cina", "Tulisan India", "Tulisan Arab", "Tulisan Latin"],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "37 Huruf Jawi", "colour": "#FF9800" },
+      { "id": "n2", "label": "Huruf Arab Asal (32)", "colour": "#E65100" },
+      { "id": "n3", "label": "Huruf Tambahan Melayu (5)", "colour": "#FFE0B2" },
+      { "id": "n4", "label": "چ ca, غ nga", "colour": "#E65100" },
+      { "id": "n5", "label": "ڤ pa, ک ga, ث nya", "colour": "#E65100" },
+      { "id": "n6", "label": "Ditulis Kanan → Kiri", "colour": "#BF360C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "termasuk" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "termasuk" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "contoh" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "contoh" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "cara tulis" }
+    ]
+  },
+  "vocab": [
+    { "word": "huruf", "meaning": "lambang yang mewakili bunyi dalam tulisan" },
+    { "word": "jawi", "meaning": "sistem tulisan Melayu menggunakan aksara Arab" },
+    { "word": "asal", "meaning": "tempat atau sumber sesuatu berasal" },
+    { "word": "tambahan", "meaning": "sesuatu yang dimasukkan lebih dari yang asal" },
+    { "word": "warisan", "meaning": "sesuatu yang ditinggalkan oleh orang terdahulu untuk kita" }
+  ],
+  "funFact": "Batu Bersurat Terengganu yang ditemui di Terengganu adalah bukti tulisan Jawi tertua di Malaysia — ia berusia lebih 700 tahun dan masih boleh dibaca hingga hari ini!"
+}

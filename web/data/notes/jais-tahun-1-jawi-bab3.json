@@ -1,0 +1,245 @@
+{
+  "id": "jais-tahun-1-jawi-bab3",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "jawi",
+  "chapter": 3,
+  "title": "Huruf Vokal Jawi (a, e, i, o, u)",
+  "emoji": "🔊",
+  "colour": "#FF9800",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Bunyi Vokal dalam Tulisan Jawi",
+      "body": "Dalam tulisan Rumi ada 6 vokal: a, e, i, o, u. Dalam tulisan Jawi, vokal-vokal ini ditulis dengan cara yang istimewa! Sesetengah vokal menggunakan huruf penuh, manakala sesetengah tidak ada tanda langsung. Jom belajar!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🔤",
+          "title": "Vokal 'a' — Huruf Alif (ا)",
+          "body": {
+            "type": "list",
+            "intro": "Bunyi 'a' diwakili oleh huruf ا (alif). Contoh perkataan:",
+            "items": [
+              "بابا — baba",
+              "دادا — dada",
+              "جالا — jala",
+              "مارا — mara"
+            ],
+            "outro": "Alif diletakkan selepas konsonan untuk membentuk bunyi 'a'."
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Vokal 'i' dan 'e taling' — Huruf Ya (ي)",
+          "body": {
+            "type": "list",
+            "intro": "Bunyi 'i' dan 'e taling' ditulis dengan huruf ي (ya). Contoh:",
+            "items": [
+              "بيرو — biru",
+              "سيري — siri",
+              "بيلا — bela"
+            ],
+            "outro": "Bunyi 'i' dan 'e taling' menggunakan huruf yang sama!"
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Vokal 'o' dan 'u' — Huruf Wau (و)",
+          "body": {
+            "type": "list",
+            "intro": "Bunyi 'o' dan 'u' ditulis dengan huruf و (wau). Contoh:",
+            "items": [
+              "بورو — buru",
+              "سوتو — soto",
+              "كوكو — kuku",
+              "فوتو — foto"
+            ],
+            "outro": "Satu huruf untuk dua bunyi — bijak kan?"
+          }
+        },
+        {
+          "icon": "❓",
+          "title": "Vokal 'e pepet' — Tiada Padanan!",
+          "body": {
+            "type": "arabic",
+            "instruction": "Bunyi 'e pepet' TIDAK ada padanan huruf dalam Jawi. Contoh — perkataan 'beli' ditulis sebagai:",
+            "arabic": "بلي",
+            "translation": "beli — huruf 'e pepet' tidak ditulis, kelihatan seperti 'bli'",
+            "outro": "Pembaca perlu tahu sebutan untuk memahami perkataan ini dengan betul."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": "Ingat: Dalam Jawi, 'e taling' (bunyi penuh seperti 'beli') ditulis dengan ي, tetapi 'e pepet' (bunyi separuh seperti dalam 'semua') tidak ditulis langsung. Ini adalah perbezaan paling penting!"
+    },
+    {
+      "type": "steps",
+      "heading": "Latihan Ejaan Jawi — Cuba Buat Sendiri!",
+      "items": [
+        {
+          "type": "arabic",
+          "instruction": "alih =",
+          "arabic": "اليه"
+        },
+        {
+          "type": "arabic",
+          "instruction": "ikut =",
+          "arabic": "ايكوت"
+        },
+        {
+          "type": "arabic",
+          "instruction": "oren =",
+          "arabic": "اورن"
+        },
+        {
+          "type": "arabic",
+          "instruction": "ungu =",
+          "arabic": "اوغو"
+        },
+        {
+          "type": "arabic",
+          "instruction": "belon =",
+          "arabic": "بلون"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Bunyi vokal 'i' dalam tulisan Jawi ditulis menggunakan huruf apakah?",
+      "options": [
+        "ا (alif)",
+        "و (wau)",
+        "ي (ya)",
+        "ء (hamzah)"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bunyi 'o' dan 'u' dalam Jawi kedua-duanya ditulis menggunakan huruf yang sama. Huruf apakah itu?",
+      "options": [
+        "ا (alif)",
+        "و (wau)",
+        "ي (ya)",
+        "ه (ha)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Vokal manakah yang TIDAK mempunyai padanan huruf dalam tulisan Jawi?",
+      "options": [
+        "Vokal 'a'",
+        "Vokal 'i'",
+        "Vokal 'e pepet'",
+        "Vokal 'u'"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Perkataan 'biru' dalam tulisan Jawi ialah...",
+      "options": [
+        "بارو",
+        "بيرو",
+        "بورو",
+        "بيري"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Vokal Jawi",
+        "colour": "#FF9800"
+      },
+      {
+        "id": "n2",
+        "label": "ا (alif) = a",
+        "colour": "#E65100"
+      },
+      {
+        "id": "n3",
+        "label": "ي (ya) = i / e taling",
+        "colour": "#E65100"
+      },
+      {
+        "id": "n4",
+        "label": "و (wau) = o / u",
+        "colour": "#E65100"
+      },
+      {
+        "id": "n5",
+        "label": "e pepet = tiada tanda",
+        "colour": "#FFE0B2"
+      },
+      {
+        "id": "n6",
+        "label": "Contoh: بابا، سيري، كوكو",
+        "colour": "#BF360C"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "vokal a"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "vokal i/e"
+      },
+      {
+        "id": "e3",
+        "source": "n1",
+        "target": "n4",
+        "label": "vokal o/u"
+      },
+      {
+        "id": "e4",
+        "source": "n1",
+        "target": "n5",
+        "label": "e pepet"
+      },
+      {
+        "id": "e5",
+        "source": "n2",
+        "target": "n6",
+        "label": "contoh"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "vokal",
+      "meaning": "bunyi yang keluar dengan bebas dari mulut tanpa sekatan"
+    },
+    {
+      "word": "e taling",
+      "meaning": "bunyi 'e' yang penuh seperti dalam perkataan 'beli'"
+    },
+    {
+      "word": "e pepet",
+      "meaning": "bunyi 'e' yang tidak penuh, separuh bunyi, seperti dalam 'semua'"
+    },
+    {
+      "word": "padanan",
+      "meaning": "perkara yang sepadan atau sepadan antara satu sama lain"
+    },
+    {
+      "word": "suku kata",
+      "meaning": "bahagian perkataan yang mengandungi satu vokal"
+    }
+  ],
+  "funFact": "Tulisan Arab asal hanya ada tanda baris (harakat) untuk bunyi vokal, bukan huruf penuh! Orang Melayu yang bijak telah menggunakan huruf alif, ya, dan wau untuk mewakili vokal supaya mudah dibaca tanpa tanda baris."
+}

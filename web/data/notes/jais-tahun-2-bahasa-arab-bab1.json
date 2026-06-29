@@ -1,0 +1,221 @@
+{
+  "id": "jais-tahun-2-bahasa-arab-bab1",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "bahasa-arab",
+  "chapter": 1,
+  "title": "Nombor 101 hingga 200",
+  "emoji": "🔢",
+  "colour": "#1976D2",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الأعداد والأرقام — Nombor-nombor Arab",
+      "body": "Dalam pelajaran ini kita akan belajar nombor dari 101 hingga 200 dalam bahasa Arab. Nombor-nombor ini sangat berguna untuk menyebut harga, wang simpanan dan banyak lagi. Kita mulakan dengan مائة (mi'ah) yang bermaksud seratus!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "💯",
+          "title": "Nombor 101–109",
+          "body": "مائة وواحد (101) • مائة واثنان (102) • مائة وثلاثة (103) • مائة وأربعة (104) • مائة وخمسة (105) • مائة وستة (106) • مائة وسبعة (107) • مائة وثمانية (108) • مائة وتسعة (109). Perkataan وَ bermaksud 'dan', jadi mائة وواحد = seratus DAN satu = 101."
+        },
+        {
+          "icon": "🔟",
+          "title": "Nombor 110–120",
+          "body": "مائة وعشرة (110) • مائة وأحد عشر (111) • مائة واثنا عشر (112) • مائة وثلاثة عشر (113) • مائة وأربعة عشر (114) • مائة وخمسة عشر (115) • مائة وستة عشر (116) • مائة وسبعة عشر (117) • مائة وثمانية عشر (118) • مائة وتسعة عشر (119) • مائة وعشرون (120)."
+        },
+        {
+          "icon": "🔢",
+          "title": "Puluhan 130–190",
+          "body": "مائة وثلاثون (130) • مائة وأربعون (140) • مائة وخمسون (150) • مائة وستون (160) • مائة وسبعون (170) • مائة وثمانون (180) • مائة وتسعون (190). Setiap puluhan ditambah وَ dan nombor kesatuan, contoh: مائة وواحد وعشرون (121)."
+        },
+        {
+          "icon": "2️⃣",
+          "title": "Nombor 200",
+          "body": "مائتان (mi'ataan) bermaksud DUA RATUS (200). Dalam bahasa Arab, apabila ada dua daripada sesuatu, kita gunakan bentuk مثنى (dua). Jadi مائة menjadi مائتان untuk 200. Ini nombor terakhir dalam pelajaran kita!"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah berfirman dalam Surah al-Baqarah ayat 261: perumpamaan orang yang membelanjakan hartanya di jalan Allah adalah seperti sebiji benih yang menumbuhkan tujuh tangkai, setiap tangkai mengandungi seratus biji.",
+        "arabic": "أَنْفِقْ مَالَكَ لِلْمُحْتَاجِيْنَ"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Dialog & Contoh Ayat",
+      "items": [
+        {
+          "type": "arabic",
+          "arabic": "كَمِ ادَّخَرْتَ فِي هَذَا الشَّهْرِ؟"
+        },
+        {
+          "type": "arabic",
+          "arabic": "اِدَّخَرْتُ مِائَةً وَوَاحِدًا رِنْجِيْتًا"
+        },
+        {
+          "type": "arabic",
+          "arabic": "اُذْكُرْ ذَلِكَ الرَّقْمَ يَا أَحْمَدُ"
+        },
+        {
+          "type": "arabic",
+          "arabic": "هَذَا مِائَةٌ وَعَشَرَةٌ"
+        },
+        {
+          "type": "arabic",
+          "arabic": "كَمْ سِعْرُ ثَوْبِكَ يَا فَائِزُ؟"
+        },
+        {
+          "type": "arabic",
+          "arabic": "هَذِهِ مِائَةٌ وَخَمْسَةَ عَشَرَ لِرُسُومِ مَدْرَسَتِي"
+        },
+        {
+          "type": "arabic",
+          "arabic": "سِعْرُهُ مِائَةٌ وَعِشْرُونَ رِنْجِيْتًا"
+        },
+        {
+          "type": "arabic",
+          "arabic": "صُمْ رَمَضَانَ ثَلَاثِيْنَ يَوْمًا كَامِلَةً"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud مائة وواحد dalam bahasa Melayu?",
+      "options": [
+        "Seratus satu (101)",
+        "Satu ratus sepuluh (110)",
+        "Dua ratus (200)",
+        "Seratus dua (102)"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Bagaimana cara sebut nombor 115 dalam bahasa Arab?",
+      "options": [
+        "مائة وخمسون",
+        "مائة وخمسة عشر",
+        "مائة وخمسة وعشرون",
+        "مائة وعشرة"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "مائتان bermaksud?",
+      "options": [
+        "Seratus dua",
+        "Seratus dua puluh",
+        "Dua ratus",
+        "Dua ribu"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Dalam dialog, اِدَّخَرْتُ bermaksud?",
+      "options": [
+        "Saya membeli",
+        "Saya simpan",
+        "Saya bayar",
+        "Saya sedekah"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "الأعداد (Nombor)",
+        "colour": "#1976D2"
+      },
+      {
+        "id": "n2",
+        "label": "مائة (100)",
+        "colour": "#1565C0"
+      },
+      {
+        "id": "n3",
+        "label": "مائتان (200)",
+        "colour": "#1565C0"
+      },
+      {
+        "id": "n4",
+        "label": "101-109",
+        "colour": "#42A5F5"
+      },
+      {
+        "id": "n5",
+        "label": "110-120",
+        "colour": "#42A5F5"
+      },
+      {
+        "id": "n6",
+        "label": "130-190 (puluhan)",
+        "colour": "#0D47A1"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "bermula"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "berakhir"
+      },
+      {
+        "id": "e3",
+        "source": "n2",
+        "target": "n4",
+        "label": "ada"
+      },
+      {
+        "id": "e4",
+        "source": "n2",
+        "target": "n5",
+        "label": "ada"
+      },
+      {
+        "id": "e5",
+        "source": "n2",
+        "target": "n6",
+        "label": "ada"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "مائة",
+      "meaning": "seratus (100)"
+    },
+    {
+      "word": "مائتان",
+      "meaning": "dua ratus (200)"
+    },
+    {
+      "word": "اِدَّخَرْتُ",
+      "meaning": "saya simpan (wang)"
+    },
+    {
+      "word": "رُسُوْم",
+      "meaning": "yuran"
+    },
+    {
+      "word": "اِيْصَال",
+      "meaning": "resit"
+    }
+  ],
+  "funFact": "Dalam bahasa Arab, nombor 200 disebut مائتان (mi'ataan) — bukan مائة وماية! Ini sebab bahasa Arab ada bentuk khas untuk dua benda yang dipanggil 'muthanna'. Bestkan?"
+}

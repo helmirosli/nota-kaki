@@ -1,0 +1,156 @@
+{
+  "id": "jais-tahun-2-feqah-bab4",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "feqah",
+  "chapter": 4,
+  "title": "Bacaan dalam Solat",
+  "emoji": "📖",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Bacaan Penting dalam Solat 📖",
+      "body": "Solat bukan sekadar gerakan badan — setiap gerakan ada bacaan khusus yang mesti kita baca. Dengan faham makna bacaan solat, solat kita akan lebih khusyu' dan bermakna. Mari hafal semua bacaan penting!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🤲",
+          "title": "Doa Iftitah (selepas Takbiratul Ihram)",
+          "body": {
+            "type": "arabic",
+            "arabic": "اَللهُ أَكْبَر كَبِيرًا وَالْحَمْدُ للهِ كَثِيرًا وَسُبْحَانَ اللهِ بُكْرَةً وَأَصِيلًا. إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا وَمَا أَنَا مِنَ الْمُشْرِكِيْنَ.",
+            "translation": "Aku menghadapkan mukaku kepada Tuhan yang mencipta langit dan bumi, dengan tulus ikhlas dan aku bukan dari golongan musyrikin."
+          }
+        },
+        {
+          "icon": "⬇️",
+          "title": "Bacaan Rukuk dan I'tidal",
+          "body": {
+            "type": "arabic",
+            "instruction": "RUKUK (baca 3x):",
+            "arabic": "سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ",
+            "translation": "Maha Suci Tuhanku yang Maha Agung dan dengan memuji-Nya.",
+            "more": [
+              {
+                "instruction": "I'TIDAL (bangun dari rukuk):",
+                "arabic": "سَمِعَ اللهُ لِمَنْ حَمِدَهُ",
+                "translation": "Allah mendengar orang yang memuji-Nya."
+              },
+              {
+                "instruction": "Jawapan I'TIDAL:",
+                "arabic": "رَبَّنَا وَلَكَ الْحَمْد",
+                "translation": "Wahai Tuhan kami, bagi-Mu segala puji."
+              }
+            ]
+          }
+        },
+        {
+          "icon": "🧎",
+          "title": "Bacaan Sujud dan Duduk antara Sujud",
+          "body": {
+            "type": "arabic",
+            "instruction": "SUJUD (baca 3x):",
+            "arabic": "سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ",
+            "translation": "Maha Suci Tuhanku yang Maha Tinggi dan dengan memuji-Nya.",
+            "more": [
+              {
+                "instruction": "DUDUK ANTARA DUA SUJUD:",
+                "arabic": "رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+                "translation": "Ya Allah, ampunkan aku, kasihani aku, perbaiki aku, angkat darjatku, kurniakan rezeki, beri petunjuk, sihatkan aku dan maafkan aku."
+              }
+            ]
+          }
+        },
+        {
+          "icon": "🏁",
+          "title": "Bacaan Tahiyyat Akhir",
+          "body": {
+            "type": "arabic",
+            "arabic": "اَلتَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ للهِ. اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ. اَلسَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِيْنَ. أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَّسُولُ الله.",
+            "translation": "Segala penghormatan yang berkat, segala sembahyang dan kebaikan adalah kepunyaan Allah. Salam ke atas engkau wahai Nabi dan rahmat Allah serta keberkatan-Nya. Salam ke atas kami dan ke atas hamba-hamba Allah yang soleh. Aku bersaksi tiada tuhan melainkan Allah, dan aku bersaksi bahawa Muhammad adalah Rasul Allah."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadis Nabi ﷺ tentang solat:",
+        "arabic": "لَا صَلَاةَ لِمَنْ لَمْ يَقْرَأْ بِفَاتِحَةِ الْكِتَابِ",
+        "translation": "Tidak sah solat seseorang yang tidak membaca Ummul Quran (al-Fatihah).",
+        "source": "Riwayat Bukhari & Muslim",
+        "outro": "Al-Fatihah adalah bacaan WAJIB. Semua bacaan lain (doa iftitah, tasbih, tahiyyat) menambah kesempurnaan solat kita."
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Urutan Bacaan dalam Satu Rakaat Solat 📝",
+      "items": [
+        "Takbiratul Ihram → Doa Iftitah → Ta'awwuz (Auzubillah) → Bismillah → al-Fatihah → Surah",
+        "Takbir turun rukuk → Baca Subhana rabbiyal 'azim (3x) → Bangun i'tidal",
+        "Sami'allahu liman hamidah → Rabbana walakal hamd → Takbir turun sujud",
+        "Subhana rabbiyal a'la (3x) → Bangun duduk → Rabbighfirli → Sujud kedua",
+        "Bangun ke rakaat kedua / Duduk tahiyyat → Baca tahiyyat → Selawat → Salam"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Bacaan yang dibaca semasa sujud ialah...",
+      "options": ["رَبَّنَا وَلَكَ الْحَمْد", "سُبْحَانَ رَبِّيَ الْأَعْلَى", "سُبْحَانَ رَبِّيَ الْعَظِيمِ", "اَللهُ أَكْبَر"],
+      "answer": 1
+    },
+    {
+      "q": "سَمِعَ اللهُ لِمَنْ حَمِدَهُ dibaca semasa...",
+      "options": ["Takbiratul Ihram", "Rukuk", "Bangun dari Rukuk (I'tidal)", "Sujud"],
+      "answer": 2
+    },
+    {
+      "q": "Bacaan antara dua sujud bermula dengan perkataan...",
+      "options": ["سُبْحَانَ", "رَبِّ اغْفِرْ لِي", "اَللهُ أَكْبَر", "اَلتَّحِيَّات"],
+      "answer": 1
+    },
+    {
+      "q": "Bacaan Doa Iftitah dibaca...",
+      "options": ["Sebelum azan", "Selepas Takbiratul Ihram", "Semasa rukuk", "Selepas salam"],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Bacaan Solat", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Doa Iftitah", "colour": "#6A1B9A" },
+      { "id": "n3", "label": "al-Fatihah (wajib)", "colour": "#CE93D8" },
+      { "id": "n4", "label": "Tasbih Rukuk/Sujud", "colour": "#6A1B9A" },
+      { "id": "n5", "label": "Tahiyyat Akhir", "colour": "#CE93D8" },
+      { "id": "n6", "label": "Khusyu' dalam Solat", "colour": "#4A148C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "mula" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "wajib" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "semasa" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "akhir" },
+      { "id": "e5", "source": "n6", "target": "n1", "label": "matlamat" }
+    ]
+  },
+  "vocab": [
+    { "word": "اِفْتِتَاح", "meaning": "iftitah — pembukaan (doa awal solat)" },
+    { "word": "تَسْبِيح", "meaning": "tasbih — ucapan Subhanallah" },
+    { "word": "تَشَهُّد", "meaning": "tahiyyat/tashahhud — bacaan duduk akhir" },
+    { "word": "خُشُوع", "meaning": "khusyu' — kehadiran hati dalam solat" },
+    { "word": "رَكْعَة", "meaning": "rakaat — satu pusingan gerakan solat" }
+  ],
+  "funFact": {
+    "type": "arabic",
+    "instruction": "Perkataan 'tasbih' bermaksud menyucikan Allah dari segala kekurangan. Kita baca dalam rukuk dan sujud:",
+    "arabic": "سُبْحَانَ اللهِ",
+    "translation": "Maha Suci Allah.",
+    "outro": "Dalam sehari kita baca tasbih beratus-ratus kali dalam solat! Ini cara kita sentiasa ingat kesucian Allah sepanjang hari."
+  }
+}

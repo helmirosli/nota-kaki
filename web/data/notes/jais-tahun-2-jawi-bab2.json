@@ -1,0 +1,184 @@
+{
+  "id": "jais-tahun-2-jawi-bab2",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "jawi",
+  "chapter": 2,
+  "title": "Kata Berimbuhan dalam Jawi",
+  "emoji": "🔠",
+  "colour": "#FF9800",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Kata Berimbuhan — Tambah Awalan dan Akhiran dalam Jawi 🔠",
+      "body": "Dalam bahasa Melayu, kita boleh tambah awalan (me-, ber-, pe-, ter-) dan akhiran (-kan, -an, -i) kepada kata dasar. Mari belajar cara tulis kata berimbuhan ini dalam tulisan Jawi!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "➕",
+          "title": "Awalan me- dalam Jawi",
+          "body": {
+            "type": "arabic",
+            "instruction": "Awalan me- ditulis م di depan kata dasar. Contoh:",
+            "arabic": "م + باچ = مباچ",
+            "translation": "me + baca = membaca",
+            "more": [
+              {
+                "arabic": "م + توليس = منوليس",
+                "translation": "me + tulis = menulis"
+              },
+              {
+                "arabic": "م + ماکن = مماکن",
+                "translation": "me + makan = memakan"
+              },
+              {
+                "arabic": "م + جومڤ = منجومڤ",
+                "translation": "me + jumpa = menjumpa"
+              }
+            ]
+          }
+        },
+        {
+          "icon": "🔗",
+          "title": "Awalan ber- dalam Jawi",
+          "body": {
+            "type": "arabic",
+            "instruction": "Awalan ber- ditulis بر di depan kata dasar. Contoh:",
+            "arabic": "بر + جالن = برجالن",
+            "translation": "ber + jalan = berjalan",
+            "more": [
+              {
+                "arabic": "بر + دوع = بردوع",
+                "translation": "ber + doa = berdoa"
+              },
+              {
+                "arabic": "بر + صولت = برصولت",
+                "translation": "ber + solat = bersolat"
+              },
+              {
+                "arabic": "بر + ماين = برماين",
+                "translation": "ber + main = bermain"
+              }
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Akhiran -kan dan -an dalam Jawi",
+          "body": {
+            "type": "arabic",
+            "instruction": "Akhiran -kan ditulis کن di belakang kata dasar:",
+            "arabic": "باچ + کن = باچکن",
+            "translation": "baca + kan = bacakan",
+            "more": [
+              {
+                "arabic": "توليس + کن = توليسکن",
+                "translation": "tulis + kan = tuliskan"
+              },
+              {
+                "instruction": "Akhiran -an ditulis ن di belakang:",
+                "arabic": "توليس + ن = توليسن",
+                "translation": "tulis + an = tulisan"
+              },
+              {
+                "arabic": "ماکن + ن = ماکانن",
+                "translation": "makan + an = makanan"
+              }
+            ]
+          }
+        },
+        {
+          "icon": "⚡",
+          "title": "Awalan ter- dan pe- dalam Jawi",
+          "body": {
+            "type": "arabic",
+            "instruction": "Awalan ter- ditulis تر di depan kata dasar:",
+            "arabic": "تر + باچ = تربچ",
+            "translation": "ter + baca = terbaca",
+            "more": [
+              {
+                "arabic": "تر + لوڤ = ترلوڤ",
+                "translation": "ter + lupa = terlupa"
+              },
+              {
+                "instruction": "Awalan pe- ditulis ڤ di depan:",
+                "arabic": "ڤ + لاجر = ڤلاجر",
+                "translation": "pe + lajar = pelajar"
+              },
+              {
+                "arabic": "ڤ + نوليس = ڤنوليس",
+                "translation": "pe + nulis = penulis"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": "NILAI: Belajar Jawi adalah cara terbaik untuk memahami teks-teks agama Islam lama seperti kitab-kitab Melayu, batu bersurat, dan dokumen bersejarah. Ramai ulama Melayu dahulu menulis karangan agama dalam tulisan Jawi — ilmu mereka tersimpan dalam tulisan Jawi!"
+    },
+    {
+      "type": "steps",
+      "heading": "Panduan Tulis Kata Berimbuhan dalam Jawi ✍️",
+      "items": [
+        "me- (م): tulis membaca, menulis, memikir dalam Jawi",
+        "ber- (بر): tulis berjalan, berdoa, beriman dalam Jawi",
+        "ter- (تر): tulis terlupa, terbang, terpilih dalam Jawi",
+        "pe- (ڤ): tulis pelajar, pemimpin, pengurus dalam Jawi",
+        "-kan (کن) dan -an (ن): tulis tuliskan, tulisan, makanan dalam Jawi"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Perkataan 'berjalan' dalam tulisan Jawi ialah...",
+      "options": ["جالن", "برجالن", "مجالن", "ترجالن"],
+      "answer": 1
+    },
+    {
+      "q": "Awalan 'ter-' dalam tulisan Jawi ditulis sebagai...",
+      "options": ["تر", "بر", "مر", "ڤر"],
+      "answer": 0
+    },
+    {
+      "q": "Perkataan 'membaca' dalam tulisan Jawi ialah...",
+      "options": ["باچ", "برباچ", "مباچ", "ترباچ"],
+      "answer": 2
+    },
+    {
+      "q": "Akhiran '-kan' dalam tulisan Jawi ditulis sebagai...",
+      "options": ["کن", "ان", "ني", "کا"],
+      "answer": 0
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Kata Berimbuhan Jawi", "colour": "#FF9800" },
+      { "id": "n2", "label": "م (me-)", "colour": "#E65100" },
+      { "id": "n3", "label": "بر (ber-)", "colour": "#FFE0B2" },
+      { "id": "n4", "label": "تر (ter-)", "colour": "#E65100" },
+      { "id": "n5", "label": "کن (-kan) / ن (-an)", "colour": "#FFE0B2" },
+      { "id": "n6", "label": "Kata Dasar", "colour": "#BF360C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n2", "target": "n6", "label": "tambah depan" },
+      { "id": "e2", "source": "n3", "target": "n6", "label": "tambah depan" },
+      { "id": "e3", "source": "n4", "target": "n6", "label": "tambah depan" },
+      { "id": "e4", "source": "n6", "target": "n5", "label": "tambah belakang" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "terbentuk dari" }
+    ]
+  },
+  "vocab": [
+    { "word": "مباچ", "meaning": "membaca (contoh me- + baca)" },
+    { "word": "برجالن", "meaning": "berjalan (contoh ber- + jalan)" },
+    { "word": "ڤلاجر", "meaning": "pelajar (contoh pe- + lajar)" },
+    { "word": "توليسن", "meaning": "tulisan (contoh tulis + -an)" },
+    { "word": "توليسکن", "meaning": "tuliskan (contoh tulis + -kan)" }
+  ],
+  "funFact": "Sistem imbuhan bahasa Melayu adalah antara yang paling kaya di dunia — boleh hasilkan ratusan perkataan dari satu kata dasar! Dari kata 'tulis': tulisan, menulis, ditulis, penulis, tuliskan, tertulis, penulisan — semua boleh ditulis dalam Jawi dengan tambah imbuhan yang betul. Cuba tulis semua dalam Jawi!"
+}

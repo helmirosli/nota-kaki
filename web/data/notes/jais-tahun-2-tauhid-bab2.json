@@ -1,0 +1,200 @@
+{
+  "id": "jais-tahun-2-tauhid-bab2",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "tauhid",
+  "chapter": 2,
+  "title": "Sifat Mustahil bagi Allah",
+  "emoji": "🚫",
+  "colour": "#FFB300",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Sifat Mustahil — Perkara yang TIDAK MUNGKIN bagi Allah",
+      "body": "Selepas kita tahu sifat WAJIB bagi Allah (sifat yang MESTI ada), kita perlu tahu sifat MUSTAHIL — perkara yang TIDAK MUNGKIN dan TIDAK BOLEH ada pada Allah. Faham sifat mustahil = faham keagungan Allah lebih dalam!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "❌",
+          "title": "Sifat Mustahil = Lawan Sifat Wajib",
+          "body": {
+            "type": "list",
+            "intro": "Setiap sifat wajib ada lawannya (sifat mustahil):",
+            "items": [
+              "Wujud (Ada) ↔ عَدَم / A'dam (Tiada)",
+              "Qidam (Sedia Ada) ↔ حُدُوث / Huduth (Baharu)",
+              "Baqa' (Kekal) ↔ فَنَاء / Fana' (Binasa)",
+              "Wahdaniyyah (Esa) ↔ تَعَدُّد / Ta'addud (Berbilang)",
+              "Qudrah (Berkuasa) ↔ عَجْز / 'Ajaz (Lemah)"
+            ],
+            "outro": "Jumlah sifat mustahil = 20, sama banyak dengan sifat wajib."
+          }
+        },
+        {
+          "icon": "🔥",
+          "title": "Sifat Mustahil Berkaitan Zat Allah",
+          "body": {
+            "type": "arabic",
+            "instruction": "5 sifat mustahil berkaitan zat Allah yang paling asas:",
+            "arabic": "عَدَمٌ",
+            "translation": "A'dam — Tiada (mustahil Allah itu tiada)",
+            "more": [
+              { "arabic": "حُدُوثٌ", "translation": "Huduth — Baharu (mustahil Allah itu baharu)" },
+              { "arabic": "فَنَاءٌ", "translation": "Fana' — Binasa (mustahil Allah itu binasa)" },
+              { "arabic": "تَعَدُّدٌ", "translation": "Ta'addud — Berbilang (mustahil Allah berbilang)" },
+              { "arabic": "الِاحْتِيَاجُ", "translation": "Ihtiyaj — Berhajat (mustahil Allah berhajat kepada sesiapa)" }
+            ]
+          }
+        },
+        {
+          "icon": "⚡",
+          "title": "Sifat Mustahil Berkaitan Sifat Allah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Sifat mustahil berkaitan sifat dan perbuatan Allah:",
+            "arabic": "عَجْزٌ",
+            "translation": "Ajaz — Lemah (mustahil Allah itu lemah)",
+            "more": [
+              { "arabic": "كَرَاهَةٌ", "translation": "Karahah — Terpaksa (mustahil Allah berbuat terpaksa)" },
+              { "arabic": "جَهْلٌ", "translation": "Jahl — Jahil (mustahil Allah itu jahil)" },
+              { "arabic": "مَوْتٌ", "translation": "Maut — Mati (mustahil Allah itu mati)" }
+            ],
+            "outro": "Ingat: Setiap sifat wajib ada lawannya yang mustahil."
+          }
+        },
+        {
+          "icon": "📚",
+          "title": "Cara Mudah Ingat Sifat Mustahil",
+          "body": {
+            "type": "list",
+            "intro": "Cara paling mudah hafal sifat mustahil:",
+            "items": [
+              "Hafal sifat wajib → automatik tahu sifat mustahilnya (ia berlawanan!)",
+              "Allah WAJIB Ada → MUSTAHIL Allah Tiada",
+              "Allah WAJIB Esa → MUSTAHIL Allah Berbilang",
+              "Allah WAJIB Kekal → MUSTAHIL Allah Binasa",
+              "Tidak perlu hafal berasingan — cukup tahu prinsip: mustahil = lawan wajib!"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Surah al-Ikhlas menolak semua sifat mustahil — Allah bukan berbilang, bukan baharu, bukan beranak atau diperanakkan:",
+        "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+        "translation": "Katakanlah: Dialah Allah Yang Maha Esa.",
+        "source": "Surah al-Ikhlas: 1-4",
+        "more": [
+          { "arabic": "اللَّهُ الصَّمَدُ", "translation": "Allah tempat bergantung segala sesuatu." },
+          { "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ", "translation": "Dia tidak beranak dan tidak diperanakkan." },
+          { "arabic": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ", "translation": "Dan tidak ada yang setara dengan-Nya." }
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "20 Sifat Mustahil — Panduan Hafalan",
+      "items": [
+        {
+          "type": "arabic",
+          "arabic": "عَدَمٌ",
+          "translation": "A'dam — Tiada"
+        },
+        {
+          "type": "arabic",
+          "arabic": "حُدُوثٌ",
+          "translation": "Huduth — Baharu"
+        },
+        {
+          "type": "arabic",
+          "arabic": "فَنَاءٌ",
+          "translation": "Fana' — Binasa"
+        },
+        {
+          "type": "arabic",
+          "arabic": "تَعَدُّدٌ",
+          "translation": "Ta'addud — Berbilang"
+        },
+        {
+          "type": "arabic",
+          "arabic": "عَجْزٌ",
+          "translation": "Ajaz — Lemah"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah sifat mustahil yang berlawanan dengan sifat Wujud (Ada)?",
+      "options": [
+        "فَنَاء (Binasa)",
+        "عَدَم (Tiada)",
+        "تَعَدُّد (Berbilang)",
+        "حُدُوث (Baharu)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "عَجْز adalah sifat mustahil yang berlawanan dengan sifat wajib...",
+      "options": [
+        "Baqa' (Kekal)",
+        "Wahdaniyyah (Esa)",
+        "Qudrah (Berkuasa)",
+        "Qidam (Sedia Ada)"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Mustahil Allah mati (مَوْت) kerana Allah bersifat...",
+      "options": [
+        "Qidam",
+        "Hayah (Hidup)",
+        "Sama' (Mendengar)",
+        "Qudrah (Berkuasa)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa jumlah sifat mustahil bagi Allah?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "99"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Sifat Mustahil Allah", "colour": "#FFB300" },
+      { "id": "n2", "label": "عَدَم (Tiada)", "colour": "#F57F17" },
+      { "id": "n3", "label": "فَنَاء (Binasa)", "colour": "#FFF9C4" },
+      { "id": "n4", "label": "عَجْز (Lemah)", "colour": "#F57F17" },
+      { "id": "n5", "label": "جَهْل (Jahil)", "colour": "#FFF9C4" },
+      { "id": "n6", "label": "Lawan Sifat Wajib", "colour": "#BF360C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "contoh" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "contoh" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "contoh" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "contoh" },
+      { "id": "e5", "source": "n6", "target": "n1", "label": "prinsip" }
+    ]
+  },
+  "vocab": [
+    { "word": "مُسْتَحِيل", "meaning": "mustahil — tidak mungkin sama sekali" },
+    { "word": "عَدَم", "meaning": "tiada (sifat mustahil bagi Allah)" },
+    { "word": "فَنَاء", "meaning": "binasa/lenyap (mustahil bagi Allah)" },
+    { "word": "عَجْز", "meaning": "lemah (mustahil bagi Allah)" },
+    { "word": "جَهْل", "meaning": "jahil/bodoh (mustahil bagi Allah)" }
+  ],
+  "funFact": "Mengapa wajib kita tahu sifat mustahil? Supaya kita tidak tertipu dengan ajaran sesat! Ada orang kata 'Allah punya anak' atau 'Allah boleh mati' — ini adalah MUSTAHIL! Dengan tahu sifat mustahil, kita dapat pertahan akidah Islam yang benar dan tidak mudah dipengaruhi ajaran yang salah."
+}

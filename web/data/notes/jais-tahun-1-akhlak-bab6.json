@@ -1,0 +1,222 @@
+{
+  "id": "jais-tahun-1-akhlak-bab6",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "akhlak",
+  "chapter": 6,
+  "title": "Adab Bergaul dengan Baik",
+  "emoji": "🤝",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Akhlak Mulia — Ciri Muslim Sejati!",
+      "body": {
+        "type": "arabic",
+        "instruction": "Rasulullah ﷺ bersabda:",
+        "arabic": "إِنَّمَا بُعِثْتُ لِأُتَمِّمَ مَكَارِمَ الْأَخْلَاقِ",
+        "translation": "Sesungguhnya aku diutus untuk menyempurnakan akhlak yang mulia.",
+        "source": "Hadis Riwayat al-Baihaqi",
+        "outro": "Bergaul dengan baik adalah tanda seorang Muslim yang sejati. Islam mengajar kita cara bergaul dengan orang tua, rakan sebaya, dan semua orang dengan adab yang indah. Jom belajar!"
+      }
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🦷",
+          "title": "Gosok Gigi — Adab Bergaul yang Pertama!",
+          "body": "Menggosok gigi (bersugi) adalah sunah yang sangat dianjurkan Nabi ﷺ — terutama sebelum solat, selepas bangun tidur, sebelum membaca al-Quran, dan sebelum berjumpa orang. Mulut yang bersih adalah adab kepada orang yang kita jumpa. Bila mulut wangi, pergaulan menjadi lebih menyenangkan!"
+        },
+        {
+          "icon": "🚶",
+          "title": "Berjalan dengan Sopan",
+          "body": {
+            "type": "list",
+            "intro": "Adab berjalan mengikut Islam",
+            "items": [
+              "Berjalan dengan langkah yang sederhana — tidak terlalu laju atau terlalu perlahan",
+              "Jangan berjalan dengan angkuh atau berlagak",
+              "Allah tidak suka orang yang sombong dalam berjalan. Al-Quran sebut: 'Janganlah kamu berjalan di bumi dengan angkuh.' (Surah Luqman: 18)"
+            ]
+          }
+        },
+        {
+          "icon": "😊",
+          "title": "Adab Bergaul dengan Rakan",
+          "body": {
+            "type": "list",
+            "intro": "Cara bergaul yang baik",
+            "items": [
+              "Ucap salam apabila berjumpa",
+              "Senyum ikhlas — Nabi kata senyum adalah sedekah!",
+              "Jangan mengumpat atau menyakiti perasaan orang",
+              "Tolong-menolong dalam kebaikan",
+              "Hormati orang yang lebih tua, sayangi yang lebih muda"
+            ]
+          }
+        },
+        {
+          "icon": "🎵",
+          "title": "Nasyid Adab Perjalanan Rasul",
+          "body": "Gosok gigi, gunakan tangan kanan, jangan tangan kiri. Gosok gigi kanan, gosok gigi kiri. Kesihatan tubuh badan wajah nampak seri. Itulah adab perjalanan Rasul kami. — Bait nasyid ini mengajar kita adab harian yang lengkap dari al-Quran dan sunah Nabi ﷺ."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadis Nabi ﷺ:",
+        "arabic": "أَكْمَلُ الْمُؤْمِنِينَ إِيمَانًا أَحْسَنُهُمْ خُلُقًا",
+        "translation": "Orang mukmin yang paling sempurna imannya ialah yang paling baik akhlaknya.",
+        "source": "Hadis Riwayat Tirmizi",
+        "outro": "Ini bermakna semakin baik kita bergaul dan berakhlak, semakin kuat iman kita kepada Allah!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Panduan Bergaul dengan Baik Setiap Hari",
+      "items": [
+        "Mulakan hari dengan senyum dan ucapkan salam kepada ahli keluarga: 'Assalamualaikum!'",
+        "Gosok gigi sebelum keluar rumah supaya mulut segar ketika berjumpa orang",
+        "Berjalan dengan langkah sederhana — tidak angkuh, tidak terlalu menunduk",
+        "Ucapkan salam, bersalaman, dan senyum apabila berjumpa rakan dan guru di sekolah",
+        "Sebelum tidur, maafkan sesiapa yang telah menyakiti hati kita hari ini — ini cara Nabi!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Rasulullah ﷺ diutus untuk apakah?",
+      "options": [
+        "Membawa kekayaan kepada umat",
+        "Menyempurnakan akhlak yang mulia",
+        "Memenangkan peperangan",
+        "Mengajar matematik"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Menurut hadis, senyum kepada orang lain dikira sebagai apa?",
+      "options": [
+        "Sia-sia",
+        "Sedekah",
+        "Riak",
+        "Haram"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Al-Quran dalam Surah Luqman melarang kita berjalan dengan cara bagaimana?",
+      "options": [
+        "Terlalu lambat",
+        "Terlalu cepat",
+        "Dengan angkuh",
+        "Sambil bercakap"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Menurut hadis, orang mukmin yang paling sempurna imannya adalah...",
+      "options": [
+        "Yang paling kaya",
+        "Yang paling pandai",
+        "Yang paling baik akhlaknya",
+        "Yang paling banyak berpuasa"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Adab Bergaul",
+        "colour": "#4CAF50"
+      },
+      {
+        "id": "n2",
+        "label": "Berjalan Sopan",
+        "colour": "#2E7D32"
+      },
+      {
+        "id": "n3",
+        "label": "Bersih & Wangi",
+        "colour": "#C8E6C9"
+      },
+      {
+        "id": "n4",
+        "label": "Tidak angkuh",
+        "colour": "#2E7D32"
+      },
+      {
+        "id": "n5",
+        "label": "Gosok gigi, wangi",
+        "colour": "#C8E6C9"
+      },
+      {
+        "id": "n6",
+        "label": "Senyum = Sedekah!",
+        "colour": "#1B5E20"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "termasuk"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "termasuk"
+      },
+      {
+        "id": "e3",
+        "source": "n2",
+        "target": "n4",
+        "label": "cara"
+      },
+      {
+        "id": "e4",
+        "source": "n3",
+        "target": "n5",
+        "label": "contoh"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n6",
+        "label": "nilai"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "akhlak",
+      "meaning": "budi pekerti atau perilaku seseorang dalam kehidupan seharian"
+    },
+    {
+      "word": "bergaul",
+      "meaning": "berinteraksi atau berhubungan dengan orang lain"
+    },
+    {
+      "word": "angkuh",
+      "meaning": "bersikap sombong dan merasakan diri lebih baik dari orang lain"
+    },
+    {
+      "word": "bersugi",
+      "meaning": "menggosok gigi menggunakan kayu sugi atau berus gigi"
+    },
+    {
+      "word": "sedekah",
+      "meaning": "memberi atau berkongsi sesuatu kerana Allah tanpa mengharap balasan"
+    }
+  ],
+  "funFact": "Senyuman adalah sedekah yang paling mudah! Nabi Muhammad ﷺ bersabda: 'Senyumanmu kepada saudaramu adalah sedekah.' (Hadis Riwayat Tirmizi). Ini bermaksud setiap kali kamu senyum kepada rakan-rakanmu di sekolah, kamu sedang bersedekah dan mendapat pahala! Mudah kan?"
+}

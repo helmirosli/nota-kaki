@@ -1,0 +1,245 @@
+{
+  "id": "jais-tahun-1-feqah-bab5",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "feqah",
+  "chapter": 5,
+  "title": "Azan dan Iqamat — Seruan Solat",
+  "emoji": "📯",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Azan — Panggilan Solat dari Allah 📯",
+      "body": "Azan adalah seruan yang dilaungkan untuk memberitahu masuk waktu solat fardhu. Setiap kali kita dengar azan, kita wajib menjawabnya dan segera bersiap untuk solat!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🔊",
+          "title": "Lafaz Azan Lengkap + Maknanya",
+          "body": {
+            "type": "arabic",
+            "arabic": "اَللهُ أَكْبَرُ اَللهُ أَكْبَرُ اَللهُ أَكْبَرُ اَللهُ أَكْبَرُ",
+            "translation": "Allah Maha Besar (×4)",
+            "more": [
+              {
+                "arabic": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ",
+                "translation": "Aku bersaksi tiada tuhan selain Allah (×2)"
+              },
+              {
+                "arabic": "أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللهِ",
+                "translation": "Aku bersaksi Muhammad Rasul Allah (×2)"
+              },
+              {
+                "arabic": "حَيَّ عَلَى الصَّلَاة",
+                "translation": "Mari lakukan solat (×2)"
+              },
+              {
+                "arabic": "حَيَّ عَلَى الْفَلَاح",
+                "translation": "Mari kepada kejayaan (×2)"
+              },
+              {
+                "arabic": "اَللهُ أَكْبَرُ اَللهُ أَكْبَرُ",
+                "translation": "Allah Maha Besar (×2)"
+              },
+              {
+                "arabic": "لَا إِلَهَ إِلَّا اللهُ",
+                "translation": "Tiada tuhan selain Allah (×1)"
+              }
+            ]
+          }
+        },
+        {
+          "icon": "🤲",
+          "title": "Cara Menjawab Azan — Sunat!",
+          "body": {
+            "type": "arabic",
+            "instruction": "Jawab dengan lafaz yang SAMA seperti bilal — KECUALI bila bilal sebut حَيَّ عَلَى الصَّلَاة atau حَيَّ عَلَى الْفَلَاح, kita jawab:",
+            "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
+            "translation": "Tiada daya dan kekuatan melainkan dengan pertolongan Allah.",
+            "more": [
+              {
+                "instruction": "Doa selepas azan:",
+                "arabic": "اَللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ وَالصَّلَاةِ الْقَائِمَةِ آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ",
+                "translation": "Ya Allah, Tuhan seruan yang sempurna ini dan solat yang didirikan, kurniakanlah kepada Muhammad wasilah dan keutamaan."
+              }
+            ]
+          }
+        },
+        {
+          "icon": "📢",
+          "title": "Iqamat — Seruan Mula Solat",
+          "body": {
+            "type": "arabic",
+            "instruction": "Iqamat dibaca sebelum mulakan solat berjemaah. Sama seperti azan TAPI lebih pendek, dan ditambah lafaz:",
+            "arabic": "قَدْ قَامَتِ الصَّلَاةُ قَدْ قَامَتِ الصَّلَاةُ",
+            "translation": "Sesungguhnya solat telah berdiri — sesungguhnya solat telah berdiri (×2)",
+            "outro": "Setiap lafaz azan dibaca sekali sahaja dalam iqamat (bukan dua kali), kecuali Allahu Akbar di awal (×4) dan 'Qad qamatissalah' (×2)."
+          }
+        },
+        {
+          "icon": "⏰",
+          "title": "Bila Azan Dilaungkan?",
+          "body": "Azan dilaungkan 5 kali sehari: Subuh (setelah fajar), Zuhur (tergelincir matahari), Asar (bayang sama panjang dengan benda), Maghrib (selepas matahari terbenam), Isyak (hilang mega merah). Jangan bercakap semasa azan dilaungkan!"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadis Nabi ﷺ:",
+        "arabic": "إِذَا سَمِعْتُمُ الْمُؤَذِّنَ فَقُولُوا مِثْلَ مَا يَقُولُ ثُمَّ صَلُّوا عَلَيَّ",
+        "translation": "Apabila kamu mendengar azan, ucapkanlah seperti apa yang diucapkan oleh muazzin, kemudian berselawatlah ke atasku.",
+        "source": "Riwayat Muslim",
+        "outro": "Menjawab azan mendapat pahala besar!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Adab Mendengar Azan 🌙",
+      "items": [
+        "Berhenti sebarang pekerjaan apabila mendengar azan",
+        "Jawab azan dengan lafaz yang betul (ikut bilal)",
+        "Bila bilal sebut حَيَّ عَلَى الصَّلَاة → jawab لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
+        "Baca doa selepas azan dengan penuh khusyu'",
+        "Segera ambil wudhu dan pergi ke masjid/surau untuk solat berjemaah"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah jawapan kita bila bilal laungkan حَيَّ عَلَى الصَّلَاة?",
+      "options": [
+        "حَيَّ عَلَى الصَّلَاة",
+        "اَللهُ أَكْبَر",
+        "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
+        "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apa perbezaan iqamat dengan azan?",
+      "options": [
+        "Iqamat lebih panjang",
+        "Iqamat ada tambahan قَدْ قَامَتِ الصَّلَاة",
+        "Iqamat untuk solat sunat",
+        "Tiada perbezaan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Azan dilaungkan berapa kali sehari?",
+      "options": [
+        "3 kali",
+        "4 kali",
+        "5 kali",
+        "7 kali"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Azan waktu Subuh ada tambahan lafaz iaitu...",
+      "options": [
+        "قَدْ قَامَتِ الصَّلَاة",
+        "حَيَّ عَلَى الْفَلَاح",
+        "اَلصَّلَاةُ خَيْرٌ مِنَ النَّوْم",
+        "اَللهُ أَكْبَر"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Azan",
+        "colour": "#9C27B0"
+      },
+      {
+        "id": "n2",
+        "label": "اَللهُ أَكْبَر",
+        "colour": "#6A1B9A"
+      },
+      {
+        "id": "n3",
+        "label": "حَيَّ عَلَى الصَّلَاة",
+        "colour": "#CE93D8"
+      },
+      {
+        "id": "n4",
+        "label": "Jawab Azan",
+        "colour": "#6A1B9A"
+      },
+      {
+        "id": "n5",
+        "label": "Iqamat",
+        "colour": "#CE93D8"
+      },
+      {
+        "id": "n6",
+        "label": "Solat Berjemaah",
+        "colour": "#4A148C"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "bermula"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "ada"
+      },
+      {
+        "id": "e3",
+        "source": "n3",
+        "target": "n4",
+        "label": "dijawab"
+      },
+      {
+        "id": "e4",
+        "source": "n5",
+        "target": "n6",
+        "label": "tanda mula"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n5",
+        "label": "diikuti"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "أَذَان",
+      "meaning": "azan — seruan masuk waktu solat"
+    },
+    {
+      "word": "إِقَامَة",
+      "meaning": "iqamat — seruan mula solat"
+    },
+    {
+      "word": "مُؤَذِّن",
+      "meaning": "bilal — orang yang laungkan azan"
+    },
+    {
+      "word": "حَيَّ عَلَى الصَّلَاة",
+      "meaning": "mari lakukan solat"
+    },
+    {
+      "word": "حَيَّ عَلَى الْفَلَاح",
+      "meaning": "mari kepada kejayaan"
+    }
+  ],
+  "funFact": "Bilal bin Rabah r.a. ialah sahabat Nabi yang pertama dilantik sebagai muazzin (orang laung azan) dalam Islam! Beliau seorang hamba yang dibebaskan dan mempunyai suara yang sangat merdu. Beliau melaungkan azan di atas Kaabah semasa Pembukaan Makkah — satu kehormatan yang luar biasa!"
+}

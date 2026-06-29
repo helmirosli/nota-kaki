@@ -1,0 +1,225 @@
+{
+  "id": "jais-tahun-1-feqah-bab2",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "feqah",
+  "chapter": 2,
+  "title": "Bersuci dari Hadas dan Najis",
+  "emoji": "💧",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 13,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Kebersihan adalah Syarat Ibadah!",
+      "body": {
+        "type": "arabic",
+        "instruction": "Sebelum boleh menunaikan solat, kita MESTI bersih dari hadas dan najis. Inilah yang dipanggil BERSUCI dalam feqah Islam. Allah SWT berfirman:",
+        "arabic": "إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ",
+        "translation": "Sesungguhnya Allah menyukai orang-orang yang bertaubat dan menyukai orang-orang yang bersuci.",
+        "source": "Surah al-Baqarah: 222",
+        "outro": "Jom belajar ilmu bersuci yang penting ini!"
+      }
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "💧",
+          "title": "Apa Itu Hadas?",
+          "body": {
+            "type": "list",
+            "intro": "Hadas adalah keadaan tidak suci pada badan seseorang yang menghalangnya daripada menunaikan solat. Ada dua jenis hadas",
+            "items": [
+              "HADAS KECIL — diatasi dengan berwudhu. Contoh: selepas buang air, keluar angin",
+              "HADAS BESAR — diatasi dengan mandi wajib. Contoh: selepas junub, haid, nifas"
+            ]
+          }
+        },
+        {
+          "icon": "🚿",
+          "title": "Cara Bersuci dari Hadas",
+          "body": {
+            "type": "list",
+            "items": [
+              "Hadas KECIL: Berwudhu — basuh muka, tangan, kepala, dan kaki mengikut cara yang betul",
+              "Hadas BESAR: Mandi wajib — meratakan air ke seluruh badan",
+              "Jika tiada air: TAYAMMUM — bersuci menggunakan debu/tanah yang bersih sebagai ganti air"
+            ]
+          }
+        },
+        {
+          "icon": "🧹",
+          "title": "Apa Itu Najis?",
+          "body": "Najis adalah benda kotor yang menghalang sah solat jika ada pada badan, pakaian, atau tempat solat. Contoh najis: air kencing, tahi (najis berat), darah, bangkai, arak. Najis perlu dibersihkan dari badan, pakaian, dan tempat solat sebelum solat dimulakan."
+        },
+        {
+          "icon": "🧼",
+          "title": "Cara Bersuci dari Najis",
+          "body": {
+            "type": "list",
+            "intro": "Cara membersihkan najis",
+            "items": [
+              "Buang benda najis yang kelihatan",
+              "Cuci dengan air bersih sehingga hilang bau, warna, dan rasa najis. Najis berat (anjing/babi): kena basuh 7 kali dan salah satunya dengan tanah. Istinja': bersihkan tempat buang air dengan air menggunakan tangan kiri"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "list",
+        "intro": "Ringkasan Mudah:",
+        "items": [
+          "HADAS = keadaan tidak suci pada DIRI (badan) → diatasi dengan wudhu atau mandi",
+          "NAJIS = benda kotor pada BADAN, PAKAIAN, atau TEMPAT → diatasi dengan membasuh dengan air sehingga bersih"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Bersuci dari Najis Langkah Demi Langkah",
+      "items": [
+        "Kenal pasti sama ada itu najis atau bukan — lihat, hidu, atau rasa (jika perlu)",
+        "Buang bahan najis yang kelihatan seperti tahi, darah dengan cara yang sesuai",
+        "Cuci tempat yang terkena najis dengan air bersih yang mengalir",
+        "Gosok bahagian yang bernajis sehingga hilang bau, warna, dan rasa najis",
+        "Untuk najis berat (anjing): basuh 7 kali, salah satu dengan campuran tanah dan air"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah yang dimaksudkan dengan 'hadas kecil'?",
+      "options": [
+        "Najis yang sedikit",
+        "Keadaan tidak suci yang diatasi dengan berwudhu",
+        "Keadaan tidak suci yang diatasi dengan mandi wajib",
+        "Najis yang ringan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Bagaimana cara bersuci dari hadas BESAR?",
+      "options": [
+        "Berwudhu sahaja",
+        "Bertayammum sahaja",
+        "Mandi wajib",
+        "Membasuh muka sahaja"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang perlu dilakukan jika tiada air untuk bersuci?",
+      "options": [
+        "Tidak perlu bersuci",
+        "Tayammum menggunakan debu/tanah yang bersih",
+        "Minta orang lain bersuci untuk kita",
+        "Tunggu sehingga ada air"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Najis berat seperti terkena air liur anjing perlu dibasuh berapa kali?",
+      "options": [
+        "3 kali",
+        "5 kali",
+        "7 kali",
+        "10 kali"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Bersuci",
+        "colour": "#9C27B0"
+      },
+      {
+        "id": "n2",
+        "label": "Dari Hadas",
+        "colour": "#6A1B9A"
+      },
+      {
+        "id": "n3",
+        "label": "Dari Najis",
+        "colour": "#E1BEE7"
+      },
+      {
+        "id": "n4",
+        "label": "Kecil → Wudhu / Besar → Mandi",
+        "colour": "#6A1B9A"
+      },
+      {
+        "id": "n5",
+        "label": "Basuh hingga bersih",
+        "colour": "#E1BEE7"
+      },
+      {
+        "id": "n6",
+        "label": "Tayammum jika tiada air",
+        "colour": "#4A148C"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "jenis 1"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "jenis 2"
+      },
+      {
+        "id": "e3",
+        "source": "n2",
+        "target": "n4",
+        "label": "cara"
+      },
+      {
+        "id": "e4",
+        "source": "n3",
+        "target": "n5",
+        "label": "cara"
+      },
+      {
+        "id": "e5",
+        "source": "n2",
+        "target": "n6",
+        "label": "alternatif"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "hadas",
+      "meaning": "keadaan tidak suci secara syarak pada seseorang yang menghalang solat"
+    },
+    {
+      "word": "najis",
+      "meaning": "benda kotor dari segi syarak yang perlu dibersihkan"
+    },
+    {
+      "word": "tayammum",
+      "meaning": "bersuci menggunakan debu atau tanah yang suci sebagai ganti air"
+    },
+    {
+      "word": "mandi wajib",
+      "meaning": "mandi yang wajib dilakukan untuk menghilangkan hadas besar"
+    },
+    {
+      "word": "istinja'",
+      "meaning": "membersihkan tempat keluar najis selepas buang air kecil atau besar"
+    }
+  ],
+  "funFact": "Islam mewajibkan umatnya menjaga kebersihan bukan sahaja untuk ibadah — tetapi juga untuk kesihatan! Para saintis mendapati bahawa cara Islam membersihkan najis (membasuh dengan air sehingga bersih dari bau, warna, dan rasa) adalah cara paling berkesan untuk membunuh kuman berbahaya. Subhanallah!"
+}

@@ -1,0 +1,133 @@
+{
+  "id": "jais-tahun-1-tauhid-bab6",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "tauhid",
+  "chapter": 6,
+  "title": "Sifat Wujud – Allah Pasti Ada!",
+  "emoji": "🌠",
+  "colour": "#E65100",
+  "estimatedMinutes": 14,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Apakah Sifat Wujud?",
+      "body": "Sifat Wujud bermaksud Allah itu Ada – dan ini adalah sifat wajib bagi Allah yang pertama sekali kita pelajari. Allah Ada tanpa dikaitkan dengan masa dan tempat tertentu. Wujudnya seluruh alam ini – langit, bumi, gunung-ganang, lautan, burung, dan semua makhluk – adalah bukti yang jelas bahawa Allah itu Ada!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "✅",
+          "title": "Wujud – Allah Itu Ada",
+          "body": "Wujud ialah sifat wajib bagi Allah yang bermaksud Ada. Allah Ada sejak azali (tanpa permulaan) dan kekal selama-lamanya tanpa ada akhirnya. Kewujudan Allah tidak bergantung kepada masa atau tempat."
+        },
+        {
+          "icon": "❌",
+          "title": "A'dam – Lawan Wujud",
+          "body": "A'dam bermaksud Tiada. Ini adalah sifat mustahil bagi Allah – iaitu mustahil Allah itu Tiada. Jika Allah tiada, siapakah yang menciptakan alam semesta ini? Pasti ada Pencipta yang Maha Berkuasa!"
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil Naqli – Surah An-Nas",
+          "body": "Surah An-Nas (1-6) menyebut Allah sebagai 'Tuhan yang menguasai sekalian manusia, Pemelihara sekalian manusia, Tuhan yang berhak disembah oleh sekalian manusia.' Ini membuktikan Allah itu Ada dan Berkuasa!"
+        },
+        {
+          "icon": "🌍",
+          "title": "Dalil Aqli – Kewujudan Alam",
+          "body": "Alam ini ada. Langit ada. Bumi ada. Manusia ada. Haiwan ada. Segala yang ada ini tidak mungkin wujud dengan sendirinya – pasti ada yang menciptakannya. Itulah Allah yang Maha Pencipta!"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah SWT berfirman:",
+        "arabic": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ ۝ مَلِكِ النَّاسِ ۝ إِلَهِ النَّاسِ ۝ مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ۝ الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ ۝ مِنَ الْجِنَّةِ وَالنَّاسِ",
+        "translation": "Katakanlah: Aku berlindung kepada Tuhan yang menguasai sekalian manusia, Pemelihara sekalian manusia, Tuhan yang berhak disembah oleh sekalian manusia, daripada kejahatan pembisik yang suka bersembunyi, yang membisikkan ke dalam hati manusia, daripada kalangan jin dan manusia.",
+        "source": "Surah al-Nas: 1-6",
+        "outro": "Allah adalah Rabb, Malik, dan Ilah kita — kita berlindung kepada-Nya dari segala kejahatan!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Faedah-faedah Mengetahui Sifat Wujud Allah",
+      "items": [
+        "Iman semakin kukuh – Apabila kita yakin Allah Ada, iman kita menjadi lebih teguh dan tidak mudah goyah",
+        "Taat pada perintah Allah – Kita akan lebih bersemangat melakukan perkara yang diperintahkan Allah",
+        "Berakhlak mulia – Mengetahui Allah Ada mendorong kita untuk sentiasa berkelakuan baik",
+        "Sentiasa merasa diawasi Allah – Kita sedar Allah melihat segala perbuatan kita, maka kita jaga diri dari dosa",
+        "Hati menjadi tenang – Orang yang yakin Allah Ada akan sentiasa tenang kerana tahu Allah sentiasa bersama"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud sifat Wujud bagi Allah?",
+      "options": [
+        "Allah itu Maha Besar",
+        "Allah itu Ada",
+        "Allah itu Maha Pengasih",
+        "Allah itu Maha Mengetahui"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang dimaksudkan dengan A'dam?",
+      "options": [
+        "Nama seorang nabi",
+        "Sifat mustahil bagi Allah yang bermaksud Tiada",
+        "Sifat wajib bagi Allah yang bermaksud Ada",
+        "Nama kitab suci"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah dalil aqli (akal) untuk membuktikan Allah itu Ada?",
+      "options": [
+        "Kita boleh lihat Allah di hadapan kita",
+        "Kita dengar Allah bercakap kepada kita setiap hari",
+        "Wujudnya alam ini membuktikan ada Pencipta yang Maha Berkuasa",
+        "Rakan-rakan kita semua percaya Allah Ada"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah faedah mengetahui sifat Wujud Allah?",
+      "options": [
+        "Kita boleh buat apa sahaja yang kita suka",
+        "Iman semakin kukuh, taat perintah Allah, berakhlak mulia dan sentiasa rasa diawasi Allah",
+        "Kita tidak perlu solat lagi",
+        "Kita boleh mohon kekayaan yang banyak"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Sifat Wujud", "colour": "#E65100" },
+      { "id": "n2", "label": "Wujud = Ada (Sifat Wajib)", "colour": "#F4511E" },
+      { "id": "n3", "label": "A'dam = Tiada (Sifat Mustahil)", "colour": "#FFCCBC" },
+      { "id": "n4", "label": "Dalil Naqli: Surah An-Nas", "colour": "#F4511E" },
+      { "id": "n5", "label": "Dalil Aqli: Alam Ciptaan", "colour": "#FFCCBC" },
+      { "id": "n6", "label": "Faedah: Iman Kukuh", "colour": "#F4511E" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "bermaksud" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "lawannya" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "dalil" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "dalil" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "faedah" }
+    ]
+  },
+  "vocab": [
+    { "word": "Wujud", "meaning": "Ada – sifat wajib pertama Allah yang bermaksud Allah pasti Ada" },
+    { "word": "A'dam", "meaning": "Tiada – sifat mustahil bagi Allah kerana mustahil Allah itu tidak ada" },
+    { "word": "Sifat Wajib", "meaning": "Sifat yang pasti ada pada Allah dan tidak boleh tiada" },
+    { "word": "Sifat Mustahil", "meaning": "Sifat yang pasti tidak ada pada Allah dan tidak mungkin berlaku" },
+    { "word": "Azali", "meaning": "Sedia ada sejak dahulu kala tanpa ada permulaan – hanya Allah yang bersifat azali" }
+  ],
+  "funFact": "Cuba bayangkan: jika kita letakkan jam tangan di atas padang pasir, seseorang yang menjumpainya pasti tahu ada orang yang membuat jam itu – ia tidak mungkin terbentuk sendiri! Begitu juga dengan alam semesta yang jauh lebih rumit ini – pasti ada Penciptanya, iaitu Allah Yang Maha Agung!"
+}

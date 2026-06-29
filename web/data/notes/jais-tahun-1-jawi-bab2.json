@@ -1,0 +1,229 @@
+{
+  "id": "jais-tahun-1-jawi-bab2",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "jawi",
+  "chapter": 2,
+  "title": "Penulisan Huruf Jawi — Sambung atau Tidak?",
+  "emoji": "🔗",
+  "colour": "#FF9800",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Rahsia Sambungan Huruf Jawi",
+      "body": "Tahukah kamu bahawa tidak semua huruf Jawi boleh disambung? Ini adalah perbezaan penting antara tulisan Jawi dengan tulisan Rumi! Sesetengah huruf hanya boleh disambung dari sebelah kiri sahaja. Jom belajar rahsianya!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🚫",
+          "title": "Kumpulan 1: TIDAK BOLEH Disambung Selepasnya",
+          "body": {
+            "type": "list",
+            "intro": "Lapan huruf ini TIDAK BOLEH disambung dengan huruf selepasnya:",
+            "items": [
+              "ا — alif",
+              "د — dal",
+              "ذ — zal",
+              "ر — ro",
+              "ز — zai",
+              "ؤ — va (wau berlapis)",
+              "ة — ta marbutah",
+              "ى — ye"
+            ]
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "Kumpulan 2: BOLEH Disambung Sebelum dan Selepas",
+          "body": {
+            "type": "arabic",
+            "instruction": "Huruf-huruf ini BOLEH disambung di kedua-dua belah:",
+            "arabic": "ب ت ث ج چ ح خ ط ظ ڤ م س ع ق ن ش غ ک ە ص ي ض ف ل",
+            "translation": "Ba, Ta, Tha, Jim, Ca, Ha, Kha, To, Dzo, Pa, Mim, Sin, Ain, Qaf, Nun, Syin, Ghain, Kaf, Ha, Sod, Ya, Dhod, Fa, Lam"
+          }
+        },
+        {
+          "icon": "🔄",
+          "title": "Huruf Berubah Bentuk",
+          "body": {
+            "type": "list",
+            "intro": "Dua huruf yang berubah bentuk apabila disambung:",
+            "items": [
+              "ە (ha) — menjadi lebih kecil apabila berada di tengah perkataan",
+              "م (mim) — berubah bentuk apabila di awal dan tengah perkataan",
+              "Perhatikan perubahan ini dengan teliti semasa menulis!"
+            ]
+          }
+        },
+        {
+          "icon": "📚",
+          "title": "Contoh Perkataan",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh perkataan dengan huruf ة (ta marbutah) yang tidak boleh disambung:",
+            "arabic": "صَلَاة",
+            "translation": "Solat — huruf ة di akhir tidak boleh disambung ke huruf berikutnya"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": "Tip Penting: Bila kamu menulis perkataan Jawi, periksa sama ada huruf sebelumnya boleh disambung atau tidak. Ini akan menjadikan tulisan Jawi kamu kelihatan betul dan cantik!"
+    },
+    {
+      "type": "steps",
+      "heading": "Langkah Menulis Huruf Jawi dengan Betul",
+      "items": [
+        "Kenal pasti huruf mana yang termasuk dalam Kumpulan 1 (tidak boleh disambung selepasnya)",
+        {
+          "type": "arabic",
+          "instruction": "Huruf",
+          "arabic": "ا د ذ ر ز ؤ ة ى"
+        },
+        "Semua huruf lain (Kumpulan 2) boleh disambung di kedua-dua belah",
+        "Perhatikan bentuk huruf berubah apabila disambung di awal, tengah, dan akhir perkataan",
+        {
+          "type": "arabic",
+          "instruction": "Amalkan dengan menulis perkataan mudah seperti",
+          "arabic": "صلاة"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Huruf manakah yang TIDAK BOLEH disambung dengan huruf selepasnya?",
+      "options": [
+        "ب (ba)",
+        "ر (ro)",
+        "ن (nun)",
+        "م (mim)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa huruf yang termasuk dalam kumpulan 'tidak boleh disambung selepasnya'?",
+      "options": [
+        "5 huruf",
+        "6 huruf",
+        "7 huruf",
+        "8 huruf"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Apakah yang berlaku kepada sesetengah huruf apabila disambung di tengah perkataan?",
+      "options": [
+        "Huruf itu dihapuskan",
+        "Huruf itu berubah bentuk",
+        "Huruf itu menjadi besar",
+        "Huruf itu tidak berubah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan صلاة (solat) menggunakan huruf apakah di akhirnya?",
+      "options": [
+        "ا (alif)",
+        "ى (ye)",
+        "ة (ta marbutah)",
+        "ز (zai)"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Huruf Jawi",
+        "colour": "#FF9800"
+      },
+      {
+        "id": "n2",
+        "label": "Kumpulan 1: Tidak Boleh Sambung Selepas",
+        "colour": "#E65100"
+      },
+      {
+        "id": "n3",
+        "label": "Kumpulan 2: Boleh Disambung",
+        "colour": "#FFE0B2"
+      },
+      {
+        "id": "n4",
+        "label": "ا د ذ ر ز ؤ ة ى",
+        "colour": "#E65100"
+      },
+      {
+        "id": "n5",
+        "label": "ب ت ج ن م ل dll",
+        "colour": "#FFE0B2"
+      },
+      {
+        "id": "n6",
+        "label": "Berubah Bentuk",
+        "colour": "#BF360C"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "terbahagi"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "terbahagi"
+      },
+      {
+        "id": "e3",
+        "source": "n2",
+        "target": "n4",
+        "label": "contoh huruf"
+      },
+      {
+        "id": "e4",
+        "source": "n3",
+        "target": "n5",
+        "label": "contoh huruf"
+      },
+      {
+        "id": "e5",
+        "source": "n3",
+        "target": "n6",
+        "label": "apabila sambung"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "disambung",
+      "meaning": "dihubungkan atau disatukan"
+    },
+    {
+      "word": "selepas",
+      "meaning": "sesudah atau di bahagian belakang"
+    },
+    {
+      "word": "bentuk",
+      "meaning": "rupa atau cara sesuatu kelihatan"
+    },
+    {
+      "word": "kumpulan",
+      "meaning": "beberapa perkara yang dikategorikan bersama"
+    },
+    {
+      "word": "perkataan",
+      "meaning": "satu unit bahasa yang memberi makna"
+    }
+  ],
+  "funFact": "Dalam tulisan Arab dan Jawi, huruf yang sama boleh kelihatan berbeza bergantung kepada posisinya dalam perkataan — di awal, tengah, atau akhir. Ini menjadikan tulisan Jawi sangat cantik dan artistik!"
+}

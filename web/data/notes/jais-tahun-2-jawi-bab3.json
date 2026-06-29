@@ -1,0 +1,230 @@
+{
+  "id": "jais-tahun-2-jawi-bab3",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "jawi",
+  "chapter": 3,
+  "title": "Kata Majmuk dalam Tulisan Jawi",
+  "emoji": "🔗",
+  "colour": "#FF9800",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Kata Majmuk — Gabungan Dua Kata dalam Jawi 🔗",
+      "body": "Kata majmuk terbentuk apabila dua kata bergabung untuk memberi satu makna baru. Contoh: 'meja tulis' (bukan meja yang sedang menulis — tapi meja untuk menulis!). Mari belajar cara tulis kata majmuk dalam Jawi dengan betul."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📚",
+          "title": "Kata Majmuk Berkaitan Sekolah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Kata majmuk ditulis BERASINGAN (dua perkataan) dalam Jawi:",
+            "arabic": "ميج توليس",
+            "translation": "meja tulis",
+            "more": [
+              {
+                "arabic": "بوکو تيکس",
+                "translation": "buku teks"
+              },
+              {
+                "arabic": "سيکوله رنده",
+                "translation": "sekolah rendah"
+              },
+              {
+                "arabic": "اورغ راماي",
+                "translation": "orang ramai"
+              }
+            ]
+          }
+        },
+        {
+          "icon": "🌿",
+          "title": "Kata Majmuk Berkaitan Islam",
+          "body": {
+            "type": "arabic",
+            "instruction": "Banyak kata majmuk Islam berasal terus dari Bahasa Arab:",
+            "arabic": "بسم الله",
+            "translation": "Bismillah — dengan nama Allah",
+            "more": [
+              {
+                "arabic": "الحمد لله",
+                "translation": "Alhamdulillah — segala puji bagi Allah"
+              },
+              {
+                "arabic": "ان شاء الله",
+                "translation": "Insya-Allah — jika Allah kehendaki"
+              },
+              {
+                "arabic": "رسول الله",
+                "translation": "Rasulullah — utusan Allah"
+              }
+            ]
+          }
+        },
+        {
+          "icon": "🏠",
+          "title": "Kata Majmuk Harian",
+          "body": {
+            "type": "arabic",
+            "instruction": "Kata majmuk harian dalam Jawi — dua perkataan berasingan:",
+            "arabic": "روماه سکيت",
+            "translation": "rumah sakit",
+            "more": [
+              {
+                "arabic": "ايبو باڤ",
+                "translation": "ibu bapa"
+              },
+              {
+                "arabic": "ماتا حاري",
+                "translation": "matahari (mata + hari)"
+              },
+              {
+                "arabic": "تاڠن کانن",
+                "translation": "tangan kanan"
+              }
+            ]
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "Cara Tulis Kata Majmuk Jawi",
+          "body": {
+            "type": "list",
+            "intro": "Aturan penting kata majmuk dalam Jawi:",
+            "items": [
+              "Ditulis BERASINGAN — dua perkataan, bukan satu",
+              "Berbeza dari Rumi: 'matahari' = satu kata dalam Rumi, tapi dua kata dalam Jawi",
+              "Peraturan ini sama untuk semua kata majmuk — sekolah, Islam, mahupun harian",
+              "Jangan sambungkan — 'mejatulis' salah, 'meja tulis' betul dalam Jawi"
+            ],
+            "outro": "Mudah diingat: dalam Jawi, kata majmuk = 2 perkataan berasingan!"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Banyak kata majmuk Melayu berasal terus dari Bahasa Arab Islam. Contoh yang paling biasa kita guna setiap hari:",
+        "arabic": "بسم الله الرحمن الرحيم",
+        "translation": "Dengan nama Allah Yang Maha Pemurah lagi Maha Mengasihani.",
+        "outro": "Ini menunjukkan betapa dalamnya pengaruh Islam dalam bahasa dan budaya Melayu. Bangga jadi orang Melayu Islam yang mewarisi tulisan Jawi!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Latihan Ejaan Kata Majmuk Jawi ✍️",
+      "items": [
+        {
+          "type": "arabic",
+          "instruction": "Tulis 'matahari' dalam Jawi (dua perkataan):",
+          "arabic": "ماتا حاري",
+          "translation": "matahari = mata + hari"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tulis 'buah tangan' dalam Jawi:",
+          "arabic": "بوه تاڠن",
+          "translation": "buah tangan (hadiah)"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tulis 'rumah sakit' dalam Jawi:",
+          "arabic": "روماه سکيت",
+          "translation": "rumah sakit (hospital)"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tulis 'ibu bapa' dalam Jawi:",
+          "arabic": "ايبو باڤ",
+          "translation": "ibu bapa (parents)"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Tulis 'sekolah rendah' dalam Jawi:",
+          "arabic": "سيکوله رنده",
+          "translation": "sekolah rendah (primary school)"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Kata majmuk dalam Jawi ditulis...",
+      "options": [
+        "Bercantum jadi satu perkataan",
+        "Berasingan seperti dua kata",
+        "Dengan tanda sambung (-)",
+        "Dalam kurungan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "'matahari' dalam tulisan Jawi ialah...",
+      "options": [
+        "ماتحاري",
+        "ماتا حاري",
+        "مات هاري",
+        "ماتا-حاري"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "'rumah sakit' dalam tulisan Jawi ialah...",
+      "options": [
+        "روماسکيت",
+        "روماه سکيت",
+        "رومسکيت",
+        "روماه-سکيت"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kata majmuk mana yang berasal terus dari Bahasa Arab?",
+      "options": [
+        "Meja tulis",
+        "Buah tangan",
+        "Bismillah",
+        "Bas sekolah"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Kata Majmuk Jawi", "colour": "#FF9800" },
+      { "id": "n2", "label": "Sekolah+Belajar", "colour": "#E65100" },
+      { "id": "n3", "label": "Islam+Arab", "colour": "#FFE0B2" },
+      { "id": "n4", "label": "Harian", "colour": "#E65100" },
+      { "id": "n5", "label": "ماتا حاري", "colour": "#FFE0B2" },
+      { "id": "n6", "label": "Berasingan dalam Jawi", "colour": "#BF360C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "contoh" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "contoh" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "contoh" },
+      { "id": "e4", "source": "n4", "target": "n5", "label": "contoh" },
+      { "id": "e5", "source": "n6", "target": "n1", "label": "cara tulis" }
+    ]
+  },
+  "vocab": [
+    { "word": "کات ماجموق", "meaning": "kata majmuk — gabungan dua kata" },
+    { "word": "ميج توليس", "meaning": "meja tulis (dalam Jawi)" },
+    { "word": "ايبو باڤ", "meaning": "ibu bapa (dalam Jawi)" },
+    { "word": "بسم الله", "meaning": "Bismillah — dengan nama Allah" },
+    { "word": "الحمد لله", "meaning": "Alhamdulillah — segala puji bagi Allah" }
+  ],
+  "funFact": {
+    "type": "arabic",
+    "instruction": "Perkataan 'matahari' adalah kata majmuk dari 'mata' + 'hari'. Dalam Jawi, ia masih ditulis dua perkataan berasingan:",
+    "arabic": "ماتا حاري",
+    "translation": "mata + hari = matahari",
+    "outro": "Orang Melayu dahulu nampak matahari seperti 'mata' yang menerangi siang hari. Betapa puitis dan bermakna bahasa Melayu kita!"
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "id": "jais-tahun-1-bahasa-arab-bab1",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "bahasa-arab",
+  "chapter": 1,
+  "title": "Taman Huruf dan Nombor",
+  "emoji": "🌸",
+  "colour": "#2196F3",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Kemahiran Yang Akan Dipelajari 📚",
+      "body": "Selepas belajar Dars Pertama ini, kamu boleh: MENDENGAR huruf dan nombor dengan baik, MENYEBUT huruf dan nombor dengan betul, MEMBACA huruf dan nombor dengan tepat, MENULIS huruf dan nombor dengan jelas, dan KENAL perkataan yang berkaitan dengan setiap huruf!"
+    },
+    {
+      "type": "callout",
+      "icon": "🤲",
+      "text": {
+        "type": "arabic",
+        "instruction": "DOA SEBELUM BELAJAR",
+        "arabic": "رَبِّ زِدْنِي عِلْمًا وَارْزُقْنِي فَهْمًا",
+        "translation": "Ya Tuhanku, tambahkanlah ilmuku dan kurniakanlah aku kefahaman.' Baca doa ini setiap kali mula belajar!"
+      }
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🔤",
+          "title": "28 Huruf Hijaiah",
+          "body": {
+            "type": "arabic",
+            "arabic": "أ ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن و ه ء ي"
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Contoh Perkataan Setiap Huruf",
+          "body": {
+            "type": "list",
+            "intro": "Setiap huruf ada contoh perkataan Arab:",
+            "items": [
+              "أ — أُمّ (ibu)",
+              "ب — بَطّ (itik)",
+              "ج — جَدّ (datuk)",
+              "د — دَار (rumah)",
+              "ز — زَهْرَة (bunga)",
+              "ش — شَمْس (matahari)",
+              "ص — صُنْدُوق (peti)",
+              "ط — طَبِيب (doktor)",
+              "ك — كِتَاب (buku)",
+              "ل — لَيْمُون (limau)",
+              "م — مَسْجِد (masjid)",
+              "ن — نَار (api)",
+              "ه — هِلَال (anak bulan)",
+              "و — وِسَادَة (bantal)"
+            ]
+          }
+        },
+        {
+          "icon": "🔗",
+          "title": "Cara Sambung Huruf Jadi Perkataan",
+          "body": {
+            "type": "list",
+            "intro": "Cara sambung huruf jadi perkataan:",
+            "items": [
+              "أ + م = أُمّ (ibu)",
+              "ب + ط = بَطّ (itik)",
+              "ج + د = جَدّ (datuk)",
+              "ز + ه + ر + ة = زَهْرَة (bunga)",
+              "ش + م + س = شَمْس (matahari)",
+              "ف + ي + ل = فِيل (gajah)",
+              "ق + ل + م = قَلَم (pen)",
+              "ن + ا + ر = نَار (api)",
+              "ه + ل + ا + ل = هِلَال (anak bulan)"
+            ],
+            "outro": "Cuba sambung huruf sendiri — itu cara terbaik belajar!"
+          }
+        },
+        {
+          "icon": "🔢",
+          "title": "Nombor Arab 1 hingga 50",
+          "body": {
+            "type": "list",
+            "intro": "Nombor Arab 1 hingga 50:",
+            "items": [
+              "١ — وَاحِد (satu)",
+              "٢ — اِثْنَان (dua)",
+              "٣ — ثَلَاثَة (tiga)",
+              "٤ — أَرْبَعَة (empat)",
+              "٥ — خَمْسَة (lima)",
+              "٦ — سِتَّة (enam)",
+              "٧ — سَبْعَة (tujuh)",
+              "٨ — ثَمَانِيَة (lapan)",
+              "٩ — تِسْعَة (sembilan)",
+              "١٠ — عَشَرَة (sepuluh)",
+              "١١ — أَحَدَ عَشَر (sebelas)",
+              "١٢ — اِثْنَا عَشَر (dua belas)",
+              "٢٠ — عِشْرُون (dua puluh)",
+              "٣٠ — ثَلَاثُون (tiga puluh)",
+              "٤٠ — أَرْبَعُون (empat puluh)",
+              "٥٠ — خَمْسُون (lima puluh)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Baca dan Tulis Huruf Arab ✍️",
+      "items": [
+        {
+          "type": "arabic",
+          "instruction": "Kemahiran 1 — Mendengar:",
+          "arabic": "اِسْتِمَاع",
+          "translation": "Istima' — dengar guru sebut huruf, ulang dalam hati"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Kemahiran 2 — Menyebut:",
+          "arabic": "نُطْق",
+          "translation": "Nutq — sebut huruf dengan jelas dan betul"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Kemahiran 3 — Membaca:",
+          "arabic": "قِرَاءَة",
+          "translation": "Qira'ah — baca teks Arab dengan lancar"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Kemahiran 4 — Menulis:",
+          "arabic": "كِتَابَة",
+          "translation": "Kitabah — tulis huruf Arab dengan kemas dan betul"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Kemahiran 5 — Kenal Perkataan. Sambung huruf jadi makna:",
+          "arabic": "بَطّ • قَلَم • مَسْجِد",
+          "translation": "itik • pen • masjid"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah SWT berfirman — Wahyu pertama kepada Nabi Muhammad ﷺ:",
+        "arabic": "اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ ۝ خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ",
+        "translation": "Bacalah dengan nama Tuhanmu yang menciptakan. Dia menciptakan manusia daripada segumpal darah.",
+        "source": "Surah al-Alaq: 1-2",
+        "outro": "Perintah pertama Allah kepada kita ialah BACA — ilmu adalah asas segala kebaikan!",
+        "more": [
+          {
+            "instruction": "Ayat Latihan — Nilai Murni:",
+            "arabic": "تَعَامَلْ بِصِدْقٍ فِي الْبَيْعِ",
+            "translation": "Berlaku jujur dalam jual beli"
+          },
+          {
+            "instruction": "Ayat Latihan — Ibadah:",
+            "arabic": "أَقِمْ خَمْسَ الصَّلَوَاتِ الْمَفْرُوضَة",
+            "translation": "Dirikan lima solat yang fardhu"
+          }
+        ]
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa jumlah huruf dalam Bahasa Arab (Huruf Hijaiah)?",
+      "options": [
+        "24 huruf",
+        "26 huruf",
+        "28 huruf",
+        "30 huruf"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apa contoh perkataan untuk huruf ش (Syin)?",
+      "options": [
+        "صُنْدُوق (peti)",
+        "شَمْس (matahari)",
+        "سَمَك (ikan)",
+        "زَهْرَة (bunga)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Gabungkan huruf ق + ل + م. Apakah perkataan yang terbentuk?",
+      "options": [
+        "كِتَاب (buku)",
+        "قَلَم (pen)",
+        "قُرْءَان",
+        "فِيل (gajah)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Nombor Arab untuk 12 ialah...",
+      "options": [
+        "اثنا عشر",
+        "عشرة",
+        "اثنان",
+        "عشرون"
+      ],
+      "answer": 0
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Huruf Hijaiah (28)",
+        "colour": "#2196F3"
+      },
+      {
+        "id": "n2",
+        "label": "أ Alif = أُمّ",
+        "colour": "#1565C0"
+      },
+      {
+        "id": "n3",
+        "label": "ب Ba = بَطّ",
+        "colour": "#42A5F5"
+      },
+      {
+        "id": "n4",
+        "label": "Sambung Huruf",
+        "colour": "#1565C0"
+      },
+      {
+        "id": "n5",
+        "label": "Jadi Perkataan",
+        "colour": "#42A5F5"
+      },
+      {
+        "id": "n6",
+        "label": "Nombor 1-50",
+        "colour": "#0D47A1"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "huruf pertama"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "huruf kedua"
+      },
+      {
+        "id": "e3",
+        "source": "n1",
+        "target": "n4",
+        "label": "cara buat"
+      },
+      {
+        "id": "e4",
+        "source": "n4",
+        "target": "n5",
+        "label": "menghasilkan"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n6",
+        "label": "ada juga"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "أُمّ",
+      "meaning": "ibu (contoh huruf أ)"
+    },
+    {
+      "word": "بَطّ",
+      "meaning": "itik (contoh huruf ب)"
+    },
+    {
+      "word": "زَهْرَة",
+      "meaning": "bunga (contoh huruf ز)"
+    },
+    {
+      "word": "شَمْس",
+      "meaning": "matahari (contoh huruf ش)"
+    },
+    {
+      "word": "مَسْجِد",
+      "meaning": "masjid (contoh huruf م)"
+    },
+    {
+      "word": "هِلَال",
+      "meaning": "anak bulan (contoh huruf ه)"
+    },
+    {
+      "word": "فِيل",
+      "meaning": "gajah (contoh huruf ف)"
+    },
+    {
+      "word": "وِسَادَة",
+      "meaning": "bantal (contoh huruf و)"
+    }
+  ],
+  "funFact": "Huruf Arab pertama ialah أ (Alif). Ayat pertama al-Quran yang diturunkan bermula dengan perkataan 'اِقْرَأْ' yang bermaksud 'BACA!' — Allah suruh kita belajar dulu sebelum apa-apa pun!"
+}

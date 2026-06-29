@@ -1,0 +1,176 @@
+{
+  "id": "jais-tahun-1-akhlak-bab3",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "akhlak",
+  "chapter": 3,
+  "title": "Adab Mandi dan Bersuci",
+  "emoji": "🚿",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 11,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Islam Suka Orang yang Bersih!",
+      "body": {
+        "type": "arabic",
+        "instruction": "Allah SWT berfirman:",
+        "arabic": "إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ",
+        "translation": "Sesungguhnya Allah menyukai orang-orang yang bertaubat dan menyukai orang-orang yang bersuci.",
+        "source": "Surah al-Baqarah: 222",
+        "outro": "Mandi dan bersuci bukan sahaja menjaga kesihatan — ia juga satu ibadah yang Allah suka! Jom belajar cara yang betul."
+      }
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "💧",
+          "title": "Cara Mandi yang Betul",
+          "body": {
+            "type": "list",
+            "intro": "Adab mandi:",
+            "items": [
+              "Baca bismillah sebelum mandi",
+              "Gosok gigi (bersugi) dahulu jika boleh",
+              "Basuh tangan terlebih dahulu",
+              "Basuh seluruh tubuh badan dengan air bersih dari atas ke bawah",
+              "Pastikan air sampai ke semua bahagian badan termasuklah celah-celah jari"
+            ]
+          }
+        },
+        {
+          "icon": "🧼",
+          "title": "Bersuci dari Najis",
+          "body": {
+            "type": "list",
+            "intro": "Bersuci bermaksud membersihkan diri dari najis dan hadas. Najis adalah benda kotor yang perlu dibersihkan seperti air kencing, darah, dan kotoran. Cara bersuci:",
+            "items": [
+              "Buang benda najis dahulu",
+              "Cuci dengan air bersih sehingga bersih",
+              "Pastikan tidak ada bau, warna atau rasa najis yang tinggal"
+            ]
+          }
+        },
+        {
+          "icon": "🚿",
+          "title": "Istinja' — Membersihkan Tempat Najis",
+          "body": {
+            "type": "list",
+            "intro": "Istinja' bermaksud membersihkan tempat keluar najis (kubul dan dubur) selepas buang air. Cara istinja' yang betul:",
+            "items": [
+              "Gunakan air bersih",
+              "Basuh dengan tangan kiri",
+              "Pastikan bersih hingga tidak ada kesan najis",
+              "Kemudian basuh tangan dengan sabun"
+            ]
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Faedah Mandi dan Bersuci",
+          "body": {
+            "type": "list",
+            "intro": "Manfaat mandi dan bersuci:",
+            "items": [
+              "Badan bersih dan sihat — terhindar dari penyakit",
+              "Dapat menunaikan solat dengan sah",
+              "Allah suka hambanya yang bersih",
+              "Orang sekeliling suka berada bersama kita",
+              "Mendapat pahala kerana mengikut sunah Nabi"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadis Nabi ﷺ:",
+        "arabic": "الطَّهُورُ شَطْرُ الْإِيمَانِ",
+        "translation": "Kebersihan adalah separuh daripada iman. Menjaga kebersihan adalah SEBAHAGIAN daripada Islam kita!",
+        "source": "Hadis Riwayat Muslim"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Langkah Mandi yang Lengkap dan Betul",
+      "items": [
+        "Niat dalam hati: 'Aku mandi untuk membersihkan diri kerana Allah'",
+        "Baca bismillah dan gosok gigi (bersugi) dahulu",
+        "Basuh kedua tangan hingga ke pergelangan tangan tiga kali",
+        "Basuh bahagian atas badan (kepala, muka, leher, tangan) dengan teliti",
+        "Basuh bahagian bawah badan (perut, punggung, kaki) dari kanan ke kiri, jangan tinggal mana-mana bahagian"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah yang dimaksudkan dengan 'istinja''?",
+      "options": [
+        "Mandi setiap hari",
+        "Membersihkan tempat keluar najis dengan air",
+        "Mencuci pakaian",
+        "Menggosok gigi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Menurut hadis Nabi, kebersihan adalah apa?",
+      "options": [
+        "Separuh daripada kesihatan",
+        "Separuh daripada iman",
+        "Separuh daripada solat",
+        "Separuh daripada puasa"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Cara membasuh badan ketika mandi yang betul adalah...",
+      "options": [
+        "Dari bawah ke atas",
+        "Dari kiri ke kanan sahaja",
+        "Dari atas ke bawah",
+        "Tidak ada tertib tertentu"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah antara faedah mandi dan bersuci?",
+      "options": [
+        "Dapat makan lebih banyak",
+        "Dapat tidur lebih lama",
+        "Dapat menunaikan solat dengan sah",
+        "Dapat belajar lebih pantas"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Bersuci", "colour": "#4CAF50" },
+      { "id": "n2", "label": "Mandi", "colour": "#2E7D32" },
+      { "id": "n3", "label": "Istinja'", "colour": "#C8E6C9" },
+      { "id": "n4", "label": "Cara: Atas ke bawah, niat, bismillah", "colour": "#2E7D32" },
+      { "id": "n5", "label": "Bersih dari najis", "colour": "#C8E6C9" },
+      { "id": "n6", "label": "Faedah: Sihat, sah solat, pahala", "colour": "#1B5E20" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "termasuk" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "termasuk" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "cara" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "tujuan" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "menghasilkan" }
+    ]
+  },
+  "vocab": [
+    { "word": "bersuci", "meaning": "membersihkan diri dari najis dan hadas mengikut cara yang diajar Islam" },
+    { "word": "najis", "meaning": "benda kotor yang mesti dibersihkan mengikut hukum Islam" },
+    { "word": "hadas", "meaning": "keadaan tidak bersih secara syarak yang menghalang solat" },
+    { "word": "istinja'", "meaning": "membersihkan tempat keluar najis selepas buang air" },
+    { "word": "bersugi", "meaning": "menggosok gigi menggunakan kayu sugi atau berus gigi — amalan sunah Nabi" }
+  ],
+  "funFact": "Nabi Muhammad ﷺ sangat mementingkan kebersihan gigi! Baginda menggunakan kayu sugi (miswak) untuk menggosok gigi. Kajian sains moden mendapati kayu sugi mengandungi bahan semulajadi yang membunuh kuman dan menguatkan gusi. Sunah Nabi memang terbukti baik untuk kesihatan!"
+}

@@ -1,0 +1,170 @@
+{
+  "id": "jais-tahun-2-tauhid-bab3",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "tauhid",
+  "chapter": 3,
+  "title": "Sifat Jaiz bagi Allah",
+  "emoji": "✅",
+  "colour": "#FFB300",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Sifat Jaiz — Perkara yang HARUS bagi Allah",
+      "body": "Selain sifat wajib dan mustahil, ada satu lagi jenis sifat Allah iaitu sifat JAIZ. Sifat jaiz bermaksud perkara yang HARUS (boleh ada atau boleh tidak ada) bagi Allah. Ini berbeza dengan wajib (mesti ada) dan mustahil (tidak mungkin ada)."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "✅",
+          "title": "Definisi Sifat Jaiz",
+          "body": {
+            "type": "arabic",
+            "instruction": "Sifat jaiz bermaksud perkara yang HARUS (boleh berlaku atau tidak) bagi Allah mengikut kehendak-Nya:",
+            "arabic": "الصِّفَاتُ الْجَائِزَةُ",
+            "translation": "Sifat-sifat yang Harus bagi Allah",
+            "outro": "Ada SATU sifat jaiz bagi Allah: iaitu Allah HARUS berbuat atau meninggalkan sesuatu mengikut kehendak-Nya."
+          }
+        },
+        {
+          "icon": "🌍",
+          "title": "Contoh Sifat Jaiz Allah",
+          "body": {
+            "type": "list",
+            "intro": "Allah HARUS (boleh ya atau tidak) dalam perkara-perkara ini:",
+            "items": [
+              "Memberi rezeki yang banyak atau sedikit kepada sesiapa yang Dia kehendaki",
+              "Menyihatkan atau membenarkan seseorang sakit",
+              "Menghantar Rasul atau tidak menghantar",
+              "Menciptakan sesuatu atau tidak menciptakannya"
+            ],
+            "outro": "Semua bergantung kepada kehendak Allah — bukan kewajipan-Nya!"
+          }
+        },
+        {
+          "icon": "🔑",
+          "title": "Sifat Jaiz dalam Firman Allah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Allah berbuat apa sahaja yang Dia kehendaki — tiada yang berhak menghalang atau mempersoalkan-Nya:",
+            "arabic": "وَيَفْعَلُ اللَّهُ مَا يَشَاءُ",
+            "translation": "Dan Allah lakukan apa yang Dia kehendaki.",
+            "source": "Surah Ibrahim: 27",
+            "more": [
+              {
+                "arabic": "يَغْفِرُ لِمَن يَشَاءُ وَيُعَذِّبُ مَن يَشَاءُ",
+                "translation": "Dia mengampuni siapa yang dikehendaki-Nya dan menyiksa siapa yang dikehendaki-Nya.",
+                "source": "Surah al-Baqarah: 284"
+              }
+            ]
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "Perbezaan 3 Jenis Sifat",
+          "body": {
+            "type": "list",
+            "intro": "Tiga jenis sifat Allah yang wajib diketahui:",
+            "items": [
+              "WAJIB: Mesti ada pada Allah — contoh: Wujud (Ada)",
+              "MUSTAHIL: Tidak boleh ada pada Allah — contoh: A'dam (Tiada)",
+              "JAIZ: Boleh ada atau tidak ada pada Allah — contoh: Beri rezeki banyak atau sedikit"
+            ],
+            "outro": "Dengan faham ketiga-tiga jenis ini, akidah kita tentang Allah menjadi lengkap dan sempurna."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Firman Allah yang menunjukkan kuasa jaiz-Nya — Dia bebas mengampuni atau menghukum mengikut kehendak-Nya:",
+        "arabic": "يَغْفِرُ لِمَن يَشَاءُ وَيُعَذِّبُ مَن يَشَاءُ ۗ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+        "translation": "Dia mengampuni siapa yang dikehendaki-Nya dan menyiksa siapa yang dikehendaki-Nya. Dan Allah Maha Berkuasa atas segala sesuatu.",
+        "source": "Surah al-Baqarah: 284"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Kenapa Wajib Tahu Sifat Jaiz?",
+      "items": [
+        "Memahami bahawa SEMUA urusan di tangan Allah — kita hanya berusaha dan bertawakal",
+        "Tidak mempersoalkan ketentuan Allah — kalau sakit, sedih, susah — itu kehendak-Nya",
+        "Tidak menganggap Allah 'wajib' buat sesuatu untuk kita — kita yang bergantung kepada Allah",
+        "Menambah rasa rendah diri (tawadu') di hadapan Allah — kita hamba yang lemah",
+        "Bersyukur atas apa yang Allah berikan — kerana semua adalah kurnia, bukan kewajipan-Nya"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apa maksud sifat JAIZ bagi Allah?",
+      "options": [
+        "Mesti ada pada Allah",
+        "Tidak mungkin ada pada Allah",
+        "Harus (boleh ada atau tidak) pada Allah",
+        "Wajib dilakukan Allah"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa jenis sifat Allah yang wajib kita ketahui?",
+      "options": [
+        "2 jenis (wajib dan mustahil)",
+        "3 jenis (wajib, mustahil, jaiz)",
+        "4 jenis",
+        "5 jenis"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Contoh sifat JAIZ bagi Allah ialah...",
+      "options": [
+        "Allah mesti Ada",
+        "Allah tidak mungkin binasa",
+        "Allah boleh beri rezeki banyak atau sedikit",
+        "Allah mesti Mendengar"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "وَيَفْعَلُ اللَّهُ مَا يَشَاءُ bermaksud...",
+      "options": [
+        "Allah Maha Kuasa",
+        "Allah lakukan apa yang Dia kehendaki",
+        "Allah Maha Mengetahui",
+        "Allah adalah Hakim"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Sifat Allah", "colour": "#FFB300" },
+      { "id": "n2", "label": "Wajib (Mesti Ada)", "colour": "#F57F17" },
+      { "id": "n3", "label": "Mustahil (Tiada)", "colour": "#FFF9C4" },
+      { "id": "n4", "label": "Jaiz (Harus)", "colour": "#F57F17" },
+      { "id": "n5", "label": "Beri rezeki sikit/banyak", "colour": "#FFF9C4" },
+      { "id": "n6", "label": "Kehendak Allah", "colour": "#BF360C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "jenis 3" },
+      { "id": "e4", "source": "n4", "target": "n5", "label": "contoh" },
+      { "id": "e5", "source": "n6", "target": "n4", "label": "berdasarkan" }
+    ]
+  },
+  "vocab": [
+    { "word": "جَائِز", "meaning": "harus / boleh berlaku atau tidak" },
+    { "word": "يَشَاء", "meaning": "yang Dia kehendaki" },
+    { "word": "مَشِيئَة", "meaning": "kehendak Allah" },
+    { "word": "رِزْق", "meaning": "rezeki" },
+    { "word": "حِكْمَة", "meaning": "kebijaksanaan" }
+  ],
+  "funFact": "Bila kita tahu sifat JAIZ Allah, kita tidak akan pernah berkata 'Kenapa Allah buat ini pada saya?' kerana kita faham — semua di tangan Allah! Bila dapat susah, kita bersabar. Bila dapat senang, kita bersyukur. Inilah tanda iman yang sempurna!"
+}

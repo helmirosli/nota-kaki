@@ -1,0 +1,209 @@
+{
+  "id": "jais-tahun-1-hafazan-bab3",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "hafazan",
+  "chapter": 3,
+  "title": "Surah al-Falaq — Perlindungan dari Kejahatan",
+  "emoji": "🌅",
+  "colour": "#E91E63",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Surah al-Falaq — Mohon Perlindungan Allah 🌅",
+      "body": "Surah al-Falaq adalah surah ke-113 dalam al-Quran. Kita memohon perlindungan Allah dari segala kejahatan. Nabi ﷺ membaca surah ini bersama Surah al-Nas setiap pagi, petang dan sebelum tidur!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Teks Surah al-Falaq (Arab)",
+          "body": {
+            "type": "arabic",
+            "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ ۝ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ۝ مِنْ شَرِّ مَا خَلَقَ ۝ وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ ۝ وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ۝ وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ ۝"
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Transliterasi + Terjemahan",
+          "body": {
+            "type": "list",
+            "items": [
+              "Qul a'uzu bi rabbil-falaq = Katakanlah: Aku berlindung kepada Tuhan yang menguasai subuh",
+              "Min sharri ma khalaq = Dari kejahatan makhluk yang Dia ciptakan",
+              "Wa min sharri ghasiqin iza waqab = Dari kejahatan malam apabila gelap gulita",
+              "Wa min sharrin-naffathati fil-'uqad = Dari kejahatan tukang sihir",
+              "Wa min sharri hasidin iza hasad = Dari kejahatan orang yang dengki"
+            ]
+          }
+        },
+        {
+          "icon": "🛡️",
+          "title": "4 Perlindungan yang Diminta",
+          "body": "1️⃣ Dari kejahatan SEMUA makhluk Allah. 2️⃣ Dari bahaya MALAM yang gelap (masa jin berkeliaran). 3️⃣ Dari SIHIR dan tangkal. 4️⃣ Dari HASAD DENGKI orang yang iri hati kepada kita. Allah melindungi kita dari semua ini!"
+        },
+        {
+          "icon": "🌟",
+          "title": "Kelebihan Surah al-Falaq",
+          "body": {
+            "type": "arabic",
+            "instruction": "Nabi ﷺ bersabda kepada Sahabat:",
+            "arabic": "أَلَمْ تَرَ آيَاتٍ أُنْزِلَتِ اللَّيْلَةَ لَمْ يُرَ مِثْلُهُنَّ قَطُّ الْمُعَوِّذَتَانِ",
+            "translation": "Tidakkah kamu lihat ayat-ayat yang diturunkan malam ini? Tidak ada yang sepertinya sebelum ini — itulah al-Mu'awwizatain (Surah al-Falaq dan Surah al-Nas).",
+            "source": "Riwayat Muslim",
+            "outro": "Baca setiap pagi dan petang untuk perlindungan seharian!"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": "AMALAN: Sayyidah 'Aisyah r.a. meriwayatkan bahawa Nabi ﷺ setiap malam sebelum tidur mengumpul kedua tangannya, meniup ke dalamnya sambil membaca Surah al-Ikhlas, al-Falaq dan al-Nas — kemudian menyapu seluruh tubuhnya. Ini amalan yang sangat baik untuk dilakukan setiap malam!"
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Amalkan Surah al-Falaq 🌙",
+      "items": [
+        "Baca selepas solat Subuh — untuk perlindungan sepanjang siang",
+        "Baca selepas solat Asar/Maghrib — untuk perlindungan sepanjang malam",
+        "Baca 3 kali sebelum tidur bersama Surah al-Ikhlas dan al-Nas",
+        "Tiup ke dalam tangan dan sapu ke seluruh badan seperti amalan Nabi ﷺ",
+        "Hafal dengan faham makna — bukan sekadar hafal bunyi sahaja"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Surah al-Falaq ada berapa ayat?",
+      "options": [
+        "4 ayat",
+        "5 ayat",
+        "6 ayat",
+        "7 ayat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "الْفَلَق bermaksud...",
+      "options": [
+        "Malam gelap",
+        "Subuh/fajar",
+        "Sihir",
+        "Manusia"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dalam Surah al-Falaq kita minta perlindungan dari kejahatan BERAPA perkara?",
+      "options": [
+        "2 perkara",
+        "3 perkara",
+        "4 perkara",
+        "5 perkara"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ bermaksud...",
+      "options": [
+        "Dari kejahatan malam",
+        "Dari kejahatan sihir",
+        "Dari kejahatan orang yang dengki",
+        "Dari kejahatan makhluk"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Surah al-Falaq",
+        "colour": "#E91E63"
+      },
+      {
+        "id": "n2",
+        "label": "Semua Kejahatan",
+        "colour": "#880E4F"
+      },
+      {
+        "id": "n3",
+        "label": "Malam Gelap",
+        "colour": "#F48FB1"
+      },
+      {
+        "id": "n4",
+        "label": "Sihir",
+        "colour": "#880E4F"
+      },
+      {
+        "id": "n5",
+        "label": "Hasad Dengki",
+        "colour": "#F48FB1"
+      },
+      {
+        "id": "n6",
+        "label": "Perlindungan Allah",
+        "colour": "#AD1457"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "lindung dari"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "lindung dari"
+      },
+      {
+        "id": "e3",
+        "source": "n1",
+        "target": "n4",
+        "label": "lindung dari"
+      },
+      {
+        "id": "e4",
+        "source": "n1",
+        "target": "n5",
+        "label": "lindung dari"
+      },
+      {
+        "id": "e5",
+        "source": "n6",
+        "target": "n1",
+        "label": "hasil"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "أَعُوذُ",
+      "meaning": "aku berlindung"
+    },
+    {
+      "word": "الْفَلَق",
+      "meaning": "subuh / fajar"
+    },
+    {
+      "word": "شَرّ",
+      "meaning": "kejahatan"
+    },
+    {
+      "word": "غَاسِق",
+      "meaning": "malam yang gelap"
+    },
+    {
+      "word": "حَاسِد",
+      "meaning": "orang yang dengki/hasad"
+    }
+  ],
+  "funFact": "الْفَلَق bermaksud 'subuh' atau 'fajar terbelah' — ketika gelap malam TERBELAH oleh cahaya fajar. Allah mengajar kita: seperti fajar mengalahkan kegelapan malam, begitulah perlindungan Allah mengalahkan semua kejahatan. Subhanallah!"
+}

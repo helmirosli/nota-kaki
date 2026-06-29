@@ -1,0 +1,116 @@
+{
+  "id": "jais-tahun-1-tauhid-bab2",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "tauhid",
+  "chapter": 2,
+  "title": "5 Rukun Islam – Amalan Seorang Muslim!",
+  "emoji": "🕌",
+  "colour": "#2E7D32",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Apa Itu Rukun Islam?",
+      "body": "Islam bermaksud melaksanakan perintah Allah dan meninggalkan segala larangan-Nya dalam kehidupan kita setiap hari. Terdapat 5 Rukun Islam yang menjadi asas kehidupan seorang Muslim. Kesemua amalan ini membantu kita menjadi hamba Allah yang taat dan dicintai-Nya!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🗣️",
+          "title": "Dua Kalimah Syahadah",
+          "body": "Mengucap syahadah adalah pintu masuk ke dalam Islam. Kita bersaksi tiada Tuhan yang berhak disembah melainkan Allah, dan Nabi Muhammad ﷺ adalah Rasul-Nya."
+        },
+        {
+          "icon": "🙏",
+          "title": "Solat Lima Waktu",
+          "body": "Solat adalah tiang agama Islam. Kita wajib mendirikan solat lima waktu sehari semalam iaitu Subuh, Zohor, Asar, Maghrib, dan Isyak. Solat ialah perbuatan dan perkataan yang dimulai dengan takbiratul ihram dan disudahi dengan salam."
+        },
+        {
+          "icon": "💰",
+          "title": "Menunaikan Zakat",
+          "body": "Zakat ialah mengeluarkan sebahagian harta yang ditentukan oleh syarak dan diberikan kepada golongan yang berhak menerimanya. Ia membersihkan harta kita dan membantu orang yang memerlukan."
+        },
+        {
+          "icon": "🌙",
+          "title": "Puasa Bulan Ramadan",
+          "body": "Puasa bermaksud menahan diri daripada makan, minum, dan perkara-perkara yang membatalkan puasa bermula dari terbit fajar hingga terbenam matahari. Puasa melatih kita bersabar dan bersyukur."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🕋",
+      "text": "Rukun Islam yang kelima ialah Menunaikan Haji bagi yang berkemampuan. Haji dikerjakan di Makkah pada bulan Zulhijjah. Ini adalah perjalanan istimewa ke Rumah Allah yang paling mulia di muka bumi!"
+    },
+    {
+      "type": "steps",
+      "heading": "5 Rukun Islam Mengikut Susunan",
+      "items": [
+        "Mengucap Dua Kalimah Syahadah – Pengakuan bahawa tiada Tuhan selain Allah dan Muhammad ﷺ adalah Rasul-Nya",
+        "Mendirikan Solat Lima Waktu Sehari Semalam – Subuh, Zohor, Asar, Maghrib, dan Isyak",
+        "Menunaikan Zakat – Mengeluarkan bahagian harta tertentu kepada yang berhak",
+        "Berpuasa pada Bulan Ramadan – Menahan diri dari fajar hingga terbenam matahari",
+        "Mengerjakan Haji bagi yang Berkemampuan – Pergi ke Makkah untuk menunaikan ibadah haji"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapakah bilangan Rukun Islam?",
+      "options": ["3", "4", "5", "6"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang dimaksudkan dengan puasa?",
+      "options": [
+        "Hanya menahan diri daripada makan sahaja",
+        "Menahan diri daripada makan, minum dan perkara yang membatalkan puasa dari fajar hingga terbenam matahari",
+        "Berdoa sepanjang hari tanpa henti",
+        "Tidak tidur sepanjang malam"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah maksud zakat?",
+      "options": [
+        "Memberi sedekah sesuka hati kepada sesiapa sahaja",
+        "Menabung wang untuk masa hadapan",
+        "Mengeluarkan sebahagian harta yang ditentukan syarak diberikan kepada yang berhak",
+        "Membeli-belah semasa Hari Raya"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Solat bermula dengan apakah?",
+      "options": ["Salam", "Takbiratul Ihram", "Surah Al-Fatihah", "Doa Iftitah"],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Rukun Islam", "colour": "#2E7D32" },
+      { "id": "n2", "label": "Syahadah", "colour": "#388E3C" },
+      { "id": "n3", "label": "Solat", "colour": "#C8E6C9" },
+      { "id": "n4", "label": "Zakat", "colour": "#388E3C" },
+      { "id": "n5", "label": "Puasa", "colour": "#C8E6C9" },
+      { "id": "n6", "label": "Haji", "colour": "#388E3C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "rukun 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "rukun 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "rukun 3" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "rukun 4" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "rukun 5" }
+    ]
+  },
+  "vocab": [
+    { "word": "Islam", "meaning": "Agama yang bermaksud melaksanakan perintah Allah dan meninggalkan larangan-Nya" },
+    { "word": "Zakat", "meaning": "Mengeluarkan sebahagian harta yang ditetapkan syarak untuk diberikan kepada golongan yang layak" },
+    { "word": "Syarak", "meaning": "Hukum-hukum yang ditetapkan oleh agama Islam" },
+    { "word": "Fajar", "meaning": "Waktu awal pagi apabila cahaya mula kelihatan di ufuk timur sebelum matahari terbit" },
+    { "word": "Takbiratul Ihram", "meaning": "Lafaz 'Allahu Akbar' yang menandakan permulaan solat" }
+  ],
+  "funFact": "Tahukah kamu? Jika kita solat lima waktu sehari semalam, dalam setahun kita akan solat sebanyak 1,825 kali! Setiap solat adalah peluang kita berbual terus dengan Allah yang Maha Pengasih."
+}

@@ -1,0 +1,277 @@
+{
+  "id": "jais-tahun-2-akhlak-bab4",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "akhlak",
+  "chapter": 4,
+  "title": "Adab di Masjid",
+  "emoji": "🕌",
+  "colour": "#388E3C",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Masjid — Rumah Allah yang Mulia",
+      "body": "Masjid adalah tempat yang paling mulia di bumi ini kerana ia adalah rumah Allah. Apabila kita berada di dalam masjid, kita perlu menjaga adab dan tatatertib supaya masjid sentiasa tenang, bersih dan dihormati. Dengan beradab di masjid, kita akan mendapat rahmat dan pahala daripada Allah."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🚶",
+          "title": "Adab Masuk Masjid",
+          "body": {
+            "type": "list",
+            "items": [
+              "Bersuci dan bersih sebelum masuk",
+              "Baca doa masuk masjid",
+              "Melangkah masuk dengan kaki kanan dahulu",
+              "Solat sunat tahiyyatul masjid (2 rakaat)",
+              "Berniat iktikaf",
+              "Berzikir dan membaca al-Quran",
+              "Tidak berjudi-judi dan tidak membuat bising"
+            ]
+          }
+        },
+        {
+          "icon": "🚪",
+          "title": "Adab Keluar Masjid",
+          "body": {
+            "type": "list",
+            "items": [
+              "Baca doa keluar masjid",
+              "Keluar dengan melangkah kaki kiri dahulu",
+              "Berniat untuk kembali datang ke masjid",
+              "Beradab sopan ketika keluar",
+              "Tidak mengambil barang milik orang lain"
+            ]
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "Faedah Beradab di Masjid",
+          "body": {
+            "type": "list",
+            "items": [
+              "Dapat menguatkan keimanan kepada Allah",
+              "Mempererat silaturrahim antara jemaah",
+              "Memiliki jiwa yang tenang",
+              "Dapat bergaul dengan kawan yang baik",
+              "Dihormati orang lain"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Akibat Tidak Beradab di Masjid",
+          "body": {
+            "type": "list",
+            "items": [
+              "Merosakkan keimanan diri",
+              "Menimbulkan kerenggangan antara jemaah masjid",
+              "Tidak dihormati oleh jemaah masjid"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🤲",
+      "text": {
+        "type": "arabic",
+        "instruction": "Doa Masuk Masjid (daripada Fatimah, Rasulullah ﷺ bersabda)",
+        "arabic": "اَللَّهُمَّ اغْفِرْلِي ذُنُوبِي وَافْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+        "translation": "Wahai Allah, ampunilah dosa-dosaku dan bukakanlah bagiku pintu-pintu rahmat-Mu.",
+        "source": "Riwayat Ibn Majah dan Ahmad"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Adab-adab Masuk Masjid",
+      "items": [
+        "Masuk dengan melangkahkan kaki kanan terlebih dahulu",
+        "Baca doa masuk masjid",
+        "Berpakaian sopan dan bersih serta menutup aurat",
+        "Bersikap tenang dan tidak membuat bising",
+        "Tidak membawa makanan atau benda berbau kuat",
+        "Solat sunat tahiyyatul masjid apabila masuk"
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🤲",
+      "text": {
+        "type": "arabic",
+        "instruction": "Doa Keluar Masjid (daripada Fatimah, Rasulullah ﷺ bersabda)",
+        "arabic": "اَللَّهُمَّ اغْفِرْلِي ذُنُوبِي وَافْتَحْ لِي أَبْوَابَ فَضْلِكَ",
+        "translation": "Wahai Allah, ampunilah dosa-dosaku dan bukakanlah bagiku pintu-pintu kelebihan-Mu.",
+        "source": "Riwayat Ibn Majah dan Ahmad"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Adab-adab Keluar Masjid",
+      "items": [
+        "Keluar dengan melangkahkan kaki kiri terlebih dahulu",
+        "Baca doa keluar masjid",
+        "Berniat untuk kembali ke masjid",
+        "Tidak mengambil barang milik orang lain",
+        "Keluar dengan sopan dan tenang"
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Faedah Beradab di Masjid",
+      "items": [
+        "Mendapat rahmat daripada Allah",
+        "Solat menjadi lebih khusyuk",
+        "Dapat meningkatkan keimanan kepada Allah",
+        "Dapat mempererat hubungan silaturrahim antara jemaah",
+        "Mendapat ketenangan jiwa yang tidak ternilai"
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Akibat Tidak Beradab di Masjid",
+      "items": [
+        "Merosakkan kekhusyukan solat jemaah",
+        "Menimbulkan kemarahan jemaah masjid",
+        "Tidak dihormati oleh jemaah masjid",
+        "Berdosa kerana tidak menghormati rumah Allah",
+        "Dihalau keluar oleh penjaga masjid"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Kaki manakah yang perlu dilangkahkan terlebih dahulu ketika masuk masjid?",
+      "options": [
+        "Kaki kiri",
+        "Kaki kanan",
+        "Mana-mana kaki",
+        "Kedua-dua kaki"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Solat sunat apakah yang disunatkan apabila masuk ke dalam masjid?",
+      "options": [
+        "Solat Dhuha",
+        "Solat Tahajjud",
+        "Solat Tahiyyatul Masjid",
+        "Solat Witir"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kaki manakah yang perlu dilangkahkan terlebih dahulu ketika keluar daripada masjid?",
+      "options": [
+        "Kaki kanan",
+        "Kaki kiri",
+        "Kedua-dua kaki",
+        "Mana-mana kaki"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang TIDAK boleh dilakukan di dalam masjid?",
+      "options": [
+        "Berdzikir",
+        "Membaca al-Quran",
+        "Berlari dan bermain",
+        "Solat"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Adab di Masjid",
+        "colour": "#388E3C"
+      },
+      {
+        "id": "n2",
+        "label": "Masuk Masjid",
+        "colour": "#2E7D32"
+      },
+      {
+        "id": "n3",
+        "label": "Keluar Masjid",
+        "colour": "#A5D6A7"
+      },
+      {
+        "id": "n4",
+        "label": "Kaki Kanan Dahulu",
+        "colour": "#2E7D32"
+      },
+      {
+        "id": "n5",
+        "label": "Kaki Kiri Dahulu",
+        "colour": "#A5D6A7"
+      },
+      {
+        "id": "n6",
+        "label": "Hadith Ibn Majah",
+        "colour": "#1B5E20"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "ada"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "ada"
+      },
+      {
+        "id": "e3",
+        "source": "n2",
+        "target": "n4",
+        "label": "termasuk"
+      },
+      {
+        "id": "e4",
+        "source": "n3",
+        "target": "n5",
+        "label": "termasuk"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n6",
+        "label": "berdasarkan"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "masjid",
+      "meaning": "tempat ibadah umat Islam, juga disebut sebagai rumah Allah"
+    },
+    {
+      "word": "aurat",
+      "meaning": "bahagian tubuh badan yang wajib ditutup mengikut hukum Islam"
+    },
+    {
+      "word": "jemaah",
+      "meaning": "kumpulan orang ramai yang bersama-sama melakukan ibadah"
+    },
+    {
+      "word": "khusyuk",
+      "meaning": "penuh tumpuan dan ketenangan hati semasa beribadah kepada Allah"
+    },
+    {
+      "word": "tahiyyatul masjid",
+      "meaning": "solat sunat dua rakaat sebagai penghormatan apabila masuk ke dalam masjid"
+    }
+  ],
+  "funFact": "Tahukah kamu? Apabila kita berniat untuk melakukan iktikaf (duduk di dalam masjid kerana Allah), kita akan mendapat pahala! Jadi apabila berada di dalam masjid, niatkanlah untuk iktikaf supaya setiap minit mendapat pahala."
+}

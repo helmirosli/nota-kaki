@@ -1,0 +1,204 @@
+{
+  "id": "jais-tahun-2-akhlak-bab7",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "akhlak",
+  "chapter": 7,
+  "title": "Adab Memelihara Harta Benda Awam",
+  "emoji": "🏫",
+  "colour": "#0277BD",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Harta Benda Awam — Tanggungjawab Kita Bersama",
+      "body": "Harta benda awam adalah kemudahan yang disediakan untuk kegunaan semua orang. Ia termasuk perabot sekolah, buku perpustakaan, taman permainan, tandas awam dan banyak lagi. Semua harta ini adalah hak kita bersama, maka kita bertanggungjawab untuk menjaga dan memeliharanya dengan baik."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🏗️",
+          "title": "Apa Itu Harta Benda Awam?",
+          "body": {
+            "type": "list",
+            "intro": "Harta benda awam ialah kemudahan yang disediakan untuk kegunaan orang ramai:",
+            "items": [
+              "Telefon awam",
+              "Tandas awam",
+              "Taman permainan kanak-kanak",
+              "Pondok menunggu bas",
+              "Padang dan gelanggang sukan"
+            ]
+          }
+        },
+        {
+          "icon": "🤝",
+          "title": "Adab Menggunakan Harta Benda Awam",
+          "body": {
+            "type": "list",
+            "items": [
+              "Bertanggungjawab bersama menjaga harta benda awam",
+              "Gunakan dengan berhati-hati",
+              "Kembalikan ke tempat asal selepas digunakan",
+              "Jangan rosakkan atau conteng",
+              "Jaga kebersihan dan kekemasan"
+            ]
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "Faedah Memelihara Harta Benda Awam",
+          "body": {
+            "type": "list",
+            "items": [
+              "Membuktikan tanggungjawab bersama",
+              "Harta benda awam tahan lebih lama",
+              "Menjimatkan wang rakyat",
+              "Kawasan awam bersih dan selesa"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Akibat Tidak Memelihara Harta Benda Awam",
+          "body": {
+            "type": "list",
+            "items": [
+              "Tidak disukai Allah (Allah tidak suka orang yang melakukan kerosakan)",
+              "Harta benda awam cepat rosak",
+              "Orang lain tidak dapat menggunakannya",
+              "Wang rakyat dibazirkan untuk membaiki"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah SWT berfirman:",
+        "arabic": "وَلَا تَبْغِ الْفَسَادَ فِي الْأَرْضِ إِنَّ اللهَ لَا يُحِبُّ الْمُفْسِدِينَ",
+        "translation": "Dan janganlah kamu melakukan kerosakan di muka bumi. Sesungguhnya Allah tidak menyukai orang-orang yang melakukan kerosakan.",
+        "source": "Surah al-Qasas: 77",
+        "outro": "Harta benda awam adalah hak kita bersama — bertanggungjawablah menjaganya kerana Allah tidak suka kepada orang yang membuat kerosakan!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Contoh-contoh Harta Benda Awam",
+      "items": [
+        "Perabot dan kemudahan di sekolah (meja, kerusi, papan hitam)",
+        "Buku-buku di perpustakaan sekolah atau awam",
+        "Tandas awam dan kemudahan sanitasi",
+        "Bas awam dan kenderaan awam",
+        "Taman permainan dan kawasan rekreasi",
+        "Alatan sukan di sekolah atau gelanggang sukan",
+        "Telefon awam dan kemudahan komunikasi"
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Adab-adab Menggunakan Harta Benda Awam",
+      "items": [
+        "Gunakan dengan berhati-hati dan bertanggungjawab",
+        "Kembalikan ke tempat asal selepas digunakan",
+        "Jangan rosakkan atau conteng harta benda awam",
+        "Simpan dan jaga dengan baik semasa menggunakan",
+        "Laporkan sebarang kerosakan kepada pihak berkenaan",
+        "Ingat bahawa orang lain juga berhak menggunakannya"
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Faedah Memelihara Harta Benda Awam",
+      "items": [
+        "Harta benda awam tahan lebih lama dan boleh digunakan oleh ramai orang",
+        "Menjimatkan wang rakyat daripada pembaziran",
+        "Mencerminkan akhlak yang baik dan bertanggungjawab",
+        "Mendapat pahala kerana menjaga amanah",
+        "Kawasan awam menjadi bersih, cantik dan selesa untuk semua"
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Akibat Tidak Memelihara Harta Benda Awam",
+      "items": [
+        "Harta benda awam cepat rosak dan tidak boleh digunakan",
+        "Menyebabkan pembaziran wang awam untuk membaiki",
+        "Orang lain tidak dapat menggunakan kemudahan tersebut",
+        "Mendapat dosa kerana melakukan kerosakan",
+        "Dipandang negatif oleh masyarakat sekeliling"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah yang dimaksudkan dengan harta benda awam?",
+      "options": [
+        "Harta milik ibu bapa kita",
+        "Kemudahan yang disediakan untuk kegunaan orang ramai",
+        "Barang-barang yang kita beli sendiri",
+        "Mainan yang kita miliki"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang perlu kita lakukan selepas menggunakan harta benda awam?",
+      "options": [
+        "Bawa balik ke rumah",
+        "Tinggalkan di tempat kita pakai",
+        "Kembalikan ke tempat asal dengan keadaan baik",
+        "Sembunyikan supaya orang lain tidak dapat guna"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Mengapa kita perlu menjaga harta benda awam?",
+      "options": [
+        "Supaya kita sahaja yang boleh guna",
+        "Kerana ia tanggungjawab bersama dan hak semua orang",
+        "Kerana ia milik cikgu",
+        "Supaya dapat hadiah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah akibat jika kita tidak menjaga harta benda awam?",
+      "options": [
+        "Harta benda awam menjadi lebih canggih",
+        "Kita mendapat pujian",
+        "Harta cepat rosak dan orang lain tidak dapat menggunakannya",
+        "Wang rakyat bertambah banyak"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Harta Benda Awam", "colour": "#0277BD" },
+      { "id": "n2", "label": "Jenis Harta Awam", "colour": "#01579B" },
+      { "id": "n3", "label": "Cara Menjaga", "colour": "#B3E5FC" },
+      { "id": "n4", "label": "Sekolah & Perpustakaan", "colour": "#01579B" },
+      { "id": "n5", "label": "Kembalikan Ke Tempat Asal", "colour": "#B3E5FC" },
+      { "id": "n6", "label": "Amanah & Tanggungjawab", "colour": "#002171" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "terdiri dari" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "ada" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "contoh" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "termasuk" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "nilai" }
+    ]
+  },
+  "vocab": [
+    { "word": "awam", "meaning": "sesuatu yang menjadi milik bersama atau untuk kegunaan orang ramai" },
+    { "word": "amanah", "meaning": "tanggungjawab yang dipercayakan kepada seseorang untuk dijaga dengan baik" },
+    { "word": "vandalisma", "meaning": "perbuatan merosakkan harta benda awam atau milik orang lain dengan sengaja" },
+    { "word": "kemudahan awam", "meaning": "prasarana atau perkhidmatan yang disediakan untuk semua anggota masyarakat" },
+    { "word": "bertanggungjawab", "meaning": "bersedia menanggung kesan daripada tindakan kita dan menjalankan tugas dengan baik" }
+  ],
+  "funFact": "Tahukah kamu? Kerajaan membelanjakan berjuta-juta ringgit wang rakyat untuk membina dan menyelenggara harta benda awam. Jika kita merosakkannya, wang itu terpaksa digunakan untuk membaiki semula. Dengan menjaga harta benda awam, kita sebenarnya membantu kerajaan menjimatkan wang untuk membina lebih banyak kemudahan untuk kita semua!"
+}

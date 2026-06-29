@@ -1,0 +1,243 @@
+{
+  "id": "jais-tahun-2-akhlak-bab1",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "akhlak",
+  "chapter": 1,
+  "title": "Adab Makan dan Minum",
+  "emoji": "🍽️",
+  "colour": "#FF7043",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Kenapa Kita Perlu Beradab Semasa Makan?",
+      "body": "Makan dan minum adalah nikmat Allah kepada kita. Islam mengajar kita cara yang betul untuk makan dan minum supaya kita mendapat keberkatan dan dijauhi daripada syaitan. Dengan beradab semasa makan, kita juga menjaga kesihatan dan kebersihan diri."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🙌",
+          "title": "Sebelum Makan",
+          "body": "Basuh tangan, duduk dengan tenang, hadap makanan yang bersih dan kemas, lalu baca Bismillah sebelum mula makan."
+        },
+        {
+          "icon": "✋",
+          "title": "Semasa Makan",
+          "body": "Guna tangan kanan, ambil makanan yang terdekat, utamakan orang yang lebih tua, dan jangan gelojoh atau membazir."
+        },
+        {
+          "icon": "💧",
+          "title": "Semasa Minum",
+          "body": "Duduk semasa minum, jangan tarik nafas dalam bekas minuman, dan minum dengan perlahan."
+        },
+        {
+          "icon": "🚫",
+          "title": "Larangan Semasa Makan",
+          "body": "Jangan mencaci makanan yang dihidangkan, jangan bercakap perkara yang tidak elok, kotor atau jijik semasa makan."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith daripada Ibn Abi Salamah, Rasulullah ﷺ bersabda",
+        "arabic": "يَاغُلَامُ سَمِّ اللَّهَ وَكُلْ بِيَمِيْنِكَ وَكُلْ مِمَّا يَلِيْكَ",
+        "translation": "Wahai anak, bacalah Bismillah dan makanlah dengan tangan kananmu, serta makanlah makanan yang hampir denganmu.",
+        "source": "Riwayat Bukhari dan Muslim"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Adab-adab Semasa Makan dan Minum",
+      "items": [
+        "Basuh tangan sebelum makan dan minum",
+        "Baca Bismillahir Rahmanir Rahim sebelum makan",
+        "Duduk dengan sopan dan tenang semasa makan",
+        "Gunakan tangan kanan dan ambil makanan yang terdekat",
+        "Utamakan orang yang lebih tua dahulu",
+        "Jangan gelojoh dan jangan membazir makanan",
+        "Baca doa selepas makan: Alhamdulillahil-lazi at'amana wa saqana wa ja'alana minal muslimin"
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🤲",
+      "text": {
+        "type": "arabic",
+        "instruction": "Doa Sebelum Makan:",
+        "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translation": "Dengan nama Allah Yang Maha Pemurah lagi Maha Mengasihani.",
+        "more": [
+          {
+            "instruction": "Doa Selepas Makan:",
+            "arabic": "اَلْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مِنَ الْمُسْلِمِيْنَ",
+            "translation": "Segala puji bagi Allah yang memberi kami makan dan minum serta menjadikan kami daripada kalangan orang Islam."
+          }
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Faedah Beradab Semasa Makan",
+      "items": [
+        "Mendapat keredhaan Allah dan Rasul-Nya",
+        "Dipandang mulia oleh orang ramai",
+        "Tidak menimbulkan kebencian kepada orang lain",
+        "Menghindarkan pembaziran makanan",
+        "Menjaga kebersihan dan kesihatan tubuh badan"
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Akibat Tidak Beradab Semasa Makan",
+      "items": [
+        "Tidak disayangi oleh Allah dan Rasul",
+        "Dipandang hina oleh orang ramai",
+        "Menyebabkan pembaziran makanan",
+        "Mendatangkan penyakit",
+        "Syaitan akan makan bersama jika tidak baca Bismillah"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah yang perlu dibaca sebelum kita makan?",
+      "options": [
+        "Alhamdulillah",
+        "Bismillah",
+        "Subhanallah",
+        "Allahu Akbar"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Tangan manakah yang perlu digunakan semasa makan?",
+      "options": [
+        "Tangan kiri",
+        "Tangan kanan",
+        "Kedua-dua tangan",
+        "Mana-mana tangan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang berlaku jika kita tidak membaca doa sebelum makan?",
+      "options": [
+        "Makanan jadi sedap",
+        "Kita akan kenyang",
+        "Syaitan akan makan bersama kita",
+        "Tidak ada apa-apa"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah adab yang betul semasa makan?",
+      "options": [
+        "Ambil makanan yang jauh dahulu",
+        "Bercakap perkara yang jijik",
+        "Utamakan orang yang lebih tua",
+        "Makan dengan gelojoh"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Adab Makan & Minum",
+        "colour": "#FF7043"
+      },
+      {
+        "id": "n2",
+        "label": "Sebelum Makan",
+        "colour": "#E64A19"
+      },
+      {
+        "id": "n3",
+        "label": "Semasa Makan",
+        "colour": "#FFCCBC"
+      },
+      {
+        "id": "n4",
+        "label": "Guna Tangan Kanan",
+        "colour": "#E64A19"
+      },
+      {
+        "id": "n5",
+        "label": "Baca Bismillah",
+        "colour": "#FFCCBC"
+      },
+      {
+        "id": "n6",
+        "label": "Hadith Bukhari & Muslim",
+        "colour": "#BF360C"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "ada"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "ada"
+      },
+      {
+        "id": "e3",
+        "source": "n2",
+        "target": "n5",
+        "label": "termasuk"
+      },
+      {
+        "id": "e4",
+        "source": "n3",
+        "target": "n4",
+        "label": "termasuk"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n6",
+        "label": "berdasarkan"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "adab",
+      "meaning": "tatacara atau sopan santun yang dituntut oleh Islam"
+    },
+    {
+      "word": "gelojoh",
+      "meaning": "makan dengan tergesa-gesa dan tidak sopan"
+    },
+    {
+      "word": "bismillah",
+      "meaning": "bermaksud 'dengan nama Allah', bacaan yang diucapkan sebelum melakukan sesuatu"
+    },
+    {
+      "word": "membazir",
+      "meaning": "menggunakan sesuatu secara berlebihan tanpa faedah"
+    },
+    {
+      "word": "keredhaan",
+      "meaning": "persetujuan dan kasih sayang daripada Allah"
+    }
+  ],
+  "funFact": {
+    "type": "arabic",
+    "instruction": "Jika terlupa baca doa sebelum makan, ucapkan ini:",
+    "arabic": "بِسْمِ اللَّهِ فِي أَوَّلِهِ وَآخِرِهِ",
+    "translation": "Dengan nama Allah di awal dan di akhirnya.",
+    "outro": "Ini menghalang syaitan daripada turut serta makan bersama kita!"
+  }
+}

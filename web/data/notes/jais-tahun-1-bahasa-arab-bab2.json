@@ -1,0 +1,190 @@
+{
+  "id": "jais-tahun-1-bahasa-arab-bab2",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "bahasa-arab",
+  "chapter": 2,
+  "title": "Salam dan Berkenalan",
+  "emoji": "👋",
+  "colour": "#2196F3",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Kemahiran Pelajaran Ini 📚",
+      "body": "Selepas belajar Dars ini, kamu boleh: MENDENGAR perbualan tentang salam dan perkenalan, MENYEBUT dialog dengan betul, MEMBACA teks dengan jelas, MENULIS kosa kata dengan tepat, dan MEMPRAKTIKKAN dialog dengan rakan!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🤝",
+          "title": "Beri Salam dan Perkenalan Diri",
+          "body": {
+            "type": "list",
+            "intro": "Dialog perkenalan pertama:",
+            "items": [
+              "السَّلَامُ عَلَيْكُمْ — Assalamualaikum!",
+              "وَعَلَيْكُمُ السَّلَامُ — Waalaikumussalam!",
+              "أَهْلًا، اِسْمِي فَائِزٌ — Helo, nama saya Faiz",
+              "مَنْ أَنْتَ؟ — Siapa nama kamu?",
+              "أَنَا تِلْمِيذٌ جَدِيدٌ — Saya murid baru!"
+            ]
+          }
+        },
+        {
+          "icon": "👦👧",
+          "title": "Murid Lelaki dan Perempuan",
+          "body": {
+            "type": "list",
+            "intro": "Perkenalan murid lelaki dan perempuan:",
+            "items": [
+              "أَنَا تِلْمِيذٌ — Saya murid lelaki",
+              "أَنَا تِلْمِيذَةٌ — Saya murid perempuan",
+              "هُوَ صَدِيقِي، اِسْمُهُ أَزْهَرُ — Dia kawan saya (lelaki), namanya Azhar",
+              "هِيَ صَدِيقَتِي، اِسْمُهَا نَجْوَى — Dia kawan saya (perempuan), namanya Najwa"
+            ]
+          }
+        },
+        {
+          "icon": "👨‍🏫",
+          "title": "Cikgu dan Ibu Bapa",
+          "body": {
+            "type": "list",
+            "intro": "Perkenalan guru dan ahli keluarga:",
+            "items": [
+              "أَنَا مُعَلِّمٌ — Saya guru lelaki (Fauzi)",
+              "أَنَا مُعَلِّمَةٌ — Saya guru perempuan (Faridah)",
+              "هَذَا أَبِي — Ini ayah saya",
+              "هَذِهِ أُمِّي — Ini ibu saya"
+            ]
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Bina Perkataan dari Huruf",
+          "body": {
+            "type": "list",
+            "intro": "Bina perkataan dengan menyambung huruf:",
+            "items": [
+              "تِلْمِيذ = ت + ل + م + ي + ذ (murid lelaki)",
+              "تِلْمِيذَة = ت + ل + م + ي + ذ + ة (murid perempuan)",
+              "مُعَلِّم = م + ع + ل + م (guru lelaki)",
+              "أَب = أ + ب (ayah)",
+              "أُم = أ + م (ibu)"
+            ],
+            "outro": "Perhatikan: ة (ta marbutah) di akhir perkataan menunjukkan jantina perempuan!"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah SWT berfirman:",
+        "arabic": "يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِندَ اللهِ أَتْقَاكُمْ",
+        "translation": "Wahai umat manusia! Sesungguhnya Kami telah menjadikan kamu dari lelaki dan perempuan, dan Kami telah menjadikan kamu berbangsa-bangsa dan bersuku-puak supaya kamu berkenal-kenalan. Sesungguhnya yang paling mulia di antara kamu ialah yang paling bertakwa.",
+        "source": "Surah al-Hujurat: 13",
+        "more": [
+          {
+            "instruction": "Ayat Latihan — Nilai Murni:",
+            "arabic": "أَفْشِ السَّلَامَ بَيْنَكُمْ",
+            "translation": "Sebarkan salam di antara kamu"
+          },
+          {
+            "instruction": "Ayat Latihan — Kerjasama:",
+            "arabic": "تَعَاوَنْ عَلَى الْخَيْرِ فِي الصَّحَابَة",
+            "translation": "Bekerjasama dalam kebaikan sesama rakan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Dialog Lengkap — Praktik Bersama! 🗣️",
+      "items": [
+        {
+          "type": "arabic",
+          "instruction": "Langkah 1 — Beri dan balas salam:",
+          "arabic": "السَّلَامُ عَلَيْكُمْ ← وَعَلَيْكُمُ السَّلَامُ",
+          "translation": "Assalamualaikum ← Waalaikumussalam"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Langkah 2 — Tanya nama:",
+          "arabic": "مَنْ أَنْتَ؟",
+          "translation": "Siapa kamu?"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Langkah 3 — Perkenalkan diri (lelaki):",
+          "arabic": "اِسْمِي فَائِزٌ، أَنَا تِلْمِيذٌ",
+          "translation": "Nama saya Faiz, saya murid"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Langkah 4 — Perkenalkan rakan lelaki:",
+          "arabic": "هُوَ صَدِيقِي، اِسْمُهُ أَزْهَرُ",
+          "translation": "Dia kawan saya, namanya Azhar"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Langkah 5 — Perkenalkan rakan perempuan:",
+          "arabic": "هِيَ صَدِيقَتِي، اِسْمُهَا نَجْوَى",
+          "translation": "Dia kawan saya, namanya Najwa"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apa maksud أَنَا تِلْمِيذَةٌ?",
+      "options": ["Saya guru perempuan", "Saya murid lelaki", "Saya murid perempuan", "Dia murid perempuan"],
+      "answer": 2
+    },
+    {
+      "q": "Nama murid lelaki baru dalam dialog buku ini ialah...",
+      "options": ["أَزْهَر (Azhar)", "فَائِز (Faiz)", "فَوْزِي (Fauzi)", "عِرْفَان (Irfan)"],
+      "answer": 1
+    },
+    {
+      "q": "Bagaimana cara tanya 'Siapa kamu?' dalam Bahasa Arab?",
+      "options": ["مَا اِسْمُكَ؟", "مَنْ أَنْتَ؟", "كَيْفَ حَالُكَ؟", "أَيْنَ أَنْتَ؟"],
+      "answer": 1
+    },
+    {
+      "q": "اِسْمُهَا نَجْوَى bermaksud...",
+      "options": ["Nama saya Najwa", "Nama awak Najwa", "Namanya (perempuan) Najwa", "Namanya (lelaki) Najwa"],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Salam & Kenalan", "colour": "#2196F3" },
+      { "id": "n2", "label": "تِلْمِيذ Murid ♂", "colour": "#1565C0" },
+      { "id": "n3", "label": "تِلْمِيذَة Murid ♀", "colour": "#42A5F5" },
+      { "id": "n4", "label": "مُعَلِّم Guru ♂", "colour": "#1565C0" },
+      { "id": "n5", "label": "صَدِيق Kawan ♂", "colour": "#42A5F5" },
+      { "id": "n6", "label": "Quran al-Hujurat 13", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "contoh" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "contoh" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "contoh" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "ada" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "dalil" }
+    ]
+  },
+  "vocab": [
+    { "word": "اِسْمِي", "meaning": "nama saya" },
+    { "word": "اِسْمُهُ", "meaning": "namanya (lelaki)" },
+    { "word": "اِسْمُهَا", "meaning": "namanya (perempuan)" },
+    { "word": "صَدِيقِي", "meaning": "kawan saya (lelaki)" },
+    { "word": "صَدِيقَتِي", "meaning": "kawan saya (perempuan)" },
+    { "word": "جَدِيد", "meaning": "baru" },
+    { "word": "مَنْ", "meaning": "siapa" }
+  ],
+  "funFact": "Perkataan 'أَهْلًا' (ahlan) yang bermaksud 'helo/selamat datang' berasal dari perkataan أَهْل yang bermaksud 'keluarga' — seolah-olah kita sambut tetamu seperti sambut ahli keluarga sendiri!"
+}

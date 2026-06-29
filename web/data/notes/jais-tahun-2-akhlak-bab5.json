@@ -1,0 +1,263 @@
+{
+  "id": "jais-tahun-2-akhlak-bab5",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "akhlak",
+  "chapter": 5,
+  "title": "Adab Belajar",
+  "emoji": "📚",
+  "colour": "#F57F17",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Kenapa Kita Perlu Beradab Ketika Belajar?",
+      "body": "Menuntut ilmu adalah kewajipan bagi setiap Muslim. Allah mengangkat darjat orang yang berilmu. Dengan beradab ketika belajar, ilmu yang kita pelajari akan menjadi berkat dan mudah diingati. Guru adalah orang yang sangat berjasa dalam hidup kita, maka kita wajib menghormatinya."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🤲",
+          "title": "Adab Ketika Belajar",
+          "body": {
+            "type": "list",
+            "items": [
+              "Baca doa sebelum belajar",
+              "Memberi perhatian kepada guru ketika mengajar",
+              "Duduk dengan sopan",
+              "Tidak bermain-main ketika guru mengajar",
+              "Patuh dan taat arahan guru",
+              "Meminta izin guru sekiranya ada keperluan untuk keluar kelas"
+            ]
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "Faedah Beradab Ketika Belajar",
+          "body": {
+            "type": "list",
+            "items": [
+              "Membentuk peribadi dan akhlak yang mulia",
+              "Memperoleh kebahagiaan di dunia dan akhirat",
+              "Ilmu yang dipelajari diberkati Allah",
+              "Mudah ingat dan memahami ajaran guru",
+              "Boleh mendapat ilmu daripada guru"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Akibat Tidak Beradab Ketika Belajar",
+          "body": {
+            "type": "list",
+            "items": [
+              "Tidak disukai kawan",
+              "Tidak disenangi guru",
+              "Susah untuk memahami pelajaran",
+              "Ilmu tidak diberkati Allah"
+            ]
+          }
+        },
+        {
+          "icon": "📜",
+          "title": "Kata-kata Imam al-Syafi'i",
+          "body": {
+            "type": "arabic",
+            "instruction": "Imam al-Syafi'i berkata:",
+            "arabic": "مَنْ أَرَادَ الدُّنْيَا فَعَلَيْهِ بِالْعِلْمِ وَمَنْ أَرَادَ الْآخِرَةَ فَعَلَيْهِ بِالْعِلْمِ وَمَنْ أَرَادَهُمَا فَعَلَيْهِ بِالْعِلْمِ",
+            "translation": "Sesiapa yang menghendaki dunia, dia perlukan ilmu. Sesiapa yang menghendaki akhirat, dia perlukan ilmu. Sesiapa yang menghendaki keduanya, dia juga perlukan ilmu."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🤲",
+      "text": {
+        "type": "arabic",
+        "instruction": "Doa Sebelum Belajar",
+        "arabic": "رَبِّ زِدْنِي عِلْمًا وَارْزُقْنِي فَهْمًا",
+        "translation": "Wahai Tuhanku, tambahkanlah ilmuku dan kurniakanlah aku kefahaman.' Bacalah doa ini setiap kali sebelum belajar supaya ilmu kita diberkati Allah."
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Adab-adab Semasa Belajar",
+      "items": [
+        "Berwudhu dan berpakaian bersih sebelum belajar",
+        "Niatkan belajar kerana Allah semata-mata",
+        "Baca doa sebelum memulakan pelajaran",
+        "Duduk dengan sopan dan tenang menghadap guru",
+        "Beri tumpuan sepenuhnya ketika guru mengajar",
+        "Jangan bercakap ketika guru sedang mengajar",
+        "Minta izin jika perlu keluar dari kelas"
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Rasulullah ﷺ bersabda daripada Abu al-Darda':",
+        "arabic": "إِنَّ الْعُلَمَاءَ وَرَثَةُ الْأَنْبِيَاءِ",
+        "translation": "Sesungguhnya ulama adalah pewaris para nabi.",
+        "source": "Riwayat Abu Dawud dan Tirmidzi",
+        "outro": "Belajarlah dengan bersungguh-sungguh — ilmu membawa kita menjadi insan yang berguna di dunia dan di akhirat!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Faedah Beradab Ketika Belajar",
+      "items": [
+        "Ilmu yang dipelajari menjadi berkat dan berguna",
+        "Mudah mengingati dan memahami pelajaran",
+        "Mendapat pertolongan daripada Allah",
+        "Disayangi oleh guru dan rakan-rakan",
+        "Membentuk peribadi yang mulia di dunia dan akhirat"
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Akibat Tidak Beradab Ketika Belajar",
+      "items": [
+        "Tidak disukai oleh guru dan rakan-rakan",
+        "Ilmu tidak diberkati Allah",
+        "Susah untuk memahami pelajaran",
+        "Tidak disayangi guru",
+        "Akan menyesal di kemudian hari kerana tidak belajar dengan bersungguh-sungguh"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah doa yang dibaca sebelum belajar?",
+      "options": [
+        "Rabbi zidni 'ilman warzuqni fahman",
+        "Bismillahir rahmanir rahim",
+        "Alhamdulillahi rabbil 'alamin",
+        "Subhanallah wa bihamdih"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Mengapa kita perlu menghormati guru?",
+      "options": [
+        "Kerana guru ada kereta besar",
+        "Kerana guru orang yang berjasa mengajarkan ilmu kepada kita",
+        "Kerana guru memberi hadiah",
+        "Kerana guru menjaga keselamatan kita"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang perlu kita lakukan jika tidak faham tentang sesuatu pelajaran?",
+      "options": [
+        "Diam sahaja dan tidak buat apa",
+        "Tanya kawan semasa guru mengajar",
+        "Minta izin lalu bertanya kepada guru dengan sopan",
+        "Tinggalkan kelas"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Siapakah yang dikatakan sebagai pewaris para nabi?",
+      "options": [
+        "Pelajar",
+        "Ibu bapa",
+        "Ulama",
+        "Raja"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Adab Belajar",
+        "colour": "#F57F17"
+      },
+      {
+        "id": "n2",
+        "label": "Sebelum Belajar",
+        "colour": "#E65100"
+      },
+      {
+        "id": "n3",
+        "label": "Semasa Belajar",
+        "colour": "#FFE0B2"
+      },
+      {
+        "id": "n4",
+        "label": "Baca Doa",
+        "colour": "#E65100"
+      },
+      {
+        "id": "n5",
+        "label": "Hormati Guru",
+        "colour": "#FFE0B2"
+      },
+      {
+        "id": "n6",
+        "label": "Kata-kata Imam Syafii",
+        "colour": "#BF360C"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "ada"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "ada"
+      },
+      {
+        "id": "e3",
+        "source": "n2",
+        "target": "n4",
+        "label": "termasuk"
+      },
+      {
+        "id": "e4",
+        "source": "n3",
+        "target": "n5",
+        "label": "termasuk"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n6",
+        "label": "berdasarkan"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "tumpuan",
+      "meaning": "memberikan perhatian sepenuhnya kepada sesuatu tanpa terganggu"
+    },
+    {
+      "word": "niat",
+      "meaning": "tujuan atau hasrat di dalam hati sebelum melakukan sesuatu amalan"
+    },
+    {
+      "word": "berkat",
+      "meaning": "kebaikan yang Allah tambahkan dalam sesuatu perkara yang kita lakukan"
+    },
+    {
+      "word": "ulama",
+      "meaning": "orang yang berilmu agama yang tinggi dan menjadi pewaris nabi"
+    },
+    {
+      "word": "sia-sia",
+      "meaning": "perkara yang tidak memberi manfaat atau kebaikan"
+    }
+  ],
+  "funFact": "Tahukah kamu? Rasulullah ﷺ bersabda bahawa ulama adalah pewaris para nabi (Riwayat Abu Dawud & Tirmizi). Maka belajarlah dengan bersungguh-sungguh supaya kita boleh menjadi orang yang berilmu dan berguna kepada agama, keluarga dan negara!"
+}

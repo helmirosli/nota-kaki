@@ -1,0 +1,229 @@
+{
+  "id": "jais-tahun-2-hafazan-bab3",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "hafazan",
+  "chapter": 3,
+  "title": "Surah al-Humazah — Bahaya Suka Mengumpat",
+  "emoji": "⚠️",
+  "colour": "#E91E63",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Surah al-Humazah — Amaran Keras bagi Pengumpat ⚠️",
+      "body": "Surah al-Humazah adalah surah ke-104. Ia memberikan amaran keras kepada orang yang suka MENGUMPAT orang lain, MENGEJEK, dan BANGGA dengan hartanya. Ini surah yang sangat relevan untuk kita semua!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Teks Surah al-Humazah (Arab)",
+          "body": {
+            "type": "arabic",
+            "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ ۝ وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ ۝ الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ ۝ يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ ۝ كَلَّا ۚ لَيُنبَذَنَّ فِي الْحُطَمَةِ ۝ وَمَا أَدْرَاكَ مَا الْحُطَمَةُ ۝ نَارُ اللهِ الْمُوقَدَةُ ۝ الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ ۝ إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ ۝ فِي عَمَدٍ مُّمَدَّدَةٍ ۝"
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Terjemahan Ringkas",
+          "body": {
+            "type": "list",
+            "items": [
+              "Kecelakaan bagi setiap orang pengumpat lagi pencela!",
+              "Yang mengumpulkan harta dan menghitung-hitungnya",
+              "Dia menyangka hartanya itu mengekalkannya!",
+              "Tidak! Dia pasti dilemparkan ke dalam Hutamah. (5-6) Tahukah kamu apa Hutamah? Api Allah yang dinyalakan. (7-9) Yang membakar hingga ke dalam hati — api ditutup rapat atas mereka dalam tiang-tiang yang panjang"
+            ]
+          }
+        },
+        {
+          "icon": "🚫",
+          "title": "Dua Dosa Besar dalam Surah Ini",
+          "body": {
+            "type": "arabic",
+            "instruction": "Dua dosa yang diterangkan dalam surah ini:",
+            "arabic": "هُمَزَةٍ لُّمَزَةٍ",
+            "translation": "Pengumpat lagi pencela.",
+            "source": "Surah al-Humazah: 1",
+            "outro": "Humazah = mengumpat (mengata orang di belakang). Lumazah = mencela/mengejek secara langsung. BAHAYA: Mengumpat = makan daging saudara sendiri yang sudah mati! (Surah al-Hujurat:12). Mengumpat orang yang solat & berpuasa boleh batalkan pahala kita!"
+          }
+        },
+        {
+          "icon": "💰",
+          "title": "Bahaya Sombong dengan Harta",
+          "body": {
+            "type": "arabic",
+            "instruction": "Allah cerita tentang orang yang sangat cintakan harta:",
+            "arabic": "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ ۝ يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ",
+            "translation": "Yang mengumpulkan harta dan menghitung-hitungnya. Dia menyangka hartanya itu mengekalkannya!",
+            "source": "Surah al-Humazah: 2-3",
+            "outro": "Ingat: Harta dunia adalah PINJAMAN dari Allah. Kita mati, harta tinggal. Guna harta untuk sedekah — itulah yang kekal sampai akhirat!"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadis Nabi ﷺ:",
+        "arabic": "الْغِيبَةُ أَشَدُّ مِنَ الزِّنَا",
+        "translation": "Mengumpat itu lebih teruk dari zina!",
+        "source": "Riwayat al-Baihaqi",
+        "outro": "Sahabat bertanya: 'Ya Rasulullah, bagaimana boleh?' Nabi ﷺ jelaskan: Orang yang berzina boleh bertaubat dan Allah ampunkan. Tapi orang yang diumpat tidak akan mengampunkan kecuali dia sendiri memaafkan. Jaga lidah kita!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Elak Jadi Pengumpat 🛡️",
+      "items": [
+        "Sebelum bercakap tentang orang lain — tanya: 'Adakah ini benar? Adakah perlu? Adakah baik?'",
+        "Kalau kawan mengumpat — diam atau tukar topik atau tegur dengan baik",
+        "Ingat: Kata-kata kita dicatat malaikat Raqib dan Atid — setiap patah kata ada rekod!",
+        "Ganti mengumpat dengan zikir — lebih berbaloi dan tambah pahala",
+        "Baca Surah al-Humazah sebagai peringatan diri — jangan jadi orang yang diceritakan dalam surah ini!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Surah al-Humazah ada berapa ayat?",
+      "options": [
+        "7 ayat",
+        "8 ayat",
+        "9 ayat",
+        "10 ayat"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "هُمَزَة bermaksud...",
+      "options": [
+        "Pencela/pengejek",
+        "Pengumpat (mengata di belakang)",
+        "Orang kikir",
+        "Orang sombong"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "الْحُطَمَة merujuk kepada...",
+      "options": [
+        "Syurga yang indah",
+        "Api neraka Allah yang menyala",
+        "Tempat penyiksaan biasa",
+        "Gua dalam bumi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Orang yang dikecam dalam Surah al-Humazah adalah orang yang MENYANGKA...",
+      "options": [
+        "Dia paling soleh",
+        "Hartanya akan mengekalkannya hidup",
+        "Dia paling kuat",
+        "Dia tidak perlu solat"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Surah al-Humazah",
+        "colour": "#E91E63"
+      },
+      {
+        "id": "n2",
+        "label": "هُمَزَة Mengumpat",
+        "colour": "#880E4F"
+      },
+      {
+        "id": "n3",
+        "label": "لُمَزَة Mencela",
+        "colour": "#F48FB1"
+      },
+      {
+        "id": "n4",
+        "label": "Sombong Harta",
+        "colour": "#880E4F"
+      },
+      {
+        "id": "n5",
+        "label": "الْحُطَمَة Neraka",
+        "colour": "#F48FB1"
+      },
+      {
+        "id": "n6",
+        "label": "Amaran Allah",
+        "colour": "#AD1457"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "cela"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "cela"
+      },
+      {
+        "id": "e3",
+        "source": "n1",
+        "target": "n4",
+        "label": "cela"
+      },
+      {
+        "id": "e4",
+        "source": "n2",
+        "target": "n5",
+        "label": "akibat"
+      },
+      {
+        "id": "e5",
+        "source": "n6",
+        "target": "n1",
+        "label": "isi"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "هُمَزَة",
+      "meaning": "pengumpat — yang mengata orang di belakang"
+    },
+    {
+      "word": "لُمَزَة",
+      "meaning": "pencela — yang mengejek secara langsung"
+    },
+    {
+      "word": "الْحُطَمَة",
+      "meaning": "Hutamah — nama neraka yang menghancurkan"
+    },
+    {
+      "word": "وَيْل",
+      "meaning": "kecelakaan/azab — kata amaran keras"
+    },
+    {
+      "word": "أَفْئِدَة",
+      "meaning": "hati-hati (jamak dari fu'ad)"
+    }
+  ],
+  "funFact": {
+    "type": "arabic",
+    "instruction": "Nama neraka dalam surah ini adalah al-Hutamah — dari akar kata 'menghancurkan hingga lumat'. Ia menghancurkan DARI DALAM, bermula dari hati!",
+    "arabic": "نَارُ اللهِ الْمُوقَدَةُ ۝ الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ",
+    "translation": "Api Allah yang dinyalakan — yang membakar hingga ke dalam hati.",
+    "source": "Surah al-Humazah: 6-7",
+    "outro": "Orang yang suka mengumpat dan mencela — hatinya akan dihancurkan dahulu di akhirat, sebab dari hatilah datangnya keinginan mengumpat. Jaga hati, jaga lidah!"
+  }
+}

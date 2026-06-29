@@ -1,0 +1,238 @@
+{
+  "id": "jais-tahun-1-jawi-bab4",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "jawi",
+  "chapter": 4,
+  "title": "Konsonan Bahagian 1 — Padanan Rumi-Jawi",
+  "emoji": "🔡",
+  "colour": "#FF9800",
+  "estimatedMinutes": 14,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Belajar Padanan Konsonan Rumi dan Jawi",
+      "body": "Setiap huruf konsonan dalam tulisan Rumi mempunyai padanannya dalam tulisan Jawi. Mari kita belajar bagaimana konsonan b, t, j, c, ng, d, r, s, l, m, dan n ditulis dalam Jawi. Senang je kalau kita hafal satu-satu!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🔤",
+          "title": "Konsonan Kumpulan Pertama",
+          "body": {
+            "type": "list",
+            "intro": "Padanan konsonan Kumpulan Pertama:",
+            "items": [
+              "b = ب (ba)",
+              "t = ت (ta)",
+              "j = ج (jim)",
+              "c = چ (ca)",
+              "ng = غ (nga)"
+            ],
+            "outro": "Contoh: جال (jala) • ليماو (limau) • مادو (madu)"
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Konsonan Kumpulan Kedua",
+          "body": {
+            "type": "list",
+            "intro": "Padanan konsonan Kumpulan Kedua:",
+            "items": [
+              "d = د (dal)",
+              "r = ر (ro)",
+              "s = س (sin) atau ص (sod)",
+              "l = ل (lam)",
+              "m = م (mim)",
+              "n = ن (nun)"
+            ],
+            "outro": "Contoh: ناسي (nasi) • ڤادي (padi) • روتي (roti)"
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Huruf 's' Ada Dua Padanan!",
+          "body": {
+            "type": "list",
+            "intro": "Konsonan 's' boleh ditulis dengan dua cara dalam Jawi:",
+            "items": [
+              "س (sin) — untuk kata Melayu biasa. Contoh: ساتو (satu), سيني (sini)",
+              "ص (sod) — untuk kata dari bahasa Arab. Contoh: صلاة (solat), صبر (sabar)"
+            ],
+            "outro": "Perlu hafal setiap perkataan kerana tiada peraturan tetap!"
+          }
+        },
+        {
+          "icon": "🏋️",
+          "title": "Latihan Kata-Kata",
+          "body": {
+            "type": "list",
+            "intro": "Cuba baca dan tulis perkataan-perkataan ini:",
+            "items": [
+              "سوتوغ — sotong",
+              "جوغكوغ — jongkong",
+              "چوندوغ — condong",
+              "دودوق — duduk",
+              "كبون — kebun",
+              "بوندا — bonda"
+            ],
+            "outro": "Perhatikan: ng = غ dan c = چ"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": "Tip: Huruf Jawi 'ng' ditulis sebagai غ (nga) — satu huruf untuk dua huruf Rumi! Begitu juga 'ny' hanya satu huruf Jawi. Ini menjadikan tulisan Jawi lebih ringkas."
+    },
+    {
+      "type": "steps",
+      "heading": "Padanan Konsonan Rumi-Jawi yang Wajib Hafal",
+      "items": [
+        "b = ب | t = ت | j = ج | c = چ | ng = غ",
+        "d = د | r = ر | s = س (biasa) atau ص (dari Arab)",
+        "l = ل | m = م | n = ن",
+        {
+          "type": "arabic",
+          "instruction": "Contoh perkataan menggunakan konsonan yang dipelajari:",
+          "arabic": "جال • ليماو • ناسي • بوندا",
+          "translation": "jala • limau • nasi • bonda"
+        },
+        "Latihan: Tukar nama kamu sendiri ke dalam tulisan Jawi!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Konsonan 'ng' dalam tulisan Jawi ditulis sebagai huruf apakah?",
+      "options": [
+        "ن (nun)",
+        "غ (nga)",
+        "ك (kaf)",
+        "غ (ghain)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan 'limau' dalam tulisan Jawi ialah...",
+      "options": [
+        "ليماو",
+        "لاماو",
+        "لايماو",
+        "لميو"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Huruf konsonan Rumi manakah yang mempunyai DUA padanan dalam tulisan Jawi?",
+      "options": [
+        "b",
+        "m",
+        "s",
+        "n"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Perkataan 'nasi' dalam tulisan Jawi ialah...",
+      "options": [
+        "ناسو",
+        "ناسي",
+        "نيسي",
+        "نسي"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Konsonan Rumi-Jawi",
+        "colour": "#FF9800"
+      },
+      {
+        "id": "n2",
+        "label": "b=ب t=ت j=ج c=چ",
+        "colour": "#E65100"
+      },
+      {
+        "id": "n3",
+        "label": "ng=غ d=د r=ر",
+        "colour": "#E65100"
+      },
+      {
+        "id": "n4",
+        "label": "s=س/ص l=ل m=م n=ن",
+        "colour": "#FFE0B2"
+      },
+      {
+        "id": "n5",
+        "label": "Contoh: جال، ليماو",
+        "colour": "#E65100"
+      },
+      {
+        "id": "n6",
+        "label": "s ada 2 padanan!",
+        "colour": "#BF360C"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "kumpulan 1"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "kumpulan 2"
+      },
+      {
+        "id": "e3",
+        "source": "n1",
+        "target": "n4",
+        "label": "kumpulan 3"
+      },
+      {
+        "id": "e4",
+        "source": "n2",
+        "target": "n5",
+        "label": "contoh"
+      },
+      {
+        "id": "e5",
+        "source": "n4",
+        "target": "n6",
+        "label": "perhatian"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "konsonan",
+      "meaning": "huruf bukan vokal — bunyi yang disekat di bahagian mulut"
+    },
+    {
+      "word": "padanan",
+      "meaning": "pasangan yang bersesuaian antara dua sistem tulisan"
+    },
+    {
+      "word": "Rumi",
+      "meaning": "sistem tulisan menggunakan huruf Latin (a-b-c)"
+    },
+    {
+      "word": "jala",
+      "meaning": "alat menangkap ikan yang berbentuk jaring bulat"
+    },
+    {
+      "word": "sotong",
+      "meaning": "haiwan laut yang mempunyai tentakel, sejenis cephalopod"
+    }
+  ],
+  "funFact": "Dalam tulisan Jawi, dua huruf Rumi 'ng' hanya diwakili SATU huruf Jawi iaitu غ (nga)! Jadi perkataan 'singa' yang ada 5 huruf Rumi hanya ada 4 huruf Jawi: سيغا. Tulisan Jawi lebih jimat!"
+}

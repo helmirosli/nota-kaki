@@ -1,0 +1,187 @@
+{
+  "id": "jais-tahun-1-bahasa-arab-bab3",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "bahasa-arab",
+  "chapter": 3,
+  "title": "Sekolah Saya",
+  "emoji": "🏫",
+  "colour": "#2196F3",
+  "estimatedMinutes": 14,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Kemahiran Pelajaran Ini 📚",
+      "body": "Selepas belajar Dars ini, kamu boleh: MENDENGAR teks dan nombor tentang keadaan sekolah, MENYEBUT nama isyarat dekat dan jauh dengan betul, MEMBACA teks tentang sekolahku, MENULIS kosa kata berkaitan sekolah, dan MEMPRAKTIKKAN dialog tentang sekolah!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Teks Utama — Sekolahku",
+          "body": {
+            "type": "list",
+            "intro": "Ayat tentang sekolah (baca dan hafal):",
+            "items": [
+              "هَذِهِ مَدْرَسَتِي — Ini sekolahku",
+              "مَدْرَسَتِي كَبِيرَةٌ وَجَمِيلَةٌ — Sekolahku besar dan cantik",
+              "أَذْهَبُ إِلَى الْمَدْرَسَةِ كُلَّ يَوْمٍ — Saya pergi ke sekolah setiap hari",
+              "أُحِبُّ مَدْرَسَتِي — Saya suka sekolahku"
+            ]
+          }
+        },
+        {
+          "icon": "👥",
+          "title": "Siapa Di Sekolah?",
+          "body": {
+            "type": "list",
+            "intro": "Orang-orang di sekolah (isyarat dekat هَذَا/هَذِهِ):",
+            "items": [
+              "هَذِهِ مَدْرَسَةٌ — Ini sekolah",
+              "هَذَا مُدِيرٌ — Ini pengetua (lelaki)",
+              "هَذِهِ مُعَلِّمَةٌ — Ini guru (perempuan)",
+              "هَذَا مُعَلِّمٌ — Ini guru (lelaki)",
+              "هَذِهِ تِلْمِيذَةٌ — Ini murid (perempuan)",
+              "هَذَا تِلْمِيذٌ — Ini murid (lelaki)"
+            ]
+          }
+        },
+        {
+          "icon": "👈",
+          "title": "Dekat vs Jauh — هَذَا/هَذِهِ dan ذَلِكَ/تِلْكَ",
+          "body": {
+            "type": "list",
+            "intro": "Isyarat dekat (ini) dan jauh (itu):",
+            "items": [
+              "هَذَا مُدِيرٌ — Ini pengetua (dekat, lelaki)",
+              "ذَلِكَ تِلْمِيذٌ — Itu murid (jauh, lelaki)",
+              "هَذِهِ مُعَلِّمَةٌ — Ini guru (dekat, perempuan)",
+              "تِلْكَ تِلْمِيذَةٌ — Itu murid (jauh, perempuan)"
+            ],
+            "outro": "هَذَا/هَذِهِ = ini (dekat) • ذَلِكَ/تِلْكَ = itu (jauh)"
+          }
+        },
+        {
+          "icon": "🔢",
+          "title": "Nombor Arab 6 hingga 10",
+          "body": {
+            "type": "list",
+            "intro": "Sambung hafal nombor 6-10:",
+            "items": [
+              "٦ — سِتَّةٌ (enam)",
+              "٧ — سَبْعَةٌ (tujuh)",
+              "٨ — ثَمَانِيَةٌ (lapan)",
+              "٩ — تِسْعَةٌ (sembilan)",
+              "١٠ — عَشَرَةٌ (sepuluh)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah SWT berfirman:",
+        "arabic": "قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ",
+        "translation": "Katakanlah: Adakah sama orang yang mengetahui dengan orang yang tidak mengetahui?",
+        "source": "Surah al-Zumar: 9",
+        "outro": "Pergi ke sekolah setiap hari untuk menuntut ilmu — orang berilmu TIDAK sama dengan orang yang tidak berilmu!",
+        "more": [
+          {
+            "instruction": "Ayat Latihan — Jaga Alat Pelajaran:",
+            "arabic": "اِحْفَظْ عَلَى الْأَدَوَاتِ الدِّرَاسِيَّة",
+            "translation": "Jagalah alat-alat pelajaranmu"
+          },
+          {
+            "instruction": "Ayat Latihan — Kebersihan Sekolah:",
+            "arabic": "اِحْفَظْ عَلَى نَظَافَةِ الْمَدْرَسَة",
+            "translation": "Jagalah kebersihan sekolah"
+          }
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Dialog — Tentang Sekolahku 🗣️",
+      "items": [
+        {
+          "type": "arabic",
+          "instruction": "Soal 1 — Tanya tentang sekolah:",
+          "arabic": "هَلْ هَذِهِ مَدْرَسَتُكَ؟ ← نَعَمْ، هَذِهِ مَدْرَسَتِي",
+          "translation": "Adakah ini sekolahmu? ← Ya, ini sekolahku"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Soal 2 — Tanya tentang keadaan sekolah:",
+          "arabic": "هَلْ مَدْرَسَتُكَ كَبِيرَةٌ وَجَمِيلَةٌ؟ ← نَعَمْ، مَدْرَسَتِي كَبِيرَةٌ وَجَمِيلَةٌ",
+          "translation": "Adakah sekolahmu besar dan cantik? ← Ya, sekolahku besar dan cantik"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Soal 3 — Tanya masa pergi sekolah:",
+          "arabic": "مَتَى تَذْهَبُ إِلَى مَدْرَسَتِكَ؟ ← أَذْهَبُ إِلَى مَدْرَسَتِي كُلَّ يَوْمٍ",
+          "translation": "Bila kamu pergi ke sekolahmu? ← Saya pergi ke sekolahku setiap hari"
+        },
+        {
+          "type": "arabic",
+          "instruction": "Soal 4 — Tanya sama ada suka sekolah:",
+          "arabic": "هَلْ تُحِبُّ مَدْرَسَتَكَ؟ ← نَعَمْ، أُحِبُّ مَدْرَسَتِي",
+          "translation": "Adakah kamu suka sekolahmu? ← Ya, saya suka sekolahku"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apa maksud هَذِهِ مَدْرَسَتِي؟",
+      "options": ["Ini sekolahku", "Itu sekolahku", "Ini guruku", "Saya pergi ke sekolah"],
+      "answer": 0
+    },
+    {
+      "q": "Isyarat jauh untuk benda perempuan dalam Bahasa Arab ialah...",
+      "options": ["هَذَا", "هَذِهِ", "ذَلِكَ", "تِلْكَ"],
+      "answer": 3
+    },
+    {
+      "q": "Apakah Bahasa Arab bagi perkataan 'pengetua'?",
+      "options": ["مُعَلِّم", "مُدِير", "تِلْمِيذ", "طَبِيب"],
+      "answer": 1
+    },
+    {
+      "q": "Nombor Arab bagi 'lapan' ialah...",
+      "options": ["سِتَّة", "سَبْعَة", "ثَمَانِيَة", "تِسْعَة"],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "مَدْرَسَتِي", "colour": "#2196F3" },
+      { "id": "n2", "label": "مُدِير (Pengetua)", "colour": "#1565C0" },
+      { "id": "n3", "label": "مُعَلِّم (Guru)", "colour": "#42A5F5" },
+      { "id": "n4", "label": "تِلْمِيذ (Murid)", "colour": "#1565C0" },
+      { "id": "n5", "label": "هَذَا/هَذِهِ (Ini)", "colour": "#42A5F5" },
+      { "id": "n6", "label": "ذَلِكَ/تِلْكَ (Itu)", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "ada" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "ada" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "ada" },
+      { "id": "e4", "source": "n5", "target": "n2", "label": "dekat" },
+      { "id": "e5", "source": "n6", "target": "n4", "label": "jauh" }
+    ]
+  },
+  "vocab": [
+    { "word": "مَدْرَسَة", "meaning": "sekolah" },
+    { "word": "مُدِير", "meaning": "pengetua / pengarah" },
+    { "word": "مُعَلِّم", "meaning": "guru (lelaki)" },
+    { "word": "مُعَلِّمَة", "meaning": "guru (perempuan)" },
+    { "word": "هَذَا / هَذِهِ", "meaning": "ini (dekat) — lelaki / perempuan" },
+    { "word": "ذَلِكَ / تِلْكَ", "meaning": "itu (jauh) — lelaki / perempuan" },
+    { "word": "كَبِيرَة", "meaning": "besar" },
+    { "word": "جَمِيلَة", "meaning": "cantik / indah" }
+  ],
+  "funFact": "Dalam Bahasa Arab, semua benda ada 'jantina' — lelaki (مُذَكَّر) atau perempuan (مُؤَنَّث)! Perkataan perempuan biasanya berakhir dengan ة (ta marbutah). Sebab itulah kita kata هَذَا مُدِير (ini pengetua lelaki) tapi هَذِهِ مُعَلِّمَة (ini guru perempuan)."
+}

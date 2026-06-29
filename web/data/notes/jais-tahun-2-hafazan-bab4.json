@@ -1,0 +1,230 @@
+{
+  "id": "jais-tahun-2-hafazan-bab4",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "hafazan",
+  "chapter": 4,
+  "title": "Surah al-Takathur — Jangan Leka dengan Dunia",
+  "emoji": "💰",
+  "colour": "#E91E63",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Surah al-Takathur — Amaran Leka dengan Dunia 💰",
+      "body": "Surah al-Takathur adalah surah ke-102. Ia memberi amaran keras tentang bahaya SALING BERLUMBA-LUMBA mengumpul harta dunia sehingga melupakan akhirat. Surah ini relevan sangat untuk zaman kini — zaman orang berlumba beli kereta besar, rumah mewah, dan gadget terbaru!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Teks Surah al-Takathur (Arab)",
+          "body": {
+            "type": "arabic",
+            "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ ۝ أَلْهَاكُمُ التَّكَاثُرُ ۝ حَتَّىٰ زُرْتُمُ الْمَقَابِرَ ۝ كَلَّا سَوْفَ تَعْلَمُونَ ۝ ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ ۝ كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ ۝ لَتَرَوُنَّ الْجَحِيمَ ۝ ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ ۝ ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ ۝"
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Terjemahan",
+          "body": {
+            "type": "list",
+            "items": [
+              "(1) Kamu telah dilalaikan oleh perlumbaan mengumpul kekayaan",
+              "(2) Sehingga kamu masuk ke dalam kubur",
+              "(3-4) Tidak! Kamu akan tahu akibatnya. Kemudian kamu akan tahu lagi!",
+              "(5) Tidak! Seandainya kamu tahu dengan ilmu yakin...",
+              "(6-7) Nescaya kamu akan melihat neraka Jahim — dan kamu akan melihatnya dengan mata kepala sendiri!",
+              "(8) Kemudian pada hari itu kamu akan ditanya tentang nikmat-nikmat yang kamu nikmati!"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Makna التَّكَاثُر (Takathur)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat pertama Surah al-Takathur:",
+            "arabic": "أَلْهَاكُمُ التَّكَاثُرُ",
+            "translation": "Kamu telah dilalaikan oleh perlumbaan mengumpul kekayaan.",
+            "source": "Surah al-Takathur: 1",
+            "outro": "Takathur = berlumba-lumba mengumpul harta/kemewahan. Alhakum = melalaikan kamu. Manusia terlalu sibuk berlumba siapa ada lebih banyak wang, kereta, rumah — sehingga LUPA akhirat! Sampai masuk kubur pun masih tidak sedar!"
+          }
+        },
+        {
+          "icon": "❓",
+          "title": "Soalan Besar di Akhirat",
+          "body": {
+            "type": "arabic",
+            "instruction": "Soalan besar yang Allah akan tanya pada Hari Kiamat — ayat terakhir surah:",
+            "arabic": "ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ",
+            "translation": "Kemudian pada hari itu kamu akan ditanya tentang nikmat-nikmat (yang kamu nikmati)!",
+            "source": "Surah al-Takathur: 8",
+            "outro": "Semua nikmat — sihat, masa, rezeki, keluarga — akan ditanya bagaimana kita gunakannya. Bersyukur dan guna nikmat untuk ibadah!"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadis Nabi ﷺ:",
+        "arabic": "لَوْ كَانَ لِابْنِ آدَمَ وَادِيَانِ مِنْ ذَهَبٍ لَابْتَغَى ثَالِثًا وَلَا يَمْلَأُ جَوْفَهُ إِلَّا التُّرَابُ",
+        "translation": "Seandainya anak Adam ada dua lembah emas, dia akan mencari lembah ketiga. Dan tidak ada yang boleh memenuhi perut anak Adam kecuali tanah (kubur).",
+        "source": "Riwayat Bukhari",
+        "outro": "Nafsu manusia tidak pernah puas! Surah al-Takathur peringatkan kita tentang bahaya ini."
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Elak Jadi Orang yang Dilalaikan Dunia 🌍",
+      "items": [
+        "Ingat: Harta dunia adalah AMANAH bukan MILIK — kita akan ditanya cara guna",
+        "Belanja harta di jalan Allah: sedekah, infaq, bantu orang susah",
+        "Jangan bandingkan diri dengan orang kaya — bandingkan dengan yang kurang dari kita",
+        "Setiap nikmat: Kesihatan, masa lapang, rezeki — bersyukur dan gunakan untuk ibadah",
+        "Selalu ingat mati — ia datang bila-bila masa, siap-siap dengan amal soleh!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Surah al-Takathur ada berapa ayat?",
+      "options": [
+        "6 ayat",
+        "7 ayat",
+        "8 ayat",
+        "9 ayat"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "التَّكَاثُر bermaksud...",
+      "options": [
+        "Bersyukur atas nikmat",
+        "Berlumba-lumba mengumpul kekayaan",
+        "Mengingati kematian",
+        "Beramal soleh"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Soalan apa yang akan ditanya kepada manusia pada Hari Kiamat menurut Surah al-Takathur?",
+      "options": [
+        "Tentang solat",
+        "Tentang nikmat yang dinikmati",
+        "Tentang puasa",
+        "Tentang zakat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "حَتَّىٰ زُرْتُمُ الْمَقَابِرَ bermaksud...",
+      "options": [
+        "Hingga kamu kaya raya",
+        "Hingga kamu masuk ke kubur",
+        "Hingga kamu ke syurga",
+        "Hingga kamu jumpa Allah"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Surah al-Takathur",
+        "colour": "#E91E63"
+      },
+      {
+        "id": "n2",
+        "label": "التَّكَاثُر Berlumba",
+        "colour": "#880E4F"
+      },
+      {
+        "id": "n3",
+        "label": "Leka Dunia",
+        "colour": "#F48FB1"
+      },
+      {
+        "id": "n4",
+        "label": "Tanya tentang Nikmat",
+        "colour": "#880E4F"
+      },
+      {
+        "id": "n5",
+        "label": "Neraka Jahim",
+        "colour": "#F48FB1"
+      },
+      {
+        "id": "n6",
+        "label": "Amaran Akhirat",
+        "colour": "#AD1457"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "tentang"
+      },
+      {
+        "id": "e2",
+        "source": "n2",
+        "target": "n3",
+        "label": "menyebabkan"
+      },
+      {
+        "id": "e3",
+        "source": "n1",
+        "target": "n4",
+        "label": "ayat akhir"
+      },
+      {
+        "id": "e4",
+        "source": "n3",
+        "target": "n5",
+        "label": "akibat"
+      },
+      {
+        "id": "e5",
+        "source": "n6",
+        "target": "n1",
+        "label": "isi"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "تَكَاثُر",
+      "meaning": "berlumba-lumba mengumpul lebih banyak"
+    },
+    {
+      "word": "أَلْهَى",
+      "meaning": "melalaikan / menyibukkan hingga lupa"
+    },
+    {
+      "word": "مَقَابِر",
+      "meaning": "kubur-kubur (jamak dari مَقْبَرَة)"
+    },
+    {
+      "word": "الْجَحِيم",
+      "meaning": "Jahim — salah satu nama neraka"
+    },
+    {
+      "word": "نَعِيم",
+      "meaning": "nikmat — kesenangan yang diberikan Allah"
+    }
+  ],
+  "funFact": {
+    "type": "arabic",
+    "instruction": "Surah al-Takathur hanya 8 ayat tapi ada 3 peringatan keras berturut-turut! Perkataan ini diulang 3 kali:",
+    "arabic": "كَلَّا",
+    "translation": "Tidak! Jangan! (kata amaran yang sangat tegas)",
+    "outro": "Allah ulang amaran sebanyak 3 kali dalam surah yang pendek ini — menunjukkan betapa seriusnya bahaya melupakan akhirat kerana terlalu cintakan dunia. Dengar amaran Allah sebelum terlambat!"
+  }
+}

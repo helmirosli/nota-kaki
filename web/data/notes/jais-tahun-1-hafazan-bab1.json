@@ -1,0 +1,218 @@
+{
+  "id": "jais-tahun-1-hafazan-bab1",
+  "source": "jais",
+  "year": "tahun-1",
+  "subject": "hafazan",
+  "chapter": 1,
+  "title": "Surah al-Fatihah — Ibu al-Quran",
+  "emoji": "🌟",
+  "colour": "#E91E63",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Surah al-Fatihah — Surah Paling Istimewa 🌟",
+      "body": "Surah al-Fatihah adalah surah PERTAMA dalam al-Quran. Ia juga dipanggil 'Umm al-Kitab' (Ibu al-Quran) dan 'al-Sab' al-Mathani' (7 ayat yang diulang-ulang). Kita baca surah ini WAJIB dalam setiap rakaat solat!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Teks Surah al-Fatihah (Arab)",
+          "body": {
+            "type": "arabic",
+            "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ ۝ اَلْحَمْدُ للهِ رَبِّ الْعَالَمِيْنَ ۝ الرَّحْمَنِ الرَّحِيمِ ۝ مَالِكِ يَوْمِ الدِّينِ ۝ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ ۝ اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ۝ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّيْنَ ۝"
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Transliterasi Rumi (Cara Baca)",
+          "body": "Bismillahir-rahmanir-rahim. Alhamdulillahi rabbil-'alamin. Ar-rahmanir-rahim. Maliki yawmid-din. Iyyaka na'budu wa iyyaka nasta'in. Ihdinas-siratal-mustaqim. Siratal-lazina an'amta 'alayhim, ghayril-maghdubi 'alayhim wa lad-dallin."
+        },
+        {
+          "icon": "💬",
+          "title": "Terjemahan Bahasa Melayu",
+          "body": {
+            "type": "list",
+            "items": [
+              "Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang",
+              "Segala puji bagi Allah, Tuhan seluruh alam",
+              "Yang Maha Pemurah lagi Maha Penyayang",
+              "Yang menguasai hari pembalasan",
+              "Hanya kepada-Mu kami menyembah, dan hanya kepada-Mu kami memohon pertolongan",
+              "Tunjukilah kami jalan yang lurus",
+              "Jalan orang-orang yang Engkau kurniakan nikmat, bukan jalan yang dimurkai dan bukan jalan yang sesat"
+            ]
+          }
+        },
+        {
+          "icon": "⭐",
+          "title": "Kelebihan & Fadhilat Surah al-Fatihah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Hadis Nabi ﷺ:",
+            "arabic": "لَا صَلَاةَ لِمَنْ لَمْ يَقْرَأْ بِفَاتِحَةِ الْكِتَابِ",
+            "translation": "Tidak sah solat seseorang yang tidak membaca Surah al-Fatihah.",
+            "source": "Riwayat Bukhari & Muslim",
+            "outro": "Surah ini WAJIB dibaca dalam setiap rakaat solat — 17 kali sehari semalam! Ia juga boleh dijadikan doa dan penawar penyakit."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith Qudsi — Allah berfirman:",
+        "arabic": "قَسَمْتُ الصَّلَاةَ بَيْنِي وَبَيْنَ عَبْدِي نِصْفَيْنِ وَلِعَبْدِي مَا سَأَلَ",
+        "translation": "Aku bahagikan solat (al-Fatihah) antara diri-Ku dan hamba-Ku kepada dua bahagian, dan hamba-Ku mendapat apa yang dimintanya.",
+        "source": "Riwayat Muslim",
+        "outro": "Apabila hamba membaca 'Alhamdulillah...' Allah berfirman: 'Hamba-Ku telah memuji-Ku.' Apabila membaca 'Iyyaka na'budu...' Allah berfirman: 'Ini antara Aku dan hamba-Ku.'"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Tips Hafazan Surah al-Fatihah 📝",
+      "items": [
+        "Dengar bacaan guru/audio dengan teliti dahulu — faham sebutan setiap ayat",
+        "Baca ayat 1 banyak kali sehingga hafal, kemudian ayat 2, kemudian sambung",
+        "Ulang dari ayat 1 setiap kali tambah ayat baru (1→1+2→1+2+3...)",
+        "Fahami maksud setiap ayat — lebih mudah hafal bila tahu maknanya",
+        "Baca dalam setiap solat dengan penuh khusyu' — cara paling bagus untuk hafal!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Surah al-Fatihah ada berapa ayat?",
+      "options": [
+        "5 ayat",
+        "6 ayat",
+        "7 ayat",
+        "8 ayat"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Nama lain Surah al-Fatihah ialah...",
+      "options": [
+        "Surah al-Baqarah",
+        "Umm al-Kitab (Ibu al-Quran)",
+        "Surah al-Ikhlas",
+        "Surah al-Nas"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ bermaksud...",
+      "options": [
+        "Hanya kepada-Mu kami menyembah",
+        "Yang menguasai hari pembalasan",
+        "Tunjukilah kami jalan yang lurus",
+        "Segala puji bagi Allah"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kita baca Surah al-Fatihah berapa kali sehari dalam solat fardhu?",
+      "options": [
+        "5 kali",
+        "10 kali",
+        "17 kali",
+        "7 kali"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Surah al-Fatihah",
+        "colour": "#E91E63"
+      },
+      {
+        "id": "n2",
+        "label": "7 Ayat Mulia",
+        "colour": "#880E4F"
+      },
+      {
+        "id": "n3",
+        "label": "Umm al-Kitab",
+        "colour": "#F48FB1"
+      },
+      {
+        "id": "n4",
+        "label": "Wajib dalam Solat",
+        "colour": "#880E4F"
+      },
+      {
+        "id": "n5",
+        "label": "17× Sehari",
+        "colour": "#F48FB1"
+      },
+      {
+        "id": "n6",
+        "label": "Doa + Pujian",
+        "colour": "#AD1457"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n1",
+        "target": "n2",
+        "label": "mengandungi"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n3",
+        "label": "nama lain"
+      },
+      {
+        "id": "e3",
+        "source": "n1",
+        "target": "n4",
+        "label": "hukum"
+      },
+      {
+        "id": "e4",
+        "source": "n4",
+        "target": "n5",
+        "label": "berapa kali"
+      },
+      {
+        "id": "e5",
+        "source": "n1",
+        "target": "n6",
+        "label": "kandungan"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "اَلْحَمْدُ للهِ",
+      "meaning": "segala puji bagi Allah"
+    },
+    {
+      "word": "رَبِّ الْعَالَمِيْن",
+      "meaning": "Tuhan seluruh alam"
+    },
+    {
+      "word": "مَالِكِ يَوْمِ الدِّين",
+      "meaning": "yang menguasai hari pembalasan"
+    },
+    {
+      "word": "اِهْدِنَا",
+      "meaning": "tunjukilah kami"
+    },
+    {
+      "word": "الصِّرَاط الْمُسْتَقِيم",
+      "meaning": "jalan yang lurus"
+    }
+  ],
+  "funFact": "Surah al-Fatihah dibaca lebih banyak dari mana-mana surah lain di dunia — 17 kali sehari dalam solat fardhu × 1.8 bilion Muslim = lebih 30 BILION kali sehari di seluruh dunia! Bayangkan betapa banyak pujian kepada Allah setiap hari!"
+}

@@ -1,0 +1,230 @@
+{
+  "id": "jais-tahun-2-hafazan-bab2",
+  "source": "jais",
+  "year": "tahun-2",
+  "subject": "hafazan",
+  "chapter": 2,
+  "title": "Surah al-Fil — Kisah Tentera Bergajah",
+  "emoji": "🐘",
+  "colour": "#E91E63",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Surah al-Fil — Kisah Ajaib Kaabah Dilindungi 🐘",
+      "body": "Surah al-Fil (Surah Gajah) adalah surah ke-105. Ia menceritakan peristiwa luar biasa ketika tentera bergajah dari Yaman cuba hancurkan Kaabah pada tahun 570M — tahun yang sama Nabi Muhammad ﷺ dilahirkan! Allah lindungi Kaabah dengan cara yang menakjubkan."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Teks Surah al-Fil (Arab)",
+          "body": {
+            "type": "arabic",
+            "arabic": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ ۝ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ ۝ أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ ۝ وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ ۝ تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ ۝ فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ ۝"
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Transliterasi + Terjemahan",
+          "body": {
+            "type": "list",
+            "items": [
+              "Alam tara kayfa fa'ala rabbuka bi ashabil fil = Apakah kamu tidak melihat bagaimana Tuhanmu berbuat terhadap tentera bergajah?",
+              "Alam yaj'al kaydahum fi tadhlil = Tidakkah Dia menjadikan tipu daya mereka itu sia-sia?",
+              "Wa arsala 'alayhim tayran ababila = Dan Dia mengirimkan kepada mereka burung yang berbondong-bondong",
+              "Tarmihim bihjararatin min sijjil = Melempari mereka dengan batu dari tanah liat",
+              "Faja'alahum ka'asfin ma'kul = Maka Dia jadikan mereka seperti daun-daun yang dimakan ulat"
+            ]
+          }
+        },
+        {
+          "icon": "🏰",
+          "title": "Kisah di Sebalik Surah Ini",
+          "body": {
+            "type": "list",
+            "items": [
+              "Abrahah al-Asyram (Raja Yaman) bina gereja besar untuk mengalihkan perhatian dari Kaabah",
+              "Dia bawa 60,000 askar dan 9 gajah besar untuk merobohkan Kaabah",
+              "Penduduk Makkah lari ke bukit — Abdul Muttalib (datuk Nabi ﷺ) berdoa kepada Allah",
+              "Allah hantar burung Ababil membawa batu dari tanah liat (sijjil)",
+              "Tentera Abrahah hancur — Kaabah selamat!"
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Hikmah Surah al-Fil",
+          "body": {
+            "type": "list",
+            "items": [
+              "Allah melindungi Baitullah (Kaabah) dari musuh",
+              "Tiada kuasa manusia yang boleh mengalahkan kuasa Allah",
+              "Mereka yang menentang rumah Allah pasti akan dikalahkan",
+              "Kaabah selamat hingga hari ini — dan akan terus selamat hingga Hari Kiamat insya-Allah!"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Peristiwa Tentera Bergajah berlaku 570M — tahun yang sama Nabi ﷺ dilahirkan! Allah sebut dalam al-Quran:",
+        "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+        "translation": "Apakah kamu tidak melihat bagaimana Tuhanmu berbuat terhadap tentera bergajah?",
+        "source": "Surah al-Fil: 1",
+        "outro": "Tahun gajah ('Am al-Fil) adalah tanda Allah sedang menyediakan kehadiran Nabi terakhir untuk menjaga agama Islam. Subhanallah!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Tips Hafazan Surah al-Fil 📝",
+      "items": [
+        "Surah ini ada 5 ayat — sangat pendek dan mudah dihafal!",
+        "Ingat jalan cerita: Tentera gajah datang → Allah hantar burung → batu liat → hancur",
+        "Perkataan kunci: al-Fil (gajah), Tayran Ababila (burung berbondong), Hijarah (batu), Sijjil (tanah liat) — semua ada dalam vocab!",
+        {
+          "type": "arabic",
+          "instruction": "Ayat terakhir ada perbandingan cantik",
+          "arabic": "كَعَصْفٍ مَّأْكُولٍ"
+        },
+        "Baca sambil bayangkan kisahnya — lebih mudah ingat cerita dari hafal ayat kosong!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Surah al-Fil ada berapa ayat?",
+      "options": [
+        "4 ayat",
+        "5 ayat",
+        "6 ayat",
+        "7 ayat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Siapakah pemimpin tentera bergajah yang cuba hancurkan Kaabah?",
+      "options": [
+        "Abu Jahal",
+        "Firaun",
+        "Abrahah al-Asyram",
+        "Namrud"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Allah lindungi Kaabah dengan menghantar...",
+      "options": [
+        "Ribut petir",
+        "Banjir besar",
+        "Burung Ababil membawa batu",
+        "Gempa bumi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Peristiwa Tentera Bergajah berlaku pada tahun yang sama dengan...",
+      "options": [
+        "Israk Mikraj Nabi",
+        "Kelahiran Nabi Muhammad ﷺ",
+        "Hijrah ke Madinah",
+        "Pembukaan Makkah"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "n1",
+        "label": "Surah al-Fil",
+        "colour": "#E91E63"
+      },
+      {
+        "id": "n2",
+        "label": "Abrahah + Gajah",
+        "colour": "#880E4F"
+      },
+      {
+        "id": "n3",
+        "label": "Kaabah Terancam",
+        "colour": "#F48FB1"
+      },
+      {
+        "id": "n4",
+        "label": "Burung Ababil",
+        "colour": "#880E4F"
+      },
+      {
+        "id": "n5",
+        "label": "Batu Sijjil",
+        "colour": "#F48FB1"
+      },
+      {
+        "id": "n6",
+        "label": "Kaabah Selamat!",
+        "colour": "#AD1457"
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "n2",
+        "target": "n3",
+        "label": "ancam"
+      },
+      {
+        "id": "e2",
+        "source": "n1",
+        "target": "n4",
+        "label": "Allah hantar"
+      },
+      {
+        "id": "e3",
+        "source": "n4",
+        "target": "n5",
+        "label": "bawa"
+      },
+      {
+        "id": "e4",
+        "source": "n5",
+        "target": "n2",
+        "label": "hancurkan"
+      },
+      {
+        "id": "e5",
+        "source": "n6",
+        "target": "n1",
+        "label": "hasil"
+      }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "فِيل",
+      "meaning": "gajah"
+    },
+    {
+      "word": "أَبَابِيل",
+      "meaning": "berbondong-bondong (burung yang datang berkelompok)"
+    },
+    {
+      "word": "حِجَارَة",
+      "meaning": "batu-batu"
+    },
+    {
+      "word": "سِجِّيل",
+      "meaning": "tanah liat yang keras"
+    },
+    {
+      "word": "عَصْف",
+      "meaning": "daun/jerami — benda yang mudah hancur"
+    }
+  ],
+  "funFact": "Gajah yang dibawa Abrahah dipanggil 'Mahmud' — gajah terbesar dan paling kuat! Tapi ketika sampai berhampiran Makkah, gajah Mahmud MENUNDUK dan menolak untuk bergerak ke arah Kaabah — seolah-olah gajah tu tahu Kaabah itu istimewa! Bila dipalingkan ke arah lain, gajah berjalan seperti biasa. Subhanallah — bahkan haiwan pun hormat Baitullah!"
+}
