@@ -1,5 +1,5 @@
 # PDFs — too large for git (use references/ folder locally)
-references/**/*.pdf
+# references/**/*.pdf
 
 # Next.js
 web/.next/
@@ -17,7 +17,7 @@ web/.env.local
 web/.env*.local
 
 # Obsidian vault
-nota-kaki-vault/
+# nota-kaki-vault/
 
 # OS
 .DS_Store
