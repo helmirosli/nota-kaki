@@ -45,7 +45,7 @@ export interface ConceptCardsSection {
 // ─── Concept card body — explicit types, no parsing needed ───────────────────
 
 /** Plain string kept for backward compatibility with existing JSON files. */
-export type CardBody = string | CardBodyList | CardBodyArabic
+export type CardBody = string | CardBodyList | CardBodyArabic | CardBodyPairs
 
 /** Numbered or bulleted list with optional intro and outro lines. */
 export interface CardBodyList {
@@ -69,6 +69,14 @@ export interface CardBodyArabic {
     translation?: string
     source?: string
   }>
+}
+
+/** Side-by-side rows: optional label | Arabic (RTL) | Malay meaning. For vocab tables and number lists. */
+export interface CardBodyPairs {
+  type: "pairs"
+  intro?: string
+  rows: { label?: string; arabic: string; meaning: string }[]
+  outro?: string
 }
 
 export interface ConceptCard {

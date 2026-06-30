@@ -1,7 +1,7 @@
 "use client"
 
 import { motion } from "framer-motion"
-import { SectionType, CardBody, CardBodyList, CardBodyArabic } from "@/lib/types"
+import { SectionType, CardBody, CardBodyList, CardBodyArabic, CardBodyPairs } from "@/lib/types"
 
 // ─── Auto-detect arabic pattern in plain strings ─────────────────────────────
 // Only fires for legacy string bodies that match the doa/hadith/Quran pattern:
@@ -70,6 +70,52 @@ function SmartBody({ body, colour }: { body: CardBody; colour: string }) {
     return <p className="text-gray-600 font-semibold text-sm leading-relaxed">{body}</p>
   }
 
+  // ── Vocab / number pairs table ───────────────────────────────────────────
+  if (body.type === "pairs") {
+    return (
+      <div className="flex flex-col gap-0 text-sm">
+        {body.intro && (
+          <p className="text-gray-700 font-semibold leading-relaxed mb-2">{body.intro}</p>
+        )}
+        <div className="rounded-xl overflow-hidden border border-gray-100">
+          {body.rows.map((row, i) => (
+            <div
+              key={i}
+              className={`flex items-center gap-0 ${i % 2 === 0 ? "bg-white" : "bg-gray-50"}`}
+            >
+              {row.label !== undefined && (
+                <span
+                  className="w-10 shrink-0 text-center text-xs font-black py-2.5 self-stretch flex items-center justify-center"
+                  style={{ backgroundColor: colour + "18", color: colour }}
+                >
+                  {row.label}
+                </span>
+              )}
+              <span
+                className="flex-1 text-right px-3 py-2.5 font-bold text-base leading-snug border-r border-gray-100"
+                dir="rtl"
+                style={{ color: colour }}
+              >
+                {row.arabic}
+              </span>
+              <span className="flex-1 px-3 py-2.5 text-gray-700 font-semibold text-sm leading-snug">
+                {row.meaning}
+              </span>
+            </div>
+          ))}
+        </div>
+        {body.outro && (
+          <p
+            className="text-xs font-bold mt-2 px-3 py-1.5 rounded-lg"
+            style={{ backgroundColor: colour + "18", color: colour }}
+          >
+            {body.outro}
+          </p>
+        )}
+      </div>
+    )
+  }
+
   // ── Numbered list ────────────────────────────────────────────────────────
   if (body.type === "list") {
     return (
@@ -118,7 +164,7 @@ function SmartBody({ body, colour }: { body: CardBody; colour: string }) {
               className="rounded-xl p-3 text-center"
               style={{ backgroundColor: colour + "18", border: `1.5px solid ${colour}44` }}
             >
-              <p className="text-xl font-bold leading-loose" dir="rtl" style={{ color: colour }}>
+              <p className="text-xl font-bold leading-loose whitespace-pre-line" dir="rtl" style={{ color: colour }}>
                 {block.arabic}
               </p>
             </div>
@@ -245,6 +291,11 @@ export function CalloutContent({ text, colour }: { text: CardBody; colour: strin
     return <CalloutArabic body={text} colour={colour} />
   }
 
+  // ── Pairs table ────────────────────────────────────────────────────────
+  if (typeof text !== "string" && text.type === "pairs") {
+    return <SmartBody body={text} colour={colour} />
+  }
+
   // ── Plain string: try auto-detect arabic, else plain text ──────────────
   const arabic = detectArabicBody(text as string)
   if (arabic) return <CalloutArabic body={arabic} colour={colour} />
@@ -291,7 +342,7 @@ function CalloutArabic({ body, colour }: { body: CardBodyArabic; colour: string 
             <p className="font-black text-gray-800 text-base">{block.instruction}</p>
           )}
           {/* No inner box — the callout itself is the container */}
-          <p className="text-xl font-bold leading-loose text-center" dir="rtl" style={{ color: colour }}>
+          <p className="text-xl font-bold leading-loose text-center whitespace-pre-line" dir="rtl" style={{ color: colour }}>
             {block.arabic}
           </p>
           {block.translation && (

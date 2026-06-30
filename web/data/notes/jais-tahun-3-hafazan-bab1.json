@@ -1,0 +1,164 @@
+{
+  "id": "jais-tahun-3-hafazan-bab1",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "hafazan",
+  "chapter": 1,
+  "title": "Surah al-Qari'ah — Hari Kiamat yang Menggegarkan",
+  "emoji": "⚖️",
+  "colour": "#E91E63",
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "سُورَةُ الۡقَارِعَةِ — Surah al-Qari'ah (Surah 101)",
+      "body": "Surah al-Qari'ah adalah surah ke-101 dalam al-Quran, terdapat dalam Juz 'Amma. Surah ini mengandungi 11 ayat. 'al-Qari'ah' bermaksud 'yang menggegarkan' atau 'bencana yang mengetuk-ngetuk' — merujuk kepada hari kiamat yang kedatangannya menggegarkan seluruh alam. Surah ini mengajar kita tentang timbangan amal pada hari akhirat."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Teks Surah al-Qari'ah (Ayat 1–5)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat 1–5 Surah al-Qari'ah:",
+            "arabic": "بِسۡمِ اللَّهِ الرَّحۡمَٰنِ الرَّحِيمِ\nالۡقَارِعَةُ ﴿١﴾ مَا الۡقَارِعَةُ ﴿٢﴾ وَمَا أَدۡرَىٰكَ مَا الۡقَارِعَةُ ﴿٣﴾ يَوۡمَ يَكُونُ النَّاسُ كَالۡفَرَاشِ الۡمَبۡثُوثِ ﴿٤﴾ وَتَكُونُ الۡجِبَالُ كَالۡعِهۡنِ الۡمَنفُوشِ ﴿٥﴾",
+            "translation": "Yang menggegarkan (1). Apakah yang menggegarkan itu? (2). Dan tahukah kamu apakah yang menggegarkan itu? (3). Pada hari itu manusia adalah seperti kelkatu yang bertebaran (4). Dan gunung-ganang adalah seperti bulu yang dibuai-buaikan (5)."
+          }
+        },
+        {
+          "icon": "⚖️",
+          "title": "Teks Surah al-Qari'ah (Ayat 6–11)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat 6–11 Surah al-Qari'ah:",
+            "arabic": "فَأَمَّا مَن ثَقُلَتۡ مَوَٰزِينُهُۥ ﴿٦﴾ فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ ﴿٧﴾ وَأَمَّا مَنۡ خَفَّتۡ مَوَٰزِينُهُۥ ﴿٨﴾ فَأُمُّهُۥ هَاوِيَةٌ ﴿٩﴾ وَمَا أَدۡرَىٰكَ مَا هِيَهۡ ﴿١٠﴾ نَارٌ حَامِيَةٌ ﴿١١﴾",
+            "translation": "Maka sesiapa yang berat timbangan amalnya (6). Maka dia dalam kehidupan yang memuaskan (syurga) (7). Dan sesiapa yang ringan timbangan amalnya (8). Maka tempat kembalinya adalah Hawiyah (neraka) (9). Dan tahukah kamu apakah Hawiyah itu? (10). Ia adalah api yang sangat panas (11)."
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Makna Kosa Kata Penting",
+          "body": {
+            "type": "list",
+            "intro": "Kosa kata penting dalam Surah al-Qari'ah:",
+            "items": [
+              "الۡقَارِعَة (al-Qari'ah) — yang menggegarkan, bencana mengetuk-ngetuk (hari kiamat)",
+              "الۡفَرَاش (al-farash) — kelkatu/rama-rama yang berterbangan",
+              "الۡمَبۡثُوث (al-mabthuth) — bertebaran, berhamburan ke mana-mana",
+              "الۡعِهۡن (al-'ihn) — bulu yang sangat ringan dan lembut",
+              "الۡمَوَازِيۡن (al-mawazin) — timbangan amal perbuatan",
+              "هَاوِيَة (Hawiyah) — nama neraka (bermaksud jurang yang dalam)",
+              "نَارٌ حَامِيَة — api yang sangat panas membakar"
+            ]
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "Pengajaran Surah al-Qari'ah",
+          "body": {
+            "type": "list",
+            "intro": "Pengajaran yang boleh diambil dari surah ini:",
+            "items": [
+              "Hari kiamat PASTI akan datang — kita semua akan menghadapinya",
+              "Pada hari kiamat, manusia akan panik dan bertempiaran seperti kelkatu",
+              "Gunung-ganang yang kukuh akan hancur seperti bulu — betapa dahsyatnya!",
+              "Amalan baik akan ditimbang — barang siapa berat amal baiknya, masuk syurga",
+              "Barang siapa ringan amal baiknya, tempatnya di neraka yang panas",
+              "Pesanan: perbanyakkan amal baik sekarang selagi masih ada masa!"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "⚖️",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ayat kunci yang perlu diingati — timbangan amal pada Hari Kiamat:",
+        "arabic": "فَأَمَّا مَن ثَقُلَتۡ مَوَٰزِينُهُۥ فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ",
+        "translation": "Maka sesiapa yang berat timbangan amalnya, dia dalam kehidupan yang memuaskan (syurga).",
+        "outro": "Kita semua ingin 'berat' timbangan amal baik pada hari itu — mulakan dari sekarang!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Panduan Menghafaz Surah al-Qari'ah",
+      "items": [
+        "Baca surah ini dengan perlahan sambil memahami makna setiap ayat.",
+        "Ayat 1–3: soalan berulang 'al-Qari'ah' — mudah kerana sama.",
+        "Ayat 4–5: gambaran hari kiamat (manusia = kelkatu, gunung = bulu).",
+        "Ayat 6–9: dua golongan — berat timbangan vs ringan timbangan.",
+        "Ayat 10–11: soalan balas tentang Hawiyah — jawapan: api panas.",
+        "Ulang baca 5 kali sehari sehingga hafal dengan lancar tanpa melihat teks."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa banyak ayat dalam Surah al-Qari'ah?",
+      "options": [
+        "7 ayat",
+        "8 ayat",
+        "10 ayat",
+        "11 ayat"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Apakah perumpamaan manusia pada Hari Kiamat dalam surah ini?",
+      "options": [
+        "Seperti ikan dalam lautan",
+        "Seperti kelkatu yang bertebaran",
+        "Seperti batu yang keras",
+        "Seperti bunga yang gugur"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang berlaku kepada orang yang berat timbangan amalnya?",
+      "options": [
+        "Masuk neraka Hawiyah",
+        "Dihisab lama",
+        "Mendapat kehidupan yang memuaskan (syurga)",
+        "Kena azab dahulu"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah maksud 'Hawiyah' dalam Surah al-Qari'ah?",
+      "options": [
+        "Nama syurga yang tinggi",
+        "Nama neraka (api yang sangat panas)",
+        "Nama malaikat penjaga",
+        "Nama hari kiamat"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Surah al-Qari'ah", "colour": "#E91E63" },
+      { "id": "n2", "label": "Hari Kiamat", "colour": "#C2185B" },
+      { "id": "n3", "label": "Timbangan Berat → Syurga", "colour": "#AD1457" },
+      { "id": "n4", "label": "Timbangan Ringan → Neraka", "colour": "#880E4F" },
+      { "id": "n5", "label": "11 Ayat", "colour": "#F06292" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "tema" },
+      { "id": "e2", "source": "n2", "target": "n3", "label": "amal baik" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "amal buruk" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "jumlah" }
+    ]
+  },
+  "vocab": [
+    { "word": "الۡقَارِعَة", "meaning": "al-Qari'ah — yang menggegarkan (hari kiamat)" },
+    { "word": "مَوَازِيۡن", "meaning": "mawazin — timbangan amal" },
+    { "word": "ثَقُلَت", "meaning": "tsaqulat — berat (timbangan)" },
+    { "word": "خَفَّت", "meaning": "khaffat — ringan (timbangan)" },
+    { "word": "هَاوِيَة", "meaning": "Hawiyah — nama neraka (jurang dalam)" }
+  ],
+  "funFact": "Tahukah kamu mengapa hari kiamat disebut 'al-Qari'ah' (yang menggegarkan)? Perkataan Arab ini berasal dari kata kerja 'qaraʻa' yang bermaksud 'mengetuk dengan kuat' — seperti bunyi ketukan yang menggegarkan! Al-Quran memberikan banyak nama kepada hari kiamat seperti: Yawm al-Qiyamah (Hari Kebangkitan), Yawm al-Din (Hari Pembalasan), al-Haqqah (Yang Pasti Terjadi), al-Ghashiyah (Yang Meliputi). Setiap nama menggambarkan aspek berbeza dari dahsyatnya hari tersebut. Kita berdoa semoga timbangan amal kita berat pada hari itu!"
+}

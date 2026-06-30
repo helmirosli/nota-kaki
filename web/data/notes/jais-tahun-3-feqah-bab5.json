@@ -1,0 +1,180 @@
+{
+  "id": "jais-tahun-3-feqah-bab5",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "feqah",
+  "chapter": 5,
+  "title": "Solat Berjemaah — Kelebihan dan Caranya",
+  "emoji": "👥",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الصَّلَاةُ بِالۡجَمَاعَةِ — Solat Berjemaah",
+      "body": "Solat berjemaah ialah solat yang dilakukan bersama-sama sekurang-kurangnya dua orang — seorang imam dan seorang makmum. Solat berjemaah sangat digalakkan dalam Islam kerana ganjarannya 27 kali ganda lebih besar berbanding solat bersendirian!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🌟",
+          "title": "Kelebihan Solat Berjemaah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Hadis Rasulullah SAW tentang kelebihan solat berjemaah:",
+            "arabic": "صَلَاةُ الۡجَمَاعَةِ تَفۡضُلُ صَلَاةَ الۡفَذِّ بِسَبۡعٍ وَعِشۡرِيۡنَ دَرَجَةً",
+            "translation": "Solat berjemaah melebihi solat bersendirian dengan 27 darjat (ganjaran).",
+            "source": "Riwayat Bukhari & Muslim",
+            "outro": "27 kali ganda! Bayangkan betapa besarnya pahala solat berjemaah setiap hari."
+          }
+        },
+        {
+          "icon": "🕌",
+          "title": "Syarat Imam dan Makmum",
+          "body": {
+            "type": "list",
+            "intro": "Syarat-syarat imam yang sah:",
+            "items": [
+              "Islam — imam mesti seorang Muslim",
+              "Baligh — imam mesti sudah baligh (tidak sah mengikut makmum yang belum baligh kecuali darurat)",
+              "Berakal — tidak gila",
+              "Lelaki — lelaki tidak sah bermakmum kepada imam perempuan (kecuali jemaah perempuan sahaja)",
+              "Tidak bermazhab berbeza dalam perkara yang melarang bermakmum",
+              "Fasih membaca al-Fatihah dengan betul"
+            ]
+          }
+        },
+        {
+          "icon": "🚶",
+          "title": "Cara Mengikut Imam",
+          "body": {
+            "type": "list",
+            "intro": "Peraturan makmum mengikut imam:",
+            "items": [
+              "Makmum MESTI mengikut imam — tidak boleh mendahului imam dalam mana-mana pergerakan",
+              "Makmum MESTI berdiri dalam saf (barisan) yang lurus dan rapat",
+              "Makmum tidak perlu baca Fatihah secara kuat — imam membacanya mewakili",
+              "Jika masuk lewat (masbuk) — ikut imam dari pergerakan semasa, ganti rak'at yang tertinggal selepas imam salam",
+              "Makmum mengucap 'Amin' selepas imam selesai membaca al-Fatihah"
+            ]
+          }
+        },
+        {
+          "icon": "📋",
+          "title": "Susunan Saf dalam Berjemaah",
+          "body": {
+            "type": "list",
+            "intro": "Susunan saf yang betul dalam solat berjemaah:",
+            "items": [
+              "Saf pertama: lelaki, bermula dari belakang imam",
+              "Saf seterusnya: lelaki di belakang",
+              "Saf paling belakang: perempuan (jika ada jemaah lelaki dan perempuan)",
+              "Saf hendaklah lurus — betulkan dengan melihat bahu dan tapak kaki orang di sebelah",
+              "Elakkan berdiri bersendirian dalam satu saf — usahakan saf penuh dahulu"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "⏰",
+      "text": {
+        "type": "list",
+        "intro": "Etika semasa solat berjemaah:",
+        "items": [
+          "Datang awal ke masjid — jangan lewat tunggu iqamat sahaja",
+          "Matikan telefon atau pasang senyap sebelum masuk saf",
+          "Jangan bercakap atau bergerak tidak perlu semasa imam berkhutbah / membaca",
+          "Jika masuk ketika imam sedang rukuk, segera ikut — dapat rak'at tersebut",
+          "Selepas salam, baca zikir bersama-sama"
+        ],
+        "outro": "Solat berjemaah bukan sahaja dapat pahala lebih — ia juga mengeratkan ukhuwwah (persaudaraan) Islam!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menjadi Makmum yang Baik",
+      "items": [
+        "Ambil wudhu sebelum masuk masjid atau surau.",
+        "Masuk ke saf yang betul — lelaki di hadapan, perempuan di belakang.",
+        "Luruskan saf — pastikan bahu dan tapak kaki sejajar.",
+        "Tunggu imam mengucap 'Allahu Akbar' takbiratul ihram baru angkat tangan.",
+        "Ikut setiap pergerakan imam — jangan tergesa atau lambat.",
+        {
+          "type": "arabic",
+          "instruction": "Doa selepas solat berjemaah yang digalakkan:",
+          "arabic": "اللَّهُمَّ أَنۡتَ السَّلَامُ وَمِنۡكَ السَّلَامُ تَبَارَكۡتَ يَا ذَا الۡجَلَالِ وَالۡإِكۡرَامِ",
+          "translation": "Ya Allah, Engkaulah Yang Maha Sejahtera dan daripada-Mu segala kesejahteraan. Maha Berkat Engkau, wahai Zat yang memiliki Kebesaran dan Kemuliaan.",
+          "source": "Riwayat Muslim"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa kali ganda pahala solat berjemaah berbanding solat bersendirian?",
+      "options": [
+        "10 kali ganda",
+        "17 kali ganda",
+        "27 kali ganda",
+        "100 kali ganda"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang perlu dilakukan jika datang lewat dan imam sudah rukuk?",
+      "options": [
+        "Tunggu rak'at seterusnya",
+        "Segera ikut imam dari pergerakan semasa",
+        "Mulakan solat bersendirian",
+        "Batalkan niat untuk berjemaah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Siapakah yang berdiri di saf paling hadapan dalam solat berjemaah?",
+      "options": [
+        "Kanak-kanak lelaki",
+        "Perempuan",
+        "Lelaki baligh",
+        "Sesiapa sahaja yang sampai dulu"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apa yang dimaksudkan dengan 'masbuk' dalam solat berjemaah?",
+      "options": [
+        "Imam yang lewat",
+        "Makmum yang mendahului imam",
+        "Makmum yang masuk lewat dan tertinggal rak'at",
+        "Orang yang solat bersendirian"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Solat Berjemaah", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Imam", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "Makmum", "colour": "#8E24AA" },
+      { "id": "n4", "label": "27x pahala", "colour": "#AB47BC" },
+      { "id": "n5", "label": "Saf Lurus", "colour": "#BA68C8" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "terdiri dari" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "terdiri dari" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "ganjaran" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "kewajipan" }
+    ]
+  },
+  "vocab": [
+    { "word": "جَمَاعَة", "meaning": "jemaah — berkumpulan, bersama-sama" },
+    { "word": "إِمَام", "meaning": "imam — pemimpin solat di hadapan" },
+    { "word": "مَأۡمُوم", "meaning": "makmum — pengikut yang solat di belakang imam" },
+    { "word": "صَف", "meaning": "saf — barisan dalam solat berjemaah" },
+    { "word": "مَسۡبُوق", "meaning": "masbuk — makmum yang tertinggal rak'at" }
+  ],
+  "funFact": "Tahukah kamu bahawa Masjid al-Haram di Makkah boleh menampung lebih 2 juta jemaah pada waktu puncak musim haji? Bayangkan 2 juta orang bersolat dalam satu jemaah — saf-safnya memanjang jauh hingga di luar masjid! Dan semua makmum itu mendapat pahala 27 kali ganda. Malah di Masjid al-Haram, pahalanya digandakan lagi — 100,000 kali ganda berbanding solat di tempat lain! Inilah sebab para haji berebut-rebut untuk mendapat peluang bersolat di sana."
+}

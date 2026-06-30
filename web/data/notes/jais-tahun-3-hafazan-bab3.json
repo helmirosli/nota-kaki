@@ -1,0 +1,164 @@
+{
+  "id": "jais-tahun-3-hafazan-bab3",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "hafazan",
+  "chapter": 3,
+  "title": "Surah al-Zalzalah — Bila Bumi Bergegar",
+  "emoji": "🌍",
+  "colour": "#E91E63",
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "سُورَةُ الزَّلۡزَلَةِ — Surah al-Zalzalah (Surah 99)",
+      "body": "Surah al-Zalzalah adalah surah ke-99 dalam al-Quran, mengandungi 8 ayat. 'al-Zalzalah' bermaksud 'gegaran' atau 'gempa bumi'. Surah ini menggambarkan peristiwa menggerunkan pada hari kiamat apabila bumi bergegar dengan gegaran yang teramat dahsyat. Ia juga mengandungi pengajaran penting: setiap amalan sekecil zarah pun akan dibalas oleh Allah."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🌍",
+          "title": "Teks Surah al-Zalzalah (Ayat 1–5)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat 1–5: Bumi bergegar dan bercerita:",
+            "arabic": "بِسۡمِ اللَّهِ الرَّحۡمَٰنِ الرَّحِيمِ\nإِذَا زُلۡزِلَتِ الۡأَرۡضُ زِلۡزَالَهَا ﴿١﴾ وَأَخۡرَجَتِ الۡأَرۡضُ أَثۡقَالَهَا ﴿٢﴾ وَقَالَ الۡإِنسَانُ مَا لَهَا ﴿٣﴾ يَوۡمَئِذٍ تُحَدِّثُ أَخۡبَارَهَا ﴿٤﴾ بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا ﴿٥﴾",
+            "translation": "Apabila bumi digoncangkan dengan gegaran yang sedahsyat-dahsyatnya (1). Dan bumi mengeluarkan beban-beban beratnya (2). Dan manusia bertanya: 'Apa yang terjadi padanya?' (3). Pada hari itu bumi menceritakan beritanya (4). Kerana sesungguhnya Tuhanmu telah mewahyukan kepadanya (5)."
+          }
+        },
+        {
+          "icon": "⚖️",
+          "title": "Teks Surah al-Zalzalah (Ayat 6–8)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat 6–8: Manusia berpecah-belah dan dibalas amalan:",
+            "arabic": "يَوۡمَئِذٍ يَصۡدُرُ النَّاسُ أَشۡتَاتًا لِّيُرَوۡا أَعۡمَٰلَهُمۡ ﴿٦﴾ فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرًا يَرَهُۥ ﴿٧﴾ وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ ﴿٨﴾",
+            "translation": "Pada hari itu manusia keluar berpecah-belah (dalam kumpulan berbeza) untuk diperlihatkan amalan mereka (6). Maka sesiapa mengerjakan kebaikan seberat zarah, dia akan melihatnya (dibalas) (7). Dan sesiapa mengerjakan kejahatan seberat zarah, dia akan melihatnya (dibalas) (8)."
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Kosa Kata Penting",
+          "body": {
+            "type": "list",
+            "intro": "Kosa kata penting dalam Surah al-Zalzalah:",
+            "items": [
+              "زِلۡزَال (zilzal) — gegaran, gempa bumi yang dahsyat",
+              "أَثۡقَال (athqal) — beban-beban berat (manusia yang dikuburkan dan harta terpendam)",
+              "تُحَدِّث (tuhaddith) — menceritakan, memberitahu",
+              "أَشۡتَات (ashtat) — berpecah-belah, berkelompok-kelompok",
+              "مِثۡقَال ذَرَّة (mithqal dzarrah) — seberat zarah (atom) — sangat kecil sekali!",
+              "خَيۡر (khayr) — kebaikan",
+              "شَرّ (sharr) — kejahatan/keburukan"
+            ]
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "Pengajaran Surah al-Zalzalah",
+          "body": {
+            "type": "list",
+            "intro": "Pengajaran yang boleh diambil:",
+            "items": [
+              "Hari kiamat adalah pasti — bumi sendiri akan bergegar dan bercerita",
+              "Bumi menjadi saksi — ia akan menceritakan segala yang berlaku di atasnya",
+              "SETIAP amalan dicatat — walaupun sekecil zarah (atom)!",
+              "Amalan baik sekecil mana pun akan dibalas kebaikan",
+              "Amalan buruk sekecil mana pun akan dibalas — jangan anggap remeh dosa kecil",
+              "Pesanan: jangan abaikan amalan baik yang kecil dan jangan buat dosa walaupun kecil"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "⚛️",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ayat paling terkenal dalam surah ini — prinsip pembalasan sekecil zarah:",
+        "arabic": "فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرًا يَرَهُۥ ﴿٧﴾ وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ ﴿٨﴾",
+        "translation": "Sesiapa mengerjakan kebaikan seberat zarah, dia akan melihatnya. Dan sesiapa mengerjakan kejahatan seberat zarah, dia akan melihatnya.",
+        "outro": "Ayat 7-8 ini sangat penting! Ia mengingatkan kita bahawa tiada amalan yang terlalu kecil untuk diabaikan."
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Panduan Menghafaz Surah al-Zalzalah",
+      "items": [
+        "Bahagikan kepada 2 bahagian: ayat 1–5 (bumi bergegar) dan ayat 6–8 (pembalasan amalan).",
+        "Ayat 1: bumi 'zilzilat' — gegaran. Ayat 2: bumi keluarkan 'athqal' — beban.",
+        "Ayat 3: manusia bertanya 'ma laha?' — apa terjadi? Ayat 4–5: bumi bercerita atas wahyu Allah.",
+        "Ayat 6: manusia 'ashtat' — berpecah-belah untuk diperlihatkan amalan.",
+        "Ayat 7–8: prinsip terpenting — 'mithqal dzarrah' — zarah kebaikan dan kejahatan dibalas.",
+        "Ulang ayat 7–8 berkali-kali — ia mudah dan sangat bermakna untuk dihayati."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah yang dilakukan oleh bumi pada hari kiamat menurut Surah al-Zalzalah?",
+      "options": [
+        "Bumi hancur menjadi debu",
+        "Bumi bergegar dan menceritakan beritanya",
+        "Bumi tenggelam ke dalam lautan",
+        "Bumi berhenti berputar"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah maksud 'mithqal dzarrah' dalam surah ini?",
+      "options": [
+        "Seberat gunung",
+        "Seberat batu",
+        "Seberat zarah (atom) — sangat kecil",
+        "Seberat emas"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa ayat dalam Surah al-Zalzalah?",
+      "options": [
+        "6 ayat",
+        "7 ayat",
+        "8 ayat",
+        "9 ayat"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah pengajaran utama dari ayat 7–8 Surah al-Zalzalah?",
+      "options": [
+        "Hanya amalan besar yang dibalas",
+        "Setiap amalan walaupun sekecil zarah akan dibalas",
+        "Manusia tidak perlu risau tentang amalan kecil",
+        "Hanya orang soleh yang amalannya dibalas"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Surah al-Zalzalah", "colour": "#E91E63" },
+      { "id": "n2", "label": "Bumi Bergegar", "colour": "#C2185B" },
+      { "id": "n3", "label": "Bumi Bercerita", "colour": "#AD1457" },
+      { "id": "n4", "label": "Amalan Zarah Dibalas", "colour": "#880E4F" },
+      { "id": "n5", "label": "8 Ayat", "colour": "#F06292" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "ayat 1-2" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "ayat 4-5" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "ayat 7-8" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "jumlah" }
+    ]
+  },
+  "vocab": [
+    { "word": "زِلۡزَال", "meaning": "zilzal — gempa bumi / gegaran dahsyat" },
+    { "word": "أَثۡقَال", "meaning": "athqal — beban-beban berat" },
+    { "word": "مِثۡقَال ذَرَّة", "meaning": "mithqal dzarrah — seberat zarah (sangat kecil)" },
+    { "word": "خَيۡر", "meaning": "khayr — kebaikan" },
+    { "word": "شَرّ", "meaning": "sharr — kejahatan / keburukan" }
+  ],
+  "funFact": "Tahukah kamu bahawa Imam Abdullah ibn Mas'ud RA berkata: 'Tiada ayat dalam al-Quran yang lebih menyeluruh (jami') dari ayat 7–8 Surah al-Zalzalah'? Malah Rasulullah SAW pernah bersabda bahawa surah ini bersamaan dengan separuh al-Quran dalam maknanya! Ini kerana ia merangkumi prinsip asas: setiap amalan baik dan buruk, walau sekecil zarah, pasti dibalas Allah. Jadi jangan pernah anggap remeh amalan baik kecil seperti senyum, tolong orang, atau kata-kata yang baik — semuanya dikira!"
+}

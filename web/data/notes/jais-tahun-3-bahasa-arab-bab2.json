@@ -21,20 +21,32 @@
           "icon": "🪑",
           "title": "أثاث البيت — Perabot Rumah",
           "body": {
-            "type": "arabic",
-            "instruction": "Senarai perabot rumah dalam bahasa Arab:",
-            "arabic": "كُرْسِيٌّ — كُرْسِيٌّ\nأَرِيكَةٌ — أَرِيكَةٌ\nسَرِيرٌ — سَرِيرٌ\nدُرْجٌ — دُرْجٌ\nخِزَانَةٌ — خِزَانَةٌ\nمِنْضَدَةٌ — مِنْضَدَةٌ",
-            "translation": "كُرْسِيّ = kerusi\nأَرِيكَة = sofa\nسَرِير = katil\nدُرْج = laci/rak\nخِزَانَة = almari\nمِنْضَدَة = meja"
+            "type": "pairs",
+            "rows": [
+              { "arabic": "كُرْسِيّ", "meaning": "kerusi" },
+              { "arabic": "أَرِيكَة", "meaning": "sofa" },
+              { "arabic": "سَرِير", "meaning": "katil" },
+              { "arabic": "دُرْج", "meaning": "laci / rak" },
+              { "arabic": "خِزَانَة", "meaning": "almari" },
+              { "arabic": "مِنْضَدَة", "meaning": "meja" }
+            ]
           }
         },
         {
           "icon": "🔌",
           "title": "الأجهزة الكهربائية — Peralatan Elektrik",
           "body": {
-            "type": "arabic",
-            "instruction": "Peralatan elektrik dan elektronik di rumah:",
-            "arabic": "تِلْفَازٌ — تِلْفَازٌ\nمِذْيَاعٌ — مِذْيَاعٌ\nثَلَّاجَةٌ — ثَلَّاجَةٌ\nغَسَّالَةٌ — غَسَّالَةٌ\nمِكْوَاةٌ — مِكْوَاةٌ\nمُكَيِّفٌ — مُكَيِّفٌ\nمِصْبَاحٌ — مِصْبَاحٌ\nفُرْنٌ — فُرْنٌ",
-            "translation": "تِلْفَاز = televisyen\nمِذْيَاع = radio\nثَلَّاجَة = peti sejuk\nغَسَّالَة = mesin basuh\nمِكْوَاة = seterika\nمُكَيِّف = penghawa dingin\nمِصْبَاح = lampu\nفُرْن = ketuhar"
+            "type": "pairs",
+            "rows": [
+              { "arabic": "تِلْفَاز", "meaning": "televisyen" },
+              { "arabic": "مِذْيَاع", "meaning": "radio" },
+              { "arabic": "ثَلَّاجَة", "meaning": "peti sejuk" },
+              { "arabic": "غَسَّالَة", "meaning": "mesin basuh" },
+              { "arabic": "مِكْوَاة", "meaning": "seterika" },
+              { "arabic": "مُكَيِّف", "meaning": "penghawa dingin" },
+              { "arabic": "مِصْبَاح", "meaning": "lampu" },
+              { "arabic": "فُرْن", "meaning": "ketuhar" }
+            ]
           }
         },
         {

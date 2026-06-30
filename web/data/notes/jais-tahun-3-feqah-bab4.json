@@ -1,0 +1,179 @@
+{
+  "id": "jais-tahun-3-feqah-bab4",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "feqah",
+  "chapter": 4,
+  "title": "Perkara yang Membatalkan Solat",
+  "emoji": "🚫",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "مُبۡطِلَاتُ الصَّلَاةِ — Pembatal Solat",
+      "body": "Terdapat beberapa perkara yang boleh membatalkan solat. Jika berlaku salah satunya, solat itu terbatal dan perlu diulang dari awal. Mengetahui pembatal solat adalah penting supaya solat kita sempurna dan diterima Allah."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "❌",
+          "title": "8 Perkara Pembatal Solat",
+          "body": {
+            "type": "list",
+            "intro": "Perkara-perkara yang membatalkan solat:",
+            "items": [
+              "1. Bercakap dengan sengaja — walaupun satu perkataan yang bukan bacaan solat",
+              "2. Bergerak banyak (3 kali berturut-turut atau lebih) tanpa keperluan",
+              "3. Berhadas — keluar angin, air kencing, najis semasa solat",
+              "4. Terkena najis pada badan, pakaian, atau tempat solat",
+              "5. Terbuka aurat dengan sengaja",
+              "6. Bertukar niat — niat menukar solat yang sedang dilakukan",
+              "7. Makan atau minum dengan sengaja",
+              "8. Ketawa terbahak-bahak (ada suara keluar)"
+            ]
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Berbicara dalam Solat",
+          "body": {
+            "type": "list",
+            "intro": "Tentang hukum bercakap dalam solat:",
+            "items": [
+              "Bercakap DENGAN SENGAJA — membatalkan solat, wajib ulang",
+              "Bercakap TERLUPA atau TIDAK TAHU hukumnya — ada perbezaan pendapat ulama",
+              "Terbersin dan mengucap 'Alhamdulillah' — TIDAK membatalkan solat",
+              "Membaca ayat al-Quran sebagai jawapan kepada orang — TIDAK membatal",
+              "Menjerit atau menangis kerana sakit atau takut — tidak membatal"
+            ]
+          }
+        },
+        {
+          "icon": "🚶",
+          "title": "Bergerak dalam Solat",
+          "body": {
+            "type": "list",
+            "intro": "Had pergerakan yang dibenarkan:",
+            "items": [
+              "Satu atau dua pergerakan kecil yang bersebab — TIDAK membatal (seperti menggaru, menggerakkan jari)",
+              "Tiga pergerakan berturut-turut tanpa keperluan — MEMBATALKAN solat",
+              "Melangkah ke hadapan atau ke belakang untuk keperluan (membetulkan saf) — TIDAK membatal",
+              "Menolak orang atau mengangkat sesuatu secara ringan — tidak membatal jika sekali sahaja"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Solat Batal Secara Tidak Sengaja",
+          "body": {
+            "type": "list",
+            "intro": "Jika solat terbatal tanpa sengaja:",
+            "items": [
+              "Berhadas tanpa sengaja (seperti keluar angin tiba-tiba) — solat batal, wajib berwudhu semula",
+              "Terbuka aurat tiba-tiba dan terus ditutup dengan cepat — ada pendapat yang mengatakan sah",
+              "Terbangun dari tidur dan sedar sudah solat tidak betul — perlu ulang",
+              "Yang penting: jangan panik, berhenti dengan tenang dan ulang solat dengan sempurna"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "list",
+        "intro": "Tips menjaga solat dari terbatal:",
+        "items": [
+          "Pastikan wudhu sempurna sebelum solat — periksa semula",
+          "Tutup aurat dengan sempurna — pastikan pakaian tidak longgar atau terlalu kecil",
+          "Pilih tempat solat yang bersih dari najis",
+          "Fokus dalam solat — elakkan fikiran meliar",
+          "Jika rasa berhadas, berhenti solat dan berwudhu semula"
+        ],
+        "outro": "Solat yang sempurna lebih baik dari banyak solat yang cuai!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Apa yang Perlu Dilakukan Jika Solat Terbatal",
+      "items": [
+        "Hentikan solat dengan tenang — tidak perlu panik.",
+        "Jika berhadas: pergi berwudhu semula.",
+        "Jika terkena najis: bersihkan diri, pakaian, atau tempat solat.",
+        "Ulang niat solat dari awal — takbiratul ihram semula.",
+        "Teruskan solat dengan sempurna sehingga selesai.",
+        "Pohon ampun kepada Allah jika terbatal kerana kecuaian."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapakah bilangan pergerakan berturut-turut yang boleh membatalkan solat?",
+      "options": [
+        "1 kali",
+        "2 kali",
+        "3 kali atau lebih",
+        "5 kali"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Adakah bersin dan mengucap 'Alhamdulillah' membatalkan solat?",
+      "options": [
+        "Ya, membatalkan",
+        "Tidak membatalkan",
+        "Bergantung kepada niat",
+        "Hanya membatalkan jika kuat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang perlu dilakukan jika berhadas semasa solat?",
+      "options": [
+        "Teruskan sahaja solat",
+        "Baca doa kaffarah",
+        "Hentikan solat, berwudhu semula, dan ulang solat",
+        "Sujud sahwi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Manakah yang TIDAK membatalkan solat?",
+      "options": [
+        "Bercakap dengan sengaja",
+        "Bersin dan mengucap Alhamdulillah",
+        "Ketawa terbahak-bahak",
+        "Makan dalam solat"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Pembatal Solat", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Bercakap sengaja", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "Berhadas", "colour": "#8E24AA" },
+      { "id": "n4", "label": "Bergerak banyak", "colour": "#AB47BC" },
+      { "id": "n5", "label": "Makan/minum", "colour": "#BA68C8" },
+      { "id": "n6", "label": "Terbuka aurat", "colour": "#CE93D8" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "3" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "4" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "5" }
+    ]
+  },
+  "vocab": [
+    { "word": "مُبۡطِل", "meaning": "pembatal — perkara yang membatalkan" },
+    { "word": "حَدَث", "meaning": "hadas — keadaan tidak suci (kecil/besar)" },
+    { "word": "عَوۡرَة", "meaning": "aurat — anggota badan yang wajib ditutup" },
+    { "word": "نَجَاسَة", "meaning": "najis — benda kotor yang menghalang solat" },
+    { "word": "سَهۡو", "meaning": "terlupa — melakukan sesuatu tanpa sedar" }
+  ],
+  "funFact": "Tahukah kamu bahawa pada zaman Rasulullah SAW, para sahabat begitu bersungguh-sungguh dalam menjaga solat mereka? Ada kisah seorang sahabat yang ditikam anak panah semasa bersolat di malam hari — tetapi beliau meneruskan solatnya kerana tidak mahu memutuskan ibadah kepada Allah! Walaupun kita tidak perlu sampai ke tahap itu, kisah ini menunjukkan betapa tingginya nilai solat di sisi para sahabat. Jom kita jaga solat kita dengan sepenuh hati!"
+}

@@ -1,0 +1,166 @@
+{
+  "id": "jais-tahun-3-hafazan-bab4",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "hafazan",
+  "chapter": 4,
+  "title": "Surah al-Qadr — Malam Seribu Bulan",
+  "emoji": "🌙",
+  "colour": "#E91E63",
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "سُورَةُ الۡقَدۡرِ — Surah al-Qadr (Surah 97)",
+      "body": "Surah al-Qadr adalah surah ke-97 dalam al-Quran, mengandungi 5 ayat. 'al-Qadr' bermaksud 'kemuliaan' atau 'ketetapan'. Surah ini menceritakan tentang Lailatul Qadr — malam yang lebih baik dari seribu bulan — di mana al-Quran diturunkan. Pada malam ini, para malaikat turun dengan izin Allah membawa segala urusan."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🌙",
+          "title": "Teks Surah al-Qadr (Lengkap — 5 Ayat)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Surah al-Qadr penuh — 5 ayat:",
+            "arabic": "بِسۡمِ اللَّهِ الرَّحۡمَٰنِ الرَّحِيمِ\nإِنَّا أَنزَلۡنَٰهُ فِي لَيۡلَةِ الۡقَدۡرِ ﴿١﴾ وَمَا أَدۡرَىٰكَ مَا لَيۡلَةُ الۡقَدۡرِ ﴿٢﴾ لَيۡلَةُ الۡقَدۡرِ خَيۡرٌ مِّنۡ أَلۡفِ شَهۡرٍ ﴿٣﴾ تَنَزَّلُ الۡمَلَٰٓئِكَةُ وَالرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٍ ﴿٤﴾ سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ الۡفَجۡرِ ﴿٥﴾",
+            "translation": "Sesungguhnya Kami telah menurunkan (al-Quran) pada Lailatul Qadr (1). Dan apakah yang memberitahumu apakah Lailatul Qadr itu? (2). Lailatul Qadr lebih baik dari seribu bulan (3). Para malaikat dan Roh (Jibril) turun padanya dengan izin Tuhan mereka untuk mengatur segala urusan (4). Ia penuh dengan kesejahteraan hingga terbit fajar (5)."
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Kosa Kata Penting",
+          "body": {
+            "type": "list",
+            "intro": "Kosa kata penting dalam Surah al-Qadr:",
+            "items": [
+              "الۡقَدۡر (al-Qadr) — kemuliaan, ketetapan, takdir",
+              "لَيۡلَة (laylah) — malam",
+              "أَلۡف شَهۡر (alf shahr) — seribu bulan (bersamaan 83 tahun 4 bulan)",
+              "الۡمَلَائِكَة (al-mala'ikah) — para malaikat",
+              "الرُّوح (al-Ruh) — Malaikat Jibril AS",
+              "مَطۡلَع الۡفَجۡر (matla' al-fajr) — terbit fajar (waktu Subuh)",
+              "سَلَام (salam) — kesejahteraan, kedamaian, sejahtera"
+            ]
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Keistimewaan Lailatul Qadr",
+          "body": {
+            "type": "list",
+            "intro": "Mengapa Lailatul Qadr begitu istimewa?",
+            "items": [
+              "Al-Quran mula diturunkan pada malam ini kepada Nabi Muhammad SAW",
+              "Beribadah pada malam ini lebih baik dari 1000 bulan = 83 tahun lebih ibadah!",
+              "Para malaikat turun ke bumi pada malam ini dengan penuh keberkatan",
+              "Malam ini dipenuhi dengan salam (kesejahteraan) dari Allah",
+              "Ia berlaku pada malam-malam ganjil 10 malam terakhir bulan Ramadan (21, 23, 25, 27, 29)",
+              "Nabi SAW sangat bersungguh pada 10 malam terakhir Ramadan mencari malam ini"
+            ]
+          }
+        },
+        {
+          "icon": "🤲",
+          "title": "Doa Khusus Lailatul Qadr",
+          "body": {
+            "type": "arabic",
+            "instruction": "Doa yang diajar Rasulullah SAW untuk Lailatul Qadr:",
+            "arabic": "اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الۡعَفۡوَ فَاعۡفُ عَنِّي",
+            "translation": "Ya Allah, sesungguhnya Engkau Maha Pemaaf dan suka memaafkan, maka maafkanlah aku.",
+            "source": "Hadis Riwayat Tirmizi — Sahih",
+            "outro": "Doa ini diajar Rasulullah SAW kepada Aisyah RA khusus untuk diamalkan pada Lailatul Qadr."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ayat terpenting — nilai Lailatul Qadr:",
+        "arabic": "لَيۡلَةُ الۡقَدۡرِ خَيۡرٌ مِّنۡ أَلۡفِ شَهۡرٍ",
+        "translation": "Lailatul Qadr lebih baik dari seribu bulan.",
+        "outro": "1000 bulan = 83 tahun 4 bulan. Bayangkan seumur hidup manusia dalam SATU malam beribadah!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Panduan Menghafaz Surah al-Qadr",
+      "items": [
+        "Surah ini hanya 5 ayat — pendek dan mudah dihafaz!",
+        "Ayat 1: 'Inna anzalnahu fi lailatul qadr' — ayat mudah, ulang 3 kali.",
+        "Ayat 2: soalan retorik — 'wa ma adraka ma lailatul qadr' (sama pola dengan al-Qari'ah).",
+        "Ayat 3: ayat paling penting — 'lailatul qadr khayrun min alfi shahr'.",
+        "Ayat 4: malaikat turun — 'tanazzalul mala'ikatu wa al-ruh fiha bi izni rabbihim...'.",
+        "Ayat 5: salam hingga fajar — 'salamun hiya hatta matla' il-fajr'."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa ayat dalam Surah al-Qadr?",
+      "options": [
+        "3 ayat",
+        "4 ayat",
+        "5 ayat",
+        "6 ayat"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Lailatul Qadr lebih baik dari berapa bulan?",
+      "options": [
+        "100 bulan",
+        "500 bulan",
+        "700 bulan",
+        "1000 bulan"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Apakah yang diturunkan pada Lailatul Qadr?",
+      "options": [
+        "Hujan lebat",
+        "Al-Quran",
+        "Wahyu terakhir sahaja",
+        "Rezeki yang banyak"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sehingga bila malam Lailatul Qadr berlangsung dengan penuh kesejahteraan?",
+      "options": [
+        "Sehingga tengah malam",
+        "Sehingga terbit fajar (waktu Subuh)",
+        "Sehingga matahari terbenam",
+        "Sehingga azan Isyak"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Surah al-Qadr", "colour": "#E91E63" },
+      { "id": "n2", "label": "Al-Quran Diturun", "colour": "#C2185B" },
+      { "id": "n3", "label": "Lebih Baik 1000 Bulan", "colour": "#AD1457" },
+      { "id": "n4", "label": "Malaikat Turun", "colour": "#880E4F" },
+      { "id": "n5", "label": "5 Ayat", "colour": "#F06292" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "ayat 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "ayat 3" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "ayat 4" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "jumlah" }
+    ]
+  },
+  "vocab": [
+    { "word": "الۡقَدۡر", "meaning": "al-Qadr — kemuliaan / ketetapan" },
+    { "word": "لَيۡلَة", "meaning": "laylah — malam" },
+    { "word": "أَلۡف شَهۡر", "meaning": "alf shahr — seribu bulan (83 tahun 4 bulan)" },
+    { "word": "الرُّوح", "meaning": "al-Ruh — Malaikat Jibril AS" },
+    { "word": "سَلَام", "meaning": "salam — kesejahteraan, kedamaian" }
+  ],
+  "funFact": "Tahukah kamu kenapa Lailatul Qadr lebih baik dari 1000 bulan? Para ulama mengatakan bahawa umat-umat terdahulu hidup sangat lama (ratusan tahun) dan dapat beribadah jauh lebih lama dari umat Nabi Muhammad SAW. Sebagai rahmat Allah kepada umat akhir zaman yang umurnya lebih pendek (purata 60-70 tahun), Allah menghadiahkan Lailatul Qadr — satu malam yang nilainya melebihi 83 tahun ibadah! Jadi sesiapa yang beribadah pada malam itu, seolah-olah dia telah beribadah lebih lama dari keseluruhan hidupnya. Subhanallah!"
+}

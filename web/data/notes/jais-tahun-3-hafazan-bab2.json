@@ -1,0 +1,162 @@
+{
+  "id": "jais-tahun-3-hafazan-bab2",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "hafazan",
+  "chapter": 2,
+  "title": "Surah al-Adiyat — Kuda-Kuda Perang yang Gagah",
+  "emoji": "🐎",
+  "colour": "#E91E63",
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "سُورَةُ الۡعَادِيَاتِ — Surah al-Adiyat (Surah 100)",
+      "body": "Surah al-Adiyat adalah surah ke-100 dalam al-Quran, mengandungi 11 ayat. Surah ini dimulakan dengan sumpah Allah menggunakan kuda-kuda perang yang berlari kencang. Ia kemudian mengkritik sifat manusia yang kufur (tidak bersyukur) kepada nikmat Allah, dan mengingatkan tentang hari kiamat di mana segala rahsia hati akan terbongkar."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🐎",
+          "title": "Teks Surah al-Adiyat (Ayat 1–5)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat 1–5: Sumpah dengan kuda-kuda perang:",
+            "arabic": "بِسۡمِ اللَّهِ الرَّحۡمَٰنِ الرَّحِيمِ\nوَالۡعَادِيَاتِ ضَبۡحًا ﴿١﴾ فَالۡمُورِيَاتِ قَدۡحًا ﴿٢﴾ فَالۡمُغِيرَاتِ صُبۡحًا ﴿٣﴾ فَأَثَرۡنَ بِهِۦ نَقۡعًا ﴿٤﴾ فَوَسَطۡنَ بِهِۦ جَمۡعًا ﴿٥﴾",
+            "translation": "Demi kuda-kuda perang yang berlari kencang sambil terengah-engah (1). Lalu memercikkan bunga api (dengan kukunya) (2). Lalu menyerang di waktu subuh (3). Lalu menerbangkan debu (4). Lalu menceroboh ke tengah-tengah musuh (5)."
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Teks Surah al-Adiyat (Ayat 6–11)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat 6–11: Sifat manusia dan hari kiamat:",
+            "arabic": "إِنَّ الۡإِنسَانَ لِرَبِّهِۦ لَكَنُودٌ ﴿٦﴾ وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ ﴿٧﴾ وَإِنَّهُۥ لِحُبِّ الۡخَيۡرِ لَشَدِيدٌ ﴿٨﴾ أَفَلَا يَعۡلَمُ إِذَا بُعۡثِرَ مَا فِي الۡقُبُورِ ﴿٩﴾ وَحُصِّلَ مَا فِي الصُّدُورِ ﴿١٠﴾ إِنَّ رَبَّهُم بِهِمۡ يَوۡمَئِذٍ لَّخَبِيرٌ ﴿١١﴾",
+            "translation": "Sesungguhnya manusia sangat kufur (tidak bersyukur) kepada Tuhannya (6). Dan sesungguhnya dia sendiri menyaksikan hal itu (7). Dan sesungguhnya dia sangat cinta kepada harta (8). Apakah dia tidak tahu ketika isi kubur dibangkitkan (9). Dan apa yang tersimpan dalam dada (hati) terbongkar (10). Sesungguhnya Tuhan mereka pada hari itu Maha Mengetahui tentang mereka (11)."
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Makna Kosa Kata Penting",
+          "body": {
+            "type": "list",
+            "intro": "Kosa kata penting dalam Surah al-Adiyat:",
+            "items": [
+              "الۡعَادِيَات (al-'adiyat) — kuda-kuda yang berlari kencang",
+              "ضَبۡح (dabh) — bunyi nafas kuda yang terengah-engah semasa berlari",
+              "الۡمُورِيَات (al-muriyat) — kuda yang memercikkan bunga api dari kukunya",
+              "الۡمُغِيرَات (al-mughirat) — kuda yang menyerang",
+              "كَنُوۡد (kanud) — sangat kufur, tidak bersyukur, mengingkari nikmat",
+              "الصُّدُور (al-sudur) — dada/hati, tempat tersimpannya rahsia"
+            ]
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "Pengajaran Surah al-Adiyat",
+          "body": {
+            "type": "list",
+            "intro": "Pengajaran yang boleh diambil:",
+            "items": [
+              "Kuda perang sanggup berjuang habis-habisan untuk tuannya — manusia sepatutnya lebih bersungguh untuk Allah",
+              "Manusia sering bersifat kufur (tidak bersyukur) walaupun Allah limpahi nikmat",
+              "Cinta berlebihan kepada harta boleh menjadikan seseorang lalai dari Allah",
+              "Pada hari kiamat, semua yang tersimpan dalam hati akan terbongkar — jaga niat!",
+              "Allah Maha Mengetahui segala perbuatan kita — setiap amalan dicatat"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💰",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ayat 8 — peringatan tentang cinta harta yang berlebihan:",
+        "arabic": "وَإِنَّهُۥ لِحُبِّ الۡخَيۡرِ لَشَدِيدٌ",
+        "translation": "Dan sesungguhnya manusia sangat kuat cintanya kepada harta (al-khayr).",
+        "outro": "Harta adalah ujian — bukan tujuan hidup. Gunakan harta di jalan Allah!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Panduan Menghafaz Surah al-Adiyat",
+      "items": [
+        "Bahagikan surah kepada 2 bahagian: ayat 1–5 (kuda perang) dan ayat 6–11 (sifat manusia).",
+        "Ayat 1–5 mengandungi 5 sifat kuda — hafaz dalam urutan: berlari → bunga api → serang subuh → debu → cerobohi.",
+        "Ayat 6–7: manusia kufur dan dia sendiri menyaksikannya.",
+        "Ayat 8: cinta harta yang kuat.",
+        "Ayat 9–11: hari kiamat — kubur dibangkitkan, rahsia hati terbongkar, Allah Maha Mengetahui.",
+        "Ulang baca dengan renungi makna setiap ayat — ini bantu hafazan lebih kuat."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah yang Allah bersumpah dengannya di awal Surah al-Adiyat?",
+      "options": [
+        "Matahari dan bulan",
+        "Kuda-kuda perang",
+        "Lautan yang bergelombang",
+        "Bintang-bintang"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah maksud 'kanud' dalam Surah al-Adiyat?",
+      "options": [
+        "Sangat kuat",
+        "Sangat bersyukur",
+        "Sangat kufur/tidak bersyukur",
+        "Sangat soleh"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang akan terbongkar pada hari kiamat menurut ayat 10?",
+      "options": [
+        "Harta tersembunyi",
+        "Rahsia yang tersimpan dalam dada/hati",
+        "Nama-nama manusia",
+        "Amalan solat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa ayat dalam Surah al-Adiyat?",
+      "options": [
+        "8 ayat",
+        "9 ayat",
+        "10 ayat",
+        "11 ayat"
+      ],
+      "answer": 3
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Surah al-Adiyat", "colour": "#E91E63" },
+      { "id": "n2", "label": "Sumpah (Kuda Perang)", "colour": "#C2185B" },
+      { "id": "n3", "label": "Sifat Manusia (Kufur)", "colour": "#AD1457" },
+      { "id": "n4", "label": "Hari Kiamat", "colour": "#880E4F" },
+      { "id": "n5", "label": "11 Ayat", "colour": "#F06292" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "ayat 1-5" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "ayat 6-8" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "ayat 9-11" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "jumlah" }
+    ]
+  },
+  "vocab": [
+    { "word": "الۡعَادِيَات", "meaning": "al-'adiyat — kuda-kuda yang berlari kencang" },
+    { "word": "ضَبۡح", "meaning": "dabh — bunyi nafas kuda yang terengah-engah" },
+    { "word": "كَنُوۡد", "meaning": "kanud — kufur nikmat, tidak bersyukur" },
+    { "word": "الصُّدُوۡر", "meaning": "al-sudur — dada/hati manusia" },
+    { "word": "الۡخَيۡر", "meaning": "al-khayr — harta, kebaikan; dalam konteks ini bermaksud harta" }
+  ],
+  "funFact": "Tahukah kamu bahawa kuda digunakan dalam perang zaman Rasulullah SAW? Kuda adalah aset perang yang sangat berharga — pantas, kuat, dan setia. Dalam perang, kuda boleh berlari sangat laju hingga kukunya mengeluarkan bunga api apabila melangkah di atas batu! Allah bersumpah dengan kuda-kuda perang ini untuk menarik perhatian manusia supaya berfikir: jika kuda sanggup berjuang habis-habisan untuk tuannya, mengapa manusia tidak bersungguh-sungguh dalam ibadah kepada Allah yang menciptakan mereka?"
+}

@@ -1,0 +1,165 @@
+{
+  "id": "jais-tahun-3-hafazan-bab5",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "hafazan",
+  "chapter": 5,
+  "title": "Doa Iftitah — Pembuka Solat yang Indah",
+  "emoji": "🤲",
+  "colour": "#E91E63",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "دُعَاءُ الۡاِفۡتِتَاح — Doa Iftitah",
+      "body": "Doa Iftitah ialah doa pembuka solat yang dibaca selepas Takbiratul Ihram dan sebelum membaca Surah al-Fatihah. Ia adalah sunat yang sangat digalakkan dalam solat. Doa ini mengandungi pujian dan pengiktirafan kebesaran Allah, dan merupakan tanda kerendahan diri seorang hamba di hadapan Penciptanya."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🤲",
+          "title": "Doa Iftitah — Versi Pertama (Lebih Pendek)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Doa Iftitah versi ringkas yang biasa diajar di sekolah:",
+            "arabic": "اللَّهُمَّ بَاعِدۡ بَيۡنِي وَبَيۡنَ خَطَايَايَ كَمَا بَاعَدۡتَ بَيۡنَ الۡمَشۡرِقِ وَالۡمَغۡرِبِ. اللَّهُمَّ نَقِّنِي مِنۡ خَطَايَايَ كَمَا يُنَقَّى الثَّوۡبُ الۡأَبۡيَضُ مِنَ الدَّنَسِ. اللَّهُمَّ اغۡسِلۡنِي مِنۡ خَطَايَايَ بِالۡمَاءِ وَالثَّلۡجِ وَالۡبَرَدِ",
+            "translation": "Ya Allah, jauhkanlah antara aku dan kesalahanku sebagaimana Engkau jauhkan antara timur dan barat. Ya Allah, bersihkanlah aku dari kesalahanku sebagaimana kain putih dibersihkan dari kotoran. Ya Allah, cucilah aku dari kesalahanku dengan air, salji, dan embun.",
+            "source": "Hadis Riwayat Bukhari & Muslim"
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Doa Iftitah — Versi Kedua (Lebih Panjang)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Doa Iftitah yang lebih panjang — biasa dibaca dalam solat Mazhab Syafi'i:",
+            "arabic": "وَجَّهۡتُ وَجۡهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالۡأَرۡضَ حَنِيفًا مُسۡلِمًا وَمَا أَنَا مِنَ الۡمُشۡرِكِينَ. إِنَّ صَلَاتِي وَنُسُكِي وَمَحۡيَايَ وَمَمَاتِي لِلَّهِ رَبِّ الۡعَالَمِينَ. لَا شَرِيكَ لَهُ وَبِذَلِكَ أُمِرۡتُ وَأَنَا مِنَ الۡمُسۡلِمِينَ",
+            "translation": "Aku hadapkan wajahku kepada Zat yang mencipta langit dan bumi, dalam keadaan lurus (hanif) dan Muslim, dan aku bukan daripada golongan musyrik. Sesungguhnya solatku, ibadahku, hidupku, dan matiku adalah untuk Allah Tuhan sekalian alam. Tiada sekutu bagi-Nya, dan dengan demikian aku diperintahkan, dan aku termasuk dalam golongan Muslim.",
+            "source": "Hadis Riwayat Muslim"
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Makna Mendalam Doa Iftitah",
+          "body": {
+            "type": "list",
+            "intro": "Pengajaran dari Doa Iftitah:",
+            "items": [
+              "'Jauhkan antara aku dan dosa seperti timur dan barat' — mohon Allah ampunkan semua dosa kita",
+              "'Bersihkan seperti kain putih' — mohon jiwa kita jadi bersih dan suci",
+              "'Cuci dengan air, salji, dan embun' — semua jenis 'air kesucian' dari Allah",
+              "'Aku hadapkan wajahku kepada Allah' — melepaskan diri dari segala tumpuan lain",
+              "'Solatku, hidupku, matiku untuk Allah' — ikrar kesetiaan total kepada Allah",
+              "Doa ini dibaca dalam hati (senyap) — sunat, bukan wajib"
+            ]
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "Perbezaan Dua Versi Doa Iftitah",
+          "body": {
+            "type": "list",
+            "intro": "Bila diguna setiap versi:",
+            "items": [
+              "Versi 1 (Bukhari & Muslim): lebih pendek, fokus pada permohonan ampun dosa",
+              "Versi 2 (Muslim): lebih panjang, berisi ikrar kepada Allah dan penolakan syirik",
+              "Kedua-duanya SAH dan boleh digunakan — bergantung pada situasi dan kemampuan",
+              "Dalam solat yang panjang: boleh baca versi 2 yang lebih lengkap",
+              "Dalam solat yang singkat atau berjemaah: versi 1 lebih sesuai",
+              "Yang penting: fahami makna dan hayati setiap patah kata yang dibaca"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "❤️",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ayat ikrar dalam Doa Iftitah versi 2 — makna yang sangat mendalam:",
+        "arabic": "إِنَّ صَلَاتِي وَنُسُكِي وَمَحۡيَايَ وَمَمَاتِي لِلَّهِ رَبِّ الۡعَالَمِينَ",
+        "translation": "Sesungguhnya solatku, ibadahku, hidupku, dan matiku adalah untuk Allah Tuhan sekalian alam.",
+        "outro": "Ikrar ini juga terdapat dalam Surah al-An'am (6:162). Setiap kali kita baca ini, kita menyatakan semula tujuan hidup kita!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menghafaz dan Menghayati Doa Iftitah",
+      "items": [
+        "Mula dengan Doa Iftitah versi 1 yang lebih pendek — hafaz dahulu.",
+        "Faham makna: 3 permohonan — jauhkan dosa, bersihkan jiwa, cuci dengan air suci.",
+        "Bayangkan visualnya: dosa kita 'dijauhkan' sejauh timur dan barat — sangat jauh!",
+        "Setelah hafaz versi 1, cuba hafaz versi 2 sedikit demi sedikit.",
+        "Baca dengan perlahan dalam solat — ini masa kita berbual dengan Allah.",
+        "Ingat: doa ini dibaca SENYAP dalam solat, selepas Takbiratul Ihram, sebelum al-Fatihah."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Bilakah Doa Iftitah dibaca dalam solat?",
+      "options": [
+        "Selepas salam",
+        "Sebelum Takbiratul Ihram",
+        "Selepas Takbiratul Ihram dan sebelum al-Fatihah",
+        "Selepas rukuk"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah hukum membaca Doa Iftitah dalam solat?",
+      "options": [
+        "Wajib — jika tinggal solat batal",
+        "Sunat — digalakkan tapi tidak wajib",
+        "Haram — tidak boleh dibaca",
+        "Makruh — lebih baik ditinggalkan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dalam Doa Iftitah, dosa kita diminta Allah jauhkan seperti apa?",
+      "options": [
+        "Seperti gunung yang jauh",
+        "Seperti jauhnya timur dan barat",
+        "Seperti lautan yang luas",
+        "Seperti langit dan bumi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Ayat 'Inna solati wa nusuki wa mahyaya wa mamati lillahi rabbil alamin' bermaksud?",
+      "options": [
+        "Aku memohon ampun atas dosa-dosaku",
+        "Aku menghadap kiblat dengan ikhlas",
+        "Solatku, ibadahku, hidupku dan matiku untuk Allah",
+        "Aku menyucikan diri dari segala noda"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Doa Iftitah", "colour": "#E91E63" },
+      { "id": "n2", "label": "Selepas Takbiratul Ihram", "colour": "#C2185B" },
+      { "id": "n3", "label": "Versi 1: Mohon Ampun", "colour": "#AD1457" },
+      { "id": "n4", "label": "Versi 2: Ikrar kepada Allah", "colour": "#880E4F" },
+      { "id": "n5", "label": "Sunat dalam Solat", "colour": "#F06292" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "masa" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "pilihan 1" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "pilihan 2" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "hukum" }
+    ]
+  },
+  "vocab": [
+    { "word": "اِفۡتِتَاح", "meaning": "iftitah — pembukaan (solat)" },
+    { "word": "خَطَايَا", "meaning": "khataaya — kesalahan-kesalahan / dosa-dosa" },
+    { "word": "دَنَس", "meaning": "danas — kotoran / noda" },
+    { "word": "حَنِيۡف", "meaning": "hanif — condong kepada kebenaran, lurus" },
+    { "word": "نُسُك", "meaning": "nusuk — ibadah / korban" }
+  ],
+  "funFact": "Tahukah kamu bahawa Doa Iftitah yang kita baca setiap solat sebenarnya adalah permintaan luar biasa kepada Allah? Bayangkan jika ada ubat yang boleh mencuci dosa sehingga bersih seperti kain putih — itulah apa yang kita minta dari Allah dalam Doa Iftitah! Menariknya, doa ini menyebutkan 3 bahan pencuci: air (ماء), salji (ثلج), dan embun (برد). Para ulama menerangkan bahawa ini menggambarkan pembersihan yang sempurna dan menyeluruh — seperti dicuci, dibilas dengan salji sejuk, dan dikilatkan dengan embun. Solat kita bukan sekadar pergerakan — ia adalah dialog jiwa dengan Allah!"
+}

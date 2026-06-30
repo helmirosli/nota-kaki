@@ -1,0 +1,166 @@
+{
+  "id": "jais-tahun-3-feqah-bab3",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "feqah",
+  "chapter": 3,
+  "title": "Wajib Solat — Perkara yang Wajib Dijaga",
+  "emoji": "🕌",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "وَاجِبُ الصَّلَاةِ — Wajib Solat",
+      "body": "Selain rukun, terdapat perkara-perkara yang WAJIB dilakukan dalam solat tetapi lebih ringan dari rukun. Jika seseorang meninggalkan wajib solat dengan SENGAJA — solat itu BATAL. Tetapi jika terlupa, solatnya SAH namun perlu sujud sahwi (sujud lupa) untuk menampungnya."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📢",
+          "title": "Wajib Solat yang Perlu Diketahui",
+          "body": {
+            "type": "list",
+            "intro": "Perkara-perkara wajib dalam solat:",
+            "items": [
+              "1. Takbir perpindahan (intiqal) — ucapkan 'Allahu Akbar' setiap kali berpindah pergerakan",
+              "2. Membaca 'Sami'Allahu liman hamidah' semasa bangun dari rukuk (imam dan yang bersolat bersendirian)",
+              "3. Membaca 'Rabbana lakal hamd' semasa iktidal",
+              "4. Membaca 'Subhana Rabbiyal Azim' sekurang-kurangnya 3 kali semasa rukuk",
+              "5. Membaca 'Subhana Rabbiyal A'la' sekurang-kurangnya 3 kali semasa sujud",
+              "6. Membaca doa duduk antara dua sujud",
+              "7. Membaca Tasyahhud Awal (di rak'at kedua dalam solat 3 atau 4 rak'at)",
+              "8. Berselawat ke atas Nabi dalam Tasyahhud Awal"
+            ]
+          }
+        },
+        {
+          "icon": "🙇",
+          "title": "Bacaan Wajib Semasa Rukuk",
+          "body": {
+            "type": "arabic",
+            "instruction": "Bacaan wajib semasa rukuk (3 kali):",
+            "arabic": "سُبۡحَانَ رَبِّيَ الۡعَظِيۡمِ",
+            "translation": "Maha Suci Tuhanku yang Maha Agung.",
+            "outro": "Dibaca sekurang-kurangnya 3 kali. Lebih banyak lebih afdal."
+          }
+        },
+        {
+          "icon": "🤲",
+          "title": "Bacaan Wajib Semasa Sujud",
+          "body": {
+            "type": "arabic",
+            "instruction": "Bacaan wajib semasa sujud (3 kali):",
+            "arabic": "سُبۡحَانَ رَبِّيَ الۡأَعۡلَى",
+            "translation": "Maha Suci Tuhanku yang Maha Tinggi.",
+            "outro": "Dibaca sekurang-kurangnya 3 kali semasa sujud."
+          }
+        },
+        {
+          "icon": "🪑",
+          "title": "Doa Duduk Antara Dua Sujud",
+          "body": {
+            "type": "arabic",
+            "instruction": "Doa wajib semasa duduk antara dua sujud:",
+            "arabic": "رَبِّ اغۡفِرۡ لِيۡ وَارۡحَمۡنِيۡ وَاجۡبُرۡنِيۡ وَارۡفَعۡنِيۡ وَارۡزُقۡنِيۡ وَاهۡدِنِيۡ وَعَافِنِيۡ وَاعۡفُ عَنِّيۡ",
+            "translation": "Ya Tuhanku, ampunilah aku, kasihanilah aku, tampunglah kekuranganku, angkatlah darjatku, berilah aku rezeki, tunjukilah aku, sihatkanlah aku, dan maafkanlah aku.",
+            "outro": "Doa ini sangat bermakna — mengandungi 7 permintaan kepada Allah!"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🔔",
+      "text": {
+        "type": "list",
+        "intro": "Perbezaan Rukun vs Wajib Solat:",
+        "items": [
+          "RUKUN: Jika tinggal sengaja ATAU lupa → solat BATAL",
+          "WAJIB: Jika tinggal SENGAJA → solat BATAL",
+          "WAJIB: Jika tinggal LUPA → solat SAH + Sujud Sahwi",
+          "SUNAT: Jika tinggal → solat SAH, tidak perlu Sujud Sahwi"
+        ],
+        "outro": "Rukun > Wajib > Sunat — dalam kepentingannya kepada kesahan solat."
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Melaksanakan Wajib Solat dengan Betul",
+      "items": [
+        "Sebelum setiap pergerakan, ucapkan takbir intiqal 'Allahu Akbar'.",
+        "Semasa rukuk: baca 'Subhana Rabbiyal Azim' perlahan sekurang-kurangnya 3 kali.",
+        "Bangun dari rukuk: imam/bersendirian baca 'Sami'Allahu liman hamidah', semua baca 'Rabbana lakal hamd'.",
+        "Semasa sujud: baca 'Subhana Rabbiyal A'la' sekurang-kurangnya 3 kali.",
+        "Duduk antara dua sujud: baca doa 'Rabbighfirlii...' dengan penuh.",
+        "Dalam solat 3 atau 4 rak'at, baca Tasyahhud Awal di rak'at kedua sebelum bangun."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah bacaan wajib semasa rukuk?",
+      "options": [
+        "Subhana Rabbiyal A'la",
+        "Subhana Rabbiyal Azim",
+        "Allahu Akbar",
+        "Sami'Allahu liman hamidah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Jika seseorang terlupa membaca Tasyahhud Awal, apa yang perlu dilakukan?",
+      "options": [
+        "Ulang solat dari awal",
+        "Sujud Sahwi sebelum salam",
+        "Tambah rak'at baru",
+        "Baca doa kaffarah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa kali minimum bacaan 'Subhana Rabbiyal A'la' semasa sujud?",
+      "options": [
+        "1 kali",
+        "2 kali",
+        "3 kali",
+        "7 kali"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah perbezaan utama antara rukun dan wajib solat?",
+      "options": [
+        "Rukun dibaca kuat, wajib dibaca perlahan",
+        "Wajib boleh ditampung Sujud Sahwi jika lupa, rukun tidak boleh",
+        "Rukun hanya untuk lelaki, wajib untuk semua",
+        "Tiada perbezaan"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Wajib Solat", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Takbir Intiqal", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "Bacaan Rukuk", "colour": "#8E24AA" },
+      { "id": "n4", "label": "Bacaan Sujud", "colour": "#AB47BC" },
+      { "id": "n5", "label": "Tasyahhud Awal", "colour": "#BA68C8" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "wajib" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "wajib" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "wajib" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "wajib" }
+    ]
+  },
+  "vocab": [
+    { "word": "وَاجِب", "meaning": "wajib — perkara yang mesti dilakukan" },
+    { "word": "سُجُوۡد السَّهۡو", "meaning": "sujud sahwi — sujud ganti jika lupa wajib" },
+    { "word": "اِنۡتِقَال", "meaning": "intiqal — perpindahan pergerakan dalam solat" },
+    { "word": "رُكُوۡع", "meaning": "rukuk — membongkok dalam solat" },
+    { "word": "تَشَهُّد اَوَّل", "meaning": "tasyahhud awal — duduk pertama dalam solat 3/4 rak'at" }
+  ],
+  "funFact": "Tahukah kamu makna 'Subhana Rabbiyal Azim' yang kita baca semasa rukuk? 'Subhana' bermaksud 'Maha Suci', 'Rabbi' bermaksud 'Tuhanku', dan 'Azim' bermaksud 'Maha Agung'. Semasa kita membongkok dalam rukuk, kita sedang mengakui kebesaran Allah dan ketinggian-Nya berbanding kita sebagai hamba yang kecil. Setiap bacaan dalam solat mengandungi makna yang dalam — solat bukan sekadar pergerakan fizikal, tetapi penyerahan jiwa yang penuh kepada Allah!"
+}

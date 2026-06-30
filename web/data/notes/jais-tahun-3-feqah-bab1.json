@@ -1,0 +1,181 @@
+{
+  "id": "jais-tahun-3-feqah-bab1",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "feqah",
+  "chapter": 1,
+  "title": "Solat Fardhu Lima Waktu",
+  "emoji": "🕌",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الصَّلَاةُ — Solat Lima Waktu",
+      "body": "Solat fardhu adalah ibadat wajib yang mesti dilakukan oleh setiap Muslim yang baligh dan berakal. Terdapat lima waktu solat sehari semalam. Solat adalah tiang agama Islam — sesiapa yang mendirikan solat, maka ia telah mendirikan agamanya."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🌅",
+          "title": "Lima Waktu Solat Fardhu",
+          "body": {
+            "type": "list",
+            "intro": "Lima waktu solat fardhu dan bilangan rak'atnya:",
+            "items": [
+              "Subuh — 2 rak'at (dari fajar sadiq hingga terbit matahari)",
+              "Zuhur — 4 rak'at (dari gelincir matahari hingga bayang sama panjang)",
+              "Asar — 4 rak'at (dari bayang melebihi panjang benda hingga matahari terbenam)",
+              "Maghrib — 3 rak'at (dari terbenam matahari hingga hilang mega merah)",
+              "Isyak — 4 rak'at (dari hilang mega merah hingga terbit fajar)"
+            ]
+          }
+        },
+        {
+          "icon": "📋",
+          "title": "Syarat Wajib Solat",
+          "body": {
+            "type": "list",
+            "intro": "Syarat-syarat yang mewajibkan seseorang menunaikan solat:",
+            "items": [
+              "Islam — hanya diwajibkan ke atas orang Islam",
+              "Baligh — sudah cukup umur (lelaki: ~15 tahun / perempuan: haid)",
+              "Berakal — tidak gila atau pengsan",
+              "Suci dari haid dan nifas (bagi perempuan)",
+              "Telah sampai dakwah Islam kepadanya"
+            ]
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "Syarat Sah Solat",
+          "body": {
+            "type": "list",
+            "intro": "Syarat-syarat yang menyebabkan solat itu sah:",
+            "items": [
+              "Suci dari hadas besar (mandi wajib) dan hadas kecil (berwudhu)",
+              "Suci badan, pakaian, dan tempat dari najis",
+              "Menutup aurat — lelaki: pusat hingga lutut; perempuan: seluruh badan kecuali muka dan tapak tangan",
+              "Menghadap kiblat (Kaabah di Makkah)",
+              "Sudah masuk waktu solat",
+              "Mengetahui cara solat"
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Kelebihan Mendirikan Solat",
+          "body": {
+            "type": "arabic",
+            "instruction": "Hadis Rasulullah SAW tentang kewajiban solat:",
+            "arabic": "بُنِيَ الإِسۡلَامُ عَلَى خَمۡسٍ... وَإِقَامِ الصَّلَاةِ",
+            "translation": "Islam itu dibina atas lima perkara... dan mendirikan solat.",
+            "source": "Hadis Riwayat Bukhari & Muslim",
+            "outro": "Solat adalah rukun Islam yang kedua — wajib dilakukan 5 kali sehari."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "⏰",
+      "text": {
+        "type": "list",
+        "intro": "Cara mengingati lima waktu solat:",
+        "items": [
+          "Subuh (2): waktu pagi, sebelum matahari terbit",
+          "Zuhur (4): tengah hari, selepas matahari gelincir",
+          "Asar (4): petang",
+          "Maghrib (3): lepas matahari terbenam",
+          "Isyak (4): malam"
+        ],
+        "outro": "Jumlah rak'at: 2 + 4 + 4 + 3 + 4 = 17 rak'at sehari!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Persiapan Sebelum Solat",
+      "items": [
+        "Pastikan sudah berwudhu — suci dari hadas kecil.",
+        "Pakai pakaian yang bersih dan menutup aurat.",
+        "Pastikan tempat solat bersih dari najis.",
+        "Hadapkan diri ke arah kiblat (Makkah).",
+        {
+          "type": "arabic",
+          "arabic": "اللَّهُمَّ أَعِنِّي عَلَى ذِكۡرِكَ وَشُكۡرِكَ وَحُسۡنِ عِبَادَتِكَ",
+          "translation": "Ya Allah, tolonglah aku untuk mengingati-Mu, bersyukur kepada-Mu, dan beribadah kepada-Mu dengan baik.",
+          "source": "Hadis Riwayat Abu Dawud"
+        },
+        "Lafazkan niyyah dalam hati sebelum bertakbiratul ihram."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapakah bilangan rak'at solat Maghrib?",
+      "options": [
+        "2 rak'at",
+        "3 rak'at",
+        "4 rak'at",
+        "5 rak'at"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah solat fardhu yang pertama dalam sehari?",
+      "options": [
+        "Zuhur",
+        "Asar",
+        "Subuh",
+        "Maghrib"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapakah jumlah rak'at solat fardhu dalam sehari semalam?",
+      "options": [
+        "15 rak'at",
+        "16 rak'at",
+        "17 rak'at",
+        "20 rak'at"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Manakah yang BUKAN syarat sah solat?",
+      "options": [
+        "Menghadap kiblat",
+        "Menutup aurat",
+        "Membaca al-Quran dengan fasih",
+        "Suci dari hadas"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Solat Fardhu", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Subuh (2 rak'at)", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "Zuhur (4 rak'at)", "colour": "#8E24AA" },
+      { "id": "n4", "label": "Asar (4 rak'at)", "colour": "#AB47BC" },
+      { "id": "n5", "label": "Maghrib (3 rak'at)", "colour": "#BA68C8" },
+      { "id": "n6", "label": "Isyak (4 rak'at)", "colour": "#CE93D8" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "3" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "4" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "5" }
+    ]
+  },
+  "vocab": [
+    { "word": "الصَّلَاة", "meaning": "solat — sembahyang / prayer" },
+    { "word": "فَرۡض", "meaning": "fardhu — wajib dilakukan" },
+    { "word": "رَكۡعَة", "meaning": "rak'at — unit solat" },
+    { "word": "الۡكِبۡلَة", "meaning": "kiblat — arah Kaabah di Makkah" },
+    { "word": "وُضُوء", "meaning": "wudhu — bersuci sebelum solat" }
+  ],
+  "funFact": "Tahukah kamu bahawa perintah solat lima waktu diturunkan kepada Nabi Muhammad SAW semasa peristiwa Israk dan Mikraj? Pada mulanya, Allah mewajibkan 50 waktu solat sehari! Nabi Musa AS menasihati Nabi Muhammad SAW supaya memohon pengurangan. Nabi Muhammad SAW terus ulang-alik antara Allah dan Nabi Musa sehingga dikurangkan kepada 5 waktu. Walaupun hanya 5 waktu, pahalanya tetap seperti 50 waktu — begitulah kasih sayang Allah kepada hamba-Nya!"
+}

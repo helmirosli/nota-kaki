@@ -21,30 +21,41 @@
           "icon": "🥢",
           "title": "Sudu, Garpu dan Pisau",
           "body": {
-            "type": "arabic",
-            "instruction": "Peralatan makan asas dalam bahasa Arab:",
-            "arabic": "مِلْعَقَةٌ — مِلْعَقَةٌ\nشَوْكَةٌ — شَوْكَةٌ\nسِكِّينٌ — سِكِّينٌ\nمِغْرَفَةٌ — مِغْرَفَةٌ\nإِبْرِيقٌ — إِبْرِيقٌ",
-            "translation": "مِلْعَقَة = sudu\nشَوْكَة = garpu\nسِكِّين = pisau\nمِغْرَفَة = sudip/senduk masak\nإِبْرِيق = cerek/teko"
+            "type": "pairs",
+            "rows": [
+              { "arabic": "مِلْعَقَة", "meaning": "sudu" },
+              { "arabic": "شَوْكَة", "meaning": "garpu" },
+              { "arabic": "سِكِّين", "meaning": "pisau" },
+              { "arabic": "مِغْرَفَة", "meaning": "sudip / senduk masak" },
+              { "arabic": "إِبْرِيق", "meaning": "cerek / teko" }
+            ]
           }
         },
         {
           "icon": "🍽️",
           "title": "Pinggan, Cawan dan Gelas",
           "body": {
-            "type": "arabic",
-            "instruction": "Bekas untuk makan dan minum:",
-            "arabic": "صَحْنٌ — صَحْنٌ\nكُوبٌ — كُوبٌ\nفِنْجَانٌ — فِنْجَانٌ\nقَدَحٌ — قَدَحٌ\nكُوزٌ — كُوزٌ",
-            "translation": "صَحْن = pinggan\nكُوب = cawan/mug\nفِنْجَان = cawan teh kecil\nقَدَح = gelas\nكُوز = tempat air"
+            "type": "pairs",
+            "rows": [
+              { "arabic": "صَحْن", "meaning": "pinggan" },
+              { "arabic": "كُوب", "meaning": "cawan / mug" },
+              { "arabic": "فِنْجَان", "meaning": "cawan teh kecil" },
+              { "arabic": "قَدَح", "meaning": "gelas" },
+              { "arabic": "كُوز", "meaning": "tempat air" }
+            ]
           }
         },
         {
           "icon": "🥘",
           "title": "Periuk, Kuali dan Bekas Masak",
           "body": {
-            "type": "arabic",
-            "instruction": "Peralatan untuk memasak:",
-            "arabic": "قِدْرٌ — قِدْرٌ\nمِقْلَاةٌ — مِقْلَاةٌ\nعَصَّارَةٌ — عَصَّارَةٌ\nخَلَّاطَةٌ — خَلَّاطَةٌ",
-            "translation": "قِدْر = periuk\nمِقْلَاة = kuali\nعَصَّارَة = pemeras jus\nخَلَّاطَة = blender"
+            "type": "pairs",
+            "rows": [
+              { "arabic": "قِدْر", "meaning": "periuk" },
+              { "arabic": "مِقْلَاة", "meaning": "kuali" },
+              { "arabic": "عَصَّارَة", "meaning": "pemeras jus" },
+              { "arabic": "خَلَّاطَة", "meaning": "blender" }
+            ]
           }
         },
         {

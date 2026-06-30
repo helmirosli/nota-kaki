@@ -21,20 +21,44 @@
           "icon": "🌙",
           "title": "الشهور الهجرية — Bulan-bulan Hijriah",
           "body": {
-            "type": "arabic",
-            "instruction": "12 bulan dalam kalendar Islam:",
-            "arabic": "١ - مُحَرَّم\n٢ - صَفَر\n٣ - رَبِيعُ الْأَوَّل\n٤ - رَبِيعُ الْآخِر\n٥ - جُمَادَى الْأُولَى\n٦ - جُمَادَى الْآخِرَة\n٧ - رَجَب\n٨ - شَعْبَان\n٩ - رَمَضَان\n١٠ - شَوَّال\n١١ - ذُو الْقَعْدَة\n١٢ - ذُو الْحِجَّة",
-            "translation": "1-Muharram 2-Safar 3-Rabiulawal 4-Rabiulakhir 5-Jamadilawwal 6-Jamadilakhir 7-Rejab 8-Syaaban 9-Ramadan 10-Syawal 11-Zulkaedah 12-Zulhijjah"
+            "type": "pairs",
+            "intro": "12 bulan dalam kalendar Islam:",
+            "rows": [
+              { "label": "١", "arabic": "مُحَرَّم", "meaning": "Muharram" },
+              { "label": "٢", "arabic": "صَفَر", "meaning": "Safar" },
+              { "label": "٣", "arabic": "رَبِيعُ الْأَوَّل", "meaning": "Rabiulawal" },
+              { "label": "٤", "arabic": "رَبِيعُ الْآخِر", "meaning": "Rabiulakhir" },
+              { "label": "٥", "arabic": "جُمَادَى الْأُولَى", "meaning": "Jamadilawwal" },
+              { "label": "٦", "arabic": "جُمَادَى الْآخِرَة", "meaning": "Jamadilakhir" },
+              { "label": "٧", "arabic": "رَجَب", "meaning": "Rejab" },
+              { "label": "٨", "arabic": "شَعْبَان", "meaning": "Syaaban" },
+              { "label": "٩", "arabic": "رَمَضَان", "meaning": "Ramadan" },
+              { "label": "١٠", "arabic": "شَوَّال", "meaning": "Syawal" },
+              { "label": "١١", "arabic": "ذُو الْقَعْدَة", "meaning": "Zulkaedah" },
+              { "label": "١٢", "arabic": "ذُو الْحِجَّة", "meaning": "Zulhijjah" }
+            ]
           }
         },
         {
           "icon": "📆",
           "title": "الشهور الميلادية — Bulan-bulan Masihi",
           "body": {
-            "type": "arabic",
-            "instruction": "12 bulan dalam kalendar Masihi (Gregorian):",
-            "arabic": "١ - يَنَايِر\n٢ - فِبْرَايِر\n٣ - مَارِس\n٤ - أَبْرِيل\n٥ - مَايُو\n٦ - يُونِيُو\n٧ - يُولِيُو\n٨ - أَغُسْطُس\n٩ - سِبْتَمْبَر\n١٠ - أُكْتُوبَر\n١١ - نُوفِمْبَر\n١٢ - دِيسَمْبَر",
-            "translation": "1-Januari 2-Februari 3-Mac 4-April 5-Mei 6-Jun 7-Julai 8-Ogos 9-September 10-Oktober 11-November 12-Disember"
+            "type": "pairs",
+            "intro": "12 bulan dalam kalendar Masihi (Gregorian):",
+            "rows": [
+              { "label": "١", "arabic": "يَنَايِر", "meaning": "Januari" },
+              { "label": "٢", "arabic": "فِبْرَايِر", "meaning": "Februari" },
+              { "label": "٣", "arabic": "مَارِس", "meaning": "Mac" },
+              { "label": "٤", "arabic": "أَبْرِيل", "meaning": "April" },
+              { "label": "٥", "arabic": "مَايُو", "meaning": "Mei" },
+              { "label": "٦", "arabic": "يُونِيُو", "meaning": "Jun" },
+              { "label": "٧", "arabic": "يُولِيُو", "meaning": "Julai" },
+              { "label": "٨", "arabic": "أَغُسْطُس", "meaning": "Ogos" },
+              { "label": "٩", "arabic": "سِبْتَمْبَر", "meaning": "September" },
+              { "label": "١٠", "arabic": "أُكْتُوبَر", "meaning": "Oktober" },
+              { "label": "١١", "arabic": "نُوفِمْبَر", "meaning": "November" },
+              { "label": "١٢", "arabic": "دِيسَمْبَر", "meaning": "Disember" }
+            ]
           }
         },
         {

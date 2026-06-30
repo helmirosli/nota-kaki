@@ -21,30 +21,60 @@
           "icon": "🔢",
           "title": "Nombor 201–210",
           "body": {
-            "type": "arabic",
-            "instruction": "Nombor-nombor dari 201 hingga 210:",
-            "arabic": "٢٠١ - مِائَتَانِ وَوَاحِد\n٢٠٢ - مِائَتَانِ وَاثْنَان\n٢٠٣ - مِائَتَانِ وَثَلَاثَة\n٢٠٤ - مِائَتَانِ وَأَرْبَعَة\n٢٠٥ - مِائَتَانِ وَخَمْسَة\n٢٠٦ - مِائَتَانِ وَسِتَّة\n٢٠٧ - مِائَتَانِ وَسَبْعَة\n٢٠٨ - مِائَتَانِ وَثَمَانِيَة\n٢٠٩ - مِائَتَانِ وَتِسْعَة\n٢١٠ - مِائَتَانِ وَعَشَرَة",
-            "translation": "201 = dua ratus satu\n202 = dua ratus dua\n203 = dua ratus tiga\n204 = dua ratus empat\n205 = dua ratus lima\n206 = dua ratus enam\n207 = dua ratus tujuh\n208 = dua ratus lapan\n209 = dua ratus sembilan\n210 = dua ratus sepuluh"
+            "type": "pairs",
+            "intro": "Nombor 201–210 dalam bahasa Arab:",
+            "rows": [
+              { "label": "201", "arabic": "مِائَتَانِ وَوَاحِد", "meaning": "dua ratus satu" },
+              { "label": "202", "arabic": "مِائَتَانِ وَاثْنَان", "meaning": "dua ratus dua" },
+              { "label": "203", "arabic": "مِائَتَانِ وَثَلَاثَة", "meaning": "dua ratus tiga" },
+              { "label": "204", "arabic": "مِائَتَانِ وَأَرْبَعَة", "meaning": "dua ratus empat" },
+              { "label": "205", "arabic": "مِائَتَانِ وَخَمْسَة", "meaning": "dua ratus lima" },
+              { "label": "206", "arabic": "مِائَتَانِ وَسِتَّة", "meaning": "dua ratus enam" },
+              { "label": "207", "arabic": "مِائَتَانِ وَسَبْعَة", "meaning": "dua ratus tujuh" },
+              { "label": "208", "arabic": "مِائَتَانِ وَثَمَانِيَة", "meaning": "dua ratus lapan" },
+              { "label": "209", "arabic": "مِائَتَانِ وَتِسْعَة", "meaning": "dua ratus sembilan" },
+              { "label": "210", "arabic": "مِائَتَانِ وَعَشَرَة", "meaning": "dua ratus sepuluh" }
+            ],
+            "outro": "مِائَتَانِ = dua ratus. Tambah وَ + nombor untuk 201–299."
           }
         },
         {
           "icon": "📊",
           "title": "Nombor 211–219 (Belasan)",
           "body": {
-            "type": "arabic",
-            "instruction": "Nombor belasan dari 211 hingga 219:",
-            "arabic": "٢١١ - مِائَتَانِ وَأَحَدَ عَشَرَ\n٢١٢ - مِائَتَانِ وَاثْنَا عَشَرَ\n٢١٣ - مِائَتَانِ وَثَلَاثَةَ عَشَرَ\n٢١٤ - مِائَتَانِ وَأَرْبَعَةَ عَشَرَ\n٢١٥ - مِائَتَانِ وَخَمْسَةَ عَشَرَ\n٢١٦ - مِائَتَانِ وَسِتَّةَ عَشَرَ\n٢١٧ - مِائَتَانِ وَسَبْعَةَ عَشَرَ\n٢١٨ - مِائَتَانِ وَثَمَانِيَةَ عَشَرَ\n٢١٩ - مِائَتَانِ وَتِسْعَةَ عَشَرَ",
-            "translation": "211–219: dua ratus sebelas hingga dua ratus sembilan belas"
+            "type": "pairs",
+            "intro": "Nombor belasan 211–219:",
+            "rows": [
+              { "label": "211", "arabic": "مِائَتَانِ وَأَحَدَ عَشَرَ", "meaning": "dua ratus sebelas" },
+              { "label": "212", "arabic": "مِائَتَانِ وَاثْنَا عَشَرَ", "meaning": "dua ratus dua belas" },
+              { "label": "213", "arabic": "مِائَتَانِ وَثَلَاثَةَ عَشَرَ", "meaning": "dua ratus tiga belas" },
+              { "label": "214", "arabic": "مِائَتَانِ وَأَرْبَعَةَ عَشَرَ", "meaning": "dua ratus empat belas" },
+              { "label": "215", "arabic": "مِائَتَانِ وَخَمْسَةَ عَشَرَ", "meaning": "dua ratus lima belas" },
+              { "label": "216", "arabic": "مِائَتَانِ وَسِتَّةَ عَشَرَ", "meaning": "dua ratus enam belas" },
+              { "label": "217", "arabic": "مِائَتَانِ وَسَبْعَةَ عَشَرَ", "meaning": "dua ratus tujuh belas" },
+              { "label": "218", "arabic": "مِائَتَانِ وَثَمَانِيَةَ عَشَرَ", "meaning": "dua ratus lapan belas" },
+              { "label": "219", "arabic": "مِائَتَانِ وَتِسْعَةَ عَشَرَ", "meaning": "dua ratus sembilan belas" }
+            ]
           }
         },
         {
           "icon": "💯",
-          "title": "Puluhan: 220, 230, ..., 300",
+          "title": "Puluhan: 220, 230 … 300",
           "body": {
-            "type": "arabic",
-            "instruction": "Nombor puluhan dari 220 hingga 300:",
-            "arabic": "٢٢٠ - مِائَتَانِ وَعِشْرُونَ\n٢٣٠ - مِائَتَانِ وَثَلَاثُونَ\n٢٤٠ - مِائَتَانِ وَأَرْبَعُونَ\n٢٥٠ - مِائَتَانِ وَخَمْسُونَ\n٢٦٠ - مِائَتَانِ وَسِتُّونَ\n٢٧٠ - مِائَتَانِ وَسَبْعُونَ\n٢٨٠ - مِائَتَانِ وَثَمَانُونَ\n٢٩٠ - مِائَتَانِ وَتِسْعُونَ\n٣٠٠ - ثَلَاثُمِائَة",
-            "translation": "220 = dua ratus dua puluh\n230 = dua ratus tiga puluh\n...\n300 = tiga ratus"
+            "type": "pairs",
+            "intro": "Nombor puluhan dari 220 hingga 300:",
+            "rows": [
+              { "label": "220", "arabic": "مِائَتَانِ وَعِشْرُونَ", "meaning": "dua ratus dua puluh" },
+              { "label": "230", "arabic": "مِائَتَانِ وَثَلَاثُونَ", "meaning": "dua ratus tiga puluh" },
+              { "label": "240", "arabic": "مِائَتَانِ وَأَرْبَعُونَ", "meaning": "dua ratus empat puluh" },
+              { "label": "250", "arabic": "مِائَتَانِ وَخَمْسُونَ", "meaning": "dua ratus lima puluh" },
+              { "label": "260", "arabic": "مِائَتَانِ وَسِتُّونَ", "meaning": "dua ratus enam puluh" },
+              { "label": "270", "arabic": "مِائَتَانِ وَسَبْعُونَ", "meaning": "dua ratus tujuh puluh" },
+              { "label": "280", "arabic": "مِائَتَانِ وَثَمَانُونَ", "meaning": "dua ratus lapan puluh" },
+              { "label": "290", "arabic": "مِائَتَانِ وَتِسْعُونَ", "meaning": "dua ratus sembilan puluh" },
+              { "label": "300", "arabic": "ثَلَاثُمِائَة", "meaning": "tiga ratus" }
+            ],
+            "outro": "300 = ثَلَاثُمِائَة — pola berbeza, hafaz berasingan!"
           }
         },
         {
@@ -63,10 +93,13 @@
       "type": "callout",
       "icon": "📌",
       "text": {
-        "type": "arabic",
-        "instruction": "Petua penting untuk nombor Arab:",
-        "arabic": "مِائَتَانِ = 200\nمِائَتَانِ وَ + عدد = 201–299\nثَلَاثُمِائَة = 300",
-        "translation": "Dua ratus = مِائَتَانِ. Untuk nombor 201-299, tambah وَ (dan) + nombor selepas 200. Tiga ratus = ثَلَاثُمِائَة.",
+        "type": "pairs",
+        "intro": "Petua penting — 3 nombor asas yang wajib hafaz:",
+        "rows": [
+          { "label": "200", "arabic": "مِائَتَانِ", "meaning": "dua ratus" },
+          { "label": "201–299", "arabic": "مِائَتَانِ وَ + عدد", "meaning": "dua ratus + nombor" },
+          { "label": "300", "arabic": "ثَلَاثُمِائَة", "meaning": "tiga ratus" }
+        ],
         "outro": "Latih sebut nombor dalam Arab setiap hari — ia mudah setelah biasa!"
       }
     },
@@ -75,15 +108,15 @@
       "heading": "Cara Membaca Nombor Arab 201–300",
       "items": [
         "Nombor 200 dalam Arab ialah مِائَتَانِ (mia-ta-ni) — hafaz ini dulu.",
-        "Untuk nombor 201–209: مِائَتَانِ وَ + nombor satuan.",
-        "Untuk nombor 211–219: مِائَتَانِ وَ + nombor belasan (احد عشر, اثنا عشر...).",
+        "Untuk nombor 201–209: مِائَتَانِ وَ + nombor satuan (وَاحِد, اثْنَان...).",
+        "Untuk nombor 211–219: مِائَتَانِ وَ + nombor belasan (أَحَدَ عَشَرَ, اثْنَا عَشَرَ...).",
         {
           "type": "arabic",
           "arabic": "مِائَتَانِ وَعِشْرُونَ = ٢٢٠",
           "translation": "Dua ratus dua puluh = 220"
         },
         "Untuk puluhan: مِائَتَانِ وَعِشْرُونَ (220), مِائَتَانِ وَثَلَاثُونَ (230), dst.",
-        "Nombor 300 ialah ثَلَاثُمِائَة (tha-la-thu-mi'ah)."
+        "Nombor 300 ialah ثَلَاثُمِائَة (tha-la-thu-mi'ah) — hafaz berasingan!"
       ]
     }
   ],

@@ -1,0 +1,172 @@
+{
+  "id": "jais-tahun-3-feqah-bab2",
+  "source": "jais",
+  "year": "tahun-3",
+  "subject": "feqah",
+  "chapter": 2,
+  "title": "Rukun Solat — 13 Perkara Wajib",
+  "emoji": "🕌",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "أَرْكَانُ الصَّلَاةِ — Rukun Solat",
+      "body": "Rukun solat ialah perkara-perkara yang WAJIB dilakukan dalam solat. Jika seseorang meninggalkan salah satu rukun — sama ada sengaja atau terlupa — maka BATALNYA solat itu dan wajib diulang. Terdapat 13 rukun solat dalam mazhab Syafi'i yang perlu diketahui."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "1️⃣",
+          "title": "Rukun 1–4: Permulaan Solat",
+          "body": {
+            "type": "list",
+            "intro": "Empat rukun pertama solat:",
+            "items": [
+              "1. Niat — dalam hati, niatkan solat apa yang hendak dilakukan",
+              "2. Takbiratul Ihram — ucapkan 'Allahu Akbar' untuk memulakan solat",
+              "3. Berdiri tegak — wajib bagi yang mampu; boleh duduk atau berbaring jika uzur",
+              "4. Membaca Surah al-Fatihah — wajib dalam setiap rak'at"
+            ]
+          }
+        },
+        {
+          "icon": "🙇",
+          "title": "Rukun 5–9: Pergerakan Solat",
+          "body": {
+            "type": "list",
+            "intro": "Lima rukun berkaitan pergerakan dalam solat:",
+            "items": [
+              "5. Rukuk — membongkok sehingga tapak tangan boleh memegang lutut",
+              "6. Iktidal — bangun tegak dari rukuk dengan tuma'ninah",
+              "7. Sujud — turunkan dahi, hidung, kedua tapak tangan, lutut, dan hujung kaki ke tempat sujud",
+              "8. Duduk antara dua sujud — duduk selepas sujud pertama sebelum sujud kedua",
+              "9. Sujud kali kedua — sujud buat kali kedua sebelum bangun ke rak'at berikutnya"
+            ],
+            "outro": "Tuma'ninah = berhenti sekejap dan tenang dalam setiap pergerakan."
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Rukun 10–13: Penghujung Solat",
+          "body": {
+            "type": "list",
+            "intro": "Empat rukun terakhir pada rak'at terakhir:",
+            "items": [
+              "10. Duduk untuk Tasyahhud Akhir — duduk di rak'at yang terakhir",
+              "11. Membaca Tasyahhud Akhir — baca lafaz tasyahhud dengan betul",
+              "12. Berselawat ke atas Nabi — dalam tasyahhud akhir",
+              "13. Memberi salam — ucapkan 'Assalamualaikum warahmatullah' ke kanan kemudian ke kiri"
+            ]
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "Tasyahhud Akhir",
+          "body": {
+            "type": "arabic",
+            "instruction": "Bacaan Tasyahhud Akhir yang wajib dibaca:",
+            "arabic": "التَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلَّهِ. السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ. السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ. أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ",
+            "translation": "Segala penghormatan, keberkatan, selawat, dan kebaikan adalah bagi Allah. Salam ke atasmu wahai Nabi dan rahmat serta keberkatan Allah. Salam atas kami dan atas hamba-hamba Allah yang soleh. Aku bersaksi bahawa tiada Tuhan selain Allah dan aku bersaksi bahawa Muhammad adalah Rasul Allah.",
+            "outro": "Ditambah selawat: Allahumma solli 'ala Sayyidina Muhammad..."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "⚠️",
+      "text": {
+        "type": "list",
+        "intro": "Perkara yang perlu diingat tentang rukun solat:",
+        "items": [
+          "Jika tinggalkan rukun dengan SENGAJA — solat BATAL, kena ulang",
+          "Jika tinggalkan rukun kerana LUPA — boleh ditampung dengan Sujud Sahwi",
+          "Tuma'ninah WAJIB dalam setiap pergerakan — jangan tergesa-gesa",
+          "Tertib (berturutan) adalah rukun ke-13 — tidak boleh tukar susunan"
+        ],
+        "outro": "Ingat: 13 rukun solat = tiang-tiang yang menopang kesahan solat!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengingati 13 Rukun Solat",
+      "items": [
+        "Kumpulan 1 (4 rukun): Niat → Takbir → Berdiri → al-Fatihah",
+        "Kumpulan 2 (5 rukun): Rukuk → Iktidal → Sujud → Duduk → Sujud lagi",
+        "Kumpulan 3 (4 rukun): Duduk Tasyahhud → Baca Tasyahhud → Selawat → Salam",
+        "Tambah 1 lagi: Tertib (ikut susunan) — jadikan 13 rukun",
+        "Hafaz dengan cara sebut 1–13 sambil buat gerakan solat perlahan-lahan.",
+        "Semak: adakah setiap pergerakan dilakukan dengan tuma'ninah (tenang)?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapakah jumlah rukun solat dalam mazhab Syafi'i?",
+      "options": [
+        "10 rukun",
+        "11 rukun",
+        "12 rukun",
+        "13 rukun"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Apakah yang dimaksudkan dengan tuma'ninah dalam solat?",
+      "options": [
+        "Membaca dengan kuat",
+        "Berhenti sejenak dan tenang dalam setiap pergerakan",
+        "Membaca doa tambahan",
+        "Duduk lama dalam tasyahhud"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah rukun ke-2 dalam solat?",
+      "options": [
+        "Niat",
+        "Takbiratul Ihram",
+        "Berdiri tegak",
+        "Membaca al-Fatihah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang berlaku jika seseorang meninggalkan rukun solat dengan sengaja?",
+      "options": [
+        "Solat sah tapi dapat dosa",
+        "Boleh diganti dengan sedekah",
+        "Solat batal dan wajib diulang",
+        "Cukup baca istighfar sahaja"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "13 Rukun Solat", "colour": "#9C27B0" },
+      { "id": "n2", "label": "1. Niat", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "2. Takbir", "colour": "#8E24AA" },
+      { "id": "n4", "label": "5. Rukuk", "colour": "#AB47BC" },
+      { "id": "n5", "label": "7. Sujud", "colour": "#BA68C8" },
+      { "id": "n6", "label": "13. Salam", "colour": "#CE93D8" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "mula" },
+      { "id": "e2", "source": "n2", "target": "n3", "label": "→" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "→" },
+      { "id": "e4", "source": "n4", "target": "n5", "label": "→" },
+      { "id": "e5", "source": "n5", "target": "n6", "label": "→ akhir" }
+    ]
+  },
+  "vocab": [
+    { "word": "رُكۡن", "meaning": "rukun — tiang/asas yang wajib" },
+    { "word": "تَكۡبِيۡرَة الإِحۡرَام", "meaning": "takbiratul ihram — Allahu Akbar pembuka solat" },
+    { "word": "طُمَأۡنِيۡنَة", "meaning": "tuma'ninah — berhenti tenang seketika" },
+    { "word": "سُجُوۡد", "meaning": "sujud — meletakkan dahi ke tempat solat" },
+    { "word": "تَشَهُّد", "meaning": "tasyahhud — bacaan pada duduk akhir" }
+  ],
+  "funFact": "Tahukah kamu bahawa rukun 'tuma'ninah' (tenang dalam setiap pergerakan) adalah WAJIB dalam solat? Tuma'ninah bermaksud berhenti sejenak sehingga semua anggota badan betul-betul tenang sebelum berpindah ke pergerakan seterusnya. Ia sekurang-kurangnya satu kali tasbih. Ramai orang solat tergesa-gesa dan tidak bertuma'ninah — ini membatalkan rukun solat! Rasulullah SAW pernah menyuruh seorang sahabat mengulangi solatnya kerana tidak bertuma'ninah dengan baik."
+}
