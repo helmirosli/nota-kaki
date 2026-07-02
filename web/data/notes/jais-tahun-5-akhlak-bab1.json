@@ -1,0 +1,181 @@
+{
+  "id": "jais-tahun-5-akhlak-bab1",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "akhlak",
+  "chapter": 1,
+  "title": "Adab Berjual Beli",
+  "emoji": "🛒",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "أَدَب الْبَيْع وَالشِّرَاء — Pelajaran Pertama",
+      "body": "Jual beli ialah akad tukar-menukar barang atau perkhidmatan dengan wang secara antara rela penjual dan pembeli bagi tujuan pemilikan kekal. Islam mengajar adab dalam berjual beli supaya perniagaan mendapat berkat dan diredhai Allah ﷻ."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📋",
+          "title": "9 Adab Berjual Beli",
+          "body": {
+            "type": "list",
+            "intro": "Adab yang perlu diamalkan semasa berjual beli:",
+            "items": [
+              "1. Niat berjual beli kerana Allah ﷻ",
+              "2. Memulakan dengan Bismillahirrahmanirrahim",
+              "3. Memberi layanan mesra kepada pelanggan",
+              "4. Mengutamakan pelanggan",
+              "5. Tiada unsur penipuan",
+              "6. Sabar dengan ragam pelanggan",
+              "7. Mengutamakan kebersihan dan kualiti",
+              "8. Menggunakan bahasa yang sopan",
+              "9. Jujur"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil Tentang Berjual Beli",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah ﷻ — Surah al-Baqarah: 275:",
+            "arabic": "...وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَوا... ﴿٢٧٥﴾",
+            "translation": "...Dan Allah menghalalkan jual beli dan mengharamkan riba...",
+            "source": "Surah al-Baqarah: 275"
+          }
+        },
+        {
+          "icon": "🚫",
+          "title": "4 Perkara yang Dilarang dalam Berjual Beli",
+          "body": {
+            "type": "list",
+            "intro": "Perkara-perkara berikut adalah dilarang:",
+            "items": [
+              "1. Menipu dalam timbangan, sukatan, bilangan dan harga",
+              "2. Mempromosikan barangan yang cacat dengan penipuan",
+              "3. Menjual barang yang telah lupus tarikh",
+              "4. Barang yang dijual tidak berkualiti"
+            ]
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "5 Fadhilat Beradab Berjual Beli",
+          "body": {
+            "type": "list",
+            "intro": "Kebaikan bagi yang beradab dalam berjual beli:",
+            "items": [
+              "1. Perniagaan bertambah berkat dan maju",
+              "2. Memenuhi keperluan masyarakat",
+              "3. Dikasihhi Allah ﷻ, Rasulullah ﷺ dan masyarakat",
+              "4. Membantu golongan yang tidak bernasib baik",
+              "5. Membantu meningkatkan ekonomi umat Islam"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "5 Akibat Tidak Beradab Berjual Beli",
+          "body": {
+            "type": "list",
+            "intro": "Akibat buruk bagi yang tidak beradab:",
+            "items": [
+              "1. Dibenci Allah ﷻ, Rasulullah ﷺ dan masyarakat",
+              "2. Rezeki tidak berkat",
+              "3. Pelanggan hilang kepercayaan",
+              "4. Berlaku penipuan, pengkhianatan dan kezaliman",
+              "5. Merosakkan perniagaan"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "list",
+        "intro": "Tahukah kamu? Ahli perniagaan yang berjaya dalam kalangan sahabat antaranya:",
+        "items": [
+          "Saidatina Khadijah رضي الله عنها",
+          "Saidina Abu Bakar رضي الله عنه",
+          "Saidina Abdurrahman bin Auf رضي الله عنه",
+          "Saidina Uthman bin Affan رضي الله عنه"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Amalkan: Lafaz Berjual Beli",
+      "items": [
+        "Berucap semasa berjual beli dengan melafazkan:",
+        "Penjual: 'Saya jual' (barang ini dengan harga sekian)",
+        "Pembeli: 'Saya beli' (barang ini dengan harga sekian)",
+        "Lafaz ijab dan qabul ini mengesahkan akad jual beli mengikut hukum Islam"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah pengertian jual beli menurut buku ini?",
+      "options": [
+        "Memberikan barang secara percuma kepada orang lain",
+        "Akad tukar-menukar barang atau perkhidmatan dengan wang secara antara rela penjual dan pembeli",
+        "Meminjam barang dengan janji memulangkan",
+        "Pertukaran barang sahaja tanpa wang"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa adab berjual beli yang disebut dalam buku ini?",
+      "options": ["7 adab", "8 adab", "9 adab", "10 adab"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah dalil yang digunakan untuk berjual beli dalam buku ini?",
+      "options": [
+        "Surah al-Baqarah: 275 — Allah menghalalkan jual beli dan mengharamkan riba",
+        "Surah al-Maidah: 1 — Tunaikan akad-akad perjanjian",
+        "Surah al-Nisa': 29 — Jangan makan harta dengan cara batil",
+        "Surah al-Mutaffifin: 1 — Celaka bagi orang yang curang"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Antara berikut, manakah BUKAN fadhilat beradab dalam berjual beli?",
+      "options": [
+        "Perniagaan bertambah berkat dan maju",
+        "Dikasihhi Allah ﷻ, Rasulullah ﷺ dan masyarakat",
+        "Pelanggan hilang kepercayaan",
+        "Membantu meningkatkan ekonomi umat Islam"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Adab Berjual Beli", "colour": "#4CAF50" },
+      { "id": "n2", "label": "9 Adab", "colour": "#388E3C" },
+      { "id": "n3", "label": "4 Larangan", "colour": "#F44336" },
+      { "id": "n4", "label": "5 Fadhilat", "colour": "#2196F3" },
+      { "id": "n5", "label": "5 Akibat", "colour": "#FF9800" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "wajib amal" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "wajib jauhi" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "jika amal" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "jika langgar" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْبَيْع", "meaning": "jual beli (akad tukar-menukar barang/perkhidmatan dengan wang)" },
+    { "word": "الرِّبَا", "meaning": "riba (faedah/bunga yang diharamkan dalam Islam)" },
+    { "word": "الْغِشّ", "meaning": "penipuan dalam jual beli (menipu timbangan, kualiti dll)" },
+    { "word": "الْبَرَكَة", "meaning": "berkat (kebaikan yang Allah tambahkan pada rezeki)" },
+    { "word": "الْإِيجَاب وَالْقَبُول", "meaning": "ijab dan qabul (lafaz penjual dan pembeli yang mengesahkan akad)" }
+  ],
+  "funFact": "Tahukah kamu bahawa Saidina Abdurrahman bin Auf adalah antara sahabat paling kaya dalam Islam? Ketika beliau berhijrah ke Madinah tanpa membawa apa-apa, Nabi SAW menawarkan untuk mengahwinkan beliau dengan wanita Ansar yang kaya. Abdurrahman bin Auf berkata: 'Tunjukkan sahaja di mana pasar.' Dalam masa singkat beliau berjaya berniaga dengan adab yang baik sehingga menjadi sangat kaya — bukti bahawa berniaga dengan jujur dan beradab membawa berkat!"
+}

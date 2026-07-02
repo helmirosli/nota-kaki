@@ -1,0 +1,173 @@
+{
+  "id": "jais-tahun-4-akhlak-bab5",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "akhlak",
+  "chapter": 5,
+  "title": "Bab 5: Adab dengan Rakan",
+  "emoji": "🌱",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْأَدَب مَعَ الْأَصْدِقَاء — Adab dengan Rakan",
+      "body": "Rakan adalah sebahagian penting dalam kehidupan kita. Islam mengajarkan kita untuk memilih rakan yang baik dan beradab dengan mereka. Kata Nabi SAW: 'Seseorang itu mengikut agama rakannya — maka perhatikanlah dengan siapa kamu berkawan.'"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🤝",
+          "title": "Adab-adab dengan Rakan",
+          "body": {
+            "type": "list",
+            "intro": "Cara beradab yang baik dengan rakan-rakan:",
+            "items": [
+              "Ucapkan salam apabila bertemu — 'Assalamu'alaikum'",
+              "Jaga amanah rakan — simpan rahsia yang dipercayakan",
+              "Jangan mengumpat atau mengejek rakan di belakang mereka",
+              "Bantu rakan yang dalam kesusahan — inilah tanda sahabat sejati",
+              "Saling nasihat-menasihati ke arah kebaikan",
+              "Maafkan kesilapan rakan — jangan simpan dendam"
+            ]
+          }
+        },
+        {
+          "icon": "⭐",
+          "title": "Ciri-ciri Rakan yang Baik",
+          "body": {
+            "type": "list",
+            "intro": "Rakan yang baik dalam Islam:",
+            "items": [
+              "Membantu kita ingat Allah — bukan ajak buat perkara sia-sia",
+              "Jujur dan tidak berdusta kepada kita",
+              "Gembira apabila kita berjaya — tidak cemburu",
+              "Menasihati apabila kita buat silap — dengan cara yang baik",
+              "Bersama kita dalam susah dan senang"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Hadith tentang Persahabatan",
+          "body": {
+            "type": "arabic",
+            "instruction": "Perumpamaan rakan yang baik dan buruk:",
+            "arabic": "مَثَلُ الْجَلِيسِ الصَّالِحِ كَمَثَلِ صَاحِبِ الْمِسْكِ، وَمَثَلُ الْجَلِيسِ السَّوْءِ كَمَثَلِ نَافِخِ الْكِير",
+            "translation": "Perumpamaan teman yang baik adalah seperti penjual minyak wangi — kamu pasti mendapat keharuman darinya. Perumpamaan teman yang jahat adalah seperti tukang besi — kamu akan terkena asap atau percikan api darinya.",
+            "source": "Riwayat al-Bukhari"
+          }
+        },
+        {
+          "icon": "🌸",
+          "title": "Hak-hak Seorang Muslim kepada Muslim Lain",
+          "body": {
+            "type": "pairs",
+            "intro": "6 hak Muslim kepada sesama Muslim:",
+            "rows": [
+              { "arabic": "رَدُّ السَّلَام", "meaning": "1. Membalas salam" },
+              { "arabic": "عِيَادَة الْمَرِيض", "meaning": "2. Menziarahi orang sakit" },
+              { "arabic": "اتِّبَاع الْجَنَائِز", "meaning": "3. Mengiringi jenazah" },
+              { "arabic": "إِجَابَة الدَّعْوَة", "meaning": "4. Memenuhi undangan" },
+              { "arabic": "تَشْمِيت الْعَاطِس", "meaning": "5. Mendoakan orang yang bersin" },
+              { "arabic": "النَّصِيحَة", "meaning": "6. Memberi nasihat yang ikhlas" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💚",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith tentang persahabatan:",
+        "arabic": "الْمَرْءُ عَلَى دِينِ خَلِيلِهِ فَلْيَنْظُرْ أَحَدُكُمْ مَنْ يُخَالِل",
+        "translation": "Seseorang itu mengikut agama rakannya. Maka hendaklah seseorang daripada kamu perhatikan siapa yang dijadikan rakan.",
+        "source": "Riwayat Abu Daud dan al-Tirmidzi"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menjadi Rakan yang Baik",
+      "items": [
+        "Mulakan persahabatan dengan salam — 'Assalamu'alaikum warahmatullahi wabarakatuh'.",
+        "Senyum kepada rakan — Nabi SAW bersabda senyum adalah sedekah.",
+        "Pilih rakan yang baik — yang boleh mendekatkan kita kepada Allah.",
+        {
+          "type": "arabic",
+          "arabic": "وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَى",
+          "translation": "Dan tolong-menolonglah kamu dalam (mengerjakan) kebaikan dan ketakwaan.",
+          "source": "Surah al-Maidah: 2"
+        },
+        "Maafkan rakan yang bersalah — Allah pun Maha Pemaaf kepada hamba-Nya yang bertaubat!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Menurut hadith, rakan yang baik diumpamakan seperti apa?",
+      "options": [
+        "Seperti tukang besi",
+        "Seperti penjual minyak wangi",
+        "Seperti seorang doktor",
+        "Seperti seorang guru"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa hak Muslim yang perlu dipenuhi kepada sesama Muslim?",
+      "options": [
+        "3 hak",
+        "5 hak",
+        "6 hak",
+        "10 hak"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah pengajaran utama hadith 'al-mar'u 'ala dini khalilihi'?",
+      "options": [
+        "Berkawan dengan siapa sahaja tidak mengapa",
+        "Seseorang terpengaruh oleh rakan — pilih rakan yang baik",
+        "Rakan lebih penting dari ibu bapa",
+        "Jangan berkawan ramai-ramai"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang perlu kita lakukan apabila rakan buat kesalahan kepada kita?",
+      "options": [
+        "Putus persahabatan",
+        "Balas dengan perbuatan yang sama",
+        "Maafkan dengan ikhlas",
+        "Adukan kepada guru"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Adab dengan Rakan", "colour": "#4CAF50" },
+      { "id": "n2", "label": "Pilih Rakan Baik", "colour": "#388E3C" },
+      { "id": "n3", "label": "6 Hak Muslim", "colour": "#388E3C" },
+      { "id": "n4", "label": "Tolong-Menolong", "colour": "#388E3C" },
+      { "id": "n5", "label": "Maaf-Memaafkan", "colour": "#66BB6A" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "asas" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "tanggungjawab" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "amalan" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "apabila konflik" }
+    ]
+  },
+  "vocab": [
+    { "word": "صَدِيق", "meaning": "sahabat / rakan" },
+    { "word": "أَصْدِقَاء", "meaning": "rakan-rakan (plural)" },
+    { "word": "أَمَانَة", "meaning": "amanah / kepercayaan" },
+    { "word": "نَصِيحَة", "meaning": "nasihat yang ikhlas" },
+    { "word": "عَفْو", "meaning": "maaf / memaafkan" }
+  ],
+  "funFact": "Tahukah kamu bahawa kisah persahabatan paling terkenal dalam Islam adalah antara Nabi Muhammad SAW dan Abu Bakar r.a.? Mereka bersahabat sejak kecil — Abu Bakar adalah orang pertama dari kalangan lelaki dewasa yang memeluk Islam sebaik Nabi SAW menyampaikan dakwah kepadanya. Tanpa bertanya banyak soalan, Abu Bakar terus berkata 'Ya!' dan memeluk Islam. Persahabatan mereka berterusan hingga Nabi SAW wafat — Abu Bakar pun wafat dua tahun kemudian dan dikebumikan di sisi Nabi SAW!"
+}

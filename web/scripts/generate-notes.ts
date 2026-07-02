@@ -67,11 +67,15 @@ Syarat:
 
 const SUBJECT_COLOURS: Record<string, string> = {
   akhlak: "#4CAF50",
-  "bahasa-arab": "#2196F3",
+  "bahasa-arab": "#1565C0",
   feqah: "#9C27B0",
   jawi: "#FF9800",
   hafazan: "#E91E63",
   tauhid: "#FFB300",
+  imlak: "#009688",
+  khat: "#795548",
+  sirah: "#FF6F00",
+  tajwid: "#1A237E",
 }
 
 export async function generateNote(

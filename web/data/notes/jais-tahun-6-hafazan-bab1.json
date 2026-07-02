@@ -1,0 +1,149 @@
+{
+  "id": "jais-tahun-6-hafazan-bab1",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "hafazan",
+  "chapter": 1,
+  "title": "Hafazan 1: Surah al-Balad (90)",
+  "emoji": "📖",
+  "colour": "#E91E63",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "سُورَة الْبَلَد — Surah al-Balad",
+      "body": "Surah al-Balad adalah surah ke-90 dalam al-Quran, terdiri dari 20 ayat, diturunkan di Mekah (Makkiyyah). Allah bersumpah dengan Bandar Mekah untuk menekankan bahawa kehidupan manusia penuh dengan kesusahan dan cabaran — tetapi hanya orang yang beriman, bersedekah, bersabar, dan bertolong-tolongan yang akan berjaya. Surah ini adalah peringatan kepada mereka yang angkuh dengan kekayaan."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Surah al-Balad: Ayat 1-10",
+          "body": {
+            "type": "arabic",
+            "instruction": "Bahagian pertama: Sumpah Allah dan hakikat kehidupan manusia:",
+            "arabic": "لَا أُقْسِمُ بِهَٰذَا الْبَلَد ۝ وَأَنتَ حِلٌّ بِهَٰذَا الْبَلَد ۝\nوَوَالِدٍ وَمَا وَلَد ۝ لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَد ۝\nأَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَد ۝\nيَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا ۝\nأَيَحْسَبُ أَن لَّمْ يَرَهُ أَحَد ۝\nأَلَمْ نَجْعَل لَّهُ عَيْنَيْن ۝ وَلِسَانًا وَشَفَتَيْن ۝\nوَهَدَيْنَاهُ النَّجْدَيْن",
+            "translation": "Aku bersumpah dengan negeri ini (Mekah) — sedangkan engkau (Muhammad) bertempat tinggal di negeri ini — demi bapa dan anaknya! Sesungguhnya Kami telah menciptakan manusia dalam kesusahan. Apakah dia menyangka tiada seorangpun yang berkuasa atasnya? Dia berkata: 'Aku telah menghabiskan harta yang banyak.' Apakah dia menyangka tiada seorangpun yang melihatnya? Bukankah Kami telah menjadikannya dua mata — dan lidah dan dua bibir — dan Kami telah menunjukkan kepadanya dua jalan (kebaikan dan kejahatan)?",
+            "source": "Surah al-Balad: 1-10"
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Surah al-Balad: Ayat 11-20",
+          "body": {
+            "type": "arabic",
+            "instruction": "Bahagian kedua: Jalan yang mendaki (al-'Aqabah) dan dua golongan manusia:",
+            "arabic": "فَلَا اقْتَحَمَ الْعَقَبَة ۝ وَمَا أَدْرَاكَ مَا الْعَقَبَة ۝\nفَكُّ رَقَبَة ۝ أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَة ۝\nيَتِيمًا ذَا مَقْرَبَة ۝ أَوْ مِسْكِينًا ذَا مَتْرَبَة ۝\nثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَة ۝\nأُولَٰئِكَ أَصْحَابُ الْمَيْمَنَة ۝\nوَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَة ۝\nعَلَيْهِمْ نَارٌ مُّؤْصَدَة",
+            "translation": "Namun dia tidak mahu menempuh jalan yang mendaki (al-'Aqabah). Tahukah kamu apakah al-'Aqabah itu? (Ia adalah) memerdekakan hamba — atau memberi makan pada hari kelaparan — kepada anak yatim yang dekat kerabatnya — atau orang miskin yang sangat sengsara — kemudian dia termasuk orang-orang yang beriman dan saling berwasiat untuk bersabar dan saling berwasiat untuk berkasih sayang. Mereka itulah golongan kanan (masuk syurga). Dan orang-orang yang kafir dengan ayat-ayat Kami, mereka itulah golongan kiri — atas mereka api yang tertutup.",
+            "source": "Surah al-Balad: 11-20"
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Tema dan Pengajaran Surah al-Balad",
+          "body": {
+            "type": "list",
+            "intro": "Mesej utama Surah al-Balad:",
+            "items": [
+              "Kehidupan manusia penuh kesusahan (فِي كَبَد) — ini adalah ujian Allah",
+              "Harta bukan bukti kemuliaan — Allah melihat segala-galanya",
+              "Jalan al-'Aqabah (yang mendaki): membantu orang miskin, anak yatim, dan bersabar",
+              "Dua golongan: أَصْحَاب الْمَيْمَنَة (golongan kanan=syurga) dan أَصْحَاب الْمَشْأَمَة (golongan kiri=neraka)",
+              "Kunci syurga: iman + sedekah + sabar + kasih sayang"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ayat kunci Surah al-Balad tentang jalan yang mendaki:",
+        "arabic": "فَلَا اقْتَحَمَ الْعَقَبَة",
+        "translation": "Namun dia tidak mahu menempuh jalan yang mendaki.",
+        "source": "al-Balad: 11 — Allah menyesal manusia tidak mahu mengambil jalan yang susah untuk mencapai kebaikan"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Hafaz Surah al-Balad",
+      "items": [
+        "Bahagikan kepada 2 bahagian: ayat 1-10 (sumpah + keangkuhan manusia) dan 11-20 (jalan mendaki + dua golongan).",
+        "Hafaz 3-4 ayat sehari — konsisten lebih penting dari banyak sekaligus.",
+        {
+          "type": "arabic",
+          "arabic": "لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَد — ayat 4\nكَبَد = kesusahan, cabaran, perjuangan",
+          "translation": "Ini ayat kunci: manusia diciptakan dalam kesusahan — bukan untuk hidup mudah!"
+        },
+        "Fahami makna setiap ayat — hafazan yang disertai pemahaman jauh lebih kuat dan tahan lama.",
+        "Baca di dalam solat — solat Subuh adalah masa terbaik untuk menguat hafazan."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Surah al-Balad menyatakan bahawa manusia diciptakan dalam:",
+      "options": [
+        "Kesenangan dan kesenangan",
+        "Kesusahan (كَبَد)",
+        "Kejahilan",
+        "Ketakutan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang dimaksudkan dengan 'al-'Aqabah' dalam Surah al-Balad?",
+      "options": [
+        "Gunung yang tinggi",
+        "Jalan ke syurga",
+        "Jalan mendaki yang bermaksud membantu orang miskin, anak yatim, bersabar",
+        "Ujian dari Allah"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Surah al-Balad termasuk golongan surah yang mana?",
+      "options": [
+        "Madaniyyah (diturunkan di Madinah)",
+        "Makkiyyah (diturunkan di Mekah)",
+        "Diturunkan semasa Isra' Mi'raj",
+        "Diturunkan semasa Haji Wada'"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah maksud 'أَصْحَاب الْمَيْمَنَة' dalam Surah al-Balad?",
+      "options": [
+        "Golongan yang kaya",
+        "Golongan kiri yang masuk neraka",
+        "Golongan kanan yang masuk syurga",
+        "Para nabi dan rasul"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "al-Balad (90)", "colour": "#E91E63" },
+      { "id": "n2", "label": "Kehidupan = Kesusahan", "colour": "#C2185B" },
+      { "id": "n3", "label": "al-'Aqabah (Jalan Mendaki)", "colour": "#C2185B" },
+      { "id": "n4", "label": "2 Golongan (Kanan/Kiri)", "colour": "#880E4F" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "hakikat" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jalan syurga" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "natijah" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْبَلَد", "meaning": "balad (negeri / bandar — merujuk kepada Mekah)" },
+    { "word": "كَبَد", "meaning": "kabad (kesusahan / perjuangan hidup)" },
+    { "word": "الْعَقَبَة", "meaning": "'aqabah (jalan mendaki yang sukar — simbolik untuk amalan mulia)" },
+    { "word": "أَصْحَاب الْمَيْمَنَة", "meaning": "golongan kanan (yang masuk syurga)" },
+    { "word": "أَصْحَاب الْمَشْأَمَة", "meaning": "golongan kiri (yang masuk neraka)" }
+  ],
+  "funFact": "Tahukah kamu bahawa ungkapan 'anak yatim' (يَتِيم) disebut lebih dari 20 kali dalam al-Quran dalam pelbagai surah? Ini menunjukkan betapa Allah sangat ambil berat tentang nasib anak-anak yatim. Nabi Muhammad SAW sendiri adalah anak yatim — bapa baginda meninggal sebelum baginda lahir, dan ibu baginda meninggal ketika baginda berumur 6 tahun. Allah berfirman kepada Nabi: 'Bukankah Dia mendapatimu sebagai seorang anak yatim lalu Dia melindungimu?' (al-Duha:6). Mungkin kerana pengalaman inilah Nabi SAW sangat menekankan jagaan anak yatim — dan menjanjikan: 'Aku dan orang yang menjaga anak yatim akan bersama di syurga seperti ini!' (sambil merapatkan dua jari)."
+}

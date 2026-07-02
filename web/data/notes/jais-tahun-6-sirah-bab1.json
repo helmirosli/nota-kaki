@@ -1,0 +1,155 @@
+{
+  "id": "jais-tahun-6-sirah-bab1",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "sirah",
+  "chapter": 1,
+  "title": "Sirah 1: Khulafa' al-Rasyidin — Abu Bakar al-Siddiq r.a.",
+  "emoji": "⭐",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "أَبُو بَكْرٍ الصِّدِّيق — Khalifah Pertama Islam",
+      "body": "Selepas wafatnya Nabi Muhammad SAW pada 11 Hijrah, kepimpinan umat Islam berpindah kepada para Khalifah (pemimpin). Empat khalifah pertama dikenali sebagai Khulafa' al-Rasyidin — khalifah yang mendapat hidayah. Khalifah pertama adalah Abu Bakar Abdullah bin Abi Quhafah al-Siddiq r.a., sahabat paling rapat Nabi SAW dan bapa mertua baginda."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "⭐",
+          "title": "Biodata Abu Bakar al-Siddiq r.a.",
+          "body": {
+            "type": "list",
+            "intro": "Maklumat penting tentang Abu Bakar r.a.:",
+            "items": [
+              "Nama penuh: Abdullah bin Abi Quhafah al-Taymi al-Qurashi",
+              "Gelaran: al-Siddiq (yang membenarkan) — kerana terus membenarkan Isra' Mi'raj",
+              "Hubungan dengan Nabi SAW: sahabat pertama masuk Islam dari golongan lelaki dewasa",
+              "Khilafah: 11H-13H (2 tahun 3 bulan)",
+              "Meninggal: 22 Jumadil Akhir 13H, dikebumikan di sebelah Nabi SAW"
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Sumbangan Besar Abu Bakar r.a.",
+          "body": {
+            "type": "list",
+            "intro": "Empat pencapaian utama semasa khilafah Abu Bakar r.a.:",
+            "items": [
+              "Memerangi golongan yang murtad dan enggan bayar zakat selepas wafat Nabi (Perang Riddah)",
+              "Mengumpulkan al-Quran dalam satu mushaf — diketuai oleh Zaid bin Thabit r.a.",
+              "Menghantar tentera ke Iraq dan Syria untuk perluasan wilayah Islam",
+              "Mengekalkan kestabilan ummah pada saat yang paling kritikal selepas Nabi SAW wafat"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Kelebihan Abu Bakar r.a.",
+          "body": {
+            "type": "arabic",
+            "instruction": "Hadith Nabi SAW tentang kelebihan Abu Bakar r.a.:",
+            "arabic": "لَوْ كُنتُ مُتَّخِذًا خَلِيلًا لَاتَّخَذْتُ أَبَا بَكْرٍ خَلِيلًا\nوَلَكِنْ أَخِي وَصَاحِبِي",
+            "translation": "Sekiranya aku boleh mengambil khalil (kekasih dekat), nescaya aku akan mengambil Abu Bakar sebagai khalil. Tetapi dia adalah saudaraku dan sahabatku.",
+            "source": "Riwayat al-Bukhari"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "⭐",
+      "text": {
+        "type": "list",
+        "intro": "Kata-kata terkenal Abu Bakar r.a. semasa ucapan pertama sebagai Khalifah:",
+        "items": [
+          "'Wahai manusia, aku telah dilantik untuk memimpin kamu, sedangkan aku bukanlah yang terbaik di antara kamu.'",
+          "'Bantulah aku jika aku berada di atas kebenaran, dan betulkanlah aku jika aku tersalah.'",
+          "'Sesungguhnya, yang kuat di sisi ku adalah yang lemah sehingga aku mengambil haknya. Dan yang lemah di sisi ku adalah yang kuat sehingga aku mengambil hak daripadanya.'",
+          "Ucapan ini adalah contoh terbaik 'ikrar kepimpinan' yang paling adil dalam sejarah!"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Pengajaran dari Khilafah Abu Bakar r.a.",
+      "items": [
+        "Ketegasan dalam kebenaran — Abu Bakar tidak berkompromi tentang zakat walaupun ada yang mengancam.",
+        "Kepimpinan yang rendah hati — akui kelemahan diri dan terima nasihat.",
+        {
+          "type": "arabic",
+          "arabic": "أَبُو بَكْرٍ قَالَ فِي خُطْبَتِهِ:\nأَيُّهَا النَّاسُ، أَطِيعُونِي مَا أَطَعْتُ اللَّهَ وَرَسُولَهُ\nفَإِذَا عَصَيْتُ اللَّهَ وَرَسُولَهُ، فَلَا طَاعَةَ لِي عَلَيْكُم",
+          "translation": "Abu Bakar berkata dalam khutbahnya: 'Wahai manusia, taatilah aku selama aku taat kepada Allah dan Rasul-Nya. Jika aku menderhaka kepada Allah dan Rasul-Nya, maka tidak ada ketaatan kepadaku atas kamu.'"
+        },
+        "Jaga persatuan — Abu Bakar menyatukan umat Islam di saat yang paling kritikal.",
+        "Ingat: kepimpinan dalam Islam adalah amanah besar — bukan hak peribadi!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Mengapa Abu Bakar r.a. mendapat gelaran 'al-Siddiq'?",
+      "options": [
+        "Kerana beliau adalah orang pertama masuk Islam",
+        "Kerana beliau terus membenarkan peristiwa Isra' Mi'raj tanpa ragu",
+        "Kerana beliau selalu jujur dalam berniaga",
+        "Kerana Nabi SAW memberinya gelaran itu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa lama khilafah Abu Bakar r.a.?",
+      "options": [
+        "1 tahun",
+        "2 tahun 3 bulan",
+        "4 tahun",
+        "10 tahun"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah pencapaian besar Abu Bakar r.a. berkaitan al-Quran?",
+      "options": [
+        "Menghafaz al-Quran pertama kali",
+        "Mengumpulkan al-Quran dalam satu mushaf",
+        "Mentafsirkan al-Quran secara menyeluruh",
+        "Mencetak al-Quran pertama"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apa yang dimaksudkan dengan 'Perang Riddah' semasa khilafah Abu Bakar r.a.?",
+      "options": [
+        "Perang melawan Parsi",
+        "Perang memerangi golongan yang murtad dan enggan bayar zakat",
+        "Perang Uhud babak kedua",
+        "Perang melawan Byzantine"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Abu Bakar al-Siddiq", "colour": "#FF6F00" },
+      { "id": "n2", "label": "al-Siddiq — Membenar", "colour": "#E65100" },
+      { "id": "n3", "label": "Musuh Riddah", "colour": "#E65100" },
+      { "id": "n4", "label": "Mushaf al-Quran", "colour": "#BF360C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "gelaran" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "perang" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "sumbangan" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْخُلَفَاء الرَّاشِدُون", "meaning": "Khulafa' al-Rasyidin (empat khalifah yang mendapat petunjuk)" },
+    { "word": "الصِّدِّيق", "meaning": "al-Siddiq (yang selalu membenarkan kebenaran)" },
+    { "word": "الرِّدَّة", "meaning": "al-Riddah (murtad — keluar dari Islam)" },
+    { "word": "الْمُصْحَف", "meaning": "al-mushaf (mushaf — al-Quran yang ditulis dalam buku)" },
+    { "word": "الْخِلَافَة", "meaning": "al-khilafah (kepimpinan Muslim selepas Nabi SAW)" }
+  ],
+  "funFact": "Tahukah kamu bahawa projek pengumpulan al-Quran pada zaman Abu Bakar r.a. adalah antara projek editorial terbesar dalam sejarah manusia? Selepas Perang Yamamah di mana ramai hafiz al-Quran syahid, Umar r.a. mencadangkan kepada Abu Bakar untuk mengumpulkan al-Quran. Abu Bakar pada mulanya ragu — 'bagaimana aku boleh buat sesuatu yang tidak dibuat oleh Nabi SAW?' — tetapi akhirnya bersetuju. Zaid bin Thabit r.a. dilantik mengetuai projek ini — beliau mengumpulkan semua hafazan para sahabat DAN tulisan yang ada, mengesahkan setiap ayat dengan DUA saksi hafiz. Hasilnya: mushaf yang sempurna dan disimpan oleh Abu Bakar, kemudian Umar r.a., kemudian Hafsah r.a. — sehingga Uthman r.a. menyalinnya untuk disebarkan ke seluruh dunia!"
+}

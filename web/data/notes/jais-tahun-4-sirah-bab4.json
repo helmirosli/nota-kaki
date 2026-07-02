@@ -1,0 +1,172 @@
+{
+  "id": "jais-tahun-4-sirah-bab4",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "sirah",
+  "chapter": 4,
+  "title": "Bab 4: Perang Badar",
+  "emoji": "⚔️",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "غَزْوَة بَدْر — Perang Badar",
+      "body": "Perang Badar adalah pertempuran besar pertama dalam sejarah Islam. Ia berlaku pada 17 Ramadan tahun ke-2 Hijriah (624 Masihi) di sebuah tempat bernama Badar, kira-kira 80 km dari Madinah. Walaupun jumlah pasukan Islam jauh lebih kecil, Allah SWT memberikan kemenangan kepada kaum muslimin."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📊",
+          "title": "Kekuatan Dua Pasukan",
+          "body": {
+            "type": "pairs",
+            "intro": "Perbandingan antara pasukan Islam dan Quraisy:",
+            "rows": [
+              { "label": "Pasukan Islam", "arabic": "٣١٣ مقاتل", "meaning": "313 orang — 77 Muhajirin + 236 Ansar" },
+              { "label": "Pasukan Quraisy", "arabic": "~١٠٠٠ مقاتل", "meaning": "Kira-kira 1,000 orang — 3 kali ganda lebih ramai" },
+              { "label": "Kuda Islam", "arabic": "٢ حصان", "meaning": "Hanya 2 ekor kuda" },
+              { "label": "Kuda Quraisy", "arabic": "١٠٠ حصان", "meaning": "100 ekor kuda" }
+            ],
+            "outro": "Islam: 313 vs Quraisy: ~1,000 — Allah tetap berikan kemenangan kepada yang benar!"
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Bantuan Malaikat dari Allah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Allah menghantar bantuan luar biasa:",
+            "arabic": "إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُم بِأَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِينَ",
+            "translation": "Ingatlah ketika kamu memohon pertolongan kepada Tuhanmu, lalu Dia mengabulkan permohonanmu dengan berfirman: Sesungguhnya Aku akan mendatangkan bantuan kepadamu dengan seribu malaikat yang datang berturut-turut.",
+            "source": "Surah al-Anfal: 9"
+          }
+        },
+        {
+          "icon": "⚔️",
+          "title": "Peristiwa Penting Perang Badar",
+          "body": {
+            "type": "list",
+            "intro": "Kejadian-kejadian penting dalam Perang Badar:",
+            "items": [
+              "Bermula dengan pertarungan satu lawan satu (mubarrazah) — 3 vs 3",
+              "Nabi SAW berdoa dengan penuh khusyuk sebelum perang",
+              "Allah menghantar hujan dan malaikat sebagai bantuan",
+              "70 orang kafir terbunuh, 70 orang ditawan",
+              "Pemimpin Quraisy utama seperti Abu Jahal terbunuh dalam perang ini",
+              "14 orang Islam syahid dalam perang ini"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Doa Nabi SAW Sebelum Perang Badar",
+          "body": {
+            "type": "arabic",
+            "instruction": "Doa Nabi SAW yang terkenal sebelum perang:",
+            "arabic": "اللَّهُمَّ أَنْجِزْ لِي مَا وَعَدْتَنِي، اللَّهُمَّ إِنْ تُهْلِكْ هَذِهِ الْعِصَابَةَ مِنْ أَهْلِ الْإِسْلَامِ لَا تُعْبَدْ فِي الْأَرْضِ",
+            "translation": "Ya Allah, tunaikan apa yang telah Engkau janjikan kepadaku. Ya Allah, jika kelompok orang Islam ini binasa, Engkau tidak akan disembah lagi di muka bumi.",
+            "source": "Riwayat Muslim"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🏆",
+      "text": {
+        "type": "list",
+        "intro": "Kepentingan Perang Badar dalam sejarah Islam:",
+        "items": [
+          "Perang pertama dalam Islam — menguji iman kaum muslimin",
+          "Allah memberikan kemenangan walaupun bilangan kecil — bukti pertolongan Allah",
+          "Membuktikan Islam bukan agama yang mudah dihapuskan oleh kekuatan duniawi",
+          "Para syuhada Badar mendapat kedudukan sangat tinggi di sisi Allah",
+          "Perang Badar disebut dalam al-Quran — Surah al-Anfal"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Pengajaran Perang Badar",
+      "items": [
+        "Kemenangan bukan bergantung pada jumlah — 313 orang mengalahkan 1,000 orang.",
+        "Doa adalah senjata orang mukmin — Nabi SAW berdoa dengan penuh keyakinan.",
+        {
+          "type": "arabic",
+          "arabic": "وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّه",
+          "translation": "Dan kemenangan itu tidak datang kecuali dari sisi Allah.",
+          "source": "Surah al-Anfal: 10"
+        },
+        "Berkorban untuk Islam — 14 sahabat syahid, tapi kemenangan akhirnya untuk Islam.",
+        "Usaha + Tawakal = Kemenangan! Pakat buat, lepas tu serahkan kepada Allah."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Bilakah Perang Badar berlaku?",
+      "options": [
+        "17 Ramadan tahun 1 Hijriah",
+        "17 Ramadan tahun 2 Hijriah",
+        "17 Ramadan tahun 3 Hijriah",
+        "10 Muharam tahun 2 Hijriah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa orang pasukan Islam dalam Perang Badar?",
+      "options": [
+        "100 orang",
+        "200 orang",
+        "313 orang",
+        "500 orang"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa ramai malaikat yang Allah turunkan untuk membantu dalam Perang Badar?",
+      "options": [
+        "100 malaikat",
+        "500 malaikat",
+        "1,000 malaikat",
+        "3,000 malaikat"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Siapakah pemimpin kafir Quraisy yang terkenal yang terbunuh dalam Perang Badar?",
+      "options": [
+        "Abu Sufyan",
+        "Abu Jahal",
+        "Khalid bin Walid",
+        "Amr bin al-As"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Perang Badar", "colour": "#FF6F00" },
+      { "id": "n2", "label": "313 Islam", "colour": "#E65100" },
+      { "id": "n3", "label": "~1000 Quraisy", "colour": "#E65100" },
+      { "id": "n4", "label": "1000 Malaikat", "colour": "#FF8F00" },
+      { "id": "n5", "label": "Kemenangan Islam", "colour": "#BF360C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "pasukan" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "lawan" },
+      { "id": "e3", "source": "n4", "target": "n2", "label": "membantu" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "hasil" }
+    ]
+  },
+  "vocab": [
+    { "word": "غَزْوَة", "meaning": "perang yang disertai Nabi SAW" },
+    { "word": "شَهِيد", "meaning": "syahid (gugur di jalan Allah)" },
+    { "word": "النَّصْر", "meaning": "kemenangan" },
+    { "word": "مَلَائِكَة", "meaning": "malaikat-malaikat" },
+    { "word": "أَسِير", "meaning": "tawanan perang" }
+  ],
+  "funFact": "Tahukah kamu bahawa sebelum Perang Badar, Nabi SAW berdoa dengan begitu serius hingga selendangnya jatuh dari bahunya? Abu Bakar r.a. terpaksa memegang bahu Baginda dan berkata: 'Cukup ya Rasulullah, Allah pasti menunaikan janji-Nya!' Tanda betapa seriusnya Baginda dalam berdoa kepada Allah. Setelah perang, Nabi SAW bersabda ini adalah Badar — suatu nama peperangan yang akan dikenang sepanjang masa dalam sejarah Islam!"
+}

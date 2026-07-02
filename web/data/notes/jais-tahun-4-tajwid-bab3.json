@@ -1,0 +1,170 @@
+{
+  "id": "jais-tahun-4-tajwid-bab3",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "tajwid",
+  "chapter": 3,
+  "title": "Pelajaran 2: Hukum Mim Sakinah",
+  "emoji": "📿",
+  "colour": "#1A237E",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "مِيمْ سَاكِنَة — Hukum Mim Sakinah",
+      "body": "Mim Sakinah (مْ) adalah huruf Mim yang bertanda sukun/mati. Ia mempunyai 3 hukum bacaan bergantung pada huruf yang datang selepasnya: Idgham Mithlayn Syafawi, Ikhfa Syafawi, dan Izhar Syafawi."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🔀",
+          "title": "Idgham Mithlayn Syafawi",
+          "body": {
+            "type": "list",
+            "intro": "Hukum 1: Lebur Mim ke dalam Mim (مْ + م):",
+            "items": [
+              "Berlaku apabila Mim Sakinah (مْ) bertemu dengan huruf م (Mim) yang berbaris",
+              "Cara baca: lebur Mim pertama ke dalam Mim kedua dengan dengung 2 harakat",
+              "Nama: Mithlayn = dua huruf yang sama | Syafawi = dari bibir",
+              "Contoh: كَمَا هُمْ مُؤْمِنُونَ → 'hum-mu'minun' (Mim bergabung)"
+            ]
+          }
+        },
+        {
+          "icon": "🫥",
+          "title": "Ikhfa Syafawi",
+          "body": {
+            "type": "list",
+            "intro": "Hukum 2: Sembunyi Mim di sisi Ba' (مْ + ب):",
+            "items": [
+              "Berlaku apabila Mim Sakinah (مْ) bertemu dengan huruf ب (Ba')",
+              "Cara baca: rapatkan bibir separuh (tidak rapat sepenuhnya) dengan dengung 2 harakat",
+              "Ia dipanggil 'Syafawi' kerana makhraj Mim dan Ba' sama — dari bibir (شَفَتَان)",
+              "Contoh: هُمْ بِهِ → 'hum-bihi' dengan bibir rapat separuh dan dengung"
+            ]
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Izhar Syafawi",
+          "body": {
+            "type": "list",
+            "intro": "Hukum 3: Jelas Mim apabila bertemu huruf selain م dan ب:",
+            "items": [
+              "Berlaku apabila Mim Sakinah bertemu SEMUA huruf selain م dan ب (26 huruf)",
+              "Cara baca: lafazkan Mim dengan JELAS dan TERANG tanpa dengung",
+              "Perhatian khusus pada huruf و dan ف — ramai terlupa dan tambah dengung",
+              "Contoh: وَلَهُمْ فِيهَا → baca Mim jelas: 'wa lahum-fiha' (tiada dengung)"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Contoh dalam Al-Quran",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh ketiga-tiga hukum Mim Sakinah:",
+            "arabic": "وَمَا هُمْ مُؤْمِنِينَ (إِدْغَام شَفَوِي — مْ + م)\nإِنَّهُمْ بِأَرْبَابٍ (إِخْفَاء شَفَوِي — مْ + ب)\nأَوَلَمْ يَسِيرُوا (إِظْهَار شَفَوِي — مْ + ي)",
+            "translation": "Dan mereka bukan orang-orang yang beriman | sesungguhnya mereka dengan tuhan-tuhan | Adakah mereka tidak berjalan"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "pairs",
+        "intro": "Ringkasan 3 Hukum Mim Sakinah:",
+        "rows": [
+          { "label": "Idgham Mithlayn", "arabic": "مْ + م", "meaning": "Lebur dengan dengung — 2 huruf م bertemu" },
+          { "label": "Ikhfa Syafawi", "arabic": "مْ + ب", "meaning": "Sembunyi dengan dengung — bibir rapat separuh" },
+          { "label": "Izhar Syafawi", "arabic": "مْ + lain-lain", "meaning": "Jelas tanpa dengung — 26 huruf lain" }
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menentukan Hukum Mim Sakinah",
+      "items": [
+        "Cari Mim Sakinah (مْ) dalam ayat.",
+        "Lihat huruf SELEPAS Mim Sakinah.",
+        "Jika م → Idgham Mithlayn Syafawi (lebur + dengung)",
+        "Jika ب → Ikhfa Syafawi (sembunyi + dengung separuh)",
+        {
+          "type": "arabic",
+          "arabic": "هُمْ + فِيهَا → إِظْهَار شَفَوِي",
+          "translation": "مْ bertemu ف → Izhar Syafawi → baca Mim dengan jelas"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah hukum apabila Mim Sakinah bertemu dengan huruf ب?",
+      "options": [
+        "Idgham Mithlayn Syafawi",
+        "Ikhfa Syafawi",
+        "Izhar Syafawi",
+        "Iqlab"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa banyak huruf yang menyebabkan Izhar Syafawi?",
+      "options": [
+        "1 huruf",
+        "2 huruf",
+        "6 huruf",
+        "26 huruf"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Mengapa Mim Sakinah dan Ba' dipanggil 'Syafawi'?",
+      "options": [
+        "Kedua-duanya keluar dari tekak",
+        "Kedua-duanya keluar dari bibir (syafah)",
+        "Kedua-duanya ada dengung",
+        "Kedua-duanya huruf Arab asal"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah perbezaan antara Idgham Mithlayn Syafawi dan Idgham Nun Sakinah?",
+      "options": [
+        "Tidak ada perbezaan",
+        "Idgham Mithlayn Syafawi khusus untuk Mim Sakinah bertemu Mim",
+        "Idgham Mithlayn Syafawi adalah untuk Nun Sakinah sahaja",
+        "Idgham Mithlayn tidak ada dengung"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Mim Sakinah (مْ)", "colour": "#1A237E" },
+      { "id": "n2", "label": "Idgham Mithlayn", "colour": "#283593" },
+      { "id": "n3", "label": "Ikhfa Syafawi", "colour": "#283593" },
+      { "id": "n4", "label": "Izhar Syafawi", "colour": "#283593" },
+      { "id": "n5", "label": "مْ + م", "colour": "#3F51B5" },
+      { "id": "n6", "label": "مْ + ب", "colour": "#3F51B5" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "hukum 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "hukum 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "hukum 3" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "berlaku bila" },
+      { "id": "e5", "source": "n3", "target": "n6", "label": "berlaku bila" }
+    ]
+  },
+  "vocab": [
+    { "word": "مِيمْ سَاكِنَة", "meaning": "huruf Mim yang bertanda mati" },
+    { "word": "شَفَوِي", "meaning": "berkaitan bibir (syafah = bibir)" },
+    { "word": "مِثْلَيْن", "meaning": "dua yang serupa / sama" },
+    { "word": "إِخْفَاء", "meaning": "menyembunyikan (baca separuh jelas)" },
+    { "word": "إِظْهَار", "meaning": "menzahirkan (baca dengan jelas)" }
+  ],
+  "funFact": "Tahukah kamu bahawa huruf Mim adalah huruf yang keluar dari bibir? Itulah sebabnya semua hukum Mim Sakinah dinamakan 'Syafawi' yang bermaksud 'bibir'! Dalam bahasa Arab, شَفَة bermaksud bibir dan kata dualnya شَفَتَان (dua bibir). Apabila kita baca Mim dengan betul, kita menggunakan kedua-dua bibir kita — atas dan bawah — untuk menghasilkan bunyi yang sempurna!"
+}

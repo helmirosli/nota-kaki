@@ -1,0 +1,193 @@
+{
+  "id": "jais-tahun-5-tauhid-bab2",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "tauhid",
+  "chapter": 2,
+  "title": "Hubungan Doa dan Qada dan Qadar",
+  "emoji": "🤲",
+  "colour": "#FFB300",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "هُبُوْنْغَن دُعَاء دَنْغَن قَضَاء دَن قَدَر — Pelajaran Kedua",
+      "body": "Doa ialah permohonan yang kita sampaikan kepada Allah ﷻ dengan cara bermunajat dalam keadaan memerlukan dan mengharapkan perhatian-Nya. Doa membantu kehidupan kita baik dalam urusan keduniaan mahupun akhirat."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Unit 1: Pengertian Doa & Dalil",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah ﷻ tentang doa (wajib hafaz):",
+            "arabic": "وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ ﴿٦٠﴾",
+            "translation": "Dan Tuhanmu berfirman: Berdoalah kepada-Ku, nescaya akan Aku perkenankan bagimu. Sesungguhnya orang-orang yang menyombongkan diri dari beribadah kepada-Ku akan masuk Neraka Jahannam dalam keadaan hina dina.",
+            "source": "Surah Ghafir: 60"
+          }
+        },
+        {
+          "icon": "🌙",
+          "title": "Unit 2: Adab Berdoa",
+          "body": {
+            "type": "list",
+            "intro": "Adab sebelum berdoa (3): (1) Pada waktu yang baik — sepertiga malam, bulan Ramadhan, hari Jumaat. (2) Dalam keadaan mulia — ketika bersujud dan menghadap Ka'bah. (3) Dalam keadaan suci (tidak berhadas).\n\nAdab semasa berdoa (5): (1) Mulakan dengan tahmid dan selawat. (2) Berdoa dengan hati yang ikhlas. (3) Menyebut nama Allah ﷻ dan sifat-Nya yang sesuai dengan keperluan. (4) Berdoa dengan penuh kekhusyukan. (5) Menghadap kiblat.\n\nAdab selepas berdoa (3):",
+            "items": [
+              "1. Yakin bahawa doa akan diterima",
+              "2. Bersyukur kepada Allah ﷻ dengan sungguh-sungguh",
+              "3. Bersyukur baik dalam keadaan qada dan qadar Allah ﷻ"
+            ]
+          }
+        },
+        {
+          "icon": "⏰",
+          "title": "Unit 3: Waktu Mustajab Berdoa",
+          "body": {
+            "type": "list",
+            "intro": "Antaranya waktu mustajab berdoa (11):",
+            "items": [
+              "1. Malam Lailatul Qadar",
+              "2. Sepertiga malam terakhir",
+              "3. Sebelum memberi salam pada rakaat akhir solat fardhu",
+              "4. Antara azan dan iqamah",
+              "5. Setelah turun hujan",
+              "6. Ketika mendengar azan solat fardhu",
+              "7. Ketika turun hujan",
+              "8. Ketika berjihad di jalan Allah ﷻ",
+              "9. Waktu yang dirahimati Allah ﷻ pada hari Jumaat",
+              "10. Ketika minum air zamzam dengan niat yang baik",
+              "11. Ketika sujud di dalam solat"
+            ]
+          }
+        },
+        {
+          "icon": "🕌",
+          "title": "Unit 3: Tempat Mustajab Berdoa",
+          "body": {
+            "type": "list",
+            "intro": "Antaranya tempat mustajab berdoa (10):",
+            "items": [
+              "1. Di hadapan Ka'bah",
+              "2. Di Padang Arafah",
+              "3. Di majlis zikir",
+              "4. Ketika bermusafir",
+              "5. Setelah melontar jumrah",
+              "6. Di Hajar Ismail",
+              "7. Di bukit Safa dan Marwa",
+              "8. Di Masy'aril Haram",
+              "9. Di Raudhah dalam Masjid Nabawi",
+              "10. Di Maqam Ibrahim"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Unit 4: 10 Sebab Doa Tidak Dimaqbulkan",
+          "body": {
+            "type": "list",
+            "intro": "Ibrahim bin Adham menyebut 10 sebab doa tidak dimaqbulkan:",
+            "items": [
+              "1. Mengenal Allah ﷻ tetapi tidak menunaikan hak-hak-Nya",
+              "2. Mengaku umat Nabi Muhammad ﷺ tetapi tidak mengikuti sunnahnya",
+              "3. Membaca al-Quran tetapi tidak mengamalkannya",
+              "4. Menerima nikmat Allah ﷻ tetapi tidak mensyukurinya",
+              "5. Mendakwa syaitan sebagai musuh tetapi tidak menjauhinya",
+              "6. Berkata kematian itu benar tetapi tidak bersiap-sedia menghadapinya",
+              "7. Menziarahi orang mati (kubur) tetapi tidak mengambil iktibar",
+              "8. Bangun dari tidur sibuk melihat keaiban orang lain tetapi tidak melihat keaiban diri sendiri",
+              "9. Berkata syurga itu benar tetapi tidak berusaha untuk mencapainya",
+              "10. Berkata neraka itu benar tetapi tidak menjauhi larangannya"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Dalil Doa — wajib hafaz:",
+        "arabic": "وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ",
+        "translation": "Dan Tuhanmu berfirman: Berdoalah kepada-Ku, nescaya akan Aku perkenankan bagimu.",
+        "source": "Surah Ghafir: 60"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Doa untuk Ibu Bapa",
+      "items": [
+        {
+          "type": "arabic",
+          "instruction": "Doa yang dianjurkan untuk ibu bapa:",
+          "arabic": "رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+          "translation": "Ya Tuhanku! Ampunilah aku dan ibu bapaku, dan kasihilah keduanya sebagaimana mereka telah memeliharaku ketika aku masih kecil."
+        },
+        "Doa orang yang dizalimi adalah amatlah mustajab di sisi Allah ﷻ.",
+        "Janganlah menzalimi orang lain, kerana doa orang yang dizalimi amatlah mustajab."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah dalil tentang doa dalam buku ini?",
+      "options": [
+        "Surah al-Baqarah: 186",
+        "Surah Ghafir: 60",
+        "Surah al-Isra': 110",
+        "Surah al-Furqan: 77"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa bilangan adab semasa berdoa yang disebut dalam buku?",
+      "options": ["3", "4", "5", "6"],
+      "answer": 2
+    },
+    {
+      "q": "Siapakah yang menyebut 10 sebab doa tidak dimaqbulkan?",
+      "options": [
+        "Imam al-Ghazali",
+        "Ibrahim bin Adham",
+        "Imam al-Nawawi",
+        "Abd al-Rahman bin Auf"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah antara waktu mustajab berdoa yang disebut dalam buku?",
+      "options": [
+        "Ketika makan tengah hari",
+        "Malam Lailatul Qadar",
+        "Setelah bangun dari tidur",
+        "Ketika dalam perjalanan ke sekolah"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Doa & Qada Qadar", "colour": "#FFB300" },
+      { "id": "n2", "label": "Pengertian Doa", "colour": "#FF8F00" },
+      { "id": "n3", "label": "Adab Berdoa", "colour": "#FF8F00" },
+      { "id": "n4", "label": "Waktu & Tempat Mustajab", "colour": "#4CAF50" },
+      { "id": "n5", "label": "10 Sebab Tidak Dimaqbul", "colour": "#F44336" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "unit 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "unit 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "unit 3" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "unit 4" }
+    ]
+  },
+  "vocab": [
+    { "word": "الدُّعَاء", "meaning": "doa — permohonan kepada Allah ﷻ dengan cara bermunajat" },
+    { "word": "الْمُسْتَجَاب", "meaning": "mustajab — doa yang dikabulkan/dimaqbulkan oleh Allah ﷻ" },
+    { "word": "الْخُشُوع", "meaning": "khusyuk — kekhusyukan hati semasa berdoa atau beribadah" },
+    { "word": "لَيْلَةُ الْقَدْر", "meaning": "Lailatul Qadar — malam yang lebih baik dari 1000 bulan (waktu mustajab berdoa)" },
+    { "word": "الْمَظْلُوم", "meaning": "orang yang dizalimi — doanya amatlah mustajab di sisi Allah ﷻ" }
+  ],
+  "funFact": "Tahukah kamu bahawa Ibrahim bin Adham, seorang wali Allah ﷻ yang terkenal, pernah memberikan nasihat yang sangat berharga tentang doa? Beliau berjalan di persisiran pantai di kota Basrah ketika orang ramai bertanyakan kepadanya mengapa doa mereka tidak dimaqbulkan. Jawapannya mengejutkan semua orang: 'Hati kamu mati!' — kerana mereka tahu tentang Allah ﷻ tetapi tidak mengamalkan apa yang diketahui. Pelajaran penting: Doa bukan sekadar kata-kata, ia mesti disertai dengan amal dan hati yang hidup!"
+}

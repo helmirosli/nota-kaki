@@ -1,0 +1,153 @@
+{
+  "id": "jais-tahun-4-jawi-bab2",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "jawi",
+  "chapter": 2,
+  "title": "Jawi 2: Membaca Teks Agama dalam Jawi",
+  "emoji": "📜",
+  "colour": "#FF9800",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "قِرَاءَة النُّصُوص الدِّينِيَّة — Membaca Teks Agama Jawi",
+      "body": "Banyak kitab agama Islam di Malaysia ditulis dalam tulisan Jawi. Dengan menguasai Jawi, kita boleh membaca kitab-kitab lama yang mengandungi ilmu agama yang sangat berharga. Dalam pelajaran ini, kita baca teks-teks agama mudah dalam tulisan Jawi."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Teks 1: Rukun Islam dalam Jawi",
+          "body": {
+            "type": "arabic",
+            "instruction": "Baca teks Jawi di bawah:",
+            "arabic": "روكون اسلام اد ليم ڤركارا. ڤرتام اياله منڠوچڤكن دوا كليمه شهادة. كدوا ممبوات سمباهيڠ ليم وقتو سهاري سمالم. كتيݢ برڤوسا بولن رمضان. كامڤت منونيكن زكات. كليم مناءيكن هاجي باݢي يڠ برقوده.",
+            "translation": "Rukun Islam ada lima perkara. Pertama ialah mengucapkan dua kalimah syahadah. Kedua membuat sembahyang lima waktu sehari semalam. Ketiga berpuasa bulan Ramadan. Keempat menunaikan zakat. Kelima menaiki haji bagi yang berkuasa."
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Teks 2: Rukun Iman dalam Jawi",
+          "body": {
+            "type": "arabic",
+            "instruction": "Baca teks ini pula:",
+            "arabic": "روكون ايمان اد انم ڤركارا. بريمان كڤد الله. بريمان كڤد ملايكة. بريمان كڤد كتاب-كتاب. بريمان كڤد رسول-رسول. بريمان كڤد هاري اخيرت. بريمان كڤد قدر بايك دان بوروق داتڠ دري الله.",
+            "translation": "Rukun Iman ada enam perkara. Beriman kepada Allah. Beriman kepada malaikat. Beriman kepada kitab-kitab. Beriman kepada rasul-rasul. Beriman kepada hari akhirat. Beriman kepada qadar baik dan buruk datang dari Allah."
+          }
+        },
+        {
+          "icon": "✍️",
+          "title": "Latihan Menulis Jawi",
+          "body": {
+            "type": "pairs",
+            "intro": "Tulis perkataan-perkataan ini dalam Jawi:",
+            "rows": [
+              { "arabic": "روكون", "meaning": "rukun" },
+              { "arabic": "اسلام", "meaning": "Islam" },
+              { "arabic": "ايمان", "meaning": "iman" },
+              { "arabic": "سمباهيڠ", "meaning": "sembahyang" },
+              { "arabic": "ڤوسا", "meaning": "puasa" },
+              { "arabic": "زكات", "meaning": "zakat" },
+              { "arabic": "هاجي", "meaning": "haji" },
+              { "arabic": "شهادة", "meaning": "syahadah" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📜",
+      "text": {
+        "type": "list",
+        "intro": "Cara cepat baca Jawi — petua berguna:",
+        "items": [
+          "Kenali perkataan agama yang sama dengan Arab: اسلام، ايمان، زكات، الله",
+          "Huruf و (waw) di tengah perkataan biasanya bunyi 'o' atau 'u' dalam Jawi",
+          "Huruf ي (ya') di tengah perkataan biasanya bunyi 'i' atau 'e'",
+          "Kalau tak pasti, cari perkataan Melayu yang bunyinya serupa"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Langkah Membaca Teks Jawi",
+      "items": [
+        "Baca dari kanan ke kiri, seperti membaca Arab.",
+        "Kenalpasti perkataan Arab yang masuk dalam Jawi — ejaan sama.",
+        "Untuk perkataan Melayu asal, bunyikan mengikut konsonan yang ada.",
+        {
+          "type": "arabic",
+          "arabic": "ملايو → M + L + Y + W = Melayu (tambah vokal sendiri)",
+          "translation": "Baca konsonan dahulu, lepas tu tambah vokal untuk bunyikan perkataan"
+        },
+        "Latihan harian: baca satu baris Jawi setiap hari dari buku teks atau papan tanda."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Dalam Jawi, huruf ي (Ya') di tengah perkataan biasanya berbunyi apa?",
+      "options": [
+        "Bunyi 'a'",
+        "Bunyi 'i' atau 'e'",
+        "Bunyi 'u'",
+        "Bunyi 'o'"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan Jawi 'سمباهيڠ' bermaksud apa?",
+      "options": [
+        "Zakat",
+        "Haji",
+        "Sembahyang/Solat",
+        "Puasa"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah cara membaca tulisan Jawi?",
+      "options": [
+        "Dari kiri ke kanan",
+        "Dari kanan ke kiri",
+        "Dari atas ke bawah",
+        "Tidak ada peraturan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan Jawi mana yang sama ejaannya dalam Arab?",
+      "options": [
+        "ملايو",
+        "سمباهيڠ",
+        "اسلام",
+        "هاجي"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Jawi Teks Agama", "colour": "#FF9800" },
+      { "id": "n2", "label": "Rukun Islam", "colour": "#F57C00" },
+      { "id": "n3", "label": "Rukun Iman", "colour": "#F57C00" },
+      { "id": "n4", "label": "Latihan Menulis", "colour": "#F57C00" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "teks 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "teks 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "aktiviti" }
+    ]
+  },
+  "vocab": [
+    { "word": "روكون اسلام", "meaning": "Rukun Islam" },
+    { "word": "روكون ايمان", "meaning": "Rukun Iman" },
+    { "word": "سمباهيڠ", "meaning": "sembahyang" },
+    { "word": "برقوده", "meaning": "berkuasa / mampu" },
+    { "word": "قدر", "meaning": "qadar / takdir" }
+  ],
+  "funFact": "Tahukah kamu bahawa kitab agama Islam Melayu tertua yang masih ada ialah 'Aqaid al-Nasafi' yang diterjemahkan ke bahasa Melayu menggunakan Jawi pada abad ke-16? Kitab ini adalah terjemahan karya ulama besar Persia ke dalam bahasa Melayu, menunjukkan betapa awalnya ilmu Islam tersebar ke Nusantara. Sistem tulisan Jawi membolehkan ilmu Islam sampai kepada orang Melayu yang tidak tahu bahasa Arab — satu sumbangan besar para ulama Melayu dahulu!"
+}

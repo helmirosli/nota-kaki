@@ -1,0 +1,173 @@
+{
+  "id": "jais-tahun-4-feqah-bab4",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "feqah",
+  "chapter": 4,
+  "title": "Bab 4: Solat dalam Keadaan Khas",
+  "emoji": "🕌",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الصَّلَاة فِي حَالَات الْخَاصَّة — Solat dalam Keadaan Khas",
+      "body": "Islam adalah agama yang mudah (يُسْر). Allah SWT memberikan kemudahan kepada umat Islam untuk mendirikan solat walaupun dalam keadaan sakit, musafir, atau ketakutan. Ini menunjukkan betapa penting dan wajibnya solat tidak boleh ditinggalkan dalam sebarang keadaan."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🤒",
+          "title": "Solat Ketika Sakit",
+          "body": {
+            "type": "list",
+            "intro": "Cara solat apabila sakit atau tidak mampu berdiri:",
+            "items": [
+              "Wajib solat mengikut kemampuan — solat tidak gugur kerana sakit",
+              "Boleh berdiri: solat berdiri seperti biasa",
+              "Tidak mampu berdiri: solat DUDUK (dengan isyarat rukuk & sujud)",
+              "Tidak mampu duduk: solat BERBARING menghadap kiblat",
+              "Tidak mampu bergerak: solat dengan ISYARAT mata/hati",
+              "Solat dalam keadaan sakit lebih baik dan pahalanya penuh!"
+            ]
+          }
+        },
+        {
+          "icon": "✈️",
+          "title": "Solat Qasar (Musafir)",
+          "body": {
+            "type": "list",
+            "intro": "Solat diringkaskan semasa dalam perjalanan jauh:",
+            "items": [
+              "Qasar = memendekkan solat 4 rakaat menjadi 2 rakaat",
+              "Berlaku pada: Zohor, Asar, Isyak (3 solat ini 4 rakaat → jadi 2 rakaat)",
+              "Subuh dan Maghrib TIDAK boleh diqasar (2 dan 3 rakaat — kekal)",
+              "Syarat musafir: jarak perjalanan lebih 2 marhalah (≈ 88.6 km / kira-kira 89 km)",
+              "Niat qasar dibuat dalam niat solat: '...solat Zohor dua rakaat qasar...'"
+            ]
+          }
+        },
+        {
+          "icon": "🔗",
+          "title": "Solat Jama' (Gabung)",
+          "body": {
+            "type": "pairs",
+            "intro": "Menggabungkan dua solat dalam satu waktu:",
+            "rows": [
+              { "label": "Jama' Taqdim", "arabic": "جمع تقديم", "meaning": "Gabung solat Asar ke waktu Zohor ATAU Isyak ke waktu Maghrib" },
+              { "label": "Jama' Ta'khir", "arabic": "جمع تأخير", "meaning": "Gabung solat Zohor ke waktu Asar ATAU Maghrib ke waktu Isyak" }
+            ],
+            "outro": "Boleh jama' sahaja, qasar sahaja, atau jama' sekaligus qasar"
+          }
+        },
+        {
+          "icon": "🛡️",
+          "title": "Solat Khauf (Ketakutan)",
+          "body": {
+            "type": "list",
+            "intro": "Solat semasa dalam keadaan bahaya/perang:",
+            "items": [
+              "Solat Khauf = solat semasa dalam keadaan takut/bahaya",
+              "Allah SWT izinkan pelbagai cara solat untuk keadaan ini",
+              "Boleh solat sambil berjalan kaki atau menunggang kenderaan",
+              "Boleh menghadap arah mana saja jika tidak dapat hadap kiblat",
+              "Islam tidak sekali-kali membenarkan meninggalkan solat"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith tentang kemudahan solat dalam Islam:",
+        "arabic": "إِذَا مَرِضَ الْعَبْدُ أَوْ سَافَرَ كُتِبَ لَهُ مِثْلُ مَا كَانَ يَعْمَلُ مُقِيمًا صَحِيحًا",
+        "translation": "Apabila seorang hamba sakit atau bermusafir, dituliskan pahala untuknya seperti mana amalannya ketika sihat dan mukim.",
+        "source": "Riwayat al-Bukhari"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Panduan Solat Qasar + Jama'",
+      "items": [
+        "Pastikan jarak perjalanan melebihi 89 km dari tempat asal.",
+        "Niatkan dalam hati solat akan diqasar dan/atau dijama'.",
+        {
+          "type": "arabic",
+          "arabic": "أُصَلِّي فَرْضَ الظُّهْرِ رَكْعَتَيْنِ قَصْرًا مَعَ الْعَصْرِ جَمْعَ تَقْدِيمٍ لِلَّهِ تَعَالَى",
+          "translation": "Sahaja aku solat fardhu Zohor dua rakaat qasar digabung dengan Asar (jama' taqdim) kerana Allah Taala"
+        },
+        "Solat Zohor 2 rakaat (qasar), salam. Terus solat Asar 2 rakaat (qasar) tanpa selang masa panjang.",
+        "Kemudahan ini adalah RAHMAT dari Allah — gunakan dengan bersyukur."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud 'Qasar' dalam solat?",
+      "options": [
+        "Menambah rakaat",
+        "Memendekkan/meringkaskan rakaat",
+        "Menggabungkan dua solat",
+        "Meninggalkan solat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Solat manakah yang TIDAK boleh diqasar?",
+      "options": [
+        "Zohor",
+        "Asar",
+        "Isyak",
+        "Subuh"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Apakah Jama' Taqdim?",
+      "options": [
+        "Menunda solat ke waktu berikutnya",
+        "Menggabungkan solat kemudian ke waktu yang awal",
+        "Meringkaskan solat",
+        "Menqada solat yang tertinggal"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah cara solat bagi orang yang sakit dan tidak mampu berdiri mahupun duduk?",
+      "options": [
+        "Tinggalkan solat sehingga sembuh",
+        "Solat berdiri dengan berpaut",
+        "Solat berbaring menghadap kiblat",
+        "Solat esok hari sebagai qada"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Solat Khas", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Solat Sakit", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "Solat Qasar", "colour": "#7B1FA2" },
+      { "id": "n4", "label": "Solat Jama'", "colour": "#7B1FA2" },
+      { "id": "n5", "label": "Solat Khauf", "colour": "#7B1FA2" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "kemudahan 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "kemudahan 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "kemudahan 3" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "kemudahan 4" }
+    ]
+  },
+  "vocab": [
+    { "word": "قَصْر", "meaning": "meringkaskan (memendekkan rakaat)" },
+    { "word": "جَمْع", "meaning": "menggabungkan (dua solat)" },
+    { "word": "مَرَض", "meaning": "sakit / penyakit" },
+    { "word": "مُسَافِر", "meaning": "orang yang bermusafir" },
+    { "word": "خَوْف", "meaning": "takut / keadaan bahaya" }
+  ],
+  "funFact": "Tahukah kamu bahawa solat boleh dilakukan di atas kapal terbang, kereta api, atau kapal laut? Kamu boleh solat ke arah kiblat (atau mengikut kemampuan kendaraan bergerak). Zaman Rasulullah SAW, sahabat solat di atas unta semasa bermusafir! Ini menunjukkan Islam sangat praktikal — solat mesti dikerjakan tidak kira di mana kamu berada!"
+}

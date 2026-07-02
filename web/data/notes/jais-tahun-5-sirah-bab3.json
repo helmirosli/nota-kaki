@@ -1,0 +1,149 @@
+{
+  "id": "jais-tahun-5-sirah-bab3",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "sirah",
+  "chapter": 3,
+  "title": "Perjanjian Hudaibiah",
+  "emoji": "📜",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "فُرْجَنْجِيَن حُدَيْبِيَة — Pelajaran Ketiga",
+      "body": "Perjanjian Hudaibiah ialah perjanjian damai yang dimeterai antara Nabi Muhammad ﷺ dengan kaum Quraisy Mekah pada tahun 6 Hijriah. Walaupun nampak merugikan Islam, ia sebenarnya merupakan kemenangan besar bagi Islam."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🌙",
+          "title": "Unit 1: Sebab Perjanjian Hudaibiah",
+          "body": {
+            "type": "list",
+            "intro": "Latar belakang berlakunya Perjanjian Hudaibiah:",
+            "items": [
+              "Tahun 6 Hijriah, Nabi ﷺ bermimpi menunaikan umrah ke Mekah bersama para sahabat.",
+              "Nabi ﷺ dan 1500 sahabat bergerak menuju Mekah. Quraish menghalang mereka di kawasan Hudaibiah.",
+              "Nabi ﷺ menghantar Sayyidina Uthman bin Affan sebagai utusan ke Mekah untuk berunding.",
+              "Berita tersebar bahawa Uthman telah dibunuh. Nabi ﷺ dan sahabat berbaiat (Bai'atur Ridwan) di bawah pohon bersedia berperang.",
+              "Ternyata Uthman selamat. Quraish menghantar Suhail bin 'Amr untuk berunding, lalu dimeterai Perjanjian Hudaibiah."
+            ]
+          }
+        },
+        {
+          "icon": "📋",
+          "title": "Unit 2: Isi Perjanjian Hudaibiah",
+          "body": {
+            "type": "list",
+            "intro": "5 isi Perjanjian Hudaibiah:",
+            "items": [
+              "1. Mengadakan gencatan senjata selama 10 tahun.",
+              "2. Kedua-dua pihak bebas membuat pakatan dengan mana-mana kaum yang mereka inginkan.",
+              "3. Orang Quraish yang lari ke pihak Islam tidak boleh diterima dan mesti dikembalikan ke Mekah.",
+              "4. Orang Islam yang lari ke pihak Quraish tidak perlu dikembalikan ke Madinah.",
+              "5. Orang Islam tidak dibenarkan mengerjakan umrah pada tahun ini, tetapi boleh mengerjakan umrah pada tahun berikutnya."
+            ]
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Unit 3: Kesan Perjanjian Hudaibiah",
+          "body": {
+            "type": "list",
+            "intro": "8 kesan positif Perjanjian Hudaibiah:",
+            "items": [
+              "1. Pihak musyrikin mengiktiraf Nabi ﷺ, dan kaum Islam mendapat pengiktirafan sebagai sebuah kerajaan yang berdaulat di Madinah.",
+              "2. Fasa gencatan 10 tahun memberi peluang Nabi ﷺ menyebarkan dakwah Islam ke kerajaan Habsyah, Farsi, Mesir, dan lain-lain.",
+              "3. Lebih ramai tokoh Quraish masuk Islam, termasuk Khalid bin al-Walid dan 'Amr bin al-'As.",
+              "4. Kaum Muslimin dapat mengembangkan dakwah kepada orang bukan Islam dengan lebih bebas.",
+              "5. Membuktikan kekuasaan Nabi ﷺ — Islam mula diiktiraf oleh negara-negara luar.",
+              "6. Orang Quraish dapat melihat dari dekat keindahan amalan Islam, ramai yang tertarik.",
+              "7. Kaum Muslimin bebas mengerjakan umrah dengan aman damai (pada tahun berikutnya).",
+              "8. Islam dapat bertindak terhadap Yahudi Khaibar yang mengkhianati perjanjian dan dibantu oleh Quraish."
+            ]
+          }
+        },
+        {
+          "icon": "🌍",
+          "title": "Unit 4: Hubungan dengan Negara Luar — Surat Nabi ﷺ",
+          "body": {
+            "type": "list",
+            "intro": "Nabi ﷺ menghantar utusan membawa surat dakwah kepada 8 raja/kerajaan luar:",
+            "items": [
+              "Habsyah (an-Najasyi) — utusan: 'Amru bin Umayyah al-Dhamri → MENERIMA Islam",
+              "Rom (Heraclius) — utusan: Dihyah bin Khalifah al-Kalbi → Menolak dengan baik",
+              "Mesir (Muqawqis) — utusan: Hatib bin Abi Balta'ah → Menolak dengan baik",
+              "Farsi (Kisra bin Hurmuz) — utusan: 'Abd Allah bin Huzaqah → Menolak dengan kasar",
+              "Damsyik/Ghassan (al-Harits bin Abi Syamr) — utusan: Syuja' bin Wahb → Menolak dengan kasar",
+              "Yamamah (Howzah bin Ali) — utusan: Sulayt bin 'Amr → Tidak menerima Islam",
+              "Bahrain (al-Munzir bin Sawa) — utusan: al-'Ala' bin al-Hadhrami → MENERIMA Islam",
+              "Oman (Jayfar bin al-Julandi) — utusan: 'Amru bin al-'As → MENERIMA Islam"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Perjanjian Hudaibiah disebut dalam al-Quran sebagai 'Fath Mubeen' (Kemenangan yang nyata) — Surah al-Fath: 1."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Pada tahun berapakah Hijriah berlakunya Perjanjian Hudaibiah?",
+      "options": ["Tahun 4", "Tahun 5", "Tahun 6", "Tahun 8"],
+      "answer": 2
+    },
+    {
+      "q": "Berapa lama tempoh gencatan senjata dalam Perjanjian Hudaibiah?",
+      "options": ["5 tahun", "8 tahun", "10 tahun", "15 tahun"],
+      "answer": 2
+    },
+    {
+      "q": "Raja manakah yang MENERIMA Islam setelah menerima surat Nabi ﷺ?",
+      "options": [
+        "Heraclius (Rom)",
+        "Kisra bin Hurmuz (Farsi)",
+        "an-Najasyi (Habsyah)",
+        "al-Harits (Damsyik)"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Siapakah yang berbaiat (Bai'atur Ridwan) bersama Nabi ﷺ di bawah pohon?",
+      "options": [
+        "Hanya para sahabat senior",
+        "1500 sahabat yang menyertai perjalanan umrah",
+        "Kaum Quraish yang baru masuk Islam",
+        "Kaum Ansar sahaja"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Perjanjian Hudaibiah", "colour": "#FF6F00" },
+      { "id": "n2", "label": "Sebab (Unit 1)", "colour": "#E65100" },
+      { "id": "n3", "label": "Isi (Unit 2)", "colour": "#E65100" },
+      { "id": "n4", "label": "Kesan (Unit 3)", "colour": "#4CAF50" },
+      { "id": "n5", "label": "Negara Luar (Unit 4)", "colour": "#1565C0" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "mengapa" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "kandungan" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "hasil" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "dakwah" }
+    ]
+  },
+  "vocab": [
+    { "word": "صُلْحُ الْحُدَيْبِيَة", "meaning": "Perjanjian Hudaibiah — perjanjian damai antara Nabi ﷺ dan Quraisy pada tahun 6H" },
+    { "word": "بَيْعَةُ الرِّضْوَان", "meaning": "Bai'atur Ridwan — sumpah taat setia para sahabat kepada Nabi ﷺ di bawah pohon di Hudaibiah" },
+    { "word": "الْهُدْنَة", "meaning": "Hudnah/gencatan senjata — persetujuan untuk berhenti berperang buat sementara waktu" },
+    { "word": "السَّفِيرُ", "meaning": "Safir/utusan — wakil yang dihantar untuk membawa mesej atau berunding" },
+    { "word": "الدَّعْوَة", "meaning": "Dakwah — ajakan kepada Islam melalui cara yang baik dan berhikmah" }
+  ],
+  "funFact": "Tahukah kamu bahawa Perjanjian Hudaibiah pada mulanya nampak seperti Nabi ﷺ kalah? Para sahabat berasa sedih kerana tidak dapat masuk Mekah. Tetapi Allah ﷻ menyebut perjanjian itu sebagai 'Fath Mubeen' (Kemenangan yang nyata) dalam Surah al-Fath! Hasilnya, Islam berkembang pesat — dalam masa dua tahun selepas perjanjian, ribuan orang masuk Islam termasuk tokoh besar seperti Khalid bin al-Walid dan 'Amr bin al-'As. Ini membuktikan bahawa hikmah Allah ﷻ jauh lebih tinggi dari pandangan manusia!"
+}

@@ -1,0 +1,179 @@
+{
+  "id": "jais-tahun-4-bahasa-arab-bab1",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "bahasa-arab",
+  "chapter": 1,
+  "title": "Dars 1: Nombor 301–400",
+  "emoji": "🔢",
+  "colour": "#1565C0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الأعداد — Nombor 301 hingga 400",
+      "body": "Dalam dars ini kita belajar nombor-nombor Arab dari 301 hingga 400. Kita telah belajar 200–300 di Tahun 3. Sekarang kita teruskan ke 301 ke atas!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🔢",
+          "title": "Nombor 301–310",
+          "body": {
+            "type": "pairs",
+            "intro": "Nombor 301 hingga 310 dalam bahasa Arab:",
+            "rows": [
+              { "label": "301", "arabic": "ثَلَاثُمِائَةٍ وَوَاحِد", "meaning": "tiga ratus satu" },
+              { "label": "302", "arabic": "ثَلَاثُمِائَةٍ وَاثْنَان", "meaning": "tiga ratus dua" },
+              { "label": "303", "arabic": "ثَلَاثُمِائَةٍ وَثَلَاثَة", "meaning": "tiga ratus tiga" },
+              { "label": "304", "arabic": "ثَلَاثُمِائَةٍ وَأَرْبَعَة", "meaning": "tiga ratus empat" },
+              { "label": "305", "arabic": "ثَلَاثُمِائَةٍ وَخَمْسَة", "meaning": "tiga ratus lima" },
+              { "label": "306", "arabic": "ثَلَاثُمِائَةٍ وَسِتَّة", "meaning": "tiga ratus enam" },
+              { "label": "307", "arabic": "ثَلَاثُمِائَةٍ وَسَبْعَة", "meaning": "tiga ratus tujuh" },
+              { "label": "308", "arabic": "ثَلَاثُمِائَةٍ وَثَمَانِيَة", "meaning": "tiga ratus lapan" },
+              { "label": "309", "arabic": "ثَلَاثُمِائَةٍ وَتِسْعَة", "meaning": "tiga ratus sembilan" },
+              { "label": "310", "arabic": "ثَلَاثُمِائَةٍ وَعَشَرَة", "meaning": "tiga ratus sepuluh" }
+            ],
+            "outro": "ثَلَاثُمِائَة = tiga ratus. Tambah وَ + nombor untuk 301–399."
+          }
+        },
+        {
+          "icon": "📊",
+          "title": "Puluhan: 320, 330 … 400",
+          "body": {
+            "type": "pairs",
+            "intro": "Nombor puluhan dari 320 hingga 400:",
+            "rows": [
+              { "label": "320", "arabic": "ثَلَاثُمِائَةٍ وَعِشْرُونَ", "meaning": "tiga ratus dua puluh" },
+              { "label": "330", "arabic": "ثَلَاثُمِائَةٍ وَثَلَاثُونَ", "meaning": "tiga ratus tiga puluh" },
+              { "label": "340", "arabic": "ثَلَاثُمِائَةٍ وَأَرْبَعُونَ", "meaning": "tiga ratus empat puluh" },
+              { "label": "350", "arabic": "ثَلَاثُمِائَةٍ وَخَمْسُونَ", "meaning": "tiga ratus lima puluh" },
+              { "label": "360", "arabic": "ثَلَاثُمِائَةٍ وَسِتُّونَ", "meaning": "tiga ratus enam puluh" },
+              { "label": "370", "arabic": "ثَلَاثُمِائَةٍ وَسَبْعُونَ", "meaning": "tiga ratus tujuh puluh" },
+              { "label": "380", "arabic": "ثَلَاثُمِائَةٍ وَثَمَانُونَ", "meaning": "tiga ratus lapan puluh" },
+              { "label": "390", "arabic": "ثَلَاثُمِائَةٍ وَتِسْعُونَ", "meaning": "tiga ratus sembilan puluh" },
+              { "label": "400", "arabic": "أَرْبَعُمِائَة", "meaning": "empat ratus" }
+            ],
+            "outro": "400 = أَرْبَعُمِائَة — pola baru, hafaz berasingan!"
+          }
+        },
+        {
+          "icon": "🛒",
+          "title": "Contoh Perbualan — Menabung",
+          "body": {
+            "type": "arabic",
+            "instruction": "Perbualan tentang tabungan:",
+            "arabic": "كَمْ رِنْجِيتًا اِدَّخَرْتَ فِي هَذَا الشَّهْرِ؟\nاِدَّخَرْتُ ثَلَاثَمِائَةٍ وَوَاحِدًا رِنْجِيتًا.\nمَاشَاءَ اللَّه! أَنْتَ مُوَفَّر!",
+            "translation": "Berapa Ringgit kamu menabung bulan ini?\nSaya menabung tiga ratus satu Ringgit.\nMasyaAllah! Kamu jimat cermat!"
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Firman Allah — Surah al-Kahfi: 25",
+          "body": {
+            "type": "arabic",
+            "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا",
+            "translation": "Dan mereka tinggal di dalam gua mereka tiga ratus tahun dan ditambah sembilan tahun.",
+            "source": "Surah al-Kahfi: 25"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "pairs",
+        "intro": "Nombor ratus yang wajib hafaz:",
+        "rows": [
+          { "label": "100", "arabic": "مِائَة", "meaning": "seratus" },
+          { "label": "200", "arabic": "مِائَتَانِ", "meaning": "dua ratus" },
+          { "label": "300", "arabic": "ثَلَاثُمِائَة", "meaning": "tiga ratus" },
+          { "label": "400", "arabic": "أَرْبَعُمِائَة", "meaning": "empat ratus" }
+        ],
+        "outro": "Pola: nombor × مِائَة (kecuali 100 dan 200 yang ada bentuk khas)"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Membaca Nombor 301–400",
+      "items": [
+        "Nombor 300 ialah ثَلَاثُمِائَة (tha-la-thu-mi'ah) — hafaz dulu.",
+        "301 hingga 399: ثَلَاثُمِائَةٍ وَ + nombor biasa (satuan, belasan, puluhan).",
+        {
+          "type": "arabic",
+          "arabic": "ثَلَاثُمِائَةٍ وَخَمْسَة = ٣٠٥",
+          "translation": "Tiga ratus lima = 305"
+        },
+        "400 = أَرْبَعُمِائَة. Ini pola baru — empat ratus — hafaz berasingan!",
+        "Gunakan nombor ini semasa belajar tentang harga, jarak, dan sejarah Islam."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah nombor Arab untuk 305?",
+      "options": [
+        "ثَلَاثُمِائَةٍ وَخَمْسُونَ",
+        "ثَلَاثُمِائَةٍ وَخَمْسَة",
+        "أَرْبَعُمِائَةٍ وَخَمْسَة",
+        "مِائَتَانِ وَخَمْسَة"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah makna ثَلَاثُمِائَةٍ وَخَمْسُونَ?",
+      "options": [
+        "Tiga ratus lima",
+        "Tiga ratus lima belas",
+        "Tiga ratus lima puluh",
+        "Empat ratus lima puluh"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bagaimana cara membaca nombor 400 dalam bahasa Arab?",
+      "options": [
+        "ثَلَاثُمِائَة",
+        "أَرْبَعُمِائَة",
+        "مِائَتَانِ",
+        "خَمْسُمِائَة"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dalam Surah al-Kahfi ayat 25, berapa tahun Ashabul Kahfi tinggal di gua?",
+      "options": [
+        "200 tahun",
+        "309 tahun",
+        "300 tahun",
+        "400 tahun"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Nombor Arab", "colour": "#1565C0" },
+      { "id": "n2", "label": "300 = ثَلَاثُمِائَة", "colour": "#1976D2" },
+      { "id": "n3", "label": "301–399", "colour": "#42A5F5" },
+      { "id": "n4", "label": "400 = أَرْبَعُمِائَة", "colour": "#1976D2" },
+      { "id": "n5", "label": "Surah al-Kahfi: 25", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "asas" },
+      { "id": "e2", "source": "n2", "target": "n3", "label": "tambah وَ + nombor" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "selepas 399" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "disebut dalam Quran" }
+    ]
+  },
+  "vocab": [
+    { "word": "ثَلَاثُمِائَة", "meaning": "tiga ratus (300)" },
+    { "word": "أَرْبَعُمِائَة", "meaning": "empat ratus (400)" },
+    { "word": "اِدَّخَرَ", "meaning": "menabung" },
+    { "word": "مُوَفَّر", "meaning": "jimat cermat" },
+    { "word": "كَهْف", "meaning": "gua" }
+  ],
+  "funFact": "Tahukah kamu kisah Ashabul Kahfi? Mereka adalah sekumpulan pemuda beriman yang tidur di dalam gua selama 309 tahun! Allah SWT menjaga mereka dari sinar matahari dan anjing mereka turut bersama menjaga pintu gua. Kisah mereka disebut dalam Surah al-Kahfi ayat 25 menggunakan nombor ثَلَاثَ مِائَةٍ (300) — nombor yang kita baru pelajari!"
+}

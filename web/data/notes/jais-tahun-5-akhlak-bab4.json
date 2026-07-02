@@ -1,0 +1,332 @@
+{
+  "id": "jais-tahun-5-akhlak-bab4",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "akhlak",
+  "chapter": 4,
+  "title": "Sifat Mahmudah",
+  "emoji": "🌟",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "صِفَات مَحْمُودَة — Pelajaran Keempat",
+      "body": "Sifat mahmudah ialah sifat terpuji yang perlu diamalkan oleh setiap Muslim. Dalam pelajaran ini kita belajar empat sifat mahmudah: Zuhud, Sabar, Syukur, dan Ikhlas."
+    },
+    {
+      "type": "unit",
+      "heading": "🕌 Unit 1: Zuhud",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Pengertian & Dalil",
+          "body": {
+            "type": "arabic",
+            "instruction": "Zuhud ialah tidak terlalu tergantung dengan kemewahan dunia kerana mengutamakan akhirat. Firman Allah ﷻ:",
+            "arabic": "بَلْ تُؤْثِرُونَ الْحَيَوةَ الدُّنْيَا ﴿١٦﴾ وَالْآخِرَةُ خَيْرٌ وَأَبْقَى ﴿١٧﴾",
+            "translation": "(Tetapi) kamu mengutamakan kehidupan dunia. Sedangkan kehidupan akhirat itu lebih baik dan lebih kekal.",
+            "source": "Surah al-A'la: 16-17"
+          }
+        },
+        {
+          "icon": "🛡️",
+          "title": "Cara-cara Zuhud",
+          "body": {
+            "type": "list",
+            "items": [
+              "Sentiasa bersyukur dengan nikmat yang diperoleh",
+              "Sentiasa memperbanyakkan ibadah kepada Allah ﷻ",
+              "Tidak tamak mengejar harta dunia"
+            ]
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Fadhilat Zuhud",
+          "body": {
+            "type": "list",
+            "items": [
+              "Dikasihhi Allah ﷻ dan Rasulullah ﷺ",
+              "Hati sentiasa tenang",
+              "Bahagia hidup dunia dan akhirat",
+              "Dikasihhi ibu bapa, rakan dan masyarakat"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Akibat Tidak Zuhud",
+          "body": {
+            "type": "list",
+            "items": [
+              "Dimurkakan oleh Allah ﷻ dan Rasulullah ﷺ",
+              "Lalai dalam melaksanakan ibadah",
+              "Mudah terasa tamak terhadap kemewahan dunia",
+              "Dibenci ibu bapa, rakan dan masyarakat"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "unit",
+      "heading": "🤲 Unit 2: Sabar",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Pengertian & Dalil",
+          "body": {
+            "type": "arabic",
+            "instruction": "Sabar ialah menahan diri daripada berkeluh-kesah terhadap musibah yang menimpa. Firman Allah ﷻ:",
+            "arabic": "... إِنَّمَا يُوَفَّى الصَّابِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ ﴿١٠﴾",
+            "translation": "...sesungguhnya orang-orang yang bersabar itu akan disempurnakan pahala mereka tanpa batas (kiraan).",
+            "source": "Surah al-Zumar: 10"
+          }
+        },
+        {
+          "icon": "🛡️",
+          "title": "Cara-cara Bersabar",
+          "body": {
+            "type": "list",
+            "items": [
+              "Meyakini segala qada dan qadar yang telah ditetapkan Allah ﷻ",
+              "Sentiasa tenang dalam semua situasi",
+              "Elakkan diri dari putus asa",
+              "Sentiasa beristighfar kepada Allah ﷻ"
+            ]
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Fadhilat Bersabar",
+          "body": {
+            "type": "list",
+            "items": [
+              "Dikasihhi oleh Allah ﷻ dan Rasulullah ﷺ",
+              "Dapat meningkatkan keimanan kepada Allah ﷻ",
+              "Dikasihhi oleh ibu bapa, kawan dan masyarakat",
+              "Mendapat kebahagiaan hidup dunia dan akhirat"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Akibat Tidak Sabar",
+          "body": {
+            "type": "list",
+            "items": [
+              "Tidak dikasihhi oleh Allah ﷻ dan Rasulullah ﷺ",
+              "Tidak dikasihhi oleh ibu bapa, kawan dan masyarakat",
+              "Hidup sentiasa rasa gelisah",
+              "Berputus asa dari mendapat rahmat Allah ﷻ"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "unit",
+      "heading": "🙏 Unit 3: Syukur",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Pengertian & Dalil",
+          "body": {
+            "type": "arabic",
+            "instruction": "Syukur ialah memuji Allah ﷻ dan menggunakan nikmat yang dikurniakan. Firman Allah ﷻ:",
+            "arabic": "... وَاشْكُرُوا نِعْمَتَ اللَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ ﴿١١٤﴾",
+            "translation": "...dan bersyukurlah atas nikmat Allah ﷻ, jika kamu benar-benar menyembah-Nya (hanya kepada-Nya).",
+            "source": "Surah al-Nahl: 114"
+          }
+        },
+        {
+          "icon": "🛡️",
+          "title": "Cara-cara Bersyukur",
+          "body": {
+            "type": "list",
+            "items": [
+              "Taat kepada Allah ﷻ",
+              "Sujud syukur",
+              "Rajin beribadah",
+              "Menjauhkan diri dari larangan Allah ﷻ",
+              "Rasa puas dengan ketetapan Allah ﷻ"
+            ]
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Fadhilat Bersyukur",
+          "body": {
+            "type": "list",
+            "items": [
+              "Dikasihhi Allah ﷻ dan Rasulullah ﷺ",
+              "Jiwa tenang dan tenteram",
+              "Terhindar dari sifat mazmumah",
+              "Rezeki bertambah dan berkat",
+              "Dikasihhi keluarga, rajin beribadah dan berdoa"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Akibat Tidak Bersyukur",
+          "body": {
+            "type": "list",
+            "items": [
+              "Jiwa tidak tenteram",
+              "Rezeki sempit, terbatas dan terhad",
+              "Malas berdoa",
+              "Dibenci Allah ﷻ dan Rasulullah ﷺ",
+              "Malas berusaha dan beribadah",
+              "Sering melakukan maksiat"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "unit",
+      "heading": "💎 Unit 4: Ikhlas",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Pengertian & Dalil",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ikhlas ialah melakukan amalan semata-mata kerana Allah ﷻ. Firman Allah ﷻ:",
+            "arabic": "وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ ...الْآيَة ﴿٥﴾",
+            "translation": "Padahal mereka tidak disuruh melainkan supaya menyembah Allah dengan mengikhlaskan ketaatan kepada-Nya dalam (menjalankan) agama...",
+            "source": "Surah al-Bayyinah: 5"
+          }
+        },
+        {
+          "icon": "🔍",
+          "title": "Ciri-ciri Ikhlas",
+          "body": {
+            "type": "list",
+            "items": [
+              "Melakukan amalan semata-mata kerana Allah ﷻ",
+              "Tidak mengharapkan balasan manusia",
+              "Tidak menunjuk-nunjuk (riak)",
+              "Tidak mengerjakannya kerana orang lain",
+              "Tidak mengungkit-ungkit",
+              "Semata-mata mengharapkan rahmat dari Allah ﷻ"
+            ]
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Fadhilat Ikhlas",
+          "body": {
+            "type": "list",
+            "items": [
+              "Dikasihhi Allah ﷻ dan Rasulullah ﷺ",
+              "Ibadahnya diterima Allah ﷻ",
+              "Mendapat kejayaan yang nyata",
+              "Jiwa tenang dan tenteram",
+              "Amalan yang dilakukan lebih bermakna",
+              "Dihormati masyarakat"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Akibat Tidak Ikhlas",
+          "body": {
+            "type": "list",
+            "items": [
+              "Dimurkakan oleh Allah ﷻ",
+              "Ibadahnya sia-sia",
+              "Berdosa",
+              "Amalan yang baik menjadi tidak bermakna",
+              "Jiwa rasa gelisah",
+              "Dibenci masyarakat"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Dalil Sabar — wajib hafaz:",
+        "arabic": "إِنَّمَا يُوَفَّى الصَّابِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ",
+        "translation": "Sesungguhnya orang-orang yang bersabar itu akan disempurnakan pahala mereka tanpa batas.",
+        "source": "Surah al-Zumar: 10"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Ringkasan 4 Sifat Mahmudah",
+      "items": [
+        "Zuhud — tidak terlalu cintakan dunia, utamakan akhirat.",
+        "Sabar — tahan diri dari berkeluh-kesah sewaktu ditimpa musibah.",
+        "Syukur — puji Allah ﷻ dan gunakan nikmat-Nya dengan baik.",
+        "Ikhlas — lakukan setiap amalan semata-mata kerana Allah ﷻ, bukan untuk dipuji manusia."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah pengertian zuhud menurut buku ini?",
+      "options": [
+        "Banyak bersedekah kepada orang miskin",
+        "Tidak terlalu tergantung dengan kemewahan dunia kerana mengutamakan akhirat",
+        "Meninggalkan pekerjaan dan hanya beribadah",
+        "Tidak suka kepada harta langsung"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah dalil untuk sifat sabar dalam buku ini?",
+      "options": [
+        "Surah al-A'la: 16-17",
+        "Surah al-Nahl: 114",
+        "Surah al-Zumar: 10",
+        "Surah al-Bayyinah: 5"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa cara-cara bersyukur yang disebut dalam buku ini?",
+      "options": ["3 cara", "4 cara", "5 cara", "6 cara"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah pengertian ikhlas menurut buku ini?",
+      "options": [
+        "Melakukan amalan dengan bersungguh-sungguh",
+        "Melakukan amalan semata-mata kerana Allah ﷻ",
+        "Melakukan amalan untuk mendapat pujian",
+        "Melakukan amalan kerana takut dosa"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Sifat Mahmudah", "colour": "#4CAF50" },
+      { "id": "n2", "label": "Zuhud (al-A'la:16-17)", "colour": "#388E3C" },
+      { "id": "n3", "label": "Sabar (al-Zumar:10)", "colour": "#388E3C" },
+      { "id": "n4", "label": "Syukur (al-Nahl:114)", "colour": "#388E3C" },
+      { "id": "n5", "label": "Ikhlas (al-Bayyinah:5)", "colour": "#388E3C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "unit 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "unit 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "unit 3" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "unit 4" }
+    ]
+  },
+  "vocab": [
+    { "word": "الزُّهْد", "meaning": "zuhud (tidak terlalu cintakan kemewahan dunia, mengutamakan akhirat)" },
+    { "word": "الصَّبْر", "meaning": "sabar (menahan diri dari berkeluh-kesah atas musibah yang menimpa)" },
+    { "word": "الشُّكْر", "meaning": "syukur (memuji Allah ﷻ dan menggunakan nikmat yang dikurniakan)" },
+    { "word": "الْإِخْلَاص", "meaning": "ikhlas (melakukan amalan semata-mata kerana Allah ﷻ)" },
+    { "word": "مُخْلِصِينَ لَهُ الدِّينَ", "meaning": "mengikhlaskan ketaatan kepada-Nya dalam agama (daripada al-Bayyinah:5)" }
+  ],
+  "funFact": "Tahukah kamu bahawa keempat-empat sifat mahmudah ini saling berkait? Orang yang berzuhud mudah bersabar kerana hatinya tidak tergantung pada dunia. Orang yang bersabar mudah bersyukur kerana dia redha dengan apa yang ada. Orang yang bersyukur mudah menjadi ikhlas kerana dia sedar semua nikmat datang dari Allah ﷻ. Dan orang yang ikhlas akan terus berzuhud kerana tidak perlu mengejar pujian manusia!"
+}

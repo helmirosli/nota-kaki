@@ -1,0 +1,173 @@
+{
+  "id": "jais-tahun-4-sirah-bab5",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "sirah",
+  "chapter": 5,
+  "title": "Bab 5: Perang Uhud",
+  "emoji": "⚔️",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "غَزْوَة أُحُد — Perang Uhud",
+      "body": "Perang Uhud berlaku pada bulan Syawal tahun ke-3 Hijriah (625 Masihi) di lereng Bukit Uhud, kira-kira 5 km dari Madinah. Berbeza dengan Badar yang berakhir dengan kemenangan gemilang, Perang Uhud mengandungi pelajaran berharga tentang akibat tidak mematuhi perintah pemimpin."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📊",
+          "title": "Kekuatan Dua Pihak",
+          "body": {
+            "type": "pairs",
+            "intro": "Perbandingan pasukan dalam Perang Uhud:",
+            "rows": [
+              { "label": "Pasukan Islam", "arabic": "٧٠٠ مقاتل", "meaning": "700 orang — lebih ramai dari Badar" },
+              { "label": "Pasukan Quraisy", "arabic": "٣٠٠٠ مقاتل", "meaning": "3,000 orang — termasuk wanita Quraisy" }
+            ],
+            "outro": "Quraisy datang dengan semangat membalas dendam kekalahan Badar"
+          }
+        },
+        {
+          "icon": "🏹",
+          "title": "Perintah Nabi SAW kepada Pemanah",
+          "body": {
+            "type": "list",
+            "intro": "Strategi penting yang menentukan perang ini:",
+            "items": [
+              "Nabi SAW menempatkan 50 pemanah di Bukit Ainain (Bukit Pemanah)",
+              "Perintah tegas Nabi SAW: JANGAN tinggalkan posisi walau apa pun berlaku",
+              "Awalnya, Islam unggul — pasukan Quraisy mula berundur",
+              "Sebahagian pemanah turun sebab sangka perang sudah menang dan ingin ambil rampasan",
+              "Khalid bin Walid (ketika itu masih kafir) serang dari belakang melalui bukit yang ditinggalkan",
+              "Kedudukan Islam terbalik — kaum muslimin terpaksa berundur"
+            ]
+          }
+        },
+        {
+          "icon": "⚔️",
+          "title": "Kejadian Penting Perang Uhud",
+          "body": {
+            "type": "list",
+            "intro": "Peristiwa-peristiwa dalam Perang Uhud:",
+            "items": [
+              "Saidina Hamzah bin Abdul Muttalib (bapa saudara Nabi) syahid dalam perang ini",
+              "Nabi SAW sendiri cedera — gigi patah, muka berdarah",
+              "Berlakunya fitnah — ada yang mengatakan Nabi SAW telah wafat",
+              "70 orang Islam syahid dalam Perang Uhud",
+              "Pemanah yang tinggalkan bukit menjadi sebab kekalahan Islam"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Firman Allah tentang Uhud",
+          "body": {
+            "type": "arabic",
+            "instruction": "Pengajaran al-Quran dari Perang Uhud:",
+            "arabic": "وَلَقَدْ صَدَقَكُمُ اللَّهُ وَعْدَهُ إِذْ تَحُسُّونَهُم بِإِذْنِهِ ۖ حَتَّىٰ إِذَا فَشِلْتُمْ وَتَنَازَعْتُمْ فِي الْأَمْرِ وَعَصَيْتُم",
+            "translation": "Dan Allah telah memenuhi janji-Nya kepada kamu tatkala kamu membunuh mereka dengan izin-Nya, sehingga apabila kamu lemah dan berselisih dalam urusan itu, dan kamu menderhaka (perintah pemimpin)...",
+            "source": "Surah Ali Imran: 152"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "list",
+        "intro": "Pengajaran besar dari Perang Uhud:",
+        "items": [
+          "Taat kepada pemimpin adalah WAJIB — jangan tinggalkan tugas walaupun nampak menang",
+          "Tamak harta (rampasan perang) boleh menyebabkan kekalahan",
+          "Kegagalan bukan akhir — Allah tetap sayang kepada orang beriman",
+          "Ujian adalah untuk menguji siapa yang benar-benar beriman"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Kronologi Perang Uhud",
+      "items": [
+        "Pasukan Islam maju ke Bukit Uhud. Nabi SAW letakkan 50 pemanah di bukit.",
+        "Awalnya Islam menang — pasukan Quraisy berundur dan terpecah.",
+        {
+          "type": "arabic",
+          "arabic": "الغَنِيمَة، الغَنِيمَة! — seruan pemanah yang tinggalkan posisi",
+          "translation": "Rampasan! Rampasan! — pemanah turun tanpa izin"
+        },
+        "Khalid bin Walid menyerang dari belakang — kaum muslimin kacau bilau.",
+        "70 syuhada, termasuk Hamzah r.a. Islam berundur. Perang berakhir tanpa keputusan muktamad.",
+        "Pengajaran: TAAT PERINTAH. Nabi SAW tidak menyalahkan sahabat, tapi bersabar dan terus berjuang."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa orang Islam yang syahid dalam Perang Uhud?",
+      "options": [
+        "14 orang",
+        "50 orang",
+        "70 orang",
+        "100 orang"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah kesilapan pemanah Islam dalam Perang Uhud?",
+      "options": [
+        "Mereka tidak pandai memanah",
+        "Mereka turun dari bukit tanpa izin untuk mengambil rampasan",
+        "Mereka lari ketakutan",
+        "Mereka menyerang Nabi SAW"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Siapakah bapa saudara Nabi SAW yang syahid dalam Perang Uhud?",
+      "options": [
+        "Abu Talib",
+        "Abbas bin Abdul Muttalib",
+        "Hamzah bin Abdul Muttalib",
+        "Zaid bin Harithah"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Pengajaran UTAMA dari Perang Uhud ialah:",
+      "options": [
+        "Jumlah tentera menentukan kemenangan",
+        "Taat kepada perintah pemimpin adalah sangat penting",
+        "Perang adalah lebih penting dari dakwah",
+        "Tidak perlu strategi dalam perang"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Perang Uhud", "colour": "#FF6F00" },
+      { "id": "n2", "label": "Bukit Pemanah", "colour": "#E65100" },
+      { "id": "n3", "label": "Pemanah Tinggal Posisi", "colour": "#BF360C" },
+      { "id": "n4", "label": "70 Syuhada", "colour": "#E65100" },
+      { "id": "n5", "label": "Pengajaran Taat", "colour": "#FF8F00" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "strategi utama" },
+      { "id": "e2", "source": "n2", "target": "n3", "label": "kesilapan" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "akibat" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "pengajaran" }
+    ]
+  },
+  "vocab": [
+    { "word": "غَزْوَة أُحُد", "meaning": "Perang Uhud" },
+    { "word": "الرُّمَاة", "meaning": "para pemanah" },
+    { "word": "عِصْيَان", "meaning": "menderhaka / tidak taat perintah" },
+    { "word": "الْغَنِيمَة", "meaning": "rampasan perang" },
+    { "word": "الشُّهَدَاء", "meaning": "para syuhada (orang yang gugur di jalan Allah)" }
+  ],
+  "funFact": "Tahukah kamu bahawa Khalid bin Walid yang menyerang dari belakang dalam Perang Uhud, kemudian memeluk Islam dan menjadi panglima perang Islam yang paling hebat? Baginda dilantik oleh Nabi SAW dengan gelaran 'Saifullah' (Pedang Allah). Selepas memeluk Islam, Khalid bin Walid tidak pernah kalah dalam sebarang pertempuran. Kisah ini menunjukkan bahawa seseorang boleh berubah — musuh hari ini boleh menjadi pembela Islam esok!"
+}

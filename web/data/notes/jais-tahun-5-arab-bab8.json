@@ -1,0 +1,120 @@
+{
+  "id": "jais-tahun-5-arab-bab8",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 8,
+  "title": "حُرُوفُ الْجَرِّ — Huruf Jar",
+  "emoji": "📖",
+  "colour": "#2196F3",
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الدرس الثامن — حروف الجر",
+      "body": "Pada akhir pelajaran ini, murid dapat: (1) Mendengar huruf jar dengan betul. (2) Menyebut huruf jar dengan betul. (3) Membaca ayat yang mengandungi huruf jar dengan jelas. (4) Menulis ayat yang mengandungi huruf jar dengan betul."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "💬",
+          "title": "الحوار — الأستاذ أزهر والفصل الخامس",
+          "body": {
+            "type": "arabic",
+            "instruction": "Baca dialog antara Ustaz Azhar dan pelajar Tahun 5:",
+            "arabic": "ذَاتَ يَوْمٍ، دَخَلَ الْأُسْتَاذُ أَزْهَرُ إِلَى الْفَصْلِ الْخَامِسِ الِابْتِدَائِيِّ.\nالْأُسْتَاذُ: السَّلَامُ عَلَيْكُمْ، يَا طُلَّابُ.\nالطُّلَّابُ: وَعَلَيْكُمُ السَّلَامُ، يَا أُسْتَاذُ.\nالْأُسْتَاذُ: يَا فَوَّازُ، أَنْتَ رَئِيْسُ الْفَصْلِ، أَيْنَ يُوْسُفُ وَزَيْدِي؟\nفَوَّازُ: هُمَا خَرَجَا مِنَ الْفَصْلِ قَبْلَ قَلِيْلٍ. هُمَا الْآنَ فِيْ الْمَكْتَبَةِ.\nالْأُسْتَاذُ: مَاذَا يَفْعَلَانِ فِيْ الْمَكْتَبَةِ؟\nالطُّلَّابُ: يُوْسُفُ يُرِيْدُ أَنْ يَبْحَثَ عَنْ مَعْلُوْمَاتٍ عَنْ حَدِيْقَةِ الطُّيُوْرِ فِيْ كُوَالَا لُمْبُوْر. أَمَّا زَيْدِي، فَهُوَ يَحْضُرُ اجْتِمَاعَ نَادِي الْكَمْبِيُوْتِر.\nالْأُسْتَاذُ: هَكَذَا، طَيِّبٌ. هَيَّا بِنَا نَذْهَبْ إِلَى الْمُصَلَّى لِأَدَاءِ صَلَاةِ الْعَصْرِ جَمَاعَةً.",
+            "translation": "Pada suatu hari, Ustaz Azhar masuk ke kelas Tahun Lima.\nUstaz: Assalamualaikum, wahai para pelajar.\nPelajar: Waalaikumussalam, wahai ustaz.\nUstaz: Wahai Fawwaz, kamu ketua kelas. Di mana Yusuf dan Zaidi?\nFawwaz: Mereka berdua keluar dari kelas sebentar tadi. Mereka sekarang di perpustakaan.\nUstaz: Apa yang mereka berdua lakukan di perpustakaan?\nPelajar: Yusuf ingin mencari maklumat tentang Taman Burung di Kuala Lumpur. Adapun Zaidi, dia menghadiri mesyuarat kelab komputer.\nUstaz: Begitu, baiklah. Jom kita pergi ke surau untuk menunaikan solat Asar berjemaah."
+          }
+        },
+        {
+          "icon": "🔧",
+          "title": "حروف الجر — Senarai Huruf Jar",
+          "body": {
+            "type": "pairs",
+            "intro": "Huruf Jar ialah huruf yang menyebabkan kata nama selepasnya berbaris kasrah (مجرور). Contoh dari dialog:",
+            "rows": [
+              { "arabic": "إِلَى", "meaning": "Ilaa — ke/menuju. Contoh: دَخَلَ إِلَى الْفَصْلِ (masuk ke kelas)" },
+              { "arabic": "مِنْ", "meaning": "Min — dari. Contoh: خَرَجَا مِنَ الْفَصْلِ (keluar dari kelas)" },
+              { "arabic": "فِيْ", "meaning": "Fii — di/dalam. Contoh: هُمَا فِيْ الْمَكْتَبَةِ (mereka di perpustakaan)" },
+              { "arabic": "عَنْ", "meaning": "'An — tentang/dari. Contoh: يَبْحَثُ عَنْ مَعْلُوْمَاتٍ (mencari maklumat tentang)" },
+              { "arabic": "لِ", "meaning": "Li — untuk/bagi. Contoh: لِأَدَاءِ صَلَاةِ الْعَصْرِ (untuk menunaikan solat Asar)" },
+              { "arabic": "بِ", "meaning": "Bi — dengan/di. Contoh: بِنَا (bersama kita / dengan kita)" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Huruf Jar selalu datang sebelum kata nama (اسم). Kata nama yang mengikuti huruf jar akan berbaris kasrah (bawah) — dipanggil مجرور (majruur). Dari dialog: إِلَى الْفَصْلِ (الفصل berbaris kasrah), مِنَ الْفَصْلِ, فِي الْمَكْتَبَةِ, عَنْ مَعْلُوْمَاتٍ, إِلَى الْمُصَلَّى."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud huruf jar 'إِلَى'?",
+      "options": [
+        "Dari",
+        "Di/dalam",
+        "Ke/menuju",
+        "Tentang"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Mengapa Yusuf pergi ke perpustakaan?",
+      "options": [
+        "Untuk menghadiri mesyuarat kelab komputer",
+        "Untuk mencari maklumat tentang Taman Burung KL",
+        "Untuk membuat kerja rumah",
+        "Untuk bertemu ustaz"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Ke manakah Ustaz Azhar mengajak pelajar pergi?",
+      "options": [
+        "Ke perpustakaan",
+        "Ke makmal komputer",
+        "Ke surau untuk solat Asar",
+        "Ke kantin"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah kesan huruf jar ke atas kata nama yang mengikutinya?",
+      "options": [
+        "Berbaris dhommah (atas)",
+        "Berbaris fathah (atas)",
+        "Berbaris kasrah (bawah)",
+        "Berbaris sukun"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "حروف الجر", "colour": "#2196F3" },
+      { "id": "n2", "label": "إلى (ke)", "colour": "#1976D2" },
+      { "id": "n3", "label": "من (dari)", "colour": "#1565C0" },
+      { "id": "n4", "label": "في (di/dalam)", "colour": "#0D47A1" },
+      { "id": "n5", "label": "عن / لـ / بـ", "colour": "#42A5F5" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "jenis" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "jenis" }
+    ]
+  },
+  "vocab": [
+    { "word": "حُرُوْفُ الْجَرِّ", "meaning": "Huruuful jarr — huruf-huruf yang menjarkan kata nama selepasnya" },
+    { "word": "رَئِيْسُ الْفَصْلِ", "meaning": "Ra'iisul fasl — ketua kelas" },
+    { "word": "الْمَكْتَبَةُ", "meaning": "Al-Maktabah — perpustakaan" },
+    { "word": "نَادِي الْكَمْبِيُوْتِر", "meaning": "Naadil kompyuutar — kelab komputer" },
+    { "word": "الْمُصَلَّى", "meaning": "Al-Musalla — surau/tempat solat" },
+    { "word": "صَلَاةُ الْعَصْرِ", "meaning": "Salaatul 'Asr — solat Asar (solat petang)" }
+  ],
+  "funFact": "Tahukah kamu bahawa huruf jar dalam bahasa Arab adalah seperti 'prepositions' dalam bahasa Inggeris? Bezanya, huruf jar Arab mengubah baris (harakat) pada kata nama selepasnya kepada kasrah. Dalam bahasa Melayu, kata depan seperti 'ke', 'dari', 'di', 'tentang', 'untuk' tidak mengubah apa-apa. Namun dalam bahasa Arab, apabila kita letakkan 'في' sebelum 'المكتبة', ia menjadi 'في المكتبةِ' — bukan 'المكتبةُ' lagi. Inilah keunikan sistem i'rab (إعراب) bahasa Arab!"
+}

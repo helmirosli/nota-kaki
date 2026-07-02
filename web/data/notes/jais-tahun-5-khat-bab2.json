@@ -1,0 +1,164 @@
+{
+  "id": "jais-tahun-5-khat-bab2",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "khat",
+  "chapter": 2,
+  "title": "Huruf Tunggal Khat Naskh — ه، لا، ء، ي",
+  "emoji": "🖋️",
+  "colour": "#795548",
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "قاعده خط نسخ — Huruf Tunggal (Pelajaran 6–9)",
+      "body": "Pelajaran 6 hingga 9 meneruskan pembelajaran huruf tunggal dalam khat naskh. Empat huruf pada bahagian ini — ه، لا، ء، ي — masing-masing mempunyai ciri bentuk dan cara penulisan yang unik mengikut qaedah khat naskh."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "6️⃣",
+          "title": "Pelajaran 6 — Huruf ه",
+          "body": {
+            "type": "list",
+            "intro": "Contoh perkataan: ساوه (sawah — bendang/padi). Ciri-ciri huruf ه:",
+            "items": [
+              "Huruf ه ditulis dengan 2 keratan.",
+              "Keratan pertama dan keratan kedua masing-masing berbentuk seperti huruf 'd'.",
+              "Keratan pertama: nipis di sebelah kiri.",
+              "Keratan kedua: hendaklah mencapai/mencecah garisan dasar.",
+              "Kedua-dua keratan ه tidak boleh bersambung antara satu sama lain."
+            ]
+          }
+        },
+        {
+          "icon": "7️⃣",
+          "title": "Pelajaran 7 — Huruf لا",
+          "body": {
+            "type": "list",
+            "intro": "Contoh perkataan: لابو (labu — labu manis). Ciri-ciri huruf لا:",
+            "items": [
+              "Huruf لا ditulis dengan beberapa keratan (gabungan huruf لـ dan ا).",
+              "Huruf لا mempunyai terwis (طرويش) pada keratan pertama sahaja.",
+              "Terwis pada لا sama caranya dengan terwis pada huruf ل tunggal.",
+              "Perhatikan bahawa lam-alif (لا) adalah gabungan dua huruf yang mempunyai bentuk khas tersendiri dalam khat naskh."
+            ]
+          }
+        },
+        {
+          "icon": "8️⃣",
+          "title": "Pelajaran 8 — Huruf ء",
+          "body": {
+            "type": "list",
+            "intro": "Contoh perkataan: كوءيه (kuih — kuih tradisional). Ciri-ciri huruf ء (hamzah):",
+            "items": [
+              "Huruf ء ditulis dengan 3 keratan.",
+              "Keratan ketiga hendaklah tajam dan runcing — bukan tumpul.",
+              "Fokuskan setiap keratan dengan teliti kerana huruf ء kecil dan halus.",
+              "Saiz keseluruhan huruf ء mestilah seimbang dan proporsional."
+            ]
+          }
+        },
+        {
+          "icon": "9️⃣",
+          "title": "Pelajaran 9 — Huruf ي",
+          "body": {
+            "type": "list",
+            "intro": "Contoh perkataan: توقاي (tupai — tupai merah). Ciri-ciri huruf ي:",
+            "items": [
+              "Huruf ي ditulis dengan 2 keratan.",
+              "Keratan pertama: menyerupai bentuk kepala huruf 'r' — berbentuk bulat di atas.",
+              "Keratan kedua: seperti badan huruf ن, boleh dipanjangkan sehingga 12 titik (ukuran khat).",
+              "Keratan ketiga (badan ي): ditulis dengan ukuran yang tepat mengikut kiraaan titik khat naskh."
+            ]
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Perbandingan Ciri Huruf — Pelajaran 6–9",
+          "body": {
+            "type": "pairs",
+            "intro": "Ringkasan ciri utama setiap huruf:",
+            "rows": [
+              { "arabic": "ه", "meaning": "2 keratan — bentuk seperti 'd'; keratan kedua mencapai garisan dasar" },
+              { "arabic": "لا", "meaning": "Beberapa keratan — ada terwis pada keratan pertama" },
+              { "arabic": "ء", "meaning": "3 keratan — keratan ketiga hendaklah tajam dan runcing" },
+              { "arabic": "ي", "meaning": "2 keratan — keratan pertama seperti kepala 'r'; keratan kedua seperti badan ن" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Ingat: Huruf ه ditulis 2 keratan berbentuk seperti 'd'. Huruf لا mempunyai terwis. Huruf ء perlu tajam dan runcing pada keratan terakhir. Huruf ي — keratan pertama seperti kepala 'r', keratan kedua seperti badan ن."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa keratan huruf ه ditulis dalam khat naskh?",
+      "options": [
+        "1 keratan",
+        "2 keratan",
+        "3 keratan",
+        "4 keratan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Ciri penting keratan terakhir huruf ء dalam khat naskh ialah...",
+      "options": [
+        "Bulat dan tebal",
+        "Melengkung ke kanan",
+        "Tajam dan runcing",
+        "Mencapai garisan dasar"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Keratan pertama huruf ي dalam khat naskh menyerupai...",
+      "options": [
+        "Kepala huruf 'r'",
+        "Badan huruf 'ن'",
+        "Bentuk huruf 'o'",
+        "Bentuk huruf 'd'"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Perkataan contoh untuk huruf لا dalam khat naskh ialah...",
+      "options": [
+        "ساوه (sawah)",
+        "كوءيه (kuih)",
+        "لابو (labu)",
+        "توقاي (tupai)"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Khat Naskh T5", "colour": "#795548" },
+      { "id": "n2", "label": "ه (bentuk 'd')", "colour": "#6D4C41" },
+      { "id": "n3", "label": "لا (terwis)", "colour": "#5D4037" },
+      { "id": "n4", "label": "ء (runcing)", "colour": "#4E342E" },
+      { "id": "n5", "label": "ي (kepala r)", "colour": "#3E2723" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "Pelajaran 6" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "Pelajaran 7" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "Pelajaran 8" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "Pelajaran 9" }
+    ]
+  },
+  "vocab": [
+    { "word": "ساوه", "meaning": "Sawah — perkataan contoh untuk huruf ه (Pelajaran 6); bermaksud bendang/kawasan penanaman padi" },
+    { "word": "لابو", "meaning": "Labu — perkataan contoh untuk huruf لا (Pelajaran 7); sejenis tumbuhan buah-buahan" },
+    { "word": "كوءيه", "meaning": "Kuih — perkataan contoh untuk huruf ء (Pelajaran 8); makanan tradisional Melayu" },
+    { "word": "توقاي", "meaning": "Tupai — perkataan contoh untuk huruf ي (Pelajaran 9); haiwan mamalia kecil" },
+    { "word": "12 تيتيق", "meaning": "12 titik — ukuran panjang keratan dalam khat naskh; keratan kedua huruf ي boleh dipanjangkan sehingga 12 titik" }
+  ],
+  "funFact": "Tahukah kamu bahawa dalam khat naskh, 'titik' digunakan sebagai unit ukuran? Saiz titik bergantung pada qalam (pena khat) yang digunakan — semakin besar qalam, semakin besar titik. Keratan-keratan huruf diukur dalam bilangan 'titik' untuk memastikan nisbah yang betul. Contohnya, keratan kedua huruf ي boleh sepanjang 12 titik! Inilah yang membuat khat naskh begitu tepat dan saintifik."
+}

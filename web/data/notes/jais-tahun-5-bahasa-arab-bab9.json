@@ -1,0 +1,159 @@
+{
+  "id": "jais-tahun-5-bahasa-arab-bab9",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 9,
+  "title": "Dars 9: Musim Perayaan dan Hari-hari Istimewa (الْأَعْيَاد)",
+  "emoji": "🎉",
+  "colour": "#1565C0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْأَعْيَاد وَالْمُنَاسَبَات — Perayaan dan Majlis Istimewa",
+      "body": "Dalam dars terakhir Bahasa Arab Tahun 5 ini, kita belajar kosa kata berkaitan dengan hari-hari perayaan Islam dan ucapan-ucapan istimewa dalam bahasa Arab. Perayaan Islam membawa makna rohani yang mendalam — bukan sekadar hiburan."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🎉",
+          "title": "Perayaan dan Hari Istimewa Islam",
+          "body": {
+            "type": "pairs",
+            "intro": "Nama-nama perayaan dan hari penting:",
+            "rows": [
+              { "arabic": "عِيدُ الْفِطْر", "meaning": "Hari Raya Aidilfitri (selepas Ramadan)" },
+              { "arabic": "عِيدُ الْأَضْحَى", "meaning": "Hari Raya Aidiladha (musim haji)" },
+              { "arabic": "رَمَضَان", "meaning": "Bulan Ramadan (puasa)" },
+              { "arabic": "لَيْلَةُ الْقَدْر", "meaning": "Lailatul Qadar (malam mulia)" },
+              { "arabic": "يَوْمُ الْجُمُعَة", "meaning": "Hari Jumaat (hari raya mingguan umat Islam)" },
+              { "arabic": "الْمَوْلِد النَّبَوِيّ", "meaning": "Maulidur Rasul (sambutan kelahiran Nabi SAW)" }
+            ]
+          }
+        },
+        {
+          "icon": "🌙",
+          "title": "Ucapan Istimewa dalam Arab",
+          "body": {
+            "type": "pairs",
+            "intro": "Ucapan untuk pelbagai majlis:",
+            "rows": [
+              { "arabic": "عِيدٌ مُبَارَك", "meaning": "Selamat Hari Raya" },
+              { "arabic": "كُلَّ عَامٍ وَأَنْتُمْ بِخَيْر", "meaning": "Semoga kamu semua baik-baik setiap tahun" },
+              { "arabic": "تَقَبَّلَ اللَّهُ مِنَّا وَمِنْكُم", "meaning": "Semoga Allah menerima amalan kami dan kamu" },
+              { "arabic": "رَمَضَان كَرِيم", "meaning": "Selamat Menyambut Ramadan" },
+              { "arabic": "مَبْرُوك", "meaning": "Tahniah!" },
+              { "arabic": "بِالتَّوْفِيق", "meaning": "Semoga berjaya / semoga Allah memudahkan" }
+            ]
+          }
+        },
+        {
+          "icon": "🌙",
+          "title": "Keistimewaan Bulan Ramadan",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah tentang Ramadan:",
+            "arabic": "شَهْرُ رَمَضَانَ الَّذِي أُنزِلَ فِيهِ الْقُرْآنُ\nهُدًى لِّلنَّاسِ وَبَيِّنَاتٍ مِّنَ الْهُدَىٰ وَالْفُرْقَان",
+            "translation": "Bulan Ramadan adalah bulan yang di dalamnya diturunkan al-Quran, sebagai petunjuk bagi manusia dan penjelasan-penjelasan mengenai petunjuk itu dan pembeda (antara hak dan batil).",
+            "source": "Surah al-Baqarah: 185"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "list",
+        "intro": "Amalan istimewa bulan Ramadan:",
+        "items": [
+          "الصِّيَام — puasa dari fajar hingga maghrib",
+          "الْقِيَام — solat tarawih di malam hari",
+          "تِلَاوَة الْقُرْآن — banyakkan membaca al-Quran",
+          "الصَّدَقَة — perbanyakkan sedekah",
+          "الِاعْتِكَاف — duduk di masjid pada 10 malam terakhir"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Guna Ucapan Perayaan dalam Arab",
+      "items": [
+        "Ketika berjumpa orang semasa Hari Raya: عِيدٌ مُبَارَك!",
+        "Jawab balik: وَأَنْتُمْ مِنَ الْعَائِدِين (semoga kamu termasuk orang yang kembali bersih).",
+        {
+          "type": "arabic",
+          "arabic": "رَمَضَان كَرِيم!\nاللَّهُ أَكْرَم\nتَقَبَّلَ اللَّهُ مِنَّا وَمِنْكُم صَالِحَ الْأَعْمَال",
+          "translation": "Ramadan yang mulia! | Allah lebih mulia lagi | Semoga Allah menerima amalan-amalan baik kami dan kamu"
+        },
+        "Tahniah kepada rakan yang berjaya: مَبْرُوك عَلَيْك (tahniah kepadamu).",
+        "Ucapan semangat: بِالتَّوْفِيق إِنْ شَاءَ اللَّه (semoga berjaya, insyaAllah)."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah bahasa Arab untuk 'Hari Raya Aidiladha'?",
+      "options": [
+        "عِيدُ الْفِطْر",
+        "عِيدُ الْأَضْحَى",
+        "عِيدُ الْمِيلَاد",
+        "يَوْمُ الْجُمُعَة"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Ucapan عِيدٌ مُبَارَك bermaksud:",
+      "options": [
+        "Selamat Tinggal",
+        "Selamat Hari Raya",
+        "Selamat Datang",
+        "Selamat Tahun Baru"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Menurut Surah al-Baqarah:185, apa yang diturunkan dalam bulan Ramadan?",
+      "options": [
+        "Solat lima waktu",
+        "Perintah berpuasa",
+        "Al-Quran sebagai petunjuk",
+        "Perintah zakat"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Ucapan مَبْرُوك bermaksud:",
+      "options": [
+        "Selamat Hari Raya",
+        "Terima kasih",
+        "Maaf",
+        "Tahniah"
+      ],
+      "answer": 3
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Perayaan Islam", "colour": "#1565C0" },
+      { "id": "n2", "label": "Eid al-Fitr", "colour": "#1976D2" },
+      { "id": "n3", "label": "Ramadan", "colour": "#1976D2" },
+      { "id": "n4", "label": "Ucapan Arab", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "perayaan" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "bulan mulia" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "ekspresi" }
+    ]
+  },
+  "vocab": [
+    { "word": "عِيد", "meaning": "perayaan / hari raya" },
+    { "word": "رَمَضَان", "meaning": "bulan Ramadan" },
+    { "word": "الصِّيَام", "meaning": "puasa" },
+    { "word": "مَبْرُوك", "meaning": "tahniah" },
+    { "word": "تَقَبَّلَ اللَّه", "meaning": "semoga Allah menerima" }
+  ],
+  "funFact": "Tahukah kamu bahawa perkataan 'عِيد' (eid/hari raya) berasal dari kata kerja Arab yang bermaksud 'kembali'? Ini kerana Hari Raya Aidilfitri adalah perayaan yang kembali setiap tahun setelah kita menyelesaikan ibadah puasa Ramadan. Nabi SAW bersabda bahawa orang mukmin mempunyai dua kegembiraan pada Hari Raya: kegembiraan ketika berbuka puasa, dan kegembiraan yang lebih besar lagi ketika berjumpa Allah di akhirat kelak. Hari Raya bukan sekadar perayaan — ia adalah pengiktirafan atas kesabaran kita menjalankan ibadah sepanjang Ramadan!"
+}

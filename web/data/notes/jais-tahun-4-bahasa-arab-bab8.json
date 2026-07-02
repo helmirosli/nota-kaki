@@ -1,0 +1,167 @@
+{
+  "id": "jais-tahun-4-bahasa-arab-bab8",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "bahasa-arab",
+  "chapter": 8,
+  "title": "Dars 8: Salam dan Perbualan",
+  "emoji": "🤝",
+  "colour": "#1565C0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "التَّحِيَّات وَالتَّعَارُف — Salam dan Perkenalan",
+      "body": "Dalam dars ini kita belajar cara memberi salam, bertanya khabar, dan berkenalan dalam bahasa Arab. Memberi salam adalah sunnah Rasulullah SAW yang sangat digalakkan!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "👋",
+          "title": "Ucapan Salam dan Khabar",
+          "body": {
+            "type": "pairs",
+            "rows": [
+              { "arabic": "السَّلَامُ عَلَيْكُمْ", "meaning": "Assalamualaikum" },
+              { "arabic": "وَعَلَيْكُمُ السَّلَام", "meaning": "Waalaikumsalam (jawapan)" },
+              { "arabic": "صَبَاحُ الْخَيْر", "meaning": "Selamat pagi" },
+              { "arabic": "صَبَاحُ النُّور", "meaning": "Selamat pagi (jawapan)" },
+              { "arabic": "مَسَاءُ الْخَيْر", "meaning": "Selamat petang" },
+              { "arabic": "مَسَاءُ النُّور", "meaning": "Selamat petang (jawapan)" },
+              { "arabic": "كَيْفَ حَالُكَ؟", "meaning": "Apa khabar?" },
+              { "arabic": "أَنَا بِخَيْرٍ، الْحَمْدُ لِلَّه", "meaning": "Saya baik, alhamdulillah" }
+            ]
+          }
+        },
+        {
+          "icon": "✉️",
+          "title": "Ucapan Khas Islam",
+          "body": {
+            "type": "pairs",
+            "rows": [
+              { "arabic": "مَاشَاءَ اللَّه", "meaning": "Masya-Allah (kagum/syukur)" },
+              { "arabic": "إِنْ شَاءَ اللَّه", "meaning": "Insya-Allah (jika Allah izinkan)" },
+              { "arabic": "جَزَاكَ اللَّهُ خَيْرًا", "meaning": "Semoga Allah membalasmu dengan kebaikan" },
+              { "arabic": "مَعَ السَّلَامَة", "meaning": "Selamat tinggal / Jumpa lagi" },
+              { "arabic": "إِلَى اللِّقَاء", "meaning": "Sampai jumpa" },
+              { "arabic": "رَمَضَانُ كَرِيم", "meaning": "Ramadan yang mulia (ucapan Ramadan)" },
+              { "arabic": "عِيدٌ مُبَارَك", "meaning": "Selamat Hari Raya (Eid Mubarak)" }
+            ]
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Perbualan Lengkap",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh perbualan antara dua rakan:",
+            "arabic": "السَّلَامُ عَلَيْكُمْ، يَا عَمِّي عَبْدَ الرَّحْمَن!\nوَعَلَيْكُمُ السَّلَام! كَيْفَ حَالُكَ؟\nأَنَا بِصِحَّةٍ وَعَافِيَة، الْحَمْدُ لِلَّه.\nجَلَسَ لُقْمَانُ عَلَى الْأَرِيكَةِ بِهُدُوءٍ\nوَاسْتَأْذَنَ لُقْمَانُ لِلرُّجُوعِ عَلَى أَهْلِهِ.\nمَعَ السَّلَامَة! إِلَى اللِّقَاء!",
+            "translation": "Assalamualaikum, Pak Cik Abdul Rahman!\nWaalaikumsalam! Apa khabar?\nSaya sihat sejahtera, alhamdulillah.\nLuqman duduk di sofa dengan tenang\nlalu Luqman meminta izin untuk pulang ke keluarganya.\nSelamat tinggal! Jumpa lagi!"
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Surat kepada Rakan — Ramadan",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh surat pendek sempena Ramadan:",
+            "arabic": "وَفَّقَكَ اللَّهُ فِي شَهْرِ رَمَضَانَ الْمُبَارَك.\nأَدَّيْنَا صَلَاةَ التَّرَاوِيحَ كُلَّ لَيْلَة.\nهَلْ أَنْتَ صَائِمٌ؟ أَنَا أَيْضًا صَائِم.",
+            "translation": "Semoga Allah memberi taufiq kepadamu di bulan Ramadan yang mulia.\nKami telah menunaikan solat Tarawih setiap malam.\nAdakah kamu berpuasa? Saya juga berpuasa."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadis tentang kelebihan memberi salam:",
+        "arabic": "لَا تَدْخُلُوا الْجَنَّةَ حَتَّى تُؤْمِنُوا، وَلَا تُؤْمِنُوا حَتَّى تَحَابُّوا، أَوَلَا أَدُلُّكُمْ عَلَى شَيْءٍ إِذَا فَعَلْتُمُوهُ تَحَابَبْتُمْ؟ أَفْشُوا السَّلَامَ بَيْنَكُمْ",
+        "translation": "Kamu tidak akan masuk syurga sehingga kamu beriman, dan kamu tidak akan beriman sehingga kamu saling mencintai. Mahukah aku tunjukkan sesuatu yang jika kamu amalkan, kamu akan saling mencintai? Sebarkan salam di antara kamu.",
+        "source": "Hadis Riwayat Muslim"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Adab Memberi dan Menjawab Salam",
+      "items": [
+        "Mulakan dengan السَّلَامُ عَلَيْكُمْ apabila bertemu sesiapa.",
+        "Jawab dengan وَعَلَيْكُمُ السَّلَام atau tambah وَرَحْمَةُ اللَّهِ وَبَرَكَاتُه untuk yang lebih lengkap.",
+        {
+          "type": "arabic",
+          "arabic": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُه",
+          "translation": "Semoga keselamatan, rahmat Allah dan keberkatan dilimpahkan kepada kamu"
+        },
+        "Salam penuh mendapat 30 pahala! Salam pendek mendapat 10 pahala.",
+        "Gunakan إِنْ شَاءَ اللَّه bila berjanji atau merancang sesuatu."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah jawapan yang betul kepada salam 'صَبَاحُ الْخَيْر'?",
+      "options": [
+        "مَعَ السَّلَامَة",
+        "صَبَاحُ النُّور",
+        "إِلَى اللِّقَاء",
+        "الْحَمْدُ لِلَّه"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah makna 'جَزَاكَ اللَّهُ خَيْرًا'?",
+      "options": [
+        "Selamat tinggal",
+        "Apa khabar?",
+        "Semoga Allah membalasmu dengan kebaikan",
+        "Selamat Hari Raya"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Ucapan manakah yang digunakan ketika berpisah?",
+      "options": [
+        "السَّلَامُ عَلَيْكُمْ",
+        "مَسَاءُ الْخَيْر",
+        "مَعَ السَّلَامَة",
+        "صَبَاحُ النُّور"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa pahala yang diperoleh dengan memberi salam penuh?",
+      "options": [
+        "10 pahala",
+        "20 pahala",
+        "25 pahala",
+        "30 pahala"
+      ],
+      "answer": 3
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Salam Islam", "colour": "#1565C0" },
+      { "id": "n2", "label": "Memberi Salam", "colour": "#1976D2" },
+      { "id": "n3", "label": "Menjawab Salam", "colour": "#1976D2" },
+      { "id": "n4", "label": "Ucapan Khas", "colour": "#1976D2" },
+      { "id": "n5", "label": "30 Pahala", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "sunnah" },
+      { "id": "e2", "source": "n2", "target": "n3", "label": "wajib jawab" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "termasuk" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "ganjaran salam penuh" }
+    ]
+  },
+  "vocab": [
+    { "word": "تَحِيَّة", "meaning": "salam / ucapan" },
+    { "word": "صَائِم", "meaning": "orang yang berpuasa" },
+    { "word": "عَافِيَة", "meaning": "sihat sejahtera" },
+    { "word": "اِسْتَأْذَنَ", "meaning": "meminta izin" },
+    { "word": "أَفْشُوا", "meaning": "sebarkan / luaskan" }
+  ],
+  "funFact": "Tahukah kamu bahawa salam 'السَّلَامُ عَلَيْكُمْ' adalah juga salah satu nama Allah? السَّلَام adalah nama Allah yang ke-5 dalam Asmaul Husna yang bermaksud 'Yang Maha Selamat / Maha Sejahtera'. Apabila kita memberi salam, kita sebenarnya mendoakan keselamatan untuk orang lain menggunakan nama Allah yang Maha Agung!"
+}

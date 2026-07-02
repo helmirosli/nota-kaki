@@ -1,0 +1,162 @@
+{
+  "id": "jais-tahun-6-bahasa-arab-bab2",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "bahasa-arab",
+  "chapter": 2,
+  "title": "Bahasa Arab 2: Sifat dan Keperibadian",
+  "emoji": "💛",
+  "colour": "#1565C0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الصِّفَات وَالشَّخْصِيَّة — Sifat dan Peribadi",
+      "body": "Bahasa Arab mempunyai kosa kata sifat yang sangat kaya untuk menggambarkan peribadi seseorang. Memahami sifat-sifat ini penting untuk memahami al-Quran dan hadith yang kerap menyebut sifat orang beriman, orang munafiq, dan contoh-contoh akhlak mulia."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📊",
+          "title": "Sifat Terpuji (Mahmudah)",
+          "body": {
+            "type": "pairs",
+            "intro": "Sifat-sifat terpuji dalam bahasa Arab:",
+            "rows": [
+              { "arabic": "شُجَاع", "meaning": "syuja' — berani" },
+              { "arabic": "صَادِق", "meaning": "sadiq — jujur / benar" },
+              { "arabic": "كَرِيم", "meaning": "karim — dermawan / mulia" },
+              { "arabic": "صَابِر", "meaning": "sabir — sabar" },
+              { "arabic": "أَمِين", "meaning": "amin — amanah / boleh dipercayai" },
+              { "arabic": "مُتَوَاضِع", "meaning": "mutawadi' — merendah diri / tawadu'" }
+            ]
+          }
+        },
+        {
+          "icon": "📊",
+          "title": "Sifat Tercela (Mazmumah)",
+          "body": {
+            "type": "pairs",
+            "intro": "Sifat-sifat tercela yang perlu dihindari:",
+            "rows": [
+              { "arabic": "كَذَّاب", "meaning": "kazzab — pembohong" },
+              { "arabic": "بَخِيل", "meaning": "bakhil — kedekut / berkira-kira" },
+              { "arabic": "مُتَكَبِّر", "meaning": "mutakabbir — sombong / takabbur" },
+              { "arabic": "جَبَان", "meaning": "jabaan — pengecut" },
+              { "arabic": "حَسُود", "meaning": "hasud — dengki / iri hati" },
+              { "arabic": "غَضُوب", "meaning": "ghadub — mudah marah / pemarah" }
+            ]
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Perbualan: Menggambarkan Seseorang",
+          "body": {
+            "type": "pairs",
+            "intro": "Cara bertanya dan menjawab tentang sifat seseorang:",
+            "rows": [
+              { "arabic": "كَيْفَ شَخْصِيَّةُ أَخِيك؟", "meaning": "Bagaimana peribadi abangmu?" },
+              { "arabic": "هُوَ شُجَاعٌ وَصَادِق", "meaning": "Dia berani dan jujur" },
+              { "arabic": "مَا أَحْسَنَ أَخْلَاقَه!", "meaning": "Alangkah baik akhlaknya!" },
+              { "arabic": "يَجِبُ أَنْ نَتَجَنَّب الْكِبَر", "meaning": "Kita mesti menghindari sifat sombong" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "⭐",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith tentang kesempurnaan akhlak:",
+        "arabic": "إِنَّمَا بُعِثْتُ لِأُتَمِّمَ مَكَارِمَ الْأَخْلَاق",
+        "translation": "Sesungguhnya aku diutuskan hanyalah untuk menyempurnakan akhlak yang mulia.",
+        "source": "Riwayat al-Baihaqi — misi utama Nabi SAW"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Latihan Gunakan Sifat dalam Ayat",
+      "items": [
+        "Bina ayat mudah: هُوَ + sifat. Contoh: هُوَ كَرِيمٌ (dia dermawan).",
+        "Bina ayat dengan ليس: لَيْسَ هُوَ بَخِيلًا (dia bukan kedekut).",
+        {
+          "type": "pairs",
+          "intro": "Latihan padankan sifat dengan lawanannya:",
+          "rows": [
+            { "arabic": "شُجَاع", "meaning": "lawanan: جَبَان (pengecut)" },
+            { "arabic": "صَادِق", "meaning": "lawanan: كَذَّاب (pembohong)" },
+            { "arabic": "كَرِيم", "meaning": "lawanan: بَخِيل (kedekut)" }
+          ]
+        },
+        "Gunakan sifat-sifat ini ketika berbual dalam bahasa Arab tentang orang yang kamu kagumi.",
+        "Hafaz hadith 'إِنَّمَا بُعِثْتُ لِأُتَمِّمَ مَكَارِمَ الْأَخْلَاق' dan jelaskan maknanya."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah makna perkataan 'مُتَوَاضِع' dalam bahasa Arab?",
+      "options": [
+        "Sombong",
+        "Merendah diri / tawadu'",
+        "Pemarah",
+        "Berani"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan 'حَسُود' bermaksud:",
+      "options": [
+        "Sabar",
+        "Jujur",
+        "Dengki / iri hati",
+        "Mulia"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah misi utama Nabi SAW menurut hadith 'إِنَّمَا بُعِثْتُ...'?",
+      "options": [
+        "Menyebarkan Islam ke seluruh dunia",
+        "Menyempurnakan akhlak yang mulia",
+        "Mengajar ilmu fiqh",
+        "Menakluki negeri-negeri"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah lawanan sifat 'شُجَاع' (berani)?",
+      "options": [
+        "كَذَّاب",
+        "بَخِيل",
+        "جَبَان",
+        "حَسُود"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Sifat Peribadi", "colour": "#1565C0" },
+      { "id": "n2", "label": "Sifat Terpuji", "colour": "#0D47A1" },
+      { "id": "n3", "label": "Sifat Tercela", "colour": "#B71C1C" },
+      { "id": "n4", "label": "Misi Nabi SAW", "colour": "#1A237E" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "amalkan" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jauhi" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "tujuan" }
+    ]
+  },
+  "vocab": [
+    { "word": "الصِّفَات الْمَحْمُودَة", "meaning": "sifat terpuji (mahmudah)" },
+    { "word": "الصِّفَات الْمَذْمُومَة", "meaning": "sifat tercela (mazmumah)" },
+    { "word": "الشَّخْصِيَّة", "meaning": "personaliti / peribadi" },
+    { "word": "مَكَارِم الْأَخْلَاق", "meaning": "akhlak yang mulia / luhur" },
+    { "word": "التَّوَاضُع", "meaning": "tawadu' (merendah diri)" }
+  ],
+  "funFact": "Tahukah kamu bahawa bahasa Arab mempunyai lebih 500 perkataan berbeza untuk menggambarkan sifat manusia? Ini jauh lebih banyak dari kebanyakan bahasa lain. Contohnya, untuk perkataan 'berani' sahaja, bahasa Arab mempunyai lebih 10 perkataan berbeza yang masing-masing membawa nuansa berbeza: شُجَاع (berani umum), بَطَل (wira), جَرِيء (berani melakukan yang orang takut), مِقْدَام (berani memimpin)... dan banyak lagi! Para ulama bahasa Arab kuno pernah mengumpulkan semua perkataan untuk satu konsep — contohnya terdapat 500+ sinonim untuk singa (أَسَد) dalam bahasa Arab!"
+}

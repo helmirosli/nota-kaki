@@ -1,0 +1,149 @@
+{
+  "id": "jais-tahun-6-hafazan-bab4",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "hafazan",
+  "chapter": 4,
+  "title": "Hafazan 4: Surah al-Tin (95)",
+  "emoji": "📖",
+  "colour": "#E91E63",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "سُورَة التِّين — Buah Tin dan Kemuliaan Manusia",
+      "body": "Surah al-Tin adalah surah ke-95, terdiri dari 8 ayat, diturunkan di Mekah. Allah bersumpah dengan empat perkara yang mulia — buah Tin, buah Zaitun, Gunung Sinai, dan Mekah — untuk menyatakan bahawa manusia diciptakan dalam bentuk yang paling sempurna (ahsan taqwim). Namun manusia boleh jatuh ke tempat yang paling rendah jika tidak beriman dan beramal soleh."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Teks Penuh Surah al-Tin",
+          "body": {
+            "type": "arabic",
+            "instruction": "Surah al-Tin lengkap (8 ayat):",
+            "arabic": "وَالتِّينِ وَالزَّيْتُون ۝ وَطُورِ سِينِين ۝\nوَهَٰذَا الْبَلَدِ الْأَمِين ۝\nلَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيم ۝\nثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِين ۝\nإِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُون ۝\nفَمَا يُكَذِّبُكَ بَعْدُ بِالدِّين ۝\nأَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِين",
+            "translation": "Demi buah Tin dan buah Zaitun — demi Gunung Sinai — demi negeri yang aman ini (Mekah) — sesungguhnya Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya — kemudian Kami kembalikan dia ke tempat yang serendah-rendahnya — kecuali orang-orang yang beriman dan beramal soleh, maka bagi mereka pahala yang tidak putus-putusnya — maka apakah yang menyebabkan kamu mendustakan agama setelah itu? — Bukankah Allah Hakim yang paling adil?",
+            "source": "Surah al-Tin: 1-8"
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Empat Sumpah dalam Surah al-Tin",
+          "body": {
+            "type": "pairs",
+            "intro": "Empat perkara yang Allah bersumpah dengannya:",
+            "rows": [
+              { "arabic": "التِّين", "meaning": "Buah Tin — tempat tinggal Nabi Isa a.s. (Syria/Palestine)" },
+              { "arabic": "الزَّيْتُون", "meaning": "Buah Zaitun — Baitulmaqdis, tempat banyak Nabi" },
+              { "arabic": "طُور سِينِين", "meaning": "Gunung Sinai — tempat Nabi Musa a.s. menerima wahyu" },
+              { "arabic": "الْبَلَد الْأَمِين", "meaning": "Negeri yang aman — Mekah, tempat Nabi Muhammad SAW" }
+            ]
+          }
+        },
+        {
+          "icon": "💚",
+          "title": "Kemuliaan dan Kejatuhan Manusia",
+          "body": {
+            "type": "pairs",
+            "intro": "Dua keadaan manusia dalam Surah al-Tin:",
+            "rows": [
+              { "arabic": "أَحْسَن تَقْوِيم", "meaning": "Sebaik-baik bentuk/susunan — manusia adalah ciptaan Allah yang paling sempurna dari segi fizikal dan akal" },
+              { "arabic": "أَسْفَل سَافِلِين", "meaning": "Tempat yang paling rendah — manusia yang tidak beriman boleh jatuh lebih rendah dari binatang" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💚",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ayat kunci Surah al-Tin tentang kemuliaan manusia:",
+        "arabic": "لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيم",
+        "translation": "Sesungguhnya Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya.",
+        "source": "al-Tin: 4 — Allah menyatakan manusia adalah ciptaan yang paling sempurna"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Hafaz dan Hayati Surah al-Tin",
+      "items": [
+        "8 ayat sahaja — boleh hafaz dalam satu atau dua hari dengan latihan berulang.",
+        "Fahami 4 sumpah: Tin (Palestine), Zaitun (Jerusalem), Sinai (Mesir), Mekah — kesemuanya adalah tempat para Nabi!",
+        {
+          "type": "arabic",
+          "arabic": "أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِين\n— Bukankah Allah Hakim yang paling adil?",
+          "translation": "Ayat terakhir ini adalah soalan retorik — jawapannya 'Ya, Allah Maha Adil!' Ulama mengesyorkan menjawab dengan: 'بَلَى وَأَنَا عَلَى ذَلِكَ مِنَ الشَّاهِدِين' (Ya, dan aku menjadi saksi atas itu!)"
+        },
+        "Renungkan: kamu adalah 'ahsan taqwim' (ciptaan terbaik) — gunakan keistimewaan ini untuk kebaikan.",
+        "Ingat: iman + amal soleh = jaga kemuliaan; tanpa iman = jatuh ke 'asfala safilin'!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa sumpah Allah dalam Surah al-Tin?",
+      "options": [
+        "2 sumpah",
+        "3 sumpah",
+        "4 sumpah",
+        "5 sumpah"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah maksud 'أَحْسَن تَقْوِيم' dalam Surah al-Tin?",
+      "options": [
+        "Akhlak yang terpuji",
+        "Bentuk yang sebaik-baiknya — merujuk kepada kesempurnaan manusia",
+        "Iman yang paling kuat",
+        "Rupa paras yang cantik"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Manusia boleh jatuh ke 'أَسْفَل سَافِلِين' kecuali siapa?",
+      "options": [
+        "Orang yang kaya",
+        "Orang yang berilmu",
+        "Orang yang beriman dan beramal soleh",
+        "Orang yang berdoa"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Gunung Sinai dalam Surah al-Tin dikaitkan dengan Nabi siapa?",
+      "options": [
+        "Nabi Ibrahim a.s.",
+        "Nabi Isa a.s.",
+        "Nabi Musa a.s.",
+        "Nabi Muhammad SAW"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "al-Tin (95)", "colour": "#E91E63" },
+      { "id": "n2", "label": "4 Sumpah Mulia", "colour": "#C2185B" },
+      { "id": "n3", "label": "Ahsan Taqwim", "colour": "#C2185B" },
+      { "id": "n4", "label": "Iman + Amal = Kekal Mulia", "colour": "#880E4F" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "sumpah" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "hakikat manusia" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "syarat kekal mulia" }
+    ]
+  },
+  "vocab": [
+    { "word": "التِّين", "meaning": "al-tin (buah tin / fig)" },
+    { "word": "الزَّيْتُون", "meaning": "al-zaytun (buah zaitun / olive)" },
+    { "word": "أَحْسَن تَقْوِيم", "meaning": "ahsan taqwim (sebaik-baik bentuk dan susunan)" },
+    { "word": "أَسْفَل سَافِلِين", "meaning": "asfala safilin (tempat yang paling rendah)" },
+    { "word": "أَحْكَم الْحَاكِمِين", "meaning": "ahkamul hakimin (Hakim yang paling adil)" }
+  ],
+  "funFact": "Tahukah kamu bahawa buah Tin dan Zaitun yang disebut dalam Surah al-Tin sebenarnya ada nilai perubatan yang luar biasa? Buah Tin kaya dengan vitamin, mineral, dan serat — ia digunakan dalam perubatan tradisional untuk merawat lebih dari 40 jenis penyakit. Buah Zaitun dan minyaknya diiktiraf oleh WHO (Pertubuhan Kesihatan Sedunia) sebagai antara makanan paling sihat di dunia — kaya dengan antioksidan dan lemak sihat. Pakar pemakanan moden kini menggelar minyak zaitun sebagai 'emas cair'. Allah bersumpah dengan kedua-dua buah ini — dan ternyata sumpah Allah sangat bermakna dari segi sains dan kesihatan!"
+}

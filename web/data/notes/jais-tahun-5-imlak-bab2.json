@@ -1,0 +1,170 @@
+{
+  "id": "jais-tahun-5-imlak-bab2",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "imlak",
+  "chapter": 2,
+  "title": "تاء مفتوحة — Ta' Maftuhah",
+  "emoji": "✍️",
+  "colour": "#009688",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "تاء مفتوحة \"ت\" — Pelajaran Kedua",
+      "body": "Ta' Maftuhah ialah huruf \"ت\" di akhir kalimat. Ia terbahagi kepada beberapa jenis mengikut sama ada kalimat itu kata nama (isim) atau kata kerja (fi'l), dan mengikut jenis ta' yang digunakan."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Pengertian Ta' Maftuhah",
+          "body": "Ta' Maftuhah ialah huruf \"ت\" yang berada di akhir kalimat (isim atau fi'l). Ia dibaca dan ditulis sebagai huruf ta' yang jelas, tidak berubah menjadi haa ketika waqaf — berbeza dengan Ta' Marbutah."
+        },
+        {
+          "icon": "📊",
+          "title": "Jenis-jenis Ta' Maftuhah",
+          "body": {
+            "type": "pairs",
+            "intro": "Ta' Maftuhah terbahagi kepada empat jenis:",
+            "rows": [
+              { "arabic": "بَيْتٌ", "meaning": "Isim (kata nama) dengan ta' asliyah di akhir — contoh: بَيْتٌ (rumah)" },
+              { "arabic": "مَاتَ", "meaning": "Fi'l (kata kerja) dengan ta' asliyah di akhir — contoh: مَاتَ (dia mati)" },
+              { "arabic": "ذَهَبَتْ", "meaning": "Fi'l dengan ta' mutaharrakah (ta' bergerak) — contoh: ذَهَبَتْ (dia pergi — perempuan)" },
+              { "arabic": "كَتَبَتْ", "meaning": "Fi'l dengan ta' ta'nith as-sakinah (ta' tanda perempuan, sakin) — contoh: كَتَبَتْ (dia telah menulis — perempuan)" }
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Contoh Kata Nama (Isim) dengan Ta' Maftuhah",
+          "body": {
+            "type": "list",
+            "intro": "Contoh isim yang berakhir dengan Ta' Maftuhah:",
+            "items": [
+              "مُسْلِمَاتٌ (orang-orang Islam perempuan)",
+              "بَيْتٌ (rumah)",
+              "طَسْتٌ (besen)",
+              "حَيَوَانَاتٌ (binatang-binatang)",
+              "مُؤْمِنَاتٌ (orang-orang mukmin perempuan)",
+              "وَقْتٌ (waktu)"
+            ]
+          }
+        },
+        {
+          "icon": "✏️",
+          "title": "Contoh Kata Kerja (Fi'l) dengan Ta' Maftuhah",
+          "body": {
+            "type": "list",
+            "intro": "Contoh fi'l yang berakhir dengan Ta' Maftuhah:",
+            "items": [
+              "مَاتَ (dia mati) — ta' asliyah",
+              "فَعَلَتْ (dia telah melakukan — perempuan) — ta' asliyah",
+              "قَاتَ (dia memberikan makanan)",
+              "ذَهَبَتْ (dia telah pergi — perempuan) — ta' mutaharrakah",
+              "جَلَسْتِ (kamu telah duduk — perempuan) — ta' mutaharrakah",
+              "خَرَجَتْ (dia telah keluar — perempuan) — ta' ta'nith as-sakinah",
+              "كَتَبَتْ (dia telah menulis — perempuan) — ta' ta'nith as-sakinah"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Firman Allah — Surah Maryam (15, 17-18)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh Ta' Maftuhah dalam al-Quran:",
+            "arabic": "وَسَلَٰمٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا ١٥ فَٱتَّخَذَتْ مِن دُونِهِم حِجَابًا فَأَرْسَلْنَآ إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًا سَوِيًّا ١٧ قَالَتْ إِنِّيٓ أَعُوذُ بِٱلرَّحْمَٰنِ مِنكَ إِن كُنتَ تَقِيًّا ١٨",
+            "translation": "Dan salam sejahtera ke atasnya pada hari ia dilahirkan dan pada hari ia mati dan pada hari ia dibangkitkan hidup kembali. Kemudian ia mengambil tabir menutup dirinya dari mereka. Ia berkata: Sesungguhnya aku berlindung dengan Tuhan Yang Maha Pengasih daripadamu, jika engkau seorang yang bertakwa.",
+            "source": "Surah Maryam: 15, 17-18"
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Firman Allah — Surah Al-Ghashiyah (17-20)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh lain Ta' Maftuhah di akhir fi'l:",
+            "arabic": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ ١٧ وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ ١٨ وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ ١٩ وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ ٢٠",
+            "translation": "Apakah mereka tidak melihat kepada unta bagaimana ia diciptakan? Dan langit bagaimana ia ditinggikan? Dan gunung-gunung bagaimana ia ditegakkan? Dan bumi bagaimana ia dihamparkan?",
+            "source": "Surah Al-Ghashiyah: 17-20"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Perbezaan penting: Ta' Maftuhah \"ت\" — ditulis dan dibaca sebagai ta' walaupun ketika waqaf. Ta' Marbutah \"ة\" — ditulis dengan ta' bertitik dua di atas, tetapi DIBACA sebagai haa sakinah ketika waqaf."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah yang dimaksudkan dengan Ta' Maftuhah?",
+      "options": [
+        "Huruf ta' di awal kalimat",
+        "Huruf \"ت\" di akhir kalimat (isim atau fi'l)",
+        "Huruf ta' yang berbaris kasrah",
+        "Huruf ta' bertitik dua di atas"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Antara berikut, manakah contoh isim (kata nama) yang berakhir dengan Ta' Maftuhah?",
+      "options": [
+        "ذَهَبَتْ",
+        "مَاتَ",
+        "بَيْتٌ",
+        "فَاطِمَةٌ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Manakah yang BUKAN contoh Ta' Maftuhah?",
+      "options": [
+        "خَرَجَتْ",
+        "مُسْلِمَاتٌ",
+        "مَدْرَسَةٌ",
+        "كَتَبَتْ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Dalam Surah Al-Ghashiyah ayat 17-20, kata kerja خُلِقَتْ، رُفِعَتْ، نُصِبَتْ، سُطِحَتْ mengandungi jenis ta' yang manakah?",
+      "options": [
+        "Ta' Marbutah",
+        "Ta' Ta'nith as-Sakinah",
+        "Ta' Mutaharrakah",
+        "Ta' Asliyah"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Ta' Maftuhah \"ت\"", "colour": "#009688" },
+      { "id": "n2", "label": "Isim (kata nama)", "colour": "#00796B" },
+      { "id": "n3", "label": "Fi'l (kata kerja)", "colour": "#00695C" },
+      { "id": "n4", "label": "Ta' Asliyah", "colour": "#26A69A" },
+      { "id": "n5", "label": "Ta' Mutaharrakah", "colour": "#4DB6AC" },
+      { "id": "n6", "label": "Ta' Ta'nith Sakinah", "colour": "#80CBC4" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis 2" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "ta'" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "ta'" },
+      { "id": "e5", "source": "n3", "target": "n6", "label": "ta'" }
+    ]
+  },
+  "vocab": [
+    { "word": "تَاءٌ مَفْتُوحَةٌ", "meaning": "Ta' Maftuhah — huruf ta' di akhir kalimat yang dibaca dan ditulis sebagai ta' walaupun ketika waqaf" },
+    { "word": "بَيْتٌ", "meaning": "Rumah — contoh isim berakhir dengan Ta' Maftuhah" },
+    { "word": "مُسْلِمَاتٌ", "meaning": "Orang-orang Islam perempuan — contoh isim jamak mu'annath berakhir Ta' Maftuhah" },
+    { "word": "ذَهَبَتْ", "meaning": "Dia telah pergi (perempuan) — contoh fi'l dengan Ta' Mutaharrakah" },
+    { "word": "كَتَبَتْ", "meaning": "Dia telah menulis (perempuan) — contoh fi'l dengan Ta' Ta'nith as-Sakinah" },
+    { "word": "خُلِقَتْ", "meaning": "Ia diciptakan — contoh Ta' Maftuhah dalam al-Quran (Surah Al-Ghashiyah: 17)" }
+  ],
+  "funFact": "Tahukah kamu bahawa perkataan 'mati' dalam bahasa Arab ialah مَاتَ yang berakhir dengan Ta' Maftuhah? Manakala perkataan 'kehidupan' ialah حَيَاةٌ yang berakhir dengan Ta' Marbutah. Perbezaan kecil dalam tulisan ini penting untuk difahami agar imlak kita betul!"
+}

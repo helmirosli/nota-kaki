@@ -1,0 +1,177 @@
+{
+  "id": "jais-tahun-5-sirah-bab1",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "sirah",
+  "chapter": 1,
+  "title": "Jihad Nabi Muhammad ﷺ dan Sahabat",
+  "emoji": "⚔️",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "جِهَادُ نَبِيِّ مُحَمَّدٍ ﷺ وَالصَّحَابَةِ — Pelajaran Pertama",
+      "body": "Jihad ialah mencurahkan daya dan tenaga demi meninggikan kalimat Allah ﷻ dan mencegah kekafiran Islam."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Unit 1: Konsep Jihad",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah ﷻ (Surah al-Hajj: 78):",
+            "arabic": "وَجَاهِدُوا فِي اللَّهِ حَقَّ جِهَادِهِ هُوَ اجْتَبَاكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِي الدِّينِ مِنْ حَرَجٍ",
+            "translation": "Dan berjihadlah kamu pada jalan Allah dengan jihad yang sebenar-benarnya. Dia telah memilih kamu dan Dia tidak menjadikan untuk kamu dalam agama suatu kesempitan.",
+            "source": "Surah al-Hajj: 78"
+          }
+        },
+        {
+          "icon": "⚔️",
+          "title": "Unit 2: Jenis-jenis Jihad",
+          "body": {
+            "type": "pairs",
+            "intro": "5 jenis jihad dalam Islam:",
+            "rows": [
+              { "arabic": "جِهَادُ النَّفْسِ", "meaning": "Jihad melawan hawa nafsu" },
+              { "arabic": "جِهَادُ الشَّيْطَانِ", "meaning": "Jihad melawan hasutan syaitan" },
+              { "arabic": "جِهَادُ الْكُفَّارِ", "meaning": "Jihad menentang orang kafir" },
+              { "arabic": "جِهَادُ الْمُرْتَدِّينَ", "meaning": "Jihad memerangi kaum murtad" },
+              { "arabic": "جِهَادُ الْمُنَافِقِينَ", "meaning": "Jihad menentang orang munafik" }
+            ]
+          }
+        },
+        {
+          "icon": "🌿",
+          "title": "جِهَادُ النَّفْسِ — Jihad Melawan Hawa Nafsu",
+          "body": {
+            "type": "list",
+            "intro": "Ialah jihad menahen keinginan nafsu yang cenderung melakukan maksiat demi menuju ketaatan kepada Allah ﷻ. Ibn Qayyim al-Jawziyyah menyebut 4 cara:",
+            "items": [
+              "1. Jihad untuk memenuhi petunjuk akhlak dan kebajikan",
+              "2. Jihad untuk memperkukuhkan petunjuk akhlak dan kebajikan",
+              "3. Jihad untuk menyebarkan kepada orang lain petunjuk akhlak dan kebajikan",
+              "4. Jihad untuk bersabar daripada menghadapi kesulitan dan kesukaran ketika berdakwah"
+            ]
+          }
+        },
+        {
+          "icon": "😈",
+          "title": "جِهَادُ الشَّيْطَانِ — Jihad Melawan Hasutan Syaitan",
+          "body": "Ialah jihad melawan hasutan syaitan yang mengajak kepada maksiat. Caranya dengan sentiasa mengingat Allah ﷻ, membaca doa dan zikir serta menolak godaan yang membawa kepada kemungkaran."
+        },
+        {
+          "icon": "🛡️",
+          "title": "جِهَادُ الْكُفَّارِ — Jihad Menentang Orang Kafir",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ialah jihad memerangi orang kafir yang memusuhi Islam atau menghalangi dakwah Islam. Firman Allah ﷻ:",
+            "arabic": "أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا وَإِنَّ اللَّهَ عَلَى نَصْرِهِمْ لَقَدِيرٌ ﴿٣٩﴾",
+            "translation": "Diizinkan berperang bagi orang-orang yang diperangi, kerana sesungguhnya mereka telah dianiaya. Dan sesungguhnya Allah Maha Kuasa menolong mereka.",
+            "source": "Surah al-Hajj: 39"
+          }
+        },
+        {
+          "icon": "🔥",
+          "title": "جِهَادُ الْمُرْتَدِّينَ — Jihad Memerangi Kaum Murtad",
+          "body": {
+            "type": "list",
+            "intro": "Ialah jihad terhadap golongan yang keluar dari Islam dan menjadi kafir serta mencabar hukum Islam. Seseorang Islam dianggap murtad kerana:",
+            "items": [
+              "Menyekutukan Allah ﷻ atau melakukan perbuatan syirik",
+              "Menentang dan mempertikaikan hukum-hakam agama Islam",
+              "Meninggalkan solat dan tidak mahu menjaga kewajipan rukun Islam"
+            ]
+          }
+        },
+        {
+          "icon": "🗣️",
+          "title": "جِهَادُ الْمُنَافِقِينَ — Jihad Menentang Orang Munafik",
+          "body": "Ialah jihad memerangi orang munafik dengan lisan (bukan dengan pedang), kerana mereka bersembunyi di sebalik nama Islam. Caranya ialah menyatakan kebenaran dengan lantang kepada mereka serta menegah mereka daripada kemungkaran."
+        },
+        {
+          "icon": "💡",
+          "title": "Hikmah Jihad",
+          "body": {
+            "type": "list",
+            "intro": "Tiga hikmah jihad dalam Islam:",
+            "items": [
+              "1. Untuk mempertahankan diri daripada dicerobohi oleh musuh",
+              "2. Memelihara kebajikan dan kesucian agama Islam",
+              "3. Memelihara dan mempertahankan kehormatan Islam"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Tahukah anda? Jihad dalam bentuk peperangan hanya difardukan setelah Islam berhijrah ke Madinah."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud jihad?",
+      "options": [
+        "Berdoa kepada Allah ﷻ sahaja",
+        "Mencurahkan daya dan tenaga demi meninggikan kalimat Allah ﷻ",
+        "Mengerjakan solat lima waktu",
+        "Membaca al-Quran setiap hari"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa jenis jihad yang disebut dalam buku ini?",
+      "options": ["3", "4", "5", "6"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah jenis jihad yang dilakukan dengan lisan, bukan dengan pedang?",
+      "options": [
+        "جِهَادُ النَّفْسِ",
+        "جِهَادُ الْكُفَّارِ",
+        "جِهَادُ الْمُرْتَدِّينَ",
+        "جِهَادُ الْمُنَافِقِينَ"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Siapakah yang menyebut 4 cara jihad an-nafsi?",
+      "options": [
+        "Imam al-Ghazali",
+        "Ibn Qayyim al-Jawziyyah",
+        "Imam al-Nawawi",
+        "Imam al-Bukhari"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Jihad", "colour": "#FF6F00" },
+      { "id": "n2", "label": "جِهَادُ النَّفْسِ", "colour": "#E65100" },
+      { "id": "n3", "label": "جِهَادُ الشَّيْطَانِ", "colour": "#E65100" },
+      { "id": "n4", "label": "جِهَادُ الْكُفَّارِ", "colour": "#E65100" },
+      { "id": "n5", "label": "جِهَادُ الْمُرْتَدِّينَ", "colour": "#E65100" },
+      { "id": "n6", "label": "جِهَادُ الْمُنَافِقِينَ", "colour": "#E65100" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "jenis 3" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "jenis 4" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "jenis 5" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْجِهَادُ", "meaning": "Jihad — mencurahkan daya tenaga demi meninggikan kalimat Allah ﷻ" },
+    { "word": "جِهَادُ النَّفْسِ", "meaning": "Jihad melawan hawa nafsu — menahen keinginan nafsu daripada maksiat" },
+    { "word": "جِهَادُ الشَّيْطَانِ", "meaning": "Jihad melawan syaitan — menolak hasutan syaitan kepada kemungkaran" },
+    { "word": "الْمُرْتَدُّ", "meaning": "Murtad — orang yang keluar dari agama Islam" },
+    { "word": "الْمُنَافِقُ", "meaning": "Munafik — orang yang berpura-pura Islam tetapi menyembunyikan kekafiran" }
+  ],
+  "funFact": "Tahukah kamu bahawa Nabi ﷺ pernah bersabda setelah pulang dari peperangan: 'Kita baru sahaja pulang dari jihad yang kecil menuju jihad yang lebih besar.' Para sahabat bertanya: 'Apakah jihad yang lebih besar itu?' Baginda menjawab: 'Jihad melawan hawa nafsu.' Ini menunjukkan betapa jihad melawan nafsu sendiri adalah cabaran terbesar seorang Muslim setiap hari!"
+}

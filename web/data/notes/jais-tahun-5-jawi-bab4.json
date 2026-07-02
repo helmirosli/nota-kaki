@@ -1,0 +1,178 @@
+{
+  "id": "jais-tahun-5-jawi-bab4",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "jawi",
+  "chapter": 4,
+  "title": "Akronim",
+  "emoji": "🖊️",
+  "colour": "#FF9800",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "اكرونيم — Pelajaran Keempat",
+      "body": "Akronim ialah kata baru yang dibentuk daripada huruf-huruf pertama beberapa perkataan. Akronim boleh terbentuk daripada kata bahasa Melayu atau bahasa Inggeris. Dalam tulisan Jawi, akronim ditulis mengikut cara pembacaannya."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Pengertian Akronim",
+          "body": {
+            "type": "list",
+            "intro": "Akronim terbahagi kepada tiga jenis:",
+            "items": [
+              "1. Akronim kata bahasa Melayu — dibentuk daripada huruf pertama kata bahasa Melayu.",
+              "2. Akronim kata bahasa Inggeris — dibentuk daripada huruf pertama kata bahasa Inggeris.",
+              "3. Akronim yang ditulis sebagai perkataan — akronim yang boleh disebut sebagai satu perkataan biasa."
+            ]
+          }
+        },
+        {
+          "icon": "1️⃣",
+          "title": "Unit 1 — Akronim Bahasa Melayu",
+          "body": {
+            "type": "list",
+            "intro": "Akronim bahasa Melayu ditulis mengikut nama huruf Jawi. Contoh:",
+            "items": [
+              "آكوغ = Yang di-Pertuan Agong (YdPA)",
+              "غورو بسر = Guru Besar (GB)",
+              "MRSM = Maktab Rendah Sains MARA",
+              "SK = Sekolah Kebangsaan",
+              "HKL = Hospital Kuala Lumpur",
+              "UM = Universiti Malaya"
+            ]
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Contoh Ayat — Akronim Bahasa Melayu",
+          "body": {
+            "type": "list",
+            "intro": "Contoh penggunaan akronim dalam ayat Jawi:",
+            "items": [
+              "سلطان محمد كليم مروڤاكن يغ دفرتوان آكوغ يغ ك-15 مولاءي 13 ديسيمبر 2016. (Sultan Muhammad Kalim merupakan Yang di-Pertuan Agong yang ke-15 mulai 13 Disember 2016.)",
+              "استاذة سيتي أمينة برعزم اونتوق منجادي سأورغ كورو بسر يغ برديديكاسي. (Ustazah Siti Aminah berhasrat untuk menjadi seorang Guru Besar yang berdedikasi.)"
+            ]
+          }
+        },
+        {
+          "icon": "2️⃣",
+          "title": "Unit 2 — Akronim Bahasa Inggeris (Nama Huruf Rumi)",
+          "body": {
+            "type": "list",
+            "intro": "Akronim bahasa Inggeris ditulis menggunakan nama sebutan huruf Rumi. Panduan sebutan huruf dalam Jawi:",
+            "items": [
+              "a = أي, b = بي, c = سي, d = دي, e = إي, f = ايف, g = جي",
+              "h = ايچ, i = اءي, j = جيه, k = كي, l = ايل, m = عيم, n = عين",
+              "o = او, p = في, q = قيو, r = ار, s = ايس, t = تي",
+              "u = يو, v = ۏي, w = دبليو, x = ايكس, y = واي, z = زيت"
+            ]
+          }
+        },
+        {
+          "icon": "3️⃣",
+          "title": "Unit 3 — Akronim yang Ditulis Sebagai Perkataan",
+          "body": {
+            "type": "list",
+            "intro": "Akronim yang boleh disebut sebagai perkataan ditulis terus sebagai kata dalam Jawi. Contoh:",
+            "items": [
+              "ايكيم = IKIM (Institut Kemahiran Islam Malaysia)",
+              "فيترونس = PETRONAS (Petrolium Nasional)",
+              "جاءيس = JAIS (Jabatan Agama Islam Selangor)",
+              "ماءيس = MAIS (Majlis Agama Islam Selangor)",
+              "اينتن = INTAN (Institut Tadbiran Awam Negara)",
+              "فروتون = PROTON (Perusahaan Automobil Nasional)",
+              "مارا = MARA (Majlis Amanah Rakyat)",
+              "تاديكا = TADIKA (Taman Didikan Kanak-Kanak)",
+              "فرهيليتن = PERHILITAN (Perlindungan Hidupan Liar Taman Negara)"
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Jadual Akronim Penting",
+          "body": {
+            "type": "pairs",
+            "intro": "Akronim penting yang perlu dihafaz:",
+            "rows": [
+              { "arabic": "ايكيم", "meaning": "IKIM — Institut Kemahiran Islam Malaysia" },
+              { "arabic": "فيترونس", "meaning": "PETRONAS — Petrolium Nasional" },
+              { "arabic": "جاءيس", "meaning": "JAIS — Jabatan Agama Islam Selangor" },
+              { "arabic": "ماءيس", "meaning": "MAIS — Majlis Agama Islam Selangor" },
+              { "arabic": "فروتون", "meaning": "PROTON — Perusahaan Automobil Nasional" },
+              { "arabic": "مارا", "meaning": "MARA — Majlis Amanah Rakyat" },
+              { "arabic": "تاديكا", "meaning": "TADIKA — Taman Didikan Kanak-Kanak" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Ringkasan: Akronim Melayu — ditulis nama huruf Jawi. Akronim Inggeris — ditulis nama sebutan huruf Rumi. Akronim yang boleh disebut sebagai perkataan — ditulis terus sebagai kata dalam Jawi."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah yang dimaksudkan dengan akronim?",
+      "options": [
+        "Kata pinjaman dari bahasa Arab",
+        "Kata baru yang dibentuk daripada huruf pertama beberapa perkataan",
+        "Kata majmuk yang digabungkan",
+        "Kata berimbuhan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "JAIS bermaksud...",
+      "options": [
+        "Jabatan Agama Islam Selangor",
+        "Jabatan Agama Islam Sabah",
+        "Jawatankuasa Agama Islam Selangor",
+        "Jabatan Agama Islam Sarawak"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Akronim PETRONAS dalam Jawi ditulis sebagai...",
+      "options": ["بيترونس", "فيترونس", "فيتروناس", "بيترونس"],
+      "answer": 1
+    },
+    {
+      "q": "TADIKA bermaksud...",
+      "options": [
+        "Taman Didikan Kanak-Kanak",
+        "Tadika Agama Islam Kebangsaan",
+        "Tabung Didikan Kanak-Kanak",
+        "Taman Didik Kanak-Kanak"
+      ],
+      "answer": 0
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Akronim", "colour": "#FF9800" },
+      { "id": "n2", "label": "Bahasa Melayu", "colour": "#F57C00" },
+      { "id": "n3", "label": "Bahasa Inggeris", "colour": "#EF6C00" },
+      { "id": "n4", "label": "Sebagai Perkataan", "colour": "#E65100" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "jenis" }
+    ]
+  },
+  "vocab": [
+    { "word": "اكرونيم", "meaning": "Akronim — kata baru dibentuk daripada huruf pertama beberapa perkataan" },
+    { "word": "جاءيس", "meaning": "JAIS — Jabatan Agama Islam Selangor" },
+    { "word": "ماءيس", "meaning": "MAIS — Majlis Agama Islam Selangor" },
+    { "word": "فروتون", "meaning": "PROTON — Perusahaan Automobil Nasional" },
+    { "word": "مارا", "meaning": "MARA — Majlis Amanah Rakyat" },
+    { "word": "تاديكا", "meaning": "TADIKA — Taman Didikan Kanak-Kanak" }
+  ],
+  "funFact": "Tahukah kamu bahawa PETRONAS, syarikat minyak kebanggaan Malaysia, adalah akronim bagi 'Petrolium Nasional'? PETRONAS ditubuhkan pada 17 Ogos 1974 dan kini merupakan antara syarikat minyak terbesar di dunia. Menara Petronas Kuala Lumpur pernah menjadi bangunan tertinggi di dunia dari tahun 1998 hingga 2004!"
+}

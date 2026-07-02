@@ -1,0 +1,179 @@
+{
+  "id": "jais-tahun-5-khat-bab3",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "khat",
+  "chapter": 3,
+  "title": "Huruf Bersambung Khat Naskh — ك، ل، م، ن، و",
+  "emoji": "🖋️",
+  "colour": "#795548",
+  "estimatedMinutes": 25,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "قاعده خط نسخ — Huruf Bersambung (Pelajaran 10–14)",
+      "body": "Pelajaran 10 hingga 14 mengajar cara menulis huruf ك، ل، م، ن، ث، و، ڤ dalam bentuk bersambung (bersambung dengan huruf lain dalam sesebuah perkataan). Setiap huruf mempunyai 3 unit: di awal kalimat, di tengah kalimat, dan di akhir kalimat."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🔗",
+          "title": "Konsep Huruf Bersambung",
+          "body": {
+            "type": "pairs",
+            "intro": "Dalam khat naskh, huruf boleh bersambung dalam 3 kedudukan:",
+            "rows": [
+              { "arabic": "دأول كليمة", "meaning": "Di awal kalimat — huruf berada di permulaan perkataan, bersambung ke kiri" },
+              { "arabic": "دتڠه كليمة", "meaning": "Di tengah kalimat — huruf berada di pertengahan perkataan, bersambung ke kiri dan ke kanan" },
+              { "arabic": "دأخير كليمة", "meaning": "Di akhir kalimat — huruf berada di penghujung perkataan, bersambung ke kanan sahaja" }
+            ]
+          }
+        },
+        {
+          "icon": "1️⃣",
+          "title": "Pelajaran 10 — Huruf ك، ک، كـ Bersambung",
+          "body": {
+            "type": "list",
+            "intro": "Contoh perkataan (awal): كروسي (kerusi — kerusi kayu). Cara menulis huruf ك bersambung:",
+            "items": [
+              "Unit 1: ك di awal kalimat — bentuk kaf mempunyai dua keratan; huruf bersambung ke kiri ke huruf seterusnya.",
+              "Unit 2: ك di tengah kalimat — bentuk kaf disesuaikan agar bersambung dengan huruf sebelum dan selepasnya.",
+              "Unit 3: ك di akhir kalimat — bentuk kaf lengkap bersambung dengan huruf sebelumnya.",
+              "Menulis bentuk huruf ك، ک bersambung di awal kalimat: ada dua keratan yang bersambung."
+            ]
+          }
+        },
+        {
+          "icon": "2️⃣",
+          "title": "Pelajaran 11 — Huruf ل Bersambung",
+          "body": {
+            "type": "list",
+            "intro": "Contoh perkataan (awal): لبه (lebah — lebah madu). Cara menulis huruf ل bersambung:",
+            "items": [
+              "Unit 1: ل di awal kalimat — ditulis dengan tepat; perlu ada terwis; hendaklah kfd tik krtn (mengikut keratan).",
+              "Unit 2: ل di tengah kalimat — bahagian kepala ل disesuaikan untuk bersambung.",
+              "Unit 3: ل di akhir kalimat — bentuk lengkap dengan ekor ke bawah.",
+              "Menulis bentuk huruf ل bersambung di awal kalimat kfd tik krtn dan hendaklah ada terwis."
+            ]
+          }
+        },
+        {
+          "icon": "3️⃣",
+          "title": "Pelajaran 12 — Huruf م Bersambung",
+          "body": {
+            "type": "list",
+            "intro": "Contoh perkataan (awal): موتوسيكل (motosikal — motosikal kuning). Cara menulis huruf م bersambung:",
+            "items": [
+              "Unit 1: م di awal kalimat — bentuk miim bersambung ke kiri menuju huruf berikutnya.",
+              "Unit 2: م di tengah kalimat — bentuk miim diubahsuai agar menyambung kedua-dua arah.",
+              "Unit 3: م di akhir kalimat — bentuk miim lengkap (aliifi atau sifii) di hujung perkataan.",
+              "Menulis bentuk huruf م bersambung di awal kalimat: kfd tik krtn trbhakki."
+            ]
+          }
+        },
+        {
+          "icon": "4️⃣",
+          "title": "Pelajaran 13 — Huruf ن، ث Bersambung",
+          "body": {
+            "type": "list",
+            "intro": "Contoh perkataan (awal): نانس (nenas — buah nenas). Cara menulis huruf ن dan ث bersambung:",
+            "items": [
+              "Unit 1: ن dan ث di awal kalimat — ditulis dengan dua keratan dan bersambung ke kiri.",
+              "Unit 2: ن dan ث di tengah kalimat — bentuk pendek disesuaikan di pertengahan perkataan.",
+              "Unit 3: ن dan ث di akhir kalimat — bentuk lengkap dengan titik (1 bawah untuk ن, 3 atas untuk ث).",
+              "Menulis bentuk huruf ن dan ث brsambng d'aol klimt kfd doa krtn — 2 keratan."
+            ]
+          }
+        },
+        {
+          "icon": "5️⃣",
+          "title": "Pelajaran 14 — Huruf و، ڤ Bersambung",
+          "body": {
+            "type": "list",
+            "intro": "Contoh perkataan: كوكو (koko — buah koko). Pengenalan huruf و dan ڤ bersambung:",
+            "items": [
+              "Megnl dan menulis huruf Jawi 'و' dan 'ڤ' brsambng mengikut qaedah khat naskh.",
+              "Membntok huruf 'و' dan 'ڤ' brsambng mengikut qaedah khat naskh.",
+              "Menulis huruf 'و' dan 'ڤ' brsambng mengikut qaedah khat naskh dengan betol mghikogt kiraen titik.",
+              "Contoh lain: كوسيوا — menulis bntok huruf 'و' dan 'ڤ' brsambng mengikut qaedah khat naskh terbhakki kfd tik krtn."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Ingat: Setiap huruf bersambung mempunyai 3 kedudukan: awal, tengah, dan akhir kalimat. Bentuk huruf mungkin berubah sedikit mengikut kedudukan, tetapi ciri asas (terwis, titik, dll.) mestilah dikekalkan. Latihan berulang kali adalah kunci untuk menguasai huruf bersambung dengan cantik."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Perkataan contoh untuk huruf ل brsambng di awal kalimat (Pelajaran 11) ialah...",
+      "options": [
+        "كروسي (kerusi)",
+        "لبه (lebah)",
+        "موتوسيكل (motosikal)",
+        "نانس (nenas)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa unit pembelajaran ada dalam setiap pelajaran huruf bersambung?",
+      "options": [
+        "1 unit",
+        "2 unit",
+        "3 unit",
+        "4 unit"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah perkataan contoh yang digunakan untuk huruf م brsambng di awal kalimat?",
+      "options": [
+        "نانس (nenas)",
+        "لبه (lebah)",
+        "موتوسيكل (motosikal)",
+        "كوكو (koko)"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Huruf ن dan ث brsambng di awal kalimat ditulis dengan...",
+      "options": [
+        "1 keratan",
+        "2 keratan",
+        "3 keratan",
+        "4 keratan"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Huruf Bersambung", "colour": "#795548" },
+      { "id": "n2", "label": "ك bersambung", "colour": "#6D4C41" },
+      { "id": "n3", "label": "ل bersambung", "colour": "#5D4037" },
+      { "id": "n4", "label": "م bersambung", "colour": "#4E342E" },
+      { "id": "n5", "label": "ن، ث bersambung", "colour": "#3E2723" },
+      { "id": "n6", "label": "و، ڤ bersambung", "colour": "#BF360C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "Pelajaran 10" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "Pelajaran 11" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "Pelajaran 12" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "Pelajaran 13" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "Pelajaran 14" }
+    ]
+  },
+  "vocab": [
+    { "word": "كروسي", "meaning": "Kerusi — perkataan contoh untuk ك brsambng di awal kalimat (Pelajaran 10)" },
+    { "word": "لبه", "meaning": "Lebah — perkataan contoh untuk ل brsambng di awal kalimat (Pelajaran 11)" },
+    { "word": "موتوسيكل", "meaning": "Motosikal — perkataan contoh untuk م brsambng di awal kalimat (Pelajaran 12)" },
+    { "word": "نانس", "meaning": "Nenas — perkataan contoh untuk ن، ث brsambng di awal kalimat (Pelajaran 13)" },
+    { "word": "كوكو", "meaning": "Koko — perkataan contoh untuk و، ڤ brsambng (Pelajaran 14)" },
+    { "word": "برسامبوغ", "meaning": "Bersambung — huruf yang disambungkan dengan huruf lain dalam sesebuah perkataan" }
+  ],
+  "funFact": "Tahukah kamu bahawa dalam tulisan Jawi dan Arab, bukan semua huruf boleh bersambung dengan huruf selepasnya? Huruf seperti و، ڤ، د، ذ، ر، ز tidak boleh bersambung dengan huruf yang mengikutinya. Namun huruf ك، ل، م، ن yang dipelajari dalam Pelajaran 10-13 ini semuanya boleh bersambung dengan huruf sebelum dan selepasnya — itulah sebabnya ia dipanggil 'huruf bersambung'!"
+}

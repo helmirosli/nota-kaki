@@ -1,0 +1,157 @@
+{
+  "id": "jais-tahun-6-sirah-bab3",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "sirah",
+  "chapter": 3,
+  "title": "Sirah 3: Khalifah Uthman bin Affan r.a.",
+  "emoji": "📖",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "عُثْمَان بْنُ عَفَّان — Khalifah Ketiga, Pemilik Dua Cahaya",
+      "body": "Uthman bin Affan r.a. adalah khalifah ketiga Islam (23H-35H). Beliau digelar 'Dhu al-Nurayn' (pemilik dua cahaya) kerana berkahwin dengan dua puteri Nabi SAW — Ruqayyah r.a. kemudian Umm Kulthum r.a. Beliau terkenal dengan kedermawanan, kesopanan, dan pencapaian terbesarnya: menyalin al-Quran dalam satu mushaf piawai yang dihantar ke seluruh wilayah Islam."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "⭐",
+          "title": "Biodata Uthman bin Affan r.a.",
+          "body": {
+            "type": "list",
+            "intro": "Maklumat penting tentang Uthman r.a.:",
+            "items": [
+              "Nama penuh: Uthman bin Affan bin Abi al-'Ash al-Umawi al-Qurashi",
+              "Gelaran: Dhu al-Nurayn (pemilik dua cahaya — dua puteri Nabi)",
+              "Masuk Islam: antara yang terawal, sebelum dakwah terbuka",
+              "Khilafah: 23H-35H (12 tahun — terlama antara Khulafa' al-Rasyidin)",
+              "Syahid: dibunuh oleh pemberontak semasa sedang membaca al-Quran, 35H"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Mushaf Uthman — Penyatuan al-Quran",
+          "body": {
+            "type": "list",
+            "intro": "Sumbangan terbesar: mushaf piawai (Mushaf Uthmani):",
+            "items": [
+              "Latar belakang: pelbagai bacaan (qira'at) al-Quran mula menimbulkan pertikaian di kalangan tentera",
+              "Uthman melantik Zaid bin Thabit r.a. (ketua) + 3 sahabat lain untuk menyalin semula al-Quran",
+              "Sumber utama: Mushaf Abu Bakar yang disimpan oleh Hafsah r.a.",
+              "Hasilnya: beberapa salinan mushaf piawai dihantar ke Mekah, Madinah, Kufah, Basrah, Syria",
+              "Mushaf yang lain dibakar — untuk elak pertikaian bacaan",
+              "Mushaf Uthmani inilah asas al-Quran yang kita baca hari ini!"
+            ]
+          }
+        },
+        {
+          "icon": "💰",
+          "title": "Kedermawanan Uthman r.a.",
+          "body": {
+            "type": "list",
+            "intro": "Kisah-kisah kedermawanan Uthman r.a.:",
+            "items": [
+              "Membeli perigi Rumah untuk dikongsi bersama kaum Muslimin (sebelumnya dimiliki Yahudi yang menjual air dengan mahal)",
+              "Mendermakan 300 unta lengkap dengan barang ketika musim sukar semasa Perang Tabuk",
+              "Membiayai perluasan Masjid Nabawi dua kali — pertama semasa zaman Abu Bakar, dan semasa khilafahnya sendiri",
+              "Nabi SAW bersabda: 'Tidak ada yang dapat menyakiti Uthman selepas hari ini' (selepas dermaan Tabuk)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith tentang malu Uthman r.a.:",
+        "arabic": "أَلَا أَسْتَحِي مِنْ رَجُلٍ تَسْتَحِي مِنْهُ الْمَلَائِكَة",
+        "translation": "Tidakkah aku malu kepada seorang lelaki yang malaikat pun malu kepadanya?",
+        "source": "Riwayat Muslim — Nabi SAW berkata tentang Uthman r.a. yang terkenal dengan sifat hayaa' (malu/sopan)"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Pengajaran dari Khilafah Uthman r.a.",
+      "items": [
+        "Kedermawanan tanpa batas — Uthman menginfakkan harta untuk Islam ketika orang lain tidak mampu.",
+        "Menjaga kesucian al-Quran — projek Mushaf Uthmani menyelamatkan umat Islam dari perbalahan bacaan.",
+        {
+          "type": "arabic",
+          "arabic": "قَالَ النَّبِيُّ ﷺ: مَنْ جَهَّزَ جَيْشَ الْعُسْرَةِ فَلَهُ الْجَنَّة",
+          "translation": "Nabi SAW bersabda: 'Sesiapa yang menyediakan bekal untuk tentera al-'Usrah (Tabuk), baginya syurga.' Uthman terus tampil."
+        },
+        "Sifat hayaa' (malu/sopan) — Uthman terkenal dengan sopan santun yang sangat tinggi, sehingga malaikat pun malu.",
+        "Ingat: kekayaan yang digunakan di jalan Allah akan kekal — kekayaan yang ditimbun akan hilang!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Mengapa Uthman r.a. digelar 'Dhu al-Nurayn' (pemilik dua cahaya)?",
+      "options": [
+        "Kerana wajahnya bersinar",
+        "Kerana berkahwin dengan dua puteri Nabi SAW",
+        "Kerana membaca al-Quran dengan dua qira'at",
+        "Kerana tinggal di dua tempat yang bersejarah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah sumbangan terbesar Uthman r.a. berkaitan al-Quran?",
+      "options": [
+        "Menghafaz al-Quran secara lengkap pertama kali",
+        "Menyalin dan menyeragamkan mushaf al-Quran (Mushaf Uthmani)",
+        "Menulis tafsir pertama al-Quran",
+        "Menambah harakat kepada tulisan al-Quran"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa lama Uthman r.a. menjadi Khalifah?",
+      "options": [
+        "2 tahun",
+        "6 tahun",
+        "12 tahun — terlama antara Khulafa' al-Rasyidin",
+        "10 tahun"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sifat terkenal Uthman r.a. yang diakui hingga malaikat pun memilikinya adalah:",
+      "options": [
+        "Keberanian di medan perang",
+        "Kebijaksanaan dalam berhujah",
+        "Hayaa' — sifat malu/sopan yang sangat tinggi",
+        "Kecerdasan dalam ilmu fiqh"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Uthman bin Affan r.a.", "colour": "#FF6F00" },
+      { "id": "n2", "label": "Mushaf Uthmani", "colour": "#E65100" },
+      { "id": "n3", "label": "Kedermawanan", "colour": "#E65100" },
+      { "id": "n4", "label": "Hayaa' — Sopan Santun", "colour": "#BF360C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "legasi terbesar" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "sifat mulia" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "terkenal dengan" }
+    ]
+  },
+  "vocab": [
+    { "word": "ذُو النُّورَيْن", "meaning": "Dhu al-Nurayn (pemilik dua cahaya — gelar Uthman r.a.)" },
+    { "word": "الْمُصْحَف الْعُثْمَانِي", "meaning": "Mushaf Uthmani (mushaf piawai yang disalin zaman Uthman)" },
+    { "word": "الْحَيَاء", "meaning": "hayaa' (malu/sopan santun yang tinggi)" },
+    { "word": "جَيْش الْعُسْرَة", "meaning": "tentera al-'Usrah (pasukan Perang Tabuk — dalam kesusahan)" },
+    { "word": "الشَّهِيد", "meaning": "syahid (yang gugur di jalan Allah)" }
+  ],
+  "funFact": "Tahukah kamu bahawa Mushaf Uthmani yang diterbitkan oleh Uthman r.a. sekitar tahun 650 Masihi adalah antara projek 'penyelarasan dokumen' terbesar dalam sejarah tamadun manusia? Uthman menghantar salinan mushaf ke setiap ibu kota wilayah Islam yang besar, disertai seorang qari (pembaca) yang mahir untuk mengajar bacaan yang betul. Salinan-salinan ini kemudian dijadikan rujukan rasmi. Yang menakjubkan, dua daripada salinan-salinan purba itu dipercayai masih wujud hingga hari ini — satu di Tashkent, Uzbekistan (dinamakan 'Mushaf Samarkand') dan satu di Istanbul, Turki (di Muzium Topkapi). Walaupun para sarjana masih berdebat tentang ketulenannya, ia tetap merupakan manuskrip Islam yang paling awal!"
+}

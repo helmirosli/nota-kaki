@@ -1,0 +1,170 @@
+{
+  "id": "jais-tahun-4-tauhid-bab1",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "tauhid",
+  "chapter": 1,
+  "title": "Bab 1: Asmaul Husna (Lanjutan)",
+  "emoji": "✨",
+  "colour": "#FFB300",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "أَسْمَاء اللَّه الْحُسْنَى — Asmaul Husna Lanjutan",
+      "body": "Asmaul Husna adalah nama-nama Allah yang Maha Indah. Allah SWT memiliki 99 nama yang dikenali. Dalam Tahun 4, kita belajar nama-nama Asmaul Husna yang baharu dan mendalam. Setiap nama mencerminkan sifat keagungan dan kesempurnaan Allah SWT."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "✨",
+          "title": "Asmaul Husna Tahun 4 — Set 1",
+          "body": {
+            "type": "pairs",
+            "intro": "10 nama Allah yang kita pelajari:",
+            "rows": [
+              { "arabic": "الْقَادِر", "meaning": "Yang Maha Berkuasa" },
+              { "arabic": "الْمُقْتَدِر", "meaning": "Yang Maha Menentukan Kekuasaan" },
+              { "arabic": "الْمُقَدِّم", "meaning": "Yang Mendahulukan" },
+              { "arabic": "الْمُؤَخِّر", "meaning": "Yang Mengakhirkan" },
+              { "arabic": "الْأَوَّل", "meaning": "Yang Pertama (tiada permulaan)" },
+              { "arabic": "الْآخِر", "meaning": "Yang Terakhir (tiada pengakhiran)" },
+              { "arabic": "الظَّاهِر", "meaning": "Yang Nyata" },
+              { "arabic": "الْبَاطِن", "meaning": "Yang Tersembunyi" },
+              { "arabic": "الْوَالِي", "meaning": "Yang Maha Mengurus/Melindungi" },
+              { "arabic": "الْمُتَعَالِي", "meaning": "Yang Maha Tinggi" }
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil Asmaul Husna",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah tentang Asmaul Husna:",
+            "arabic": "وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا",
+            "translation": "Dan Allah mempunyai nama-nama yang baik (Asmaul Husna), maka berdoalah kepada-Nya dengan menyebut nama-nama itu.",
+            "source": "Surah al-A'raf: 180"
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "Kelebihan Menghafaz Asmaul Husna",
+          "body": {
+            "type": "arabic",
+            "instruction": "Hadith tentang Asmaul Husna:",
+            "arabic": "إِنَّ لِلَّهِ تِسْعَةً وَتِسْعِينَ اسْمًا مِائَةً إِلَّا وَاحِدًا مَنْ أَحْصَاهَا دَخَلَ الْجَنَّة",
+            "translation": "Sesungguhnya Allah mempunyai 99 nama — seratus kurang satu. Sesiapa yang menghitinya (menghafaz dan mengamalkannya) akan masuk syurga.",
+            "source": "Riwayat al-Bukhari dan Muslim"
+          }
+        },
+        {
+          "icon": "🔍",
+          "title": "Memahami Sifat Bertentangan Allah",
+          "body": {
+            "type": "list",
+            "intro": "Allah memiliki sifat yang sempurna — termasuk pasangan berlawanan:",
+            "items": [
+              "الْأَوَّل (Yang Pertama) + الْآخِر (Yang Terakhir) — Allah tiada permulaan dan pengakhiran",
+              "الظَّاهِر (Yang Nyata) + الْبَاطِن (Yang Tersembunyi) — Allah jelas melalui ciptaan-Nya tapi zat-Nya tidak nampak",
+              "الْمُقَدِّم (Yang Mendahulukan) + الْمُؤَخِّر (Yang Mengakhirkan) — Allah mengatur segalanya",
+              "Ini menunjukkan kesempurnaan mutlak Allah — tidak seperti makhluk yang terbatas"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🤲",
+      "text": {
+        "type": "arabic",
+        "instruction": "Cara berdoa menggunakan Asmaul Husna:",
+        "arabic": "يَا قَادِرُ يَسِّرْ أَمْرِي\nيَا أَوَّلُ وَآخِرُ اغْفِرْ لِي",
+        "translation": "Wahai Yang Maha Berkuasa, mudahkanlah urusanku\nWahai Yang Pertama dan Yang Terakhir, ampunkanlah aku",
+        "outro": "Gunakan Asmaul Husna dalam doa — lebih dekat dengan Allah!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menghayati Asmaul Husna",
+      "items": [
+        "Hafaz nama — bukan sekadar ingat bunyi, tapi faham makna.",
+        "Renungkan sifat Allah dalam kehidupan seharian.",
+        {
+          "type": "arabic",
+          "arabic": "اللَّه الْقَادِر — bila rasa lemah, ingat Allah Maha Berkuasa",
+          "translation": "Allah Yang Maha Berkuasa — bila kita lemah, Allah kuat bagi kita"
+        },
+        "Gunakan dalam doa — sebutkan nama Allah yang berkaitan dengan hajat kita.",
+        "Amalkan dalam tingkah laku — contoh, ingat Allah الْبَاطِن (Maha Tahu yang tersembunyi) bila hendak buat sesuatu yang buruk."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa banyak Asmaul Husna (nama-nama Allah)?",
+      "options": [
+        "33 nama",
+        "66 nama",
+        "99 nama",
+        "100 nama"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah maksud اَلْأَوَّل?",
+      "options": [
+        "Yang Terakhir",
+        "Yang Pertama (tiada permulaan)",
+        "Yang Nyata",
+        "Yang Tersembunyi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Ganjaran apa yang dijanjikan kepada orang yang menghafaz dan mengamalkan Asmaul Husna?",
+      "options": [
+        "Diampunkan semua dosa",
+        "Kekayaan berlipat ganda",
+        "Masuk syurga",
+        "Selamat dari azab kubur"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah maksud اَلْبَاطِن?",
+      "options": [
+        "Yang Nyata",
+        "Yang Tersembunyi",
+        "Yang Berkuasa",
+        "Yang Awal"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Asmaul Husna", "colour": "#FFB300" },
+      { "id": "n2", "label": "99 Nama", "colour": "#FF8F00" },
+      { "id": "n3", "label": "Sifat Bertentangan", "colour": "#FF8F00" },
+      { "id": "n4", "label": "Doa", "colour": "#FF6F00" },
+      { "id": "n5", "label": "Syurga", "colour": "#FFCA28" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jumlah" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "contoh" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "cara guna" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "hafaz = masuk" }
+    ]
+  },
+  "vocab": [
+    { "word": "أَسْمَاء الْحُسْنَى", "meaning": "nama-nama yang indah (sifat Allah)" },
+    { "word": "الْقَادِر", "meaning": "Yang Maha Berkuasa" },
+    { "word": "الْأَوَّل وَالْآخِر", "meaning": "Yang Pertama dan Yang Terakhir" },
+    { "word": "الظَّاهِر وَالْبَاطِن", "meaning": "Yang Nyata dan Yang Tersembunyi" },
+    { "word": "أَحْصَى", "meaning": "menghitung / menghafaz dengan memahami" }
+  ],
+  "funFact": "Tahukah kamu bahawa terdapat pelbagai cara menghafaz Asmaul Husna? Cara popular di Malaysia ialah dengan lagu — ada banyak lagu Asmaul Husna yang membantu kanak-kanak menghafaz. Cara lain adalah dengan menulis berulang kali atau dengan kad imbas. Yang paling penting bukan sekadar hafaz bunyi, tapi faham maksud setiap nama dan renungkan bagaimana sifat Allah itu terzahir dalam kehidupan kita setiap hari!"
+}

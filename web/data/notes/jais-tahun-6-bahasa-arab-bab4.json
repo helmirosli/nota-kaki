@@ -1,0 +1,158 @@
+{
+  "id": "jais-tahun-6-bahasa-arab-bab4",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "bahasa-arab",
+  "chapter": 4,
+  "title": "Bahasa Arab 4: Ibadah dan Amalan",
+  "emoji": "🕌",
+  "colour": "#1565C0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْعِبَادَات وَالْأَعْمَال الصَّالِحَة — Ibadah dan Amalan Soleh",
+      "body": "Kosa kata ibadah adalah antara yang paling penting untuk dikuasai oleh pelajar bahasa Arab. Perkataan-perkataan ini kerap muncul dalam al-Quran, hadith, dan perbualan harian orang Islam. Di Tahun 6, pelajar belajar bukan sahaja menyebut nama ibadah tetapi juga menerangkan cara melakukannya dalam bahasa Arab."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📊",
+          "title": "Kosa Kata Ibadah",
+          "body": {
+            "type": "pairs",
+            "intro": "Perkataan ibadah dan amalan soleh:",
+            "rows": [
+              { "arabic": "الصَّلَاة", "meaning": "al-salah — solat" },
+              { "arabic": "الزَّكَاة", "meaning": "al-zakah — zakat" },
+              { "arabic": "الصِّيَام / الصَّوْم", "meaning": "al-siyam / al-sawm — puasa" },
+              { "arabic": "الْحَجّ", "meaning": "al-hajj — haji" },
+              { "arabic": "الدُّعَاء", "meaning": "al-du'a — doa" },
+              { "arabic": "الذِّكْر", "meaning": "al-dhikr — zikir" },
+              { "arabic": "تِلَاوَة الْقُرْآن", "meaning": "tilawah al-Quran — membaca al-Quran" },
+              { "arabic": "الصَّدَقَة", "meaning": "al-sadaqah — sedekah" }
+            ]
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Perbualan tentang Ibadah",
+          "body": {
+            "type": "pairs",
+            "intro": "Soal jawab tentang ibadah dalam bahasa Arab:",
+            "rows": [
+              { "arabic": "كَمْ مَرَّةً تُصَلِّي فِي الْيَوْم؟", "meaning": "Berapa kali kamu solat sehari?" },
+              { "arabic": "أُصَلِّي خَمْسَ مَرَّات", "meaning": "Saya solat lima kali" },
+              { "arabic": "هَلْ تَقْرَأُ الْقُرْآنَ كُلَّ يَوْم؟", "meaning": "Adakah kamu baca al-Quran setiap hari?" },
+              { "arabic": "نَعَمْ، أَقْرَأُ بَعْدَ الصَّلَاة", "meaning": "Ya, saya baca selepas solat" }
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Ayat tentang Keutamaan Ibadah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah tentang tujuan ibadah:",
+            "arabic": "وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُون",
+            "translation": "Dan Aku tidak menciptakan jin dan manusia melainkan supaya mereka beribadat kepada-Ku.",
+            "source": "Surah al-Dzariyat: 56"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🕌",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith tentang amalan yang paling utama:",
+        "arabic": "أَيُّ الْأَعْمَالِ أَحَبُّ إِلَى اللَّه؟\nقَالَ: الصَّلَاةُ عَلَى وَقْتِهَا\nقِيلَ: ثُمَّ أَيّ؟ قَالَ: بِرُّ الْوَالِدَيْن\nقِيلَ: ثُمَّ أَيّ؟ قَالَ: الْجِهَادُ فِي سَبِيلِ اللَّه",
+        "translation": "Amalan apakah yang paling dicintai Allah? Nabi menjawab: Solat pada waktunya. Ditanya: Kemudian apa? Nabi: Berbakti kepada kedua ibu bapa. Ditanya lagi: Kemudian apa? Nabi: Jihad di jalan Allah.",
+        "source": "Riwayat al-Bukhari dan Muslim"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Latihan Perbualan Ibadah",
+      "items": [
+        "Hafaz soalan و dan jawapan كَمْ مَرَّةً تُصَلِّي — kemudian buat dialog dengan rakan.",
+        "Bina ayat: أَنَا أَقْرَأُ الْقُرْآن كُلَّ يَوْم — ubah kepada kata nama lain (هُوَ، هِيَ، نَحْنُ).",
+        {
+          "type": "pairs",
+          "intro": "Latihan konjugasi kata kerja ibadah:",
+          "rows": [
+            { "arabic": "أُصَلِّي / تُصَلِّي / يُصَلِّي", "meaning": "Saya/Kamu/Dia bersolat" },
+            { "arabic": "أَصُومُ / تَصُومُ / يَصُوم", "meaning": "Saya/Kamu/Dia berpuasa" }
+          ]
+        },
+        "Tulis jadual ibadah mingguan kamu dalam bahasa Arab — solat, tilawah, sedekah.",
+        "Ingat: ibadah terbaik mengikut hadith adalah SOLAT TEPAT WAKTU — ini boleh diamalkan sekarang!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah makna 'الذِّكْر' dalam bahasa Arab?",
+      "options": [
+        "Solat",
+        "Zikir (mengingati Allah)",
+        "Puasa",
+        "Sedekah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Menurut hadith, amalan yang paling dicintai Allah adalah:",
+      "options": [
+        "Membaca al-Quran",
+        "Solat tepat pada waktunya",
+        "Berpuasa Ramadan",
+        "Menunaikan haji"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Cara bertanya 'Berapa kali kamu solat sehari?' dalam bahasa Arab:",
+      "options": [
+        "مَتَى تُصَلِّي؟",
+        "كَمْ مَرَّةً تُصَلِّي فِي الْيَوْم؟",
+        "أَيْنَ تُصَلِّي؟",
+        "لِمَاذَا تُصَلِّي؟"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Menurut Surah al-Dzariyat:56, apakah tujuan penciptaan jin dan manusia?",
+      "options": [
+        "Untuk memakmurkan bumi",
+        "Untuk beribadah kepada Allah",
+        "Untuk berkhidmat kepada sesama manusia",
+        "Untuk mencari ilmu"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Ibadah dan Amalan", "colour": "#1565C0" },
+      { "id": "n2", "label": "5 Rukun Islam", "colour": "#0D47A1" },
+      { "id": "n3", "label": "Amalan Tambahan", "colour": "#0D47A1" },
+      { "id": "n4", "label": "al-Dzariyat:56 — Tujuan", "colour": "#1A237E" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "wajib" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "sunat" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "tujuan" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْعِبَادَة", "meaning": "ibadah (penyembahan / ketaatan)" },
+    { "word": "تِلَاوَة", "meaning": "tilawah (bacaan al-Quran)" },
+    { "word": "الذِّكْر", "meaning": "zikir (mengingati Allah)" },
+    { "word": "الصَّدَقَة", "meaning": "sedekah (pemberian sukarela)" },
+    { "word": "بِرُّ الْوَالِدَيْن", "meaning": "birrul walidain (berbakti kepada ibu bapa)" }
+  ],
+  "funFact": "Tahukah kamu bahawa ayat وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُون (al-Dzariyat:56) adalah satu-satunya ayat dalam al-Quran yang secara langsung dan terang menyatakan tujuan penciptaan manusia? Para ulama tafsir menjelaskan bahawa perkataan 'يَعْبُدُون' (beribadah) di sini bukan bermaksud solat sahaja — tetapi SETIAP tindakan manusia yang dilakukan dengan niat ikhlas kerana Allah adalah ibadah! Ini termasuk belajar, makan dengan betul, berkerja dengan jujur, bahkan tidur dengan niat untuk rehat supaya boleh ibadah esok hari. Oleh itu, seorang Muslim sejati seluruh hidupnya adalah ibadah!"
+}

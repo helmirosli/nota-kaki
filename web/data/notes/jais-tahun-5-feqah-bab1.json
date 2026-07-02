@@ -1,0 +1,188 @@
+{
+  "id": "jais-tahun-5-feqah-bab1",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "feqah",
+  "chapter": 1,
+  "title": "Solat Orang Sakit",
+  "emoji": "🏥",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "صَلَاةُ الْمَرِيضِ — Pelajaran Pertama",
+      "body": "Solat wajib ditunaikan pada waktunya dalam semua keadaan — sama ada sihat atau sakit. Orang sakit tetap wajib solat mengikut kemampuan masing-masing."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "✅",
+          "title": "1. Syarat Sah Solat Orang Sakit",
+          "body": {
+            "type": "list",
+            "intro": "5 syarat sah solat orang sakit:",
+            "items": [
+              "1. Mengetahui masuk waktu solat.",
+              "2. Menghadap qiblat.",
+              "3. Menutup aurat.",
+              "4. Suci dari hadas dan najis.",
+              "5. Ada keuzuran."
+            ]
+          }
+        },
+        {
+          "icon": "🔄",
+          "title": "2. Cara Solat Orang Sakit",
+          "body": {
+            "type": "list",
+            "intro": "Orang sakit boleh melakukan solat mengikut urutan kemampuan:",
+            "items": [
+              "Solat secara berdiri — jika mampu.",
+              "Solat secara baring miring — jika tidak mampu berdiri.",
+              "Solat secara baring melentang — jika tidak mampu baring miring.",
+              "Solat dengan isyarat mata — jika tidak mampu langsung (sakit teruk)."
+            ]
+          }
+        },
+        {
+          "icon": "🪑",
+          "title": "2.1 Rukun Solat secara Duduk",
+          "body": {
+            "type": "list",
+            "intro": "Cara solat bagi orang yang hanya mampu duduk:",
+            "items": [
+              "1. Duduk tegak menghadap qiblat.",
+              "2. Niat berserta takbiratul ihram.",
+              "3. Membaca surah al-Fatihah dan 2 surah.",
+              "4. Rukuk.",
+              "5. Iktidal.",
+              "6. Sujud.",
+              "7. Duduk antara dua sujud.",
+              "8. Duduk dan membaca tasyahud akhir.",
+              "9. Salam."
+            ]
+          }
+        },
+        {
+          "icon": "↩️",
+          "title": "2.2 Rukun Solat secara Baring Miring",
+          "body": {
+            "type": "list",
+            "intro": "Cara solat bagi orang yang hanya mampu baring miring:",
+            "items": [
+              "1. Baring miring menghadap qiblat.",
+              "2. Niat berserta takbiratul ihram.",
+              "3. Membaca surah al-Fatihah dan 2 surah.",
+              "4. Rukuk dengan menundukkan kepala ke hadapan sedikit.",
+              "5. Iktidal dengan menundukkan kepala kembali.",
+              "6. Sujud dengan menundukkan kepala lebih dalam dari rukuk.",
+              "7. Duduk antara dua sujud dengan menundukkan kepala kembali.",
+              "8. Membaca tasyahud akhir.",
+              "9. Salam."
+            ]
+          }
+        },
+        {
+          "icon": "🛏️",
+          "title": "2.3 Rukun Solat secara Baring Melentang",
+          "body": {
+            "type": "list",
+            "intro": "Cara solat bagi orang yang hanya mampu baring melentang:",
+            "items": [
+              "1. Baring melentang menghadap qiblat.",
+              "2. Niat berserta takbiratul ihram.",
+              "3. Membaca surah al-Fatihah dan 2 surah.",
+              "4. Rukuk dengan menundukkan kepala ke hadapan sedikit.",
+              "5. Iktidal dengan menundukkan kepala kembali.",
+              "6. Sujud dengan menundukkan kepala lebih dalam dari rukuk.",
+              "7. Duduk antara dua sujud dengan menundukkan kepala kembali.",
+              "8. Membaca tasyahud akhir.",
+              "9. Salam."
+            ]
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "3. Hikmah Solat Orang Sakit",
+          "body": {
+            "type": "list",
+            "intro": "6 hikmah solat orang sakit:",
+            "items": [
+              "1. Sentiasa mengingati Allah ﷻ.",
+              "2. Bersyukur dengan nikmat Allah ﷻ.",
+              "3. Yakin dengan pertolongan Allah ﷻ.",
+              "4. Sabar dan tabah menghadapi kesakitan.",
+              "5. Mendapat keredaan dan rahmat Allah ﷻ.",
+              "6. Memperkuatkan keteguhan jiwa."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Tahukah anda? Allah ﷻ memberikan kemudahan cara mengerjakan solat bagi setiap orang yang sakit."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapakah syarat sah solat orang sakit?",
+      "options": ["3 syarat", "4 syarat", "5 syarat", "6 syarat"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah cara solat orang sakit yang pertama (jika mampu)?",
+      "options": [
+        "Baring miring",
+        "Baring melentang",
+        "Berdiri",
+        "Duduk"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Jika seseorang tidak mampu berdiri mahupun duduk, bagaimanakah cara solatnya?",
+      "options": [
+        "Solat secara berdiri sahaja",
+        "Solat secara baring miring",
+        "Tidak perlu solat",
+        "Solat secara duduk sahaja"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang dilakukan semasa rukuk dalam solat baring melentang?",
+      "options": [
+        "Mengangkat tangan",
+        "Menundukkan kepala ke hadapan sedikit",
+        "Memejamkan mata",
+        "Menggerakkan jari"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Solat Orang Sakit", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Syarat Sah", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "Cara Solat", "colour": "#AB47BC" },
+      { "id": "n4", "label": "Hikmah", "colour": "#4CAF50" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "syarat" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "cara" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "hikmah" }
+    ]
+  },
+  "vocab": [
+    { "word": "صَلَاةُ الْمَرِيضِ", "meaning": "Solat orang sakit — solat yang dilakukan mengikut kemampuan orang yang sakit" },
+    { "word": "الْعُذْرُ", "meaning": "Uzur/keuzuran — sebab/halangan yang membenarkan solat dilakukan dengan cara berbeza" },
+    { "word": "الْقِبْلَةُ", "meaning": "Qiblat — arah Ka'bah yang wajib dihadap ketika solat" },
+    { "word": "التَّيَمُّمُ", "meaning": "Tayammum — bersuci dengan tanah/debu sebagai gantian wudhuk apabila tidak mampu menggunakan air" },
+    { "word": "الْإِشَارَةُ", "meaning": "Isyarat — pergerakan/anggukan kepala bagi orang yang langsung tidak mampu solat" }
+  ],
+  "funFact": "Tahukah kamu bahawa Islam sangat mengambil berat tentang kemudahan dalam beribadah? Rasulullah ﷺ bersabda: 'Solatlah berdiri, jika tidak mampu maka duduk, jika tidak mampu maka baring miring.' Ini menunjukkan betapa Islam tidak membebankan umatnya — asalkan kita berusaha mengerjakan solat dalam apa jua keadaan, Allah ﷻ akan menerima ibadah kita dengan penuh kasih sayang!"
+}

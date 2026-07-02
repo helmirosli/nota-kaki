@@ -1,0 +1,159 @@
+{
+  "id": "jais-tahun-6-sirah-bab5",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "sirah",
+  "chapter": 5,
+  "title": "Sirah 5: Sumbangan Khulafa' al-Rasyidin",
+  "emoji": "🌍",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْخُلَفَاء الرَّاشِدُون — Warisan Agung untuk Tamadun Islam",
+      "body": "Empat khalifah pertama Islam — Abu Bakar, Umar, Uthman, dan Ali r.a. — meninggalkan warisan yang membentuk tamadun Islam hingga hari ini. Dalam masa kurang 30 tahun (11H-40H), mereka menggandakan empayar Islam, menyeragamkan al-Quran, mencipta sistem pentadbiran, dan menegakkan keadilan. Nabi SAW bersabda: 'Berpeganglah dengan sunnahku dan sunnah Khulafa' al-Rasyidin selepasku.'"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🌟",
+          "title": "Perbandingan Empat Khalifah",
+          "body": {
+            "type": "pairs",
+            "intro": "Sumbangan utama setiap khalifah:",
+            "rows": [
+              { "arabic": "أَبُو بَكْر الصِّدِّيق", "meaning": "Perang Riddah — kestabilan ummah + Mushaf pertama (11H-13H)" },
+              { "arabic": "عُمَر الْفَارُوق", "meaning": "Perluasan Islam (Parsi, Mesir, Jerusalem) + Takwim Hijriah + Baitul Mal (13H-23H)" },
+              { "arabic": "عُثْمَان ذُو النُّورَيْن", "meaning": "Mushaf Uthmani (penyeragaman al-Quran) + perluasan Masjid Nabawi (23H-35H)" },
+              { "arabic": "عَلِيّ بْنُ أَبِي طَالِب", "meaning": "Pintu ilmu + keberanian membela hak + Nahjul Balagha (35H-40H)" }
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Warisan Ilmu dan Undang-undang",
+          "body": {
+            "type": "list",
+            "intro": "Sumbangan dalam bidang ilmu dan sistem negara:",
+            "items": [
+              "Al-Quran terpelihara — dari pengumpulan Abu Bakar hingga penyeragaman Uthman",
+              "Takwim Hijriah (Umar) — sistem penanggalan Islam yang masih digunakan dunia Islam",
+              "Sistem kehakiman — hakim dilantik secara rasmi (Umar melantik hakim pertama)",
+              "Baitul Mal — perbendaharaan negara, gaji tentera, bantuan kepada fakir miskin",
+              "Perluasan dakwah — dari Semenanjung Arab hingga Parsi, Mesir, Syria, Iraq"
+            ]
+          }
+        },
+        {
+          "icon": "🌍",
+          "title": "Perluasan Wilayah Islam",
+          "body": {
+            "type": "list",
+            "intro": "Wilayah yang dilebarkan semasa Khulafa' al-Rasyidin:",
+            "items": [
+              "Iraq (sebahagian) — semasa Abu Bakar",
+              "Parsi (Iran) sepenuhnya — semasa Umar",
+              "Mesir dan Syria sepenuhnya — semasa Umar",
+              "Jerusalem (Baitulmaqdis) — semasa Umar",
+              "Afrika Utara (Libya) — semasa Uthman",
+              "Khurassan dan Azerbaijan — semasa Uthman"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith Nabi SAW tentang Khulafa' al-Rasyidin:",
+        "arabic": "عَلَيْكُمْ بِسُنَّتِي وَسُنَّةِ الْخُلَفَاءِ الرَّاشِدِينَ الْمَهْدِيِّينَ مِنْ بَعْدِي",
+        "translation": "Berpeganglah dengan sunnahku dan sunnah Khulafa' al-Rasyidin al-Mahdiyyin (yang mendapat petunjuk) selepas aku.",
+        "source": "Riwayat Abu Dawud & al-Tirmidzi — perintah Nabi SAW untuk ikut jejak para Khulafa'"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Pengajaran dari Khulafa' al-Rasyidin",
+      "items": [
+        "Kepimpinan yang amanah — keempat-empat khalifah memerintah dengan semangat khidmat, bukan kuasa.",
+        "Ilmu dan keadilan berjalan seiring — setiap khalifah terkenal dengan keadilan dan kedalaman ilmu.",
+        {
+          "type": "arabic",
+          "arabic": "قَالَ النَّبِيُّ ﷺ: الْخِلَافَةُ بَعْدِي ثَلَاثُونَ سَنَة",
+          "translation": "Nabi SAW bersabda: 'Khilafah selepas aku adalah 30 tahun.' (Memang tepat: 11H-40H = 29 tahun lebih)"
+        },
+        "Mereka manusia biasa dengan kelemahan — tetapi berjaya kerana ikhlas, ilmu, dan taat kepada Allah.",
+        "Jadikan mereka teladan — bukan sahaja dalam buku sejarah, tetapi dalam sikap harian kita!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Hadith Nabi SAW memerintahkan kita berpegang dengan sunnah Khulafa' al-Rasyidin. Apa erti 'al-Rasyidin'?",
+      "options": [
+        "Yang paling kuat",
+        "Yang mendapat petunjuk/hidayah",
+        "Yang paling berani",
+        "Yang paling dermawan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Siapakah yang mencipta Takwim Hijriah (kalendar Islam)?",
+      "options": [
+        "Abu Bakar r.a.",
+        "Umar al-Khattab r.a.",
+        "Uthman bin Affan r.a.",
+        "Ali bin Abi Talib r.a."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Penyeragaman Mushaf al-Quran yang menjadi asas al-Quran hari ini dilakukan semasa khilafah:",
+      "options": [
+        "Abu Bakar r.a.",
+        "Umar r.a.",
+        "Uthman r.a.",
+        "Ali r.a."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa jumlah tahun Khulafa' al-Rasyidin memerintah (secara keseluruhannya)?",
+      "options": [
+        "Lebih kurang 10 tahun",
+        "Lebih kurang 20 tahun",
+        "Lebih kurang 30 tahun (11H-40H)",
+        "Lebih kurang 50 tahun"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Khulafa' al-Rasyidin", "colour": "#FF6F00" },
+      { "id": "n2", "label": "Abu Bakar: Kestabilan", "colour": "#E65100" },
+      { "id": "n3", "label": "Umar: Perluasan", "colour": "#E65100" },
+      { "id": "n4", "label": "Uthman: al-Quran", "colour": "#BF360C" },
+      { "id": "n5", "label": "Ali: Ilmu & Keadilan", "colour": "#BF360C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "khalifah 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "khalifah 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "khalifah 3" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "khalifah 4" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْخُلَفَاء الرَّاشِدُون", "meaning": "Khulafa' al-Rasyidin (empat khalifah yang mendapat hidayah)" },
+    { "word": "التَّقْوِيم الْهِجْرِي", "meaning": "Takwim Hijriah (kalendar Islam bermula 622M)" },
+    { "word": "بَيْت الْمَال", "meaning": "Baitul Mal (perbendaharaan negara Islam)" },
+    { "word": "الْفَتْح الإِسْلَامِي", "meaning": "al-Fath al-Islami (pembukaan wilayah Islam)" },
+    { "word": "السُّنَّة", "meaning": "al-Sunnah (cara/amalan yang diikuti — Nabi dan Khulafa')" }
+  ],
+  "funFact": "Tahukah kamu bahawa empayar Islam di bawah Khulafa' al-Rasyidin berkembang pada kadar yang tidak pernah berlaku dalam sejarah dunia? Dalam masa hanya 23 tahun (13H-35H), empayar Islam berkembang dari Semenanjung Arab sahaja kepada kawasan yang merangkumi Iraq, Parsi, Syria, Palestin, Mesir, dan sebahagian Libya — keluasan melebihi 5 juta kilometer persegi! Para pakar sejarah seperti Sir John Glubb (seorang gabenor British) menulis: 'Tidak ada contoh lain dalam sejarah di mana kawasan yang begitu luas ditakluki dalam masa yang begitu singkat, dengan kemusnahan yang begitu sedikit.' Mengapa? Kerana rakyat wilayah-wilayah itu sendiri yang membuka pintu untuk Islam — mereka melihat keadilan para khalifah berbanding pemerintah mereka sebelumnya!"
+}

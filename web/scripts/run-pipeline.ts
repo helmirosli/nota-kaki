@@ -16,6 +16,10 @@ const SUBJECT_MAP: Record<string, Subject> = {
   jawi: "jawi",
   hafazan: "hafazan",
   tauhid: "tauhid",
+  imlak: "imlak",
+  khat: "khat",
+  sirah: "sirah",
+  tajwid: "tajwid",
 }
 
 function parseFilename(filename: string): { subject: Subject | null; year: Year | null } {

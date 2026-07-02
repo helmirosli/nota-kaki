@@ -1,0 +1,155 @@
+{
+  "id": "jais-tahun-5-bahasa-arab-bab6",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 6,
+  "title": "Dars 6: Kehidupan Berkeluarga (الْحَيَاة الْأُسْرِيَّة)",
+  "emoji": "👨‍👩‍👧‍👦",
+  "colour": "#1565C0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْأُسْرَة وَالْعَائِلَة — Keluarga dalam Bahasa Arab",
+      "body": "Dalam dars ini kita pelajari kosa kata tentang keluarga, hubungan kekeluargaan, dan aktiviti bersama keluarga dalam bahasa Arab. Islam sangat mementingkan ikatan keluarga (silaturrahim) — justeru kita perlukan kosa kata yang kaya tentang topik ini."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "👨‍👩‍👧‍👦",
+          "title": "Ahli Keluarga",
+          "body": {
+            "type": "pairs",
+            "intro": "Nama ahli keluarga dalam bahasa Arab:",
+            "rows": [
+              { "arabic": "الْأَب / الْوَالِد", "meaning": "bapa / ayah" },
+              { "arabic": "الْأُمّ / الْوَالِدَة", "meaning": "ibu / emak" },
+              { "arabic": "الِابْن", "meaning": "anak lelaki" },
+              { "arabic": "الِابْنَة / الْبِنْت", "meaning": "anak perempuan" },
+              { "arabic": "الْأَخ", "meaning": "abang / adik lelaki" },
+              { "arabic": "الْأُخْت", "meaning": "kakak / adik perempuan" },
+              { "arabic": "الْجَدّ / الْجَدَّة", "meaning": "datuk / nenek" },
+              { "arabic": "الْعَمّ / الْعَمَّة", "meaning": "pak cik / mak cik (sebelah bapa)" },
+              { "arabic": "الْخَال / الْخَالَة", "meaning": "pak cik / mak cik (sebelah ibu)" }
+            ]
+          }
+        },
+        {
+          "icon": "🏠",
+          "title": "Aktiviti Keluarga",
+          "body": {
+            "type": "arabic",
+            "instruction": "Perbualan tentang keluarga:",
+            "arabic": "كَمْ أَفْرَادُ أُسْرَتِكَ؟\nأُسْرَتِي تَتَكَوَّنُ مِنْ خَمْسَةِ أَفْرَاد\nمَنْ أَفْرَادُ أُسْرَتِكَ؟\nأَبِي وَأُمِّي وَأَخِي وَأُخْتِي وَأَنَا",
+            "translation": "Berapa orang ahli keluarga kamu? | Keluarga saya terdiri daripada 5 orang. | Siapa ahli keluarga kamu? | Bapa saya, ibu saya, abang saya, adik perempuan saya dan saya."
+          }
+        },
+        {
+          "icon": "❤️",
+          "title": "Tanggungjawab dalam Keluarga",
+          "body": {
+            "type": "list",
+            "intro": "Tanggungjawab setiap ahli keluarga dalam Islam:",
+            "items": [
+              "الْأَب — mencari rezeki yang halal, mendidik dan memimpin keluarga",
+              "الْأُمّ — menjaga rumah dan mendidik anak-anak dengan penuh kasih sayang",
+              "الِابْن / الِابْنَة — taat kepada ibu bapa, hormat, bantu kerja rumah",
+              "الْجَدّ / الْجَدَّة — sumber nasihat dan pengalaman, wajib dihormati"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "❤️",
+      "text": {
+        "type": "arabic",
+        "instruction": "Perintah Allah tentang berbuat baik kepada ibu bapa:",
+        "arabic": "وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا",
+        "translation": "Dan Tuhanmu telah memerintahkan supaya kamu tidak menyembah selain Dia, dan hendaklah kamu berbuat baik kepada ibu bapa.",
+        "source": "Surah al-Isra': 23"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Huraikan Keluarga dalam Arab",
+      "items": [
+        "Hafaz nama semua ahli keluarga terdekat dalam bahasa Arab.",
+        "Buat 'pokok keluarga' (family tree) dan tulis nama Arab setiap ahli.",
+        {
+          "type": "arabic",
+          "arabic": "أُحِبُّ أُسْرَتِي كَثِيرًا — أَبِي وَأُمِّي هُمَا أَحَبُّ النَّاسِ إِلَيَّ",
+          "translation": "Saya sangat menyayangi keluarga saya — bapa dan ibu saya adalah orang yang paling saya cintai"
+        },
+        "Praktik bercerita tentang keluarga dalam 3-5 ayat bahasa Arab.",
+        "Ingat: في الإسلام، الْأُسْرَةُ هِيَ أَسَاسُ الْمُجْتَمَع (dalam Islam, keluarga adalah asas masyarakat)"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah bahasa Arab untuk 'nenek'?",
+      "options": [
+        "الْجَدّ",
+        "الْخَالَة",
+        "الْعَمَّة",
+        "الْجَدَّة"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Perkataan الْوَالِدَان bermaksud:",
+      "options": [
+        "Anak-anak",
+        "Ibu bapa (kedua-duanya)",
+        "Adik beradik",
+        "Datuk dan nenek"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah perbezaan antara عَمّ dan خَال?",
+      "options": [
+        "Tiada perbezaan, bermaksud sama",
+        "عَمّ adalah pak cik sebelah bapa, خَال adalah pak cik sebelah ibu",
+        "عَمّ adalah abang, خَال adalah adik",
+        "عَمّ adalah tua, خَال adalah muda"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa ahli keluarga yang disebut dalam contoh perbualan: أَبِي وَأُمِّي وَأَخِي وَأُخْتِي وَأَنَا?",
+      "options": [
+        "3 orang",
+        "4 orang",
+        "5 orang",
+        "6 orang"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Keluarga Arab", "colour": "#1565C0" },
+      { "id": "n2", "label": "Ahli Keluarga", "colour": "#1976D2" },
+      { "id": "n3", "label": "Perbualan", "colour": "#1976D2" },
+      { "id": "n4", "label": "Nilai Islam", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "vocab" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "amali" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "adab" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْأُسْرَة", "meaning": "keluarga" },
+    { "word": "الْوَالِدَان", "meaning": "kedua ibu bapa" },
+    { "word": "الِابْن", "meaning": "anak lelaki" },
+    { "word": "الْجَدَّة", "meaning": "nenek" },
+    { "word": "إِحْسَان", "meaning": "berbuat baik / ihsan" }
+  ],
+  "funFact": "Tahukah kamu bahawa bahasa Arab mempunyai perkataan yang berbeza untuk pak cik sebelah bapa (عَمّ) dan pak cik sebelah ibu (خَال)? Malah, mak cik sebelah bapa dipanggil عَمَّة dan mak cik sebelah ibu dipanggil خَالَة! Ini kerana Islam mementingkan hubungan kekeluargaan dari kedua-dua belah — Nabi SAW bersabda bahawa mak cik sebelah ibu adalah setaraf dengan ibu sendiri. Bahasa Arab mencerminkan kepentingan Islam terhadap silaturrahim!"
+}

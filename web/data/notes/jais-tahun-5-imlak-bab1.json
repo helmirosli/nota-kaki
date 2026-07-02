@@ -1,0 +1,218 @@
+{
+  "id": "jais-tahun-5-imlak-bab1",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "imlak",
+  "chapter": 1,
+  "title": "الألف اللّيّنة — Alif Layyinah",
+  "emoji": "✍️",
+  "colour": "#009688",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الألف اللّيّنة — Pelajaran Pertama",
+      "body": "Alif Layyinah ialah huruf alif sakinah yang didahului huruf berbaris fathah. Alif Layyinah terbahagi kepada tiga jenis mengikut kedudukan dan cara penulisannya dalam kalimat."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Pengertian Alif Layyinah",
+          "body": {
+            "type": "list",
+            "intro": "Alif Layyinah ialah:",
+            "items": [
+              "Huruf alif yang sakinah (mati).",
+              "Huruf sebelumnya berbaris fathah (atas).",
+              "Cara penulisan bergantung kepada kedudukannya: di tengah atau di akhir kalimat."
+            ]
+          }
+        },
+        {
+          "icon": "1️⃣",
+          "title": "Unit 1 — Alif Layyinah di Tengah Kalimat",
+          "body": {
+            "type": "list",
+            "intro": "Alif Layyinah di tengah kalimat ditulis dengan huruf Alif Mamdudah \"ا\":",
+            "items": [
+              "Contoh kosa kata: شَايٌّ (teh), سِرَاجٌ (pelita), فَاكِهَةٌ (buah-buahan), دَوْلَابٌ (almari), بُرْتُقَالٌ (oren), فِنْجَانٌ (cawan)"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Firman Allah — Surah Al-Fatihah (1-7)",
+          "body": {
+            "type": "arabic",
+            "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ١ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ ٢ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٣ مَٰلِكِ يَوْمِ ٱلدِّينِ ٤ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ٥ ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ ٦ صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ ٧",
+            "translation": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan sekalian alam. Yang Maha Pengasih lagi Maha Penyayang. Yang memiliki Hari Pembalasan. Hanya Engkaulah yang kami sembah dan hanya kepada Engkaulah kami memohon pertolongan. Tunjukilah kami jalan yang lurus. Iaitu jalan orang yang Engkau kurniakan nikmat kepada mereka, bukan jalan mereka yang Engkau murkai dan bukan jalan mereka yang sesat.",
+            "source": "Surah Al-Fatihah: 1-7"
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Firman Allah — Surah An-Nas (1-6)",
+          "body": {
+            "type": "arabic",
+            "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ ١ مَلِكِ ٱلنَّاسِ ٢ إِلَٰهِ ٱلنَّاسِ ٣ مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ ٤ ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ ٥ مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ ٦",
+            "translation": "Katakanlah: Aku berlindung dengan Tuhan manusia. Raja manusia. Sembahan manusia. Dari kejahatan bisikan syaitan yang selalu bersembunyi. Yang membisikkan ke dalam dada manusia. Dari golongan jin dan manusia.",
+            "source": "Surah An-Nas: 1-6"
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Firman Allah — Surah Al-Falaq (1-5)",
+          "body": {
+            "type": "arabic",
+            "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ ١ مِن شَرِّ مَا خَلَقَ ٢ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ٣ وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ ٤ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ٥",
+            "translation": "Katakanlah: Aku berlindung dengan Tuhan yang menguasai Subuh. Dari kejahatan makhluk yang Dia ciptakan. Dan dari kejahatan malam apabila ia gelap-gelita. Dan dari kejahatan tukang-tukang tiup pada buhul-buhul. Dan dari kejahatan orang yang dengki apabila ia dengki.",
+            "source": "Surah Al-Falaq: 1-5"
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "Tahukah Anda?",
+          "body": "Alif Layyinah hanya terdapat di tengah kalimat. Manakala huruf alif di awal kalimat dinamakan Hamzah (ء). Kadang-kadang Alif Layyinah tidak ditulis dalam sesetengah kalimat."
+        },
+        {
+          "icon": "🤲",
+          "title": "Doa — Keselamatan Dunia dan Akhirat",
+          "body": {
+            "type": "arabic",
+            "instruction": "Doa keselamatan dunia dan akhirat:",
+            "arabic": "اللَّهُمَّ إِنَّا نَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدِّينِ وَالدُّنْيَا وَالْآخِرَةِ",
+            "translation": "Ya Allah, sesungguhnya kami memohon kepada-Mu keampunan dan keselamatan (kesejahteraan) di dalam agama, di dunia dan di akhirat."
+          }
+        },
+        {
+          "icon": "2️⃣",
+          "title": "Unit 2 — Alif Layyinah di Akhir Kalimat — Alif Mamdudah \"ا\"",
+          "body": {
+            "type": "list",
+            "intro": "Alif Layyinah di akhir kalimat, huruf sebelumnya berbaris fathah, ditulis dengan huruf Alif Mamdudah \"ا\":",
+            "items": [
+              "Contoh: زِلْزَالَهَا، أَثْقَالَهَا، أَخْبَارَهَا، أَعْمَالَهُمْ (dari Surah Al-Zalzalah)",
+              "Contoh: وَضُحَاهَا، تَلَاهَا، جَلَّاهَا، يَغْشَاهَا، بَنَاهَا، طَحَاهَا، سَوَّاهَا (dari Surah Al-Shams)"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Firman Allah — Surah Al-Zalzalah (1-8)",
+          "body": {
+            "type": "arabic",
+            "arabic": "إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا ١ وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا ٢ وَقَالَ ٱلْإِنسَٰنُ مَا لَهَا ٣ بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا ٤ يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَٰلَهُمْ ٥ فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ ٦ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ ٧",
+            "translation": "Apabila bumi digoncangkan dengan goncangan yang sedahsyat-dahsyatnya. Dan bumi mengeluarkan beban-beban berat yang dikandungnya. Dan manusia bertanya: Apa yang terjadi dengan bumi ini? Pada hari itu bumi menceritakan beritanya. Kerana sesungguhnya Tuhanmu telah memerintahkannya. Pada hari itu manusia keluar dari kuburnya dalam keadaan bermacam-macam, supaya diperlihatkan kepada mereka amalan-amalan mereka. Maka barangsiapa mengerjakan kebaikan seberat zarah pun, nescaya dia akan melihat balasannya. Dan barangsiapa mengerjakan kejahatan seberat zarah pun, nescaya dia akan melihat balasannya.",
+            "source": "Surah Al-Zalzalah: 1-8"
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Firman Allah — Surah Al-Shams (1-8)",
+          "body": {
+            "type": "arabic",
+            "arabic": "وَٱلشَّمْسِ وَضُحَىٰهَا ١ وَٱلْقَمَرِ إِذَا تَلَىٰهَا ٢ وَٱلنَّهَارِ إِذَا جَلَّىٰهَا ٣ وَٱلَّيْلِ إِذَا يَغْشَىٰهَا ٤ وَٱلسَّمَآءِ وَمَا بَنَىٰهَا ٥ وَٱلْأَرْضِ وَمَا طَحَىٰهَا ٦ وَنَفْسٍ وَمَا سَوَّىٰهَا ٧ فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا ٨",
+            "translation": "Demi matahari dan cahayanya di pagi hari. Dan bulan apabila ia mengiringinya. Dan siang apabila ia menampakkannya. Dan malam apabila ia menyelubunginya. Dan langit serta pembinaannya. Dan bumi serta penghamparannya. Dan jiwa serta penyempurnaannya. Maka Allah ilhamkan kepada jiwa itu jalan kefasikan dan ketaqwaannya.",
+            "source": "Surah Al-Shams: 1-8"
+          }
+        },
+        {
+          "icon": "3️⃣",
+          "title": "Unit 3 — Alif Layyinah di Akhir Kalimat — Alif Maqsurah \"ى\"",
+          "body": {
+            "type": "list",
+            "intro": "Alif Layyinah di akhir kalimat, huruf sebelumnya berbaris fathah, ditulis dengan huruf Alif Maqsurah \"ى\":",
+            "items": [
+              "Contoh: وَالضُّحَى، سَجَى، قَلَى، الْأُولَى، فَتَرْضَى، فَآوَى، فَهَدَى، فَأَغْنَى (dari Surah Al-Dhuha)",
+              "Contoh: اسْتَغْنَى، الرُّجْعَى، عَلَى الْهُدَى، بِالتَّقْوَى، تَوَلَّى (dari Surah Al-'Alaq)"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Firman Allah — Surah Al-Dhuha (1-11)",
+          "body": {
+            "type": "arabic",
+            "arabic": "وَٱلضُّحَىٰ ١ وَٱلَّيْلِ إِذَا سَجَىٰ ٢ مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ ٣ وَلَلْءَاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ ٤ وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ ٥ أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ ٦ وَوَجَدَكَ ضَآلًّا فَهَدَىٰ ٧ وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ ٨ فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ ٩ وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ ١٠ وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ ١١",
+            "translation": "Demi waktu dhuha. Dan malam apabila telah sunyi sepi. Tuhanmu tidak meninggalkanmu dan tidak pula membencimu. Dan sesungguhnya akhirat itu lebih baik bagimu daripada dunia. Dan sesungguhnya Tuhanmu akan memberikan karunia-Nya kepadamu lalu kamu akan merasa puas. Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungimu? Dan Dia mendapatimu sebagai orang yang bingung, lalu Dia memberikan petunjuk. Dan Dia mendapatimu sebagai orang yang kekurangan, lalu Dia memberikan kecukupan. Adapun terhadap anak yatim, janganlah kamu berlaku sewenang-wenang. Dan terhadap orang yang meminta-minta, janganlah kamu menghardiknya. Dan terhadap nikmat Tuhanmu, maka ceritakanlah.",
+            "source": "Surah Al-Dhuha: 1-11"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Ingat: Alif Layyinah di TENGAH kalimat = ditulis Alif Mamdudah \"ا\". Alif Layyinah di AKHIR kalimat ada dua cara: ditulis Alif Mamdudah \"ا\" ATAU Alif Maqsurah \"ى\". Kedua-duanya perlu dihafaz."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah yang dimaksudkan dengan Alif Layyinah?",
+      "options": [
+        "Huruf alif berbaris fathah",
+        "Huruf alif sakinah yang didahului huruf berbaris fathah",
+        "Huruf alif di permulaan kalimat",
+        "Huruf alif dengan tanwin"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Alif Layyinah di tengah kalimat ditulis dengan...",
+      "options": [
+        "Alif Maqsurah \"ى\"",
+        "Hamzah \"ء\"",
+        "Alif Mamdudah \"ا\"",
+        "Waw \"و\""
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Antara berikut, manakah contoh Alif Layyinah di akhir kalimat yang ditulis Alif Maqsurah \"ى\"?",
+      "options": [
+        "زِلْزَالَهَا",
+        "وَضُحَاهَا",
+        "فَتَرْضَى",
+        "سِرَاجٌ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Antara berikut, manakah contoh kosa kata yang mengandungi Alif Layyinah di tengah kalimat?",
+      "options": [
+        "وَضُحَاهَا",
+        "فَتَرْضَى",
+        "شَايٌّ",
+        "سَجَى"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Alif Layyinah", "colour": "#009688" },
+      { "id": "n2", "label": "Di Tengah Kalimat", "colour": "#00796B" },
+      { "id": "n3", "label": "Di Akhir Kalimat", "colour": "#00695C" },
+      { "id": "n4", "label": "Alif Mamdudah \"ا\"", "colour": "#26A69A" },
+      { "id": "n5", "label": "Alif Maqsurah \"ى\"", "colour": "#4DB6AC" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "kedudukan" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "kedudukan" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "ditulis" },
+      { "id": "e4", "source": "n3", "target": "n4", "label": "cara 1" },
+      { "id": "e5", "source": "n3", "target": "n5", "label": "cara 2" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْأَلِفُ اللَّيِّنَةُ", "meaning": "Alif Layyinah — huruf alif sakinah yang didahului huruf berbaris fathah" },
+    { "word": "الْأَلِفُ الْمَمْدُودَةُ", "meaning": "Alif Mamdudah — alif biasa \"ا\"; cara tulis Alif Layyinah di tengah kalimat dan sebahagian akhir kalimat" },
+    { "word": "الْأَلِفُ الْمَقْصُورَةُ", "meaning": "Alif Maqsurah — alif berbentuk ya tanpa titik \"ى\"; cara tulis Alif Layyinah di akhir sesetengah kalimat" },
+    { "word": "شَايٌّ", "meaning": "Teh — contoh Alif Layyinah di tengah kalimat" },
+    { "word": "فَاكِهَةٌ", "meaning": "Buah-buahan — contoh Alif Layyinah di tengah kalimat" },
+    { "word": "وَالضُّحَى", "meaning": "Demi waktu dhuha — contoh Alif Maqsurah di akhir kalimat (Surah Al-Dhuha: 1)" }
+  ],
+  "funFact": "Tahukah kamu bahawa dalam Surah Al-Dhuha, hampir semua ayatnya berakhir dengan Alif Maqsurah \"ى\"? Ini kerana dalam bahasa Arab klasik, banyak kata yang berasal dari kata kerja yang berakhir dengan alif maqsurah. Ilmu imlak membantu kita menulis al-Quran dengan betul!"
+}

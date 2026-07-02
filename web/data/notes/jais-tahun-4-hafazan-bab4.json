@@ -1,0 +1,154 @@
+{
+  "id": "jais-tahun-4-hafazan-bab4",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "hafazan",
+  "chapter": 4,
+  "title": "Hafazan 4: Surah al-Inshirah (94)",
+  "emoji": "📖",
+  "colour": "#E91E63",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "سُورَة الشَّرْح — Surah al-Inshirah / al-Syarh",
+      "body": "Surah al-Inshirah (juga dikenali sebagai Surah al-Syarh) adalah surah ke-94 dalam al-Quran. Ia mengandungi 8 ayat yang pendek. Surah ini diturunkan di Mekah sebagai penghibur hati Nabi Muhammad SAW yang sedang sedih dan susah hati menghadapi tentangan orang kafir."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📜",
+          "title": "Surah al-Inshirah (8 Ayat)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Bacaan penuh Surah al-Inshirah:",
+            "arabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ ﴿١﴾ وَوَضَعْنَا عَنكَ وِزْرَكَ ﴿٢﴾ الَّذِي أَنقَضَ ظَهْرَكَ ﴿٣﴾ وَرَفَعْنَا لَكَ ذِكْرَكَ ﴿٤﴾ فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ﴿٥﴾ إِنَّ مَعَ الْعُسْرِ يُسْرًا ﴿٦﴾ فَإِذَا فَرَغْتَ فَانصَبْ ﴿٧﴾ وَإِلَىٰ رَبِّكَ فَارْغَب ﴿٨﴾",
+            "translation": "Bukankah Kami telah melapangkan dadamu (1) Dan Kami telah meringankan daripadamu beban tanggungjawabmu (2) Yang memberatkan punggungmu (3) Dan Kami telah meninggikan sebutan namamu (4) Maka sesungguhnya sesudah kesulitan itu ada kemudahan (5) Sesungguhnya sesudah kesulitan itu ada kemudahan (6) Maka apabila kamu telah selesai (dari sesuatu urusan), bekerja keraslah (untuk urusan yang lain) (7) Dan kepada Tuhanmulah hendaknya kamu berharap (8)"
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "4 Nikmat Allah kepada Nabi SAW",
+          "body": {
+            "type": "pairs",
+            "intro": "Allah ingatkan Nabi SAW tentang nikmat yang telah diberikan:",
+            "rows": [
+              { "label": "Ayat 1", "arabic": "شَرَحَ الصَّدْر", "meaning": "Dilapangkan dada — diberikan ketenangan jiwa" },
+              { "label": "Ayat 2-3", "arabic": "وَضَعَ الوِزْر", "meaning": "Diringankan beban — dihapuskan dosa" },
+              { "label": "Ayat 4", "arabic": "رَفَعَ الذِّكْر", "meaning": "Ditinggikan nama — disebut bersama nama Allah dalam syahadah" },
+              { "label": "Ayat 5-6", "arabic": "مَعَ العُسْر يُسْر", "meaning": "Dijanjikan kemudahan selepas kesulitan" }
+            ]
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "Ayat 5-6: Ulangan Janji Allah",
+          "body": {
+            "type": "list",
+            "intro": "Mengapa ayat 5 dan 6 hampir sama?",
+            "items": [
+              "Ayat 5: فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+              "Ayat 6: إِنَّ مَعَ الْعُسْرِ يُسْرًا (diulang untuk menekankan!)",
+              "Ulama tafsir: 'al-'usr' (kesulitan) dalam kedua ayat adalah SATU kesulitan yang sama",
+              "Tapi 'yusr' (kemudahan) ada DUA — bermakna satu kesulitan diikuti dengan DUA kemudahan!",
+              "Ini pengajaran besar: jangan putus asa, Allah sentiasa sediakan kemudahan!"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌈",
+      "text": {
+        "type": "arabic",
+        "instruction": "Janji Allah yang paling menghiburkan:",
+        "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ۝ إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+        "translation": "Sesungguhnya bersama kesulitan itu ada kemudahan. Sesungguhnya bersama kesulitan itu ada kemudahan.",
+        "source": "Surah al-Inshirah: 5-6",
+        "outro": "Diulang DUA kali = Allah sungguh-sungguh janji kita akan dapat kemudahan!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Teknik Menghafaz Surah al-Inshirah",
+      "items": [
+        "Surah ini hanya 8 ayat pendek — boleh hafaz dalam masa 15 minit!",
+        "Hafaz ayat 1-4 sebagai satu blok (4 nikmat Allah kepada Nabi).",
+        {
+          "type": "arabic",
+          "arabic": "أَلَمْ نَشْرَحْ... وَوَضَعْنَا... الَّذِي أَنقَضَ... وَرَفَعْنَا...",
+          "translation": "Bukankah Kami lapangkan... Kami ringankan... yang memberatkan... Kami tinggikan..."
+        },
+        "Hafaz ayat 5-6 bersama — hampir sama, perhatikan perbezaan kecil (فَإِنَّ vs إِنَّ).",
+        "Hafaz ayat 7-8 sebagai arahan: bekerja keras → kemudian berharap kepada Allah."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Surah al-Inshirah adalah surah nombor ke berapa?",
+      "options": [
+        "Surah ke-92",
+        "Surah ke-93",
+        "Surah ke-94",
+        "Surah ke-95"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah maksud ayat 'مَعَ الْعُسْرِ يُسْرًا'?",
+      "options": [
+        "Sesungguhnya kehidupan itu penuh duka",
+        "Bersama kesulitan itu ada kemudahan",
+        "Berusahalah dan jangan malas",
+        "Allah sentiasa bersama orang beriman"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Mengapa ayat tentang 'kemudahan selepas kesulitan' diulang DUA kali?",
+      "options": [
+        "Kerana berlainan maksud",
+        "Untuk menekankan janji Allah — satu kesulitan ada dua kemudahan",
+        "Kerana Nabi tidak faham kali pertama",
+        "Ia tidak ada sebab"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang diajar ayat 7-8 Surah al-Inshirah?",
+      "options": [
+        "Berehat setelah bekerja",
+        "Selepas satu kerja selesai, terus bekerja keras dan berharap kepada Allah",
+        "Solat sahaja tanpa berusaha",
+        "Bergantung pada orang lain"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "al-Inshirah (94)", "colour": "#E91E63" },
+      { "id": "n2", "label": "4 Nikmat (ayat 1-4)", "colour": "#C2185B" },
+      { "id": "n3", "label": "Kemudahan (ayat 5-6)", "colour": "#C2185B" },
+      { "id": "n4", "label": "Bekerja Keras (ayat 7)", "colour": "#AD1457" },
+      { "id": "n5", "label": "Berharap pada Allah (ayat 8)", "colour": "#AD1457" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "penghiburan" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "janji" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "tindakan" },
+      { "id": "e4", "source": "n4", "target": "n5", "label": "kemudian" }
+    ]
+  },
+  "vocab": [
+    { "word": "شَرَحَ الصَّدْر", "meaning": "melapangkan dada (jiwa tenang)" },
+    { "word": "وِزْر", "meaning": "beban berat" },
+    { "word": "أَنقَضَ", "meaning": "membebankan / memecahkan" },
+    { "word": "الْعُسْر", "meaning": "kesulitan / kesempitan" },
+    { "word": "يُسْر", "meaning": "kemudahan / kesenangan" }
+  ],
+  "funFact": "Tahukah kamu bahawa nama Rasulullah SAW 'Muhammad' disebut dalam azan dan iqamat setiap hari seluruh dunia? Ini adalah maksud ayat 4 'ورفعنا لك ذكرك' (Kami tinggikan namamu). Tidak ada manusia dalam sejarah yang namanya disebut lebih kerap daripada nama Muhammad SAW! Setiap kali azan dilaungkan di mana-mana sudut dunia, nama Baginda SAW turut disebut — subhanallah!"
+}

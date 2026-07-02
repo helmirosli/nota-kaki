@@ -1,0 +1,171 @@
+{
+  "id": "jais-tahun-4-tajwid-bab4",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "tajwid",
+  "chapter": 4,
+  "title": "Pelajaran 3 & 4: Qalqalah dan Al-Ta'rif",
+  "emoji": "📿",
+  "colour": "#1A237E",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "قَلْقَلَة وَالتَّعْرِيف — Qalqalah dan Al-Ta'rif",
+      "body": "Kita belajar dua topik dalam satu pelajaran: Qalqalah (pantulan huruf) dan Al-Ta'rif 'ال' (Qamariah dan Syamsiah). Kedua-dua ini sangat kerap digunakan dalam al-Quran."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🔔",
+          "title": "Qalqalah — Pantulan Bunyi",
+          "body": {
+            "type": "list",
+            "intro": "Pengertian dan huruf Qalqalah:",
+            "items": [
+              "Qalqalah = bunyi pantulan/memantul apabila huruf tertentu dalam keadaan mati",
+              "5 huruf Qalqalah: ق ط ب ج د (hafaz: قُطْبُ جَدٍّ — tiang utama)",
+              "3 jenis Qalqalah: Sughra (kecil), Kubra (besar), Akbar (paling besar)",
+              "Cara baca: seolah-olah ada pantulan/getaran selepas huruf itu dibunyikan"
+            ]
+          }
+        },
+        {
+          "icon": "📊",
+          "title": "3 Jenis Qalqalah",
+          "body": {
+            "type": "pairs",
+            "intro": "Perbezaan Qalqalah mengikut kekuatan pantulan:",
+            "rows": [
+              { "label": "Sughra (صغرى)", "arabic": "حرف قلقلة مات وسط كلمة", "meaning": "Huruf Qalqalah mati DI TENGAH perkataan — pantulan KECIL" },
+              { "label": "Kubra (كبرى)", "arabic": "حرف قلقلة مات آخر كلمة عند الوقف", "meaning": "Mati DI AKHIR perkataan kerana waqaf — pantulan SEDERHANA" },
+              { "label": "Akbar (أكبر)", "arabic": "حرف قلقلة مشدد آخر كلمة عند الوقف", "meaning": "Bertasydid dan mati di akhir kerana waqaf — pantulan KUAT" }
+            ],
+            "outro": "Ingat: Sughra = kecil, Kubra = besar, Akbar = paling besar pantulannya"
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Al-Ta'rif 'ال' — Qamariah dan Syamsiah",
+          "body": {
+            "type": "list",
+            "intro": "'ال' adalah alif-lam yang menunjukkan 'yang tertentu'. Ada 2 jenis:",
+            "items": [
+              "Al-QAMARIAH: lafazkan huruf Lam (ل) dengan JELAS — seperti bulan (قمر) yang jelas bersinar",
+              "Huruf Qamariah: ب ح ج ك ع ق ف غ م و ه ء ي خ (14 huruf — hafaz: ابغ حجك وخف عقيمه)",
+              "Al-SYAMSIAH: Lam LEBUR ke dalam huruf berikutnya — seperti matahari (شمس) yang menghilangkan bayangan",
+              "Huruf Syamsiah: ت ث د ذ ر ز س ش ص ض ط ظ ل ن (14 huruf — hanya huruf yang bertasydid)"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Contoh Qamariah dan Syamsiah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Perbandingan Al-Qamariah dan Al-Syamsiah:",
+            "arabic": "الْقَمَر = بaca Lam jelas: 'Al-Qamar' (قَ → Qamariah)\nالشَّمْس = Lam lebur: 'Ash-Shams' (شَ → Syamsiah)\nالرَّحِيم = Lam lebur: 'Ar-Rahiim' (رَ → Syamsiah)\nالْكِتَاب = baca Lam jelas: 'Al-Kitab' (كِ → Qamariah)",
+            "translation": "Bulan — baca Lam jelas | Matahari — Lam lebur | Yang Maha Penyayang — Lam lebur | Buku — baca Lam jelas"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "list",
+        "intro": "Cara mudah ingat Al-Qamariah vs Al-Syamsiah:",
+        "items": [
+          "QAMARIAH = Lam KEKAL (jelas). Ingat: Q = KEKAL, bulan = kekal bersinar di malam hari",
+          "SYAMSIAH = Lam HILANG (lebur). Ingat: S = SAPU, matahari menyapu/menghilangkan Lam",
+          "Cara praktis: jika huruf selepas 'ال' bertasydid (ّ) → SYAMSIAH (Lam lebur)",
+          "Contoh Syamsiah: الرَّحْمَن (ada tasydid atas ر) → baca 'Ar-Rahman'"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengenal Qalqalah dalam Bacaan",
+      "items": [
+        "Cari salah satu dari 5 huruf Qalqalah: ق ط ب ج د dalam ayat.",
+        "Lihat sama ada huruf itu bertanda MATI atau WAQAF (berhenti).",
+        "Jika MATI di tengah → Qalqalah Sughra (pantulan kecil)",
+        {
+          "type": "arabic",
+          "arabic": "يَقْطَعُ (قْ mati di tengah) → Qalqalah Sughra",
+          "translation": "قْ mati di tengah perkataan — pantulan kecil sahaja"
+        },
+        "Jika WAQAF di akhir perkataan → Qalqalah Kubra (pantulan sederhana) atau Akbar jika ada tasydid."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah 5 huruf Qalqalah?",
+      "options": [
+        "ء ه ع ح غ خ",
+        "ق ط ب ج د",
+        "ي ر و م ل ن",
+        "ت ث د ذ ر"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dalam perkataan 'الرَّحِيم', adakah 'ال' Qamariah atau Syamsiah?",
+      "options": [
+        "Qamariah — Lam jelas",
+        "Syamsiah — Lam lebur",
+        "Izhar — tiada perubahan",
+        "Iqlab — tukar bunyi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Qalqalah manakah yang paling KUAT pantulanannya?",
+      "options": [
+        "Qalqalah Sughra",
+        "Qalqalah Kubra",
+        "Qalqalah Akbar",
+        "Semua sama kuat"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Perkataan 'الْكِتَاب' menggunakan 'ال' jenis apa?",
+      "options": [
+        "Syamsiah",
+        "Qamariah",
+        "Idgham",
+        "Izhar"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Qalqalah", "colour": "#1A237E" },
+      { "id": "n2", "label": "قطبجد", "colour": "#283593" },
+      { "id": "n3", "label": "Sughra", "colour": "#3F51B5" },
+      { "id": "n4", "label": "Kubra", "colour": "#3F51B5" },
+      { "id": "n5", "label": "Akbar", "colour": "#3F51B5" },
+      { "id": "n6", "label": "ال Qamariah/Syamsiah", "colour": "#1A237E" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "5 huruf" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis 1" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "jenis 2" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "jenis 3" },
+      { "id": "e5", "source": "n6", "target": "n3", "label": "topik lain Tajwid 4" }
+    ]
+  },
+  "vocab": [
+    { "word": "قَلْقَلَة", "meaning": "pantulan bunyi huruf mati tertentu" },
+    { "word": "صُغْرَى", "meaning": "yang kecil" },
+    { "word": "كُبْرَى", "meaning": "yang besar" },
+    { "word": "أَكْبَر", "meaning": "yang paling besar" },
+    { "word": "التَّعْرِيف", "meaning": "alif-lam penentu (seperti 'the' dalam Inggeris)" }
+  ],
+  "funFact": "Tahukah kamu bahawa nama surah-surah dalam al-Quran banyak menggunakan 'ال' Syamsiah? Contoh: الشَّمْس (Matahari), الضُّحَى (Dhuha), النَّاس (Manusia), الرَّعْد (Guruh). Semua ini menggunakan Syamsiah kerana huruf selepas 'ال' adalah salah satu huruf Syamsiah. Bila kamu dengar bacaan al-Quran yang fasih, kamu akan dengar perbezaan jelas antara 'Al-' (Qamariah) dan bunyi lebur Syamsiah!"
+}

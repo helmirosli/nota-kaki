@@ -1,0 +1,174 @@
+{
+  "id": "jais-tahun-4-tauhid-bab4",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "tauhid",
+  "chapter": 4,
+  "title": "Bab 4: Iman kepada Rasul-rasul Allah",
+  "emoji": "✨",
+  "colour": "#FFB300",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْإِيمَان بِالرُّسُل — Iman kepada Rasul-rasul Allah",
+      "body": "Iman kepada rasul-rasul Allah adalah rukun iman yang keempat. Kita mesti percaya bahawa Allah SWT telah mengutus para nabi dan rasul kepada manusia sebagai pembimbing dan pembawa risalah. Bilangan nabi sangat banyak, tapi yang wajib diketahui ada 25 orang."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📊",
+          "title": "Perbezaan Nabi dan Rasul",
+          "body": {
+            "type": "pairs",
+            "intro": "Perbezaan antara Nabi dan Rasul:",
+            "rows": [
+              { "label": "Nabi (نَبِيّ)", "arabic": "يوحى إليه ولا يؤمر بالتبليغ", "meaning": "Diterima wahyu — tidak diperintahkan menyampaikan kepada orang lain" },
+              { "label": "Rasul (رَسُول)", "arabic": "يوحى إليه ويؤمر بالتبليغ", "meaning": "Diterima wahyu DAN diperintahkan menyampaikan risalah kepada manusia" }
+            ],
+            "outro": "Semua Rasul adalah Nabi, tapi tidak semua Nabi adalah Rasul"
+          }
+        },
+        {
+          "icon": "👥",
+          "title": "25 Nabi dan Rasul Wajib Diketahui",
+          "body": {
+            "type": "list",
+            "intro": "Senarai 25 Nabi dan Rasul (hafaz semua):",
+            "items": [
+              "1. آدَم 2. إِدْرِيس 3. نُوح 4. هُود 5. صَالِح",
+              "6. إِبْرَاهِيم 7. لُوط 8. إِسْمَاعِيل 9. إِسْحَاق 10. يَعْقُوب",
+              "11. يُوسُف 12. أَيُّوب 13. شُعَيْب 14. مُوسَى 15. هَارُون",
+              "16. ذُو الْكِفْل 17. دَاوُد 18. سُلَيْمَان 19. إِلْيَاس 20. الْيَسَع",
+              "21. يُونُس 22. زَكَرِيَّا 23. يَحْيَى 24. عِيسَى 25. مُحَمَّد ﷺ"
+            ]
+          }
+        },
+        {
+          "icon": "⭐",
+          "title": "Ulul Azmi — 5 Rasul Ketabahan Utama",
+          "body": {
+            "type": "pairs",
+            "intro": "5 Rasul dengan ujian paling berat (Ulul Azmi):",
+            "rows": [
+              { "arabic": "مُحَمَّد ﷺ", "meaning": "Nabi Muhammad SAW — penghulu segala nabi" },
+              { "arabic": "إِبْرَاهِيم", "meaning": "Nabi Ibrahim a.s. — dibakar api, perintah sembelih anak" },
+              { "arabic": "مُوسَى", "meaning": "Nabi Musa a.s. — menghadapi Firaun yang kejam" },
+              { "arabic": "عِيسَى", "meaning": "Nabi Isa a.s. — diancam bunuh oleh Bani Israil" },
+              { "arabic": "نُوح", "meaning": "Nabi Nuh a.s. — berdakwah 950 tahun, anak sendiri kafir" }
+            ],
+            "outro": "Hafaz: Muhammad, Ibrahim, Musa, Isa, Nuh — 5 Ulul Azmi"
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Sifat Wajib Rasul",
+          "body": {
+            "type": "pairs",
+            "intro": "4 sifat yang WAJIB pada setiap Rasul:",
+            "rows": [
+              { "arabic": "الصِّدْق", "meaning": "Siddiq — sentiasa benar dalam segala hal" },
+              { "arabic": "الْأَمَانَة", "meaning": "Amanah — dipercayai, tidak khianat" },
+              { "arabic": "التَّبْلِيغ", "meaning": "Tabligh — menyampaikan wahyu kepada manusia" },
+              { "arabic": "الْفَطَانَة", "meaning": "Fatanah — bijaksana dan cerdik" }
+            ],
+            "outro": "Hafaz: SATF — Siddiq, Amanah, Tabligh, Fatanah"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Kedudukan Nabi Muhammad SAW:",
+        "arabic": "مُحَمَّدٌ رَّسُولُ اللَّهِ ۚ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ",
+        "translation": "Muhammad itu adalah Rasul Allah, dan orang-orang yang bersama dengannya bersikap keras terhadap orang-orang kafir, tetapi berkasih-sayang sesama mereka.",
+        "source": "Surah al-Fath: 29"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Beriman kepada Rasul",
+      "items": [
+        "Hafaz nama 25 Nabi dan Rasul — ini wajib bagi setiap Muslim.",
+        "Kenali kisah hidup para nabi — ambil pengajaran dari setiap kisah.",
+        "Contohi akhlak Nabi Muhammad SAW dalam kehidupan seharian.",
+        {
+          "type": "arabic",
+          "arabic": "لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَة",
+          "translation": "Sesungguhnya pada Rasulullah ada ikutan yang baik bagimu.",
+          "source": "Surah al-Ahzab: 21"
+        },
+        "Berselawat kepada Nabi SAW — amalan yang Allah dan malaikat pun buat!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa banyak nabi dan rasul yang WAJIB kita ketahui?",
+      "options": [
+        "10 orang",
+        "25 orang",
+        "124,000 orang",
+        "313 orang"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah perbezaan antara Nabi dan Rasul?",
+      "options": [
+        "Tidak ada perbezaan",
+        "Rasul diperintahkan menyampaikan wahyu kepada manusia, Nabi tidak",
+        "Nabi lebih tinggi darjatnya dari Rasul",
+        "Rasul tidak menerima wahyu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Siapakah 5 Rasul yang digelar Ulul Azmi?",
+      "options": [
+        "Adam, Musa, Daud, Isa, Muhammad",
+        "Ibrahim, Musa, Nuh, Isa, Muhammad",
+        "Nuh, Hud, Salih, Ibrahim, Muhammad",
+        "Yusuf, Musa, Isa, Daud, Muhammad"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sifat 'Tabligh' pada Rasul bermaksud:",
+      "options": [
+        "Benar dalam setiap hal",
+        "Dipercayai dan amanah",
+        "Menyampaikan wahyu kepada manusia",
+        "Bijaksana dan cerdik"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Rasul-rasul Allah", "colour": "#FFB300" },
+      { "id": "n2", "label": "25 Nabi Wajib", "colour": "#FF8F00" },
+      { "id": "n3", "label": "Ulul Azmi (5)", "colour": "#FF8F00" },
+      { "id": "n4", "label": "4 Sifat Wajib", "colour": "#FF8F00" },
+      { "id": "n5", "label": "Muhammad SAW (terakhir)", "colour": "#FFB300" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "bilangan wajib" },
+      { "id": "e2", "source": "n2", "target": "n3", "label": "yang istimewa" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "sifat wajib" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "yang terakhir" }
+    ]
+  },
+  "vocab": [
+    { "word": "رَسُول", "meaning": "rasul (diutus Allah dengan risalah)" },
+    { "word": "نَبِيّ", "meaning": "nabi (menerima wahyu)" },
+    { "word": "أُولُو الْعَزْم", "meaning": "rasul-rasul yang mempunyai ketabahan luar biasa" },
+    { "word": "الصِّدْق", "meaning": "siddiq — sentiasa benar" },
+    { "word": "خَاتَم النَّبِيِّين", "meaning": "penutup segala nabi (gelaran Nabi Muhammad SAW)" }
+  ],
+  "funFact": "Tahukah kamu bahawa bilangan sebenar nabi yang diutus Allah sangat banyak? Ada hadith yang menyebutkan 124,000 nabi diutus sepanjang sejarah manusia! Tapi hanya 25 yang disebut dalam al-Quran dan wajib kita ketahui. Nabi Muhammad SAW adalah yang TERAKHIR — tidak ada nabi lain selepasnya. Ini bermakna al-Quran yang dibawa oleh Baginda adalah panduan terakhir dan terlengkap untuk manusia hingga hari kiamat!"
+}

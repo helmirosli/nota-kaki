@@ -1,0 +1,189 @@
+{
+  "id": "jais-tahun-5-feqah-bab6",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "feqah",
+  "chapter": 6,
+  "title": "Zakat",
+  "emoji": "💰",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "زَكَاة — Pelajaran Keenam",
+      "body": "Zakat ialah kadar harta yang wajib dikeluarkan kepada golongan yang berhak mengikut kadar tertentu dengan syarat-syarat tertentu. Dari segi bahasa, zakat bermaksud bersih dan berkembang."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Dalil Naqli — Surah al-Nur: 56",
+          "body": {
+            "type": "arabic",
+            "instruction": "Dalil kewajipan zakat:",
+            "arabic": "وَأَقِيمُوا الصَّلَوةَ وَءَاتُوا الزَّكَوةَ",
+            "translation": "Dan dirikanlah solat serta tunaikanlah zakat.",
+            "source": "Surah al-Nur: 56"
+          }
+        },
+        {
+          "icon": "⚖️",
+          "title": "1. Hukum Membayar Zakat",
+          "body": "Wajib ke atas setiap orang Islam yang cukup syarat."
+        },
+        {
+          "icon": "✅",
+          "title": "2. Syarat Wajib Zakat",
+          "body": {
+            "type": "list",
+            "intro": "5 syarat wajib zakat:",
+            "items": [
+              "1. Islam.",
+              "2. Merdeka.",
+              "3. Cukup haul — genap setahun dimiliki.",
+              "4. Milik sempurna — harta dimiliki sepenuhnya.",
+              "5. Cukup nisab — mencapai kadar minimum yang ditetapkan."
+            ]
+          }
+        },
+        {
+          "icon": "📊",
+          "title": "3. Bahagian Zakat",
+          "body": {
+            "type": "pairs",
+            "intro": "Zakat terbahagi kepada dua bahagian:",
+            "rows": [
+              { "arabic": "زَكَاةُ الْفِطْرَةِ", "meaning": "Zakat Fitrah — zakat yang dikeluarkan pada bulan Ramadhan" },
+              { "arabic": "زَكَاةُ الْمَالِ", "meaning": "Zakat Harta — zakat yang dikeluarkan ke atas harta yang telah cukup syarat" }
+            ]
+          }
+        },
+        {
+          "icon": "🌙",
+          "title": "3.1 Zakat Fitrah",
+          "body": {
+            "type": "list",
+            "intro": "Zakat fitrah iaitu mengeluarkan makanan asas untuk diberikan kepada golongan fakir dan miskin:",
+            "items": [
+              "Waktu: bermula awal Ramadhan sehingga sebelum solat hari raya Eid Fitri.",
+              "Kadar: 1 gantang (2.27 kilogram) beras atau nilai yang setara."
+            ]
+          }
+        },
+        {
+          "icon": "💎",
+          "title": "3.2 Jenis-jenis Zakat Harta",
+          "body": {
+            "type": "list",
+            "intro": "7 jenis zakat harta:",
+            "items": [
+              "1. Emas dan perak.",
+              "2. Wang yang disimpan.",
+              "3. Perniagaan dan gaji.",
+              "4. Perusahaan/syarikat.",
+              "5. Binatang ternakan seperti unta, lembu dan kambing.",
+              "6. Hasil pertanian dan buah-buahan seperti padi, jagung, tamar dan ubi kayu.",
+              "7. Harta rikaz (galian) seperti emas, perak, besi, timah, petroleum dan sebagainya."
+            ]
+          }
+        },
+        {
+          "icon": "🤲",
+          "title": "4. Golongan yang Berhak Menerima Zakat (Asnaf 8)",
+          "body": {
+            "type": "list",
+            "intro": "8 asnaf yang berhak menerima zakat:",
+            "items": [
+              "1. Fakir — orang yang tidak mempunyai harta atau pendapatan.",
+              "2. Miskin — orang yang mempunyai sedikit harta tetapi tidak mencukupi keperluan.",
+              "3. Amil — petugas yang dilantik untuk mengutip dan mengagih zakat.",
+              "4. Mualaf — orang yang baru memeluk Islam.",
+              "5. Gharimin (الْغَارِمُونَ) — orang yang menanggung hutang.",
+              "6. Fi Sabilillah — orang yang berjuang di jalan Allah ﷻ.",
+              "7. Ibn Sabil — musafir yang kehabisan bekalan dalam perjalanan.",
+              "8. al-Riqab (هamba) — hamba abdi yang ingin memerdekakan diri."
+            ]
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "5. Hikmah Zakat",
+          "body": {
+            "type": "list",
+            "intro": "5 hikmah menunaikan zakat:",
+            "items": [
+              "1. Memberikan kegembiraan kepada golongan fakir dan miskin pada hari kebesaran Islam.",
+              "2. Menanamkan perasaan simpati dan kasih sayang antara sesama manusia.",
+              "3. Dapat menampung kecacatan yang mungkin berlaku pada ibadah puasa.",
+              "4. Menghindarkan sifat bakhil dan kedekut.",
+              "5. Sentiasa bersyukur dengan nikmat Allah ﷻ."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Tahukah anda? Membayar zakat dapat membersihkan diri dari sifat bakhil. Emas dan perak yang tidak mencapai nisab tidak diwajibkan zakat."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapakah syarat wajib zakat?",
+      "options": ["3 syarat", "4 syarat", "5 syarat", "6 syarat"],
+      "answer": 2
+    },
+    {
+      "q": "Berapakah kadar zakat fitrah yang perlu dikeluarkan?",
+      "options": [
+        "1 kilogram beras",
+        "2.27 kilogram beras",
+        "3 kilogram beras",
+        "5 kilogram beras"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang dimaksudkan dengan 'amil'?",
+      "options": [
+        "Orang yang menanggung hutang",
+        "Orang baru memeluk Islam",
+        "Petugas yang mengutip dan mengagih zakat",
+        "Musafir yang kehabisan bekalan"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapakah golongan yang berhak menerima zakat?",
+      "options": ["5 golongan", "6 golongan", "7 golongan", "8 golongan"],
+      "answer": 3
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Zakat", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Zakat Fitrah", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "Zakat Harta", "colour": "#7B1FA2" },
+      { "id": "n4", "label": "Asnaf 8", "colour": "#AB47BC" },
+      { "id": "n5", "label": "Hikmah", "colour": "#4CAF50" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "penerima" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "hikmah" }
+    ]
+  },
+  "vocab": [
+    { "word": "الزَّكَاةُ", "meaning": "Zakat — ibadah mengeluarkan sebahagian harta kepada golongan yang berhak" },
+    { "word": "النِّصَابُ", "meaning": "Nisab — kadar minimum harta yang mewajibkan zakat" },
+    { "word": "الْحَوْلُ", "meaning": "Haul — genap setahun harta dimiliki, syarat wajib zakat" },
+    { "word": "الْأَصْنَافُ الثَّمَانِيَةُ", "meaning": "Asnaf lapan — lapan golongan yang berhak menerima zakat" },
+    { "word": "الْفِطْرَةُ", "meaning": "Fitrah — zakat yang dikeluarkan pada bulan Ramadhan berupa makanan asas" },
+    { "word": "الْغَارِمُونَ", "meaning": "Gharimin — orang yang menanggung hutang, salah satu asnaf yang berhak menerima zakat" }
+  ],
+  "funFact": "Tahukah kamu bahawa zakat adalah salah satu daripada Lima Rukun Islam? Kadar zakat harta yang paling umum ialah 2.5% — bermakna daripada setiap RM100 simpanan yang cukup haul dan nisab, hanya RM2.50 perlu dizakatkan. Ini menunjukkan betapa bijaksananya Islam dalam mengatur kewajipan ibadah agar tidak membebankan umatnya!"
+}

@@ -1,0 +1,132 @@
+{
+  "id": "jais-tahun-5-arab-bab12",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 12,
+  "title": "الْفِعْلُ الثُّلَاثِيُّ الْمَزِيْدُ بِحَرْفٍ وَاحِدٍ — وَزْنُ أَفْعَلَ",
+  "emoji": "📖",
+  "colour": "#2196F3",
+  "estimatedMinutes": 22,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الدرس الثاني عشر — الفعل الثلاثي المزيد بحرف واحد",
+      "body": "Pada akhir pelajaran ini, murid dapat: (1) Mendengar الفعل الثلاثي المزيد بحرف واحد dengan betul. (2) Menyebut الفعل الثلاثي المزيد dengan betul. (3) Membaca ayat yang mengandungi الفعل الثلاثي المزيد dengan jelas. (4) Menulis ayat yang mengandungi الفعل الثلاثي المزيد dengan betul."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "تعريف — الفعل الثلاثي المزيد بحرف واحد",
+          "body": {
+            "type": "list",
+            "intro": "الفعل الثلاثي (kata kerja 3 huruf asal) yang ditambah 1 huruf tambahan:",
+            "items": [
+              "الفعل المجرد = kata kerja asal dengan 3 huruf sahaja. Contoh: خَرَجَ (keluar), شَرِبَ (minum).",
+              "الفعل المزيد بحرف واحد = kata kerja asal + 1 huruf tambahan.",
+              "الوحدة الأولى: وزن أَفْعَلَ — ditambah حرف (أ) di hadapan. Tujuan: للتعدية (menjadikan kata kerja transitif).",
+              "Apabila ditambah (أ) di hadapan, kata kerja yang sebelum ini tidak memerlukan objek, kini memerlukan objek (المفعول به).",
+              "Ini dipanggil بناء للتعدية (membina untuk transitif)."
+            ]
+          }
+        },
+        {
+          "icon": "🔄",
+          "title": "الوحدة الأولى — وزن أَفْعَلَ (للتعدية)",
+          "body": {
+            "type": "pairs",
+            "intro": "Perbandingan المجرد (asal) → المزيد بحرف أ (ditambah أ للتعدية):",
+            "rows": [
+              { "label": "خَرَجَ الطَّالِبُ مِنَ الْفَصْلِ", "arabic": "← أَخْرَجَ الطَّالِبُ الْكِتَابَ مِنْ حَقِيْبَتِهِ", "meaning": "Pelajar keluar dari kelas → Pelajar mengeluarkan buku dari beg (كتاب = objek baru)" },
+              { "label": "شَرِبَ الْوَلَدُ الْمَاءَ", "arabic": "← أَشْرَبَ الْأَبُ الْوَلَدَ الْمَاءَ", "meaning": "Kanak-kanak minum air → Ayah memberi minum kanak-kanak air (ولد = objek baru)" }
+            ]
+          }
+        },
+        {
+          "icon": "⚖️",
+          "title": "Perbezaan Penggunaan",
+          "body": {
+            "type": "list",
+            "intro": "Memahami perubahan fungsi apabila ditambah أ:",
+            "items": [
+              "خَرَجَ (keluar — tidak perlukan objek) → أَخْرَجَ (mengeluarkan — perlukan objek: apa yang dikeluarkan?)",
+              "شَرِبَ (minum — tidak perlukan objek tambahan) → أَشْرَبَ (memberi minum — perlukan dua objek: siapa, dan apa yang diminum?)",
+              "Kesimpulan: وزن أفعل (tambah أ) = menukar kata kerja tak transitif → transitif, iaitu memberi pelakunya kemampuan untuk menggerakkan orang/benda lain."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Ringkasan: الفعل المجرد (3 huruf asal) + حرف (أ) di depan = الفعل المزيد بحرف واحد على وزن أَفْعَلَ. Tujuannya للتعدية — menjadikan perbuatan melintas kepada objek. Contoh: خرج → أخرج، شرب → أشرب."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah wazn (وزن) yang dipelajari dalam الوحدة الأولى بابaan 12 ini?",
+      "options": [
+        "فَعَّلَ",
+        "أَفْعَلَ",
+        "فَاعَلَ",
+        "اسْتَفْعَلَ"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah tujuan menambah حرف (أ) pada الفعل الثلاثي المجرد?",
+      "options": [
+        "للتصغير — memperkecilkan",
+        "للتعدية — menjadikan transitif",
+        "للتكثير — memperbanyakkan",
+        "للمطاوعة — menerima kesan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah الفعل المزيد bagi kata kerja 'خَرَجَ'?",
+      "options": [
+        "يخرج",
+        "خرّج",
+        "أخرج",
+        "اخرج"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Dalam 'أَشْرَبَ الْأَبُ الْوَلَدَ الْمَاءَ', الفاعل ialah...",
+      "options": [
+        "الولد",
+        "الماء",
+        "الأب",
+        "أشرب"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "الفعل الثلاثي", "colour": "#2196F3" },
+      { "id": "n2", "label": "المجرد (3 huruf)", "colour": "#1976D2" },
+      { "id": "n3", "label": "المزيد بحرف (أ)", "colour": "#1565C0" },
+      { "id": "n4", "label": "وزن أَفْعَلَ", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "asal" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "ditambah" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "hasilkan" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْفِعْلُ الثُّلَاثِيُّ", "meaning": "Al-Fi'lut thulaathiy — kata kerja tiga huruf asal" },
+    { "word": "الْمَجَرَّدُ", "meaning": "Al-Mujarrad — kata kerja asal (tanpa tambahan)" },
+    { "word": "الْمَزِيْدُ", "meaning": "Al-Maziid — kata kerja yang ditambah huruf" },
+    { "word": "لِلتَّعْدِيَةِ", "meaning": "Lit-ta'diyah — untuk transitif (memindahkan perbuatan kepada objek)" },
+    { "word": "خَرَجَ / أَخْرَجَ", "meaning": "Kharaja / Akhraja — keluar / mengeluarkan" },
+    { "word": "شَرِبَ / أَشْرَبَ", "meaning": "Shariba / Ashraba — minum / memberi minum" }
+  ],
+  "funFact": "Tahukah kamu bahawa sistem وزن (wazan/pola) dalam bahasa Arab adalah seperti 'formula matematik'? Semua kata kerja bahasa Arab boleh dikelaskan mengikut wazan tertentu. وزن أفعل sahaja boleh menghasilkan ratusan perkataan baru dari akar kata yang berbeza! Contoh: كتب → أكتب (mendiktekan), علم → أعلم (memberitahu), جلس → أجلس (mendudukkan). Ini menjadikan bahasa Arab sangat sistematik dan mudah dipelajari jika kita faham sistem wazannya!"
+}

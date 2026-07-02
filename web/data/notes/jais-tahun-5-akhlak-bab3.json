@@ -1,0 +1,160 @@
+{
+  "id": "jais-tahun-5-akhlak-bab3",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "akhlak",
+  "chapter": 3,
+  "title": "Adab Kepada Pemimpin",
+  "emoji": "👑",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "أَدَب مَعَ الْقَادَة — Pelajaran Ketiga",
+      "body": "Pemimpin ialah ketua atau orang yang bertanggungjawab memimpin sesuatu negara, organisasi atau komuniti seperti negara, negeri, daerah, kampung, komuniti, keluarga, dan sebagainya. Islam mewajibkan kita beradab dengan pemimpin demi kesejahteraan masyarakat."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📋",
+          "title": "6 Adab Dengan Pemimpin",
+          "body": {
+            "type": "list",
+            "intro": "Adab yang perlu diamalkan terhadap pemimpin:",
+            "items": [
+              "1. Memberi kerjasama",
+              "2. Menghormati dan menjaga maruah pemimpin",
+              "3. Memberi teguran melalui saluran tertentu dan berhikmah",
+              "4. Memberi sokongan dalam buah fikiran dan tindakan",
+              "5. Mendoakan kesejahteraan pemimpin supaya mempunyai kekuatan dalam menjalankan tugasnya",
+              "6. Taat kepada pemimpin selagi tidak bertentangan dengan ajaran Islam"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil Taatkan Pemimpin",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah ﷻ — Surah al-Nisa': 59:",
+            "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ... ﴿٥٩﴾",
+            "translation": "Wahai orang-orang yang beriman! Taatlah kamu kepada Allah dan taatlah kamu kepada Rasulullah ﷺ dan kepada pemimpin dalam kalangan kamu...",
+            "source": "Surah al-Nisa': 59"
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "5 Fadhilat Beradab Kepada Pemimpin",
+          "body": {
+            "type": "list",
+            "intro": "Kebaikan bagi yang beradab kepada pemimpin:",
+            "items": [
+              "1. Dikasihhi Allah ﷻ dan Rasulullah ﷺ",
+              "2. Memenuhi tuntutan agama",
+              "3. Negara akan aman dan damai",
+              "4. Pemimpin dapat menjalankan tugasnya dengan lebih berkesan",
+              "5. Pembangunan negara dapat berjalan dengan lancar"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "4 Akibat Tidak Beradab Kepada Pemimpin",
+          "body": {
+            "type": "list",
+            "intro": "Akibat buruk bagi yang tidak beradab kepada pemimpin:",
+            "items": [
+              "1. Mendapat kemurkaan Allah ﷻ",
+              "2. Merosakkan imej negara",
+              "3. Melemahkan semangat pemimpin untuk menjalankan tugasnya dengan cemerlang",
+              "4. Mempertaruhkan kepercayaan rakyat"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ayat utama — Surah al-Nisa': 59 (wajib hafaz):",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ",
+        "translation": "Wahai orang-orang yang beriman! Taatlah kamu kepada Allah dan taatlah kamu kepada Rasulullah ﷺ dan kepada pemimpin dalam kalangan kamu.",
+        "source": "Surah al-Nisa': 59"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Amalkan Adab Kepada Pemimpin",
+      "items": [
+        "Patuhilah kehendak pemimpin yang melaksanakan amanah dengan bijaksana.",
+        "Ketahui pemimpin di sekeliling kita — bapa ialah pemimpin keluarga, guru besar ialah pemimpin sekolah.",
+        "Jika ada teguran — sampaikan melalui saluran yang betul, bukan dengan cara yang merosakkan imej.",
+        "Ingat: Taat kepada pemimpin adalah tuntutan agama, selagi pemimpin tidak memerintah perkara yang bertentangan dengan Islam."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah pengertian pemimpin menurut buku ini?",
+      "options": [
+        "Orang yang paling kaya dalam masyarakat",
+        "Ketua atau orang yang bertanggungjawab memimpin negara, organisasi atau komuniti",
+        "Guru yang mengajar di sekolah sahaja",
+        "Orang yang dilantik oleh raja"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa bilangan adab dengan pemimpin yang disebut dalam buku ini?",
+      "options": ["4 adab", "5 adab", "6 adab", "7 adab"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah dalil tentang taat kepada pemimpin yang digunakan dalam buku ini?",
+      "options": [
+        "Surah al-Baqarah: 275",
+        "Surah al-Mujadilah: 11",
+        "Surah al-Nisa': 59",
+        "Surah al-Hujurat: 13"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Antara berikut, manakah BUKAN fadhilat beradab kepada pemimpin?",
+      "options": [
+        "Dikasihhi Allah ﷻ dan Rasulullah ﷺ",
+        "Negara akan aman dan damai",
+        "Merosakkan imej negara",
+        "Pembangunan negara berjalan dengan lancar"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Adab Kepada Pemimpin", "colour": "#4CAF50" },
+      { "id": "n2", "label": "6 Adab", "colour": "#388E3C" },
+      { "id": "n3", "label": "5 Fadhilat", "colour": "#2196F3" },
+      { "id": "n4", "label": "4 Akibat", "colour": "#FF9800" },
+      { "id": "n5", "label": "Dalil al-Nisa':59", "colour": "#2E7D32" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "wajib amal" },
+      { "id": "e2", "source": "n2", "target": "n3", "label": "jika amal" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "jika langgar" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "dalil" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْقَائِد / الزَّعِيم", "meaning": "pemimpin (ketua yang memimpin negara, organisasi atau komuniti)" },
+    { "word": "الطَّاعَة", "meaning": "ketaatan (taat dan patuh kepada arahan pemimpin)" },
+    { "word": "الْمَاعَة", "meaning": "maruah (kehormatan dan martabat — wajib dijaga)" },
+    { "word": "أُولُو الْأَمْر", "meaning": "ulil amri (pemimpin/pemegang kuasa — disebut dalam al-Nisa':59)" },
+    { "word": "الْحِكْمَة", "meaning": "hikmah (kebijaksanaan — cara menegur pemimpin dengan berhikmah)" }
+  ],
+  "funFact": "Tahukah kamu bahawa Surah al-Nisa': 59 menyebut tiga peringkat ketaatan — Allah ﷻ, Rasulullah ﷺ, dan 'Ulil Amri' (pemimpin)? Para ulama menjelaskan bahawa ketaatan kepada pemimpin adalah sehingga batasnya — jika pemimpin memerintah perkara yang bertentangan dengan perintah Allah dan Rasul, maka tiada ketaatan. Ini menunjukkan betapa bijaknya sistem Islam: kita taat kepada pemimpin kerana perintah Allah, bukan kerana pemimpin itu sendiri!"
+}

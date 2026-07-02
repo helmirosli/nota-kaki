@@ -1,0 +1,119 @@
+{
+  "id": "jais-tahun-5-arab-bab6",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 6,
+  "title": "الرِّحْلَةُ إِلَى حَدِيقَةِ الْحَيَوَانَاتِ — Perjalanan ke Zoo",
+  "emoji": "📖",
+  "colour": "#2196F3",
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الدرس السادس — الرحلة إلى حديقة الحيوانات",
+      "body": "Pada akhir pelajaran ini, murid dapat: (1) Mendengar perbualan tentang lawatan ke zoo dengan betul. (2) Menyebut perbualan tentang lawatan ke zoo dengan betul. (3) Membaca perbualan tentang lawatan ke zoo dengan jelas. (4) Membentuk jawapan soalan tentang perbualan tersebut."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📞",
+          "title": "الحوار — نضيرة ومديحة (مكالمة هاتفية)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Baca dialog panggilan telefon antara Nadhirah dan Madiha:",
+            "arabic": "أَلُو... صَبَاحُ الْخَيْرِ، يَا مَدِيْحَةُ، أَيْنَ كُنْتِ بِالْأَمْسِ؟\nصَبَاحُ النُّوْرِ، كُنْتُ ذَاهِبَةً إِلَى حَدِيقَةِ الْحَيَوَانَاتِ فِيْ أُوْلُو كْلَانْج مَعَ أُسْرَتِيْ.\nمَاذَا رَأَيْتِ هُنَاكَ؟\nرَأَيْتُ بَعْضَ الْحَيَوَانَاتِ الْمُفْتَرِسَةِ كَالْفِيْلِ وَالثُّعْبَانِ وَالْأَسَدِ وَالنَّمِرِ وَالدُّبِّ وَالذِّئْبِ. وَرَأَيْتُ أَيْضًا الْقِرْدَ.\nهَلْ هُنَاكَ طُيُوْرٌ كَالطَّاوُوْسِ وَالْبَجْعَاءِ وَالنَّعَامَةِ؟",
+            "translation": "Halo... Selamat pagi, Madiha. Di mana kamu semalam?\nSelamat pagi. Saya telah pergi ke zoo di Ulu Klang bersama keluarga saya.\nApa yang kamu lihat di sana?\nSaya melihat beberapa haiwan buas seperti gajah, ular, singa, harimau bintang, beruang dan serigala. Saya juga melihat monyet.\nAdakah terdapat burung seperti merak, burung undan dan burung unta?"
+          }
+        },
+        {
+          "icon": "🦁",
+          "title": "الحيوانات المفترسة — Haiwan Buas",
+          "body": {
+            "type": "pairs",
+            "intro": "Nama-nama haiwan buas (حيوانات مفترسة) yang dilihat di zoo:",
+            "rows": [
+              { "arabic": "الْفِيْلُ", "meaning": "Al-Fiil — gajah (elephant)" },
+              { "arabic": "الثُّعْبَانُ", "meaning": "Ath-Thu'baan — ular (snake)" },
+              { "arabic": "الْأَسَدُ", "meaning": "Al-Asad — singa (lion)" },
+              { "arabic": "النَّمِرُ", "meaning": "An-Namir — harimau bintang (leopard)" },
+              { "arabic": "الدُّبُّ", "meaning": "Ad-Dubb — beruang (bear)" },
+              { "arabic": "الذِّئْبُ", "meaning": "Az-Zi'b — serigala (wolf)" },
+              { "arabic": "الْقِرْدُ", "meaning": "Al-Qird — monyet (monkey)" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Zoo Negara (حديقة الحيوانات) terletak di Ulu Klang, Selangor. Haiwan buas disebut الحيوانات المفترسة (al-hayawaanaat al-muftarisah). Perbualan ini menggunakan soalan 'ماذا رأيتِ هناك؟' (Apa yang kamu lihat di sana?) dan burung: طاووس (merak)، بجعاء (burung undan)، نعامة (burung unta) — sama dengan yang dipelajari di Dars 4."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Di manakah terletaknya حديقة الحيوانات yang dikunjungi Nadhirah?",
+      "options": [
+        "Kuala Lumpur Sentral",
+        "Ulu Klang, Selangor",
+        "Shah Alam",
+        "Putrajaya"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah maksud 'الْأَسَدُ'?",
+      "options": [
+        "Harimau bintang",
+        "Singa",
+        "Serigala",
+        "Beruang"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah maksud 'الْحَيَوَانَاتُ الْمُفْتَرِسَةُ'?",
+      "options": [
+        "Haiwan jinak",
+        "Haiwan peliharaan",
+        "Haiwan buas/pemangsa",
+        "Haiwan air"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah nama haiwan 'الذِّئْبُ' dalam bahasa Melayu?",
+      "options": [
+        "Beruang",
+        "Harimau",
+        "Gajah",
+        "Serigala"
+      ],
+      "answer": 3
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "حديقة الحيوانات", "colour": "#2196F3" },
+      { "id": "n2", "label": "الأسد والنمر", "colour": "#1976D2" },
+      { "id": "n3", "label": "الفيل والثعبان", "colour": "#1565C0" },
+      { "id": "n4", "label": "الدب والذئب والقرد", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "terdapat" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "terdapat" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "terdapat" }
+    ]
+  },
+  "vocab": [
+    { "word": "حَدِيقَةُ الْحَيَوَانَاتِ", "meaning": "Hadiiqatul hayawaanaat — Zoo" },
+    { "word": "الْحَيَوَانَاتُ الْمُفْتَرِسَةُ", "meaning": "Al-Hayawaanaat al-muftarisah — haiwan buas/pemangsa" },
+    { "word": "الْأُسْرَةُ", "meaning": "Al-Usrah — keluarga (satu isi rumah)" },
+    { "word": "الْفِيْلُ", "meaning": "Al-Fiil — gajah" },
+    { "word": "الْأَسَدُ", "meaning": "Al-Asad — singa" },
+    { "word": "الْقِرْدُ", "meaning": "Al-Qird — monyet" }
+  ],
+  "funFact": "Tahukah kamu bahawa Zoo Negara Malaysia terletak di Ulu Klang, Selangor? Ia antara zoo terbesar di Asia Tenggara dan mempunyai lebih 5,000 ekor haiwan daripada 476 spesies. Dalam bahasa Arab, perkataan سبع (sab') juga digunakan untuk haiwan buas — sama dengan nombor 'tujuh' (٧). Ada ulama yang mengatakan 'sab' dalam maksud haiwan buas berasal dari kata 'sab'ah' kerana haiwan ini menghirup (menyedut) darah mangsanya!"
+}

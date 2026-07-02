@@ -1,0 +1,156 @@
+{
+  "id": "jais-tahun-6-bahasa-arab-bab7",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "bahasa-arab",
+  "chapter": 7,
+  "title": "Bahasa Arab 7: Cita-cita dan Masa Depan",
+  "emoji": "🎓",
+  "colour": "#1565C0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الطُّمُوح وَالْمُسْتَقْبَل — Cita-cita dan Masa Depan",
+      "body": "Sebagai murid Tahun 6 yang hampir tamat sekolah rendah, penting untuk berfikir tentang masa depan dan cita-cita dalam bahasa Arab. Kemahiran ini membolehkan kita menyatakan impian dan harapan, serta mendoakan kejayaan dalam bahasa yang disukai Allah."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🎓",
+          "title": "Kosa Kata Cita-cita dan Profesion",
+          "body": {
+            "type": "pairs",
+            "intro": "Profesion dalam bahasa Arab:",
+            "rows": [
+              { "arabic": "طَبِيب", "meaning": "tabib — doktor" },
+              { "arabic": "مُهَنْدِس", "meaning": "muhandis — jurutera" },
+              { "arabic": "مُعَلِّم / مُعَلِّمَة", "meaning": "mu'allim/mu'allimah — guru (lelaki/perempuan)" },
+              { "arabic": "قَاضٍ", "meaning": "qadi — hakim" },
+              { "arabic": "عَالِم دِين", "meaning": "'alim diin — ulama / ilmuwan agama" },
+              { "arabic": "كَاتِب", "meaning": "katib — penulis" }
+            ]
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Perbualan tentang Cita-cita",
+          "body": {
+            "type": "pairs",
+            "intro": "Soal jawab tentang cita-cita dalam bahasa Arab:",
+            "rows": [
+              { "arabic": "مَا هُوَ حُلْمُك فِي الْمُسْتَقْبَل؟", "meaning": "Apakah impianmu pada masa depan?" },
+              { "arabic": "أُرِيدُ أَنْ أَكُونَ طَبِيبًا", "meaning": "Saya ingin menjadi doktor" },
+              { "arabic": "لِمَاذَا تُرِيدُ أَنْ تَكُونَ طَبِيبًا؟", "meaning": "Mengapa kamu ingin menjadi doktor?" },
+              { "arabic": "لِأُسَاعِدَ الْمَرْضَى وَأَخْدِمَ الْإِسْلَام", "meaning": "Untuk membantu pesakit dan berkhidmat untuk Islam" }
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Cita-cita yang Dimuliakan dalam Islam",
+          "body": {
+            "type": "arabic",
+            "instruction": "Hadith tentang kedudukan ulama dan orang berilmu:",
+            "arabic": "فَضْلُ الْعَالِمِ عَلَى الْعَابِدِ كَفَضْلِ الْقَمَرِ عَلَى سَائِرِ الْكَوَاكِب",
+            "translation": "Keutamaan orang berilmu atas ahli ibadah (yang tidak berilmu) adalah seperti kelebihan bulan ke atas seluruh bintang-bintang.",
+            "source": "Riwayat Abu Dawud dan al-Tirmidzi"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Doa untuk memohon ilmu yang bermanfaat:",
+        "arabic": "اللَّهُمَّ انْفَعْنِي بِمَا عَلَّمْتَنِي\nوَعَلِّمْنِي مَا يَنْفَعُنِي\nوَزِدْنِي عِلْمًا",
+        "translation": "Ya Allah, jadikanlah bermanfaat apa yang Engkau ajarkan kepadaku, dan ajarkan aku apa yang bermanfaat, dan tambahkanlah ilmuku.",
+        "source": "Hadith Riwayat Ibn Majah"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Latihan Perbualan Cita-cita",
+      "items": [
+        "Hafaz cara menyatakan cita-cita: أُرِيدُ أَنْ أَكُونَ + profesion.",
+        "Berlatih menjawab 'mengapa' cita-cita kamu — kaitkan dengan khidmat kepada Allah dan masyarakat.",
+        {
+          "type": "pairs",
+          "intro": "Bina ayat cita-cita:",
+          "rows": [
+            { "arabic": "أُرِيدُ أَنْ أَكُونَ ___", "meaning": "Saya ingin menjadi ___ (isi profesion)" },
+            { "arabic": "لِأَنِّي أُحِبُّ ___", "meaning": "Kerana saya suka ___ (sebab)" }
+          ]
+        },
+        "Tambah frasa Islami: إِنْ شَاءَ اللَّه (jika Allah kehendaki) selepas menyebut cita-cita.",
+        "Ingat: setiap profesion boleh menjadi ibadah jika diniatkan untuk berkhidmat kepada Islam dan umat!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Cara menyatakan cita-cita 'saya ingin menjadi guru' dalam bahasa Arab:",
+      "options": [
+        "أَنَا مُعَلِّم",
+        "أُرِيدُ أَنْ أَكُونَ مُعَلِّمًا",
+        "كُنْتُ مُعَلِّمًا",
+        "سَأَكُونُ مُعَلِّمًا إِنْ شَاءَ اللَّه"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan 'مُهَنْدِس' bermaksud:",
+      "options": [
+        "Doktor",
+        "Guru",
+        "Jurutera",
+        "Peguam"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Menurut hadith, orang berilmu diibaratkan seperti apa berbanding ahli ibadah?",
+      "options": [
+        "Matahari berbanding bintang",
+        "Bulan berbanding bintang-bintang",
+        "Air berbanding api",
+        "Emas berbanding perak"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah frasa Islami yang harus ditambah selepas menyebut cita-cita?",
+      "options": [
+        "سُبْحَانَ اللَّه",
+        "الْحَمْدُ لِلَّه",
+        "إِنْ شَاءَ اللَّه",
+        "أَعُوذُ بِاللَّه"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Cita-cita & Masa Depan", "colour": "#1565C0" },
+      { "id": "n2", "label": "Profesion dalam Arab", "colour": "#0D47A1" },
+      { "id": "n3", "label": "Perbualan Cita-cita", "colour": "#0D47A1" },
+      { "id": "n4", "label": "Ilmu + Khidmat Islam", "colour": "#1A237E" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "kosa kata" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "dialog" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "niat" }
+    ]
+  },
+  "vocab": [
+    { "word": "الطُّمُوح", "meaning": "cita-cita tinggi / ambisi" },
+    { "word": "الْمُسْتَقْبَل", "meaning": "masa depan" },
+    { "word": "الْحُلْم", "meaning": "impian / mimpi" },
+    { "word": "الْمِهْنَة", "meaning": "profesion / pekerjaan" },
+    { "word": "إِنْ شَاءَ اللَّه", "meaning": "InsyaAllah (jika Allah kehendaki)" }
+  ],
+  "funFact": "Tahukah kamu bahawa banyak saintis dan tokoh dunia yang terkenal sebenarnya adalah ulama Islam yang juga menguasai banyak bidang? Ibn Sina (Avicenna) adalah seorang doktor, ahli falsafah, ahli matematik, dan ahli muzik sekaligus — beliau menulis lebih dari 450 buku! Al-Khwarizmi mencipta algebra (dari perkataan Arab 'الجبر') dan algoritma (dari namanya 'al-Khwarizmi'). Al-Idrisi membuat peta dunia pertama yang paling tepat pada abad ke-12. Semuanya bermula dengan niat yang ikhlas: ilmu adalah untuk berkhidmat kepada Allah dan manusia. Mereka membuktikan bahawa seorang Muslim boleh menjadi yang terbaik dalam apa jua bidang!"
+}

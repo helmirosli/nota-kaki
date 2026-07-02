@@ -1,0 +1,169 @@
+{
+  "id": "jais-tahun-5-imlak-bab3",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "imlak",
+  "chapter": 3,
+  "title": "تاء مربوطة — Ta' Marbutah",
+  "emoji": "✍️",
+  "colour": "#009688",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "تاء مربوطة \"ة\" — Pelajaran Ketiga",
+      "body": "Ta' Marbutah ialah huruf \"ة\" di akhir kalimat yang bunyinya seperti huruf haa sakinah ketika waqaf (berhenti). Ia terdapat pada kata nama (isim) sahaja, terutama kata nama yang bersifat perempuan (mu'annas)."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Pengertian Ta' Marbutah",
+          "body": {
+            "type": "list",
+            "intro": "Ta' Marbutah ialah:",
+            "items": [
+              "Huruf \"ة\" di akhir kalimat.",
+              "Ketika waqaf (berhenti): dibaca seperti huruf haa sakinah (هْ).",
+              "Ketika wasal (sambung): dibaca sebagai ta' biasa.",
+              "Contoh: فَاطِمَةٌ — ketika waqaf dibaca: فَاطِمَهْ"
+            ]
+          }
+        },
+        {
+          "icon": "🔢",
+          "title": "Contoh Bilangan — Ta' Marbutah",
+          "body": {
+            "type": "pairs",
+            "intro": "Bilangan 1-10 dalam bahasa Arab mengandungi Ta' Marbutah:",
+            "rows": [
+              { "arabic": "وَاحِدَةٌ", "meaning": "Satu (1)" },
+              { "arabic": "ثَلَاثَةٌ", "meaning": "Tiga (3)" },
+              { "arabic": "أَرْبَعَةٌ", "meaning": "Empat (4)" },
+              { "arabic": "خَمْسَةٌ", "meaning": "Lima (5)" },
+              { "arabic": "سِتَّةٌ", "meaning": "Enam (6)" },
+              { "arabic": "سَبْعَةٌ", "meaning": "Tujuh (7)" },
+              { "arabic": "ثَمَانِيَةٌ", "meaning": "Lapan (8)" },
+              { "arabic": "تِسْعَةٌ", "meaning": "Sembilan (9)" },
+              { "arabic": "عَشَرَةٌ", "meaning": "Sepuluh (10)" }
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Contoh Kata Nama (Isim) dengan Ta' Marbutah",
+          "body": {
+            "type": "list",
+            "intro": "Contoh isim mu'annas (perempuan) yang berakhir dengan Ta' Marbutah:",
+            "items": [
+              "مَدْرَسَةٌ (sekolah)",
+              "فَاكِهَةٌ (buah-buahan)",
+              "مَدِينَةٌ (kota/bandar)",
+              "صَلَاةٌ (solat)",
+              "زَكَاةٌ (zakat)",
+              "فَاطِمَةٌ (nama perempuan — Fatimah)",
+              "خَدِيجَةٌ (nama perempuan — Khadijah)",
+              "عَائِشَةٌ (nama perempuan — Aisyah)"
+            ]
+          }
+        },
+        {
+          "icon": "🔄",
+          "title": "Cara Sebutan Ta' Marbutah",
+          "body": {
+            "type": "pairs",
+            "intro": "Ta' Marbutah dibaca berbeza ketika wasal dan ketika waqaf:",
+            "rows": [
+              { "arabic": "مَدْرَسَةٌ جَدِيدَةٌ", "meaning": "Ketika wasal (sambung): dibaca 'madrasatun jadidatun' — ta' berbunyi ta'" },
+              { "arabic": "مَدْرَسَةٌ", "meaning": "Ketika waqaf (berhenti): dibaca 'madrasah' — ta' berbunyi haa sakinah" }
+            ]
+          }
+        },
+        {
+          "icon": "⚖️",
+          "title": "Perbezaan Ta' Marbutah dan Ta' Maftuhah",
+          "body": {
+            "type": "pairs",
+            "intro": "Cara mudah membezakan kedua-duanya:",
+            "rows": [
+              { "arabic": "مَدْرَسَةٌ", "meaning": "Ta' Marbutah \"ة\" — ada dua titik di atas, ada lengkung; hanya pada isim mu'annas; bunyi haa ketika waqaf" },
+              { "arabic": "مُسْلِمَاتٌ", "meaning": "Ta' Maftuhah \"ت\" — ta' biasa tanpa lengkung; boleh pada isim atau fi'l; bunyi ta' walaupun ketika waqaf" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Cara mudah mengingat: Ta' Marbutah \"ة\" ada LENGKUNG di bawah — bayangkan ia 'terikat' (marbutah = terikat). Ta' Maftuhah \"ت\" TERBUKA — bayangkan ia 'terbuka' (maftuhah = terbuka). Apabila berhenti (waqaf) pada Ta' Marbutah, bunyi bertukar menjadi haa."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah yang dimaksudkan dengan Ta' Marbutah?",
+      "options": [
+        "Huruf \"ت\" biasa di akhir kalimat",
+        "Huruf \"ة\" di akhir kalimat yang berbunyi haa ketika waqaf",
+        "Huruf ta' yang berbaris fathah",
+        "Huruf ta' di tengah kalimat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Bagaimana cara membaca perkataan مَدْرَسَةٌ apabila berhenti (waqaf)?",
+      "options": [
+        "madrasatun",
+        "madrasat",
+        "madrasah",
+        "madrasin"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Antara berikut, manakah contoh kata yang mengandungi Ta' Marbutah?",
+      "options": [
+        "بَيْتٌ",
+        "مُسْلِمَاتٌ",
+        "فَاطِمَةٌ",
+        "ذَهَبَتْ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Perkataan bilangan مَانَكَه antara berikut yang menggunakan Ta' Marbutah?",
+      "options": [
+        "اثْنَانِ (dua)",
+        "خَمْسَةٌ (lima)",
+        "مِائَةٌ (seratus) sahaja",
+        "Semua bilangan 1-10"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Ta' Marbutah \"ة\"", "colour": "#009688" },
+      { "id": "n2", "label": "Ketika Wasal", "colour": "#00796B" },
+      { "id": "n3", "label": "Ketika Waqaf", "colour": "#00695C" },
+      { "id": "n4", "label": "Bunyi Ta'", "colour": "#26A69A" },
+      { "id": "n5", "label": "Bunyi Haa Sakinah", "colour": "#4DB6AC" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "bacaan" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "bacaan" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "hasilkan" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "hasilkan" }
+    ]
+  },
+  "vocab": [
+    { "word": "تَاءٌ مَرْبُوطَةٌ", "meaning": "Ta' Marbutah — huruf 'ة' di akhir isim mu'annas; berbunyi haa sakinah ketika waqaf" },
+    { "word": "مَدْرَسَةٌ", "meaning": "Sekolah — contoh isim mu'annas dengan Ta' Marbutah" },
+    { "word": "صَلَاةٌ", "meaning": "Solat — contoh isim dengan Ta' Marbutah" },
+    { "word": "زَكَاةٌ", "meaning": "Zakat — contoh isim dengan Ta' Marbutah" },
+    { "word": "خَمْسَةٌ", "meaning": "Lima — contoh bilangan dengan Ta' Marbutah" },
+    { "word": "الْوَقْفُ", "meaning": "Waqaf — berhenti bacaan; ketika waqaf pada Ta' Marbutah, bunyi bertukar menjadi haa sakinah" }
+  ],
+  "funFact": "Tahukah kamu bahawa perkataan 'solat' (صَلَاةٌ) dan 'zakat' (زَكَاةٌ) dalam bahasa Arab mengandungi Ta' Marbutah? Apabila kita berhenti pada perkataan ini semasa membaca al-Quran, kita sebut 'salah' dan 'zakah'. Inilah sebabnya dalam bahasa Melayu kita kadang-kadang menulisnya sebagai 'solah' dan 'zakah'!"
+}

@@ -1,0 +1,166 @@
+{
+  "id": "jais-tahun-5-khat-bab1",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "khat",
+  "chapter": 1,
+  "title": "Huruf Tunggal Khat Naskh — ك، ل، م، ن، و",
+  "emoji": "🖋️",
+  "colour": "#795548",
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "قاعده خط نسخ — Huruf Tunggal (Pelajaran 1–5)",
+      "body": "Pelajaran Khat Tahun 5 memberi tumpuan kepada cara menulis huruf Jawi mengikut qaedah khat naskh dengan betul dan cantik. Setiap huruf mempunyai bentuk, bilangan keratan, dan ciri-ciri tersendiri. Pelajaran 1 hingga 5 merangkumi huruf ك، ل، م، ن، ث، و، ڤ dalam bentuk tunggal (tidak bersambung)."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "1️⃣",
+          "title": "Pelajaran 1 — Huruf ك، ک، كـ",
+          "body": {
+            "type": "list",
+            "intro": "Contoh perkataan: راك (rak — bakul/rak). Ciri-ciri huruf ك dalam khat naskh:",
+            "items": [
+              "Huruf ك mempunyai terwis (طرويش) — hiasan kecil di bahagian atas.",
+              "Terdapat dua bentuk: kaf pertama (ک) dan kaf kedua (ك).",
+              "'Kaf kecil' (ک) digunakan untuk kaf pertama sahaja, bukan kaf kedua.",
+              "Bntok kaf pertama (ک) boleh dikenali kerana mempunyai 12 titik.",
+              "Keratan: ditulis dengan dua keratan — kaf kecil dan terwis."
+            ]
+          }
+        },
+        {
+          "icon": "2️⃣",
+          "title": "Pelajaran 2 — Huruf ل",
+          "body": {
+            "type": "list",
+            "intro": "Contoh perkataan: توكل (tukul = tukul besi). Ciri-ciri huruf ل:",
+            "items": [
+              "Huruf ل mempunyai terwis (طرويش) pada bahagian atas.",
+              "Bentuk ل mempunyai titik sambut (kepala yang berbentuk titik).",
+              "Keratan akhir bergerak ke bawah menjangkau garisan dasar.",
+              "Ukuran huruf ل ditulis mengikut kaedah kiraaan titik khat naskh."
+            ]
+          }
+        },
+        {
+          "icon": "3️⃣",
+          "title": "Pelajaran 3 — Huruf م",
+          "body": {
+            "type": "pairs",
+            "intro": "Contoh perkataan: عام (tahun). Huruf م ada dua bentuk utama:",
+            "rows": [
+              { "arabic": "ميم أليفي", "meaning": "Miim Aliifi — ekor (ikur) huruf م mengarah ke kanan seperti huruf alif" },
+              { "arabic": "ميم سيفي", "meaning": "Miim Sifii — ekor (ikur) huruf م mengarah ke bawah seperti bilah pedang (saif)" },
+              { "arabic": "تيدق برسامبوغ", "meaning": "Bentuk tidak bersambung — digunakan di akhir perkataan atau berdiri sendiri" }
+            ]
+          }
+        },
+        {
+          "icon": "4️⃣",
+          "title": "Pelajaran 4 — Huruf ن dan ث",
+          "body": {
+            "type": "list",
+            "intro": "Contoh perkataan: اون (awan). Ciri-ciri huruf ن dan ث:",
+            "items": [
+              "Huruf ن dan ث mempunyai bentuk badan yang SAMA — bezanya hanya pada titik.",
+              "Huruf ن: mempunyai 1 titik di bawah.",
+              "Huruf ث: mempunyai 3 titik di atas.",
+              "Badan huruf ن dan ث menyerupai bahagian akhir huruf س، ش، ص، ض، ق.",
+              "Ditulis dengan 2 keratan: keratan pertama (badan) dan keratan kedua (ekor)."
+            ]
+          }
+        },
+        {
+          "icon": "5️⃣",
+          "title": "Pelajaran 5 — Huruf و dan ڤ",
+          "body": {
+            "type": "list",
+            "intro": "Contoh perkataan: واو (wau — hiasan terbang). Ciri-ciri huruf و dan ڤ:",
+            "items": [
+              "Huruf و dan ڤ ditulis dengan 3 keratan.",
+              "Keratan pertama dan kedua bergerak ke arah kiri sepanjang garisan dasar.",
+              "Keratan ketiga bergerak ke bawah dan hendaklah runcing (bukan tumpul).",
+              "Bentuk tunggal huruf و dan ڤ adalah SAMA — bezanya hanya titik.",
+              "Huruf ڤ mempunyai 3 titik di bawah; huruf و tiada titik."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Ingat: Huruf ن dan ث mempunyai bentuk badan yang SAMA — bezanya hanya pada titik (ن = 1 titik bawah, ث = 3 titik atas). Huruf م ada dua ekor: miim aliifi (ke kanan) dan miim sifii (ke bawah). Huruf و dan ڤ juga berbentuk sama — bezanya hanya ڤ ada 3 titik di bawah."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah yang membezakan huruf ن daripada huruf ث dalam khat naskh?",
+      "options": [
+        "Bentuk badan yang berbeza",
+        "Saiz huruf yang berbeza",
+        "Bilangan titik — ن ada 1 titik bawah, ث ada 3 titik atas",
+        "Bilangan keratan yang berbeza"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang dimaksudkan dengan 'terwis' (طرويش) dalam khat naskh?",
+      "options": [
+        "Titik yang ada pada setiap huruf",
+        "Hiasan kecil / hujung halus pada bahagian atas huruf",
+        "Garisan dasar tulisan khat",
+        "Keratan terakhir sesuatu huruf"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah perbezaan antara miim aliifi dan miim sifii?",
+      "options": [
+        "Miim aliifi lebih besar saiznya",
+        "Miim aliifi ekor ke kanan; miim sifii ekor ke bawah",
+        "Miim sifii ada terwis, miim aliifi tidak",
+        "Tiada perbezaan antara keduanya"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Huruf و dan ڤ berbeza kerana...",
+      "options": [
+        "Bentuk badan yang berlainan",
+        "Bilangan keratan yang berbeza",
+        "Huruf ڤ mempunyai 3 titik di bawah, و tiada titik",
+        "Arah penulisan yang berbeza"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Khat Naskh T5", "colour": "#795548" },
+      { "id": "n2", "label": "ك، ل (terwis)", "colour": "#6D4C41" },
+      { "id": "n3", "label": "م (aliifi/sifii)", "colour": "#5D4037" },
+      { "id": "n4", "label": "ن، ث (titik)", "colour": "#4E342E" },
+      { "id": "n5", "label": "و، ڤ (3 titik)", "colour": "#3E2723" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "Pelajaran 1-2" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "Pelajaran 3" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "Pelajaran 4" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "Pelajaran 5" }
+    ]
+  },
+  "vocab": [
+    { "word": "تروْيش", "meaning": "Terwis — hiasan kecil/hujung halus pada bahagian atas huruf khat naskh; ada pada ك dan ل" },
+    { "word": "ميم أليفي", "meaning": "Miim aliifi — bentuk م dengan ekor mengarah ke kanan (seperti alif)" },
+    { "word": "ميم سيفي", "meaning": "Miim sifii — bentuk م dengan ekor mengarah ke bawah (seperti pedang/saif)" },
+    { "word": "راك", "meaning": "Rak/bakul — perkataan contoh untuk huruf ك (Pelajaran 1)" },
+    { "word": "توكل", "meaning": "Tukul — perkataan contoh untuk huruf ل (Pelajaran 2)" },
+    { "word": "واو", "meaning": "Wau — perkataan contoh untuk huruf و dan ڤ (Pelajaran 5); juga nama hiasan terbang tradisional" }
+  ],
+  "funFact": "Tahukah kamu bahawa huruf ن dan ث dalam khat naskh mempunyai bentuk badan yang SAMA? Cara mudah untuk ingat: ن (nun) = 'bawah satu' — satu titik di bawah, manakala ث (tsa) = 'atas tiga' — tiga titik di atas. Begitu juga huruf و dan ڤ — bentuknya sama, cuma ڤ ada tiga titik di bawah. Kepandaian khattat (penulis khat) bukan sekadar menulis, tapi menguasai perbezaan halus antara huruf-huruf ini!"
+}

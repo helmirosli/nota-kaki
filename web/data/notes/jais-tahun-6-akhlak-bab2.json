@@ -1,0 +1,154 @@
+{
+  "id": "jais-tahun-6-akhlak-bab2",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "akhlak",
+  "chapter": 2,
+  "title": "Akhlak 2: Adab Bergaul dan Persahabatan",
+  "emoji": "🤝",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "آدَاب الصَّدَاقَة — Adab dalam Persahabatan",
+      "body": "Manusia adalah makhluk sosial — kita tidak boleh hidup bersendirian. Islam mengajar adab bergaul yang indah supaya perhubungan sesama manusia harmoni dan penuh keberkatan. Pilih sahabat yang baik adalah antara keputusan paling penting dalam hidup — kerana sahabat mempengaruhi pemikiran, amalan, dan nasib kita di akhirat."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🤝",
+          "title": "Ciri-ciri Sahabat yang Baik",
+          "body": {
+            "type": "list",
+            "intro": "Pilih sahabat yang mempunyai ciri-ciri berikut:",
+            "items": [
+              "Mengingatkan kita kepada Allah — bukan mengajak maksiat",
+              "Jujur — sanggup tegur bila kita buat silap",
+              "Membantu dalam kesusahan — bukan sahaja semasa senang",
+              "Menjaga rahsia dan tidak mengumpat",
+              "Motivasi kita buat kebaikan — solat, belajar, bersedekah"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Hadith tentang Pengaruh Sahabat",
+          "body": {
+            "type": "arabic",
+            "instruction": "Hadith Nabi SAW tentang kepentingan memilih sahabat:",
+            "arabic": "الْمَرْءُ عَلَى دِينِ خَلِيلِهِ\nفَلْيَنْظُرْ أَحَدُكُمْ مَنْ يُخَالِل",
+            "translation": "Seseorang itu mengikut agama/cara hidup sahabat karibnya. Maka hendaklah setiap seorang di antara kamu melihat siapa yang dijadikannya sahabat karib.",
+            "source": "Riwayat Abu Dawud & al-Tirmidzi — amaran tentang pengaruh sahabat terhadap diri kita"
+          }
+        },
+        {
+          "icon": "💚",
+          "title": "Adab Bertemu dan Berbual",
+          "body": {
+            "type": "list",
+            "intro": "Adab Islam dalam bergaul sehari-hari:",
+            "items": [
+              "Memberi salam dengan penuh semangat — 'Assalamualaikum!'",
+              "Berjabat tangan dengan ikhlas (antara sesama lelaki atau wanita)",
+              "Tidak mengumpat, mencaci, atau mengejek orang lain",
+              "Dengar bila orang bercakap — jangan potong cakap",
+              "Tidak mendedahkan rahsia sahabat kepada orang lain",
+              "Ziarah ketika sakit, hadir majlis, doakan kebaikan"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🤝",
+      "text": {
+        "type": "arabic",
+        "instruction": "Analogi Nabi SAW tentang pengaruh sahabat yang baik dan buruk:",
+        "arabic": "مَثَلُ الْجَلِيسِ الصَّالِحِ وَالسَّوْءِ كَحَامِلِ الْمِسْكِ وَنَافِخِ الْكِيرِ\nفَحَامِلُ الْمِسْكِ إِمَّا أَنْ يُحْذِيَكَ أَوْ تَبْتَاعَ مِنْهُ أَوْ تَجِدَ رِيحًا طَيِّبَةً\nوَنَافِخُ الْكِيرِ إِمَّا أَنْ يُحْرِقَ ثِيَابَكَ أَوْ تَجِدَ رِيحًا مُنْتِنَة",
+        "translation": "Perumpamaan teman duduk yang soleh dan yang buruk seperti penjual minyak wangi dan peniup api pandai besi. Penjual minyak wangi — mungkin memberimu, atau kamu beli, atau paling kurang kamu dapat bau yang harum. Peniup api pandai besi — mungkin membakar bajumu, atau paling kurang kamu dapat bau yang busuk.",
+        "source": "Riwayat Bukhari & Muslim"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menjadi Sahabat yang Baik",
+      "items": [
+        "Jadi seperti 'penjual minyak wangi' — pengaruhi sahabat ke arah kebaikan.",
+        "Utamakan kualiti berbanding kuantiti sahabat — sedikit tetapi soleh lebih baik.",
+        {
+          "type": "arabic",
+          "arabic": "قَالَ النَّبِيُّ ﷺ: حَقُّ الْمُسْلِمِ عَلَى الْمُسْلِمِ سِتٌّ:\nإِذَا لَقِيتَهُ فَسَلِّمْ عَلَيْهِ، وَإِذَا دَعَاكَ فَأَجِبْهُ\nوَإِذَا اسْتَنْصَحَكَ فَانْصَحْهُ، وَإِذَا عَطَسَ فَشَمِّتْهُ\nوَإِذَا مَرِضَ فَعُدْهُ، وَإِذَا مَاتَ فَاتَّبِعْهُ",
+          "translation": "Hak Muslim ke atas Muslim ada 6: bila bertemu — beri salam; bila diundang — hadiri; bila minta nasihat — beri nasihat; bila bersin — doakan; bila sakit — ziarahi; bila meninggal — iringi jenazah. (Riwayat Muslim)"
+        },
+        "Maafkan kesalahan sahabat — tiada siapa yang sempurna.",
+        "Ingat: sahabat dunia yang baik boleh menjadi sahabat di syurga juga!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Menurut hadith 'الْمَرْءُ عَلَى دِينِ خَلِيلِهِ', seseorang itu dipengaruhi oleh:",
+      "options": [
+        "Keluarganya",
+        "Sahabat karib / teman rapatnya",
+        "Guru-gurunya",
+        "Buku yang dibacanya"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dalam analogi Nabi SAW, 'penjual minyak wangi' melambangkan:",
+      "options": [
+        "Orang yang kaya dan pemurah",
+        "Sahabat yang baik dan memberi pengaruh positif",
+        "Pedagang yang jujur",
+        "Guru yang bijaksana"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Antara berikut, manakah BUKAN adab bergaul yang diajar Islam?",
+      "options": [
+        "Memberi salam bila bertemu",
+        "Mendedahkan rahsia sahabat kepada orang lain",
+        "Ziarah bila sahabat sakit",
+        "Doakan sahabat bila bersin"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Hak Muslim ke atas Muslim termasuk menghadiri undangan, beri nasihat, ziarahi yang sakit, dan:",
+      "options": [
+        "Beri hadiah setiap hari raya",
+        "Beri salam bila bertemu dan iringi jenazah bila meninggal",
+        "Bantu kewangan bila diperlukan",
+        "Doakan kebaikan setiap hari"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Adab Pergaulan", "colour": "#4CAF50" },
+      { "id": "n2", "label": "Pilih Sahabat Baik", "colour": "#388E3C" },
+      { "id": "n3", "label": "Adab Harian", "colour": "#388E3C" },
+      { "id": "n4", "label": "6 Hak Muslim", "colour": "#1B5E20" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "asas" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "amalan" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "kewajipan" }
+    ]
+  },
+  "vocab": [
+    { "word": "الصَّدَاقَة", "meaning": "sadaqah (persahabatan yang tulus)" },
+    { "word": "الْخَلِيل", "meaning": "khalil (sahabat karib / teman rapat)" },
+    { "word": "الْغِيبَة", "meaning": "ghibah (mengumpat — menyebut keburukan orang di belakang)" },
+    { "word": "الأُخُوَّة", "meaning": "ukhuwwah (persaudaraan Islam yang merentasi keluarga)" },
+    { "word": "التَّعَاوُن", "meaning": "ta'awun (kerjasama dan tolong-menolong)" }
+  ],
+  "funFact": "Tahukah kamu bahawa kajian sains moden mengesahkan kata-kata Nabi SAW tentang pengaruh sahabat? Kajian yang dijalankan oleh pakar sosiologi Harvard, Nicholas Christakis, mendapati bahawa tabiat, emosi, dan bahkan berat badan seseorang boleh 'berjangkit' dari rakan-rakan hingga 3 darjat jauhnya (kawan kepada kawan kepada kawan)! Kajian ini diterbitkan dalam jurnal perubatan terkemuka dan menjadi berita besar. Saintis kini menyebutnya sebagai 'social contagion' (jangkitan sosial). Nabi SAW sudah menyebut ini 1,400 tahun lalu dengan analogi penjual minyak wangi dan peniup api — bukti bahawa sains moden hanya mengesahkan apa yang wahyu sudah tahu lama dulu!"
+}

@@ -1,0 +1,170 @@
+{
+  "id": "jais-tahun-4-imlak-bab3",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "imlak",
+  "chapter": 3,
+  "title": "Huruf Lam (ال التعريف): Lam Qamariah dan Lam Syamsiah",
+  "emoji": "✍️",
+  "colour": "#009688",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "حُرُوف اللَّام (ال التعريف) — Pelajaran Ketiga",
+      "body": "Dalam pelajaran ini kita belajar huruf lam dalam 'ال التعريف' — iaitu 'ال' yang menentukan kata nama (isim). Terdapat dua jenis: Lam Qamariah (لام القمرية) — di mana lam dibaca jelas, dan Lam Syamsiah (لام الشمسية) — di mana lam tidak dibaca dan huruf selepasnya bertasydid."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🌙",
+          "title": "Unit 1: Lam Qamariah (لام القمرية)",
+          "body": {
+            "type": "list",
+            "intro": "Lam Qamariah adalah huruf lam قد 'ال التعريف' yang terdapat qad kalimat isim. Ia ditulis dengan jelas (dibaca). Huruf selepasnya berbaris tanpa tasydid. Contoh kata dari buku (hlm 22):",
+            "items": [
+              "الْأَسَدُ (singa) — lam jelas sebelum أ",
+              "الْبَرَكَةُ (berkat) — lam jelas sebelum ب",
+              "الْجِنُّ (jin) — lam jelas sebelum ج",
+              "الْحَلِيبُ (susu) — lam jelas sebelum ح",
+              "الْخَادِمُ (pembantu) — lam jelas sebelum خ",
+              "الْعُلْبَةُ (tin/kotak) — lam jelas sebelum ع",
+              "الْغَابَةُ (hutan) — lam jelas sebelum غ",
+              "الْفِنْجَانُ (cawan) — lam jelas sebelum ف",
+              "الْقِطَارُ (kereta api) — lam jelas sebelum ق",
+              "الْكَأْسُ (cawan/gelas) — lam jelas sebelum ك",
+              "الْمَوْزُ (pisang) — lam jelas sebelum م",
+              "الْوَرَقَةُ (kertas) — lam jelas sebelum و",
+              "الْهُدْهُدُ (burung hudhud) — lam jelas sebelum ه",
+              "الْيَدُ (tangan) — lam jelas sebelum ي"
+            ]
+          }
+        },
+        {
+          "icon": "☀️",
+          "title": "Unit 2: Lam Syamsiah (لام الشمسية)",
+          "body": {
+            "type": "list",
+            "intro": "Lam Syamsiah adalah huruf lam dalam 'ال التعريف' yang tidak dibaca — bergabung (idgham) dengan huruf selepasnya. Huruf selepasnya bertasydid (ّ). 14 huruf Syamsiah: ت ث د ذ ر ز س ش ص ض ط ظ ل ن. Contoh:",
+            "items": [
+              "الشَّمْسُ (matahari) — lam bergabung dengan ش → الشَّ",
+              "النَّجْمُ (bintang) — lam bergabung dengan ن → النَّ",
+              "الصَّلَاةُ (solat) — lam bergabung dengan ص → الصَّ",
+              "الرَّحْمَنُ (Yang Maha Pemurah) — lam bergabung dengan ر → الرَّ",
+              "الدِّينُ (agama) — lam bergabung dengan د → الدِّ",
+              "الزَّكَاةُ (zakat) — lam bergabung dengan ز → الزَّ",
+              "التَّوْبَةُ (taubat) — lam bergabung dengan ت → التَّ",
+              "السَّمَاءُ (langit) — lam bergabung dengan س → السَّ"
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Perbezaan Lam Qamariah dan Lam Syamsiah",
+          "body": {
+            "type": "pairs",
+            "intro": "Cara mudah membezakan kedua-dua jenis lam:",
+            "rows": [
+              { "arabic": "لام القمرية", "meaning": "Lam Qamariah — lam DIBACA JELAS, huruf selepasnya tidak bertasydid. Huruf: أ ب ج ح خ ع غ ف ق ك م و ه ي (14 huruf)" },
+              { "arabic": "لام الشمسية", "meaning": "Lam Syamsiah — lam TIDAK DIBACA (idgham), huruf selepasnya bertasydid (ّ). Huruf: ت ث د ذ ر ز س ش ص ض ط ظ ل ن (14 huruf)" },
+              { "arabic": "الْقَمَرُ ← القمرية", "meaning": "Dinamakan 'Qamariah' (قمر = bulan) — kerana الْقَمَرُ itu sendiri adalah contoh lam qamariah" },
+              { "arabic": "الشَّمْسُ ← الشمسية", "meaning": "Dinamakan 'Syamsiah' (شمس = matahari) — kerana الشَّمْسُ itu sendiri adalah contoh lam syamsiah" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Firman Allah — Surah ar-Rahman: 1-5 — mengandungi contoh Lam Qamariah (الْقُرْآنَ، الْإِنسَانَ، الْبَيَانَ، الْقَمَرُ) dan Lam Syamsiah (الشَّمْسُ):",
+        "arabic": "الرَّحْمَنُ عَلَّمَ الْقُرْآنَ خَلَقَ الْإِنسَانَ عَلَّمَهُ الْبَيَانَ الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ",
+        "translation": "Yang Maha Pemurah. Mengajar al-Quran. Menciptakan manusia. Mengajarnya pandai berbicara. Matahari dan bulan beredar menurut perhitungan.",
+        "source": "Surah ar-Rahman: 1-5 — الشَّمْسُ (lam syamsiah), الْقَمَرُ (lam qamariah)"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Ayat Imlak Lam Qamariah — dari Buku (hlm 24)",
+      "items": [
+        "Imlak 1: إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ (Surah al-Qadr: 1) — الْقَدْرِ adalah Lam Qamariah",
+        "Imlak 2: سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ (Surah al-Qadr: 5) — الْفَجْرِ adalah Lam Qamariah",
+        "Imlak 3: أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ (Surah al-Adiyat: 9) — الْقُبُورِ adalah Lam Qamariah",
+        {
+          "type": "arabic",
+          "arabic": "فِي الْحَدِيقَةِ أَزْهَارٌ جَمِيلَاتٌ",
+          "translation": "Di dalam taman ada bunga-bunga yang indah. — الْحَدِيقَةِ adalah Lam Qamariah"
+        },
+        "Latihan hlm 25: زَيْنَبُ وَمَرْيَمُ فِي الْمَكْتَبَةِ (الْمَكْتَبَةِ — Lam Qamariah) | الْمُدَرِّسُ أَمَامَ الْفَصْلِ (الْمُدَرِّسُ، الْفَصْلِ — Lam Qamariah)"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah ciri utama Lam Qamariah?",
+      "options": [
+        "Lam tidak dibaca dan huruf selepasnya bertasydid",
+        "Lam dibaca dengan jelas dan huruf selepasnya tidak bertasydid",
+        "Lam digantikan dengan huruf lain",
+        "Lam hanya ada di awal ayat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dalam kata 'الشَّمْسُ', apakah jenis lamnya?",
+      "options": [
+        "Lam Qamariah — kerana lam dibaca jelas",
+        "Lam Syamsiah — kerana الشَّمْسُ sendiri adalah contoh lam syamsiah, lam bergabung dengan ش",
+        "Bukan lam التعريف",
+        "Lam biasa"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Surah manakah yang mengandungi contoh KEDUA-DUA Lam Qamariah dan Lam Syamsiah dalam buku ini?",
+      "options": [
+        "Surah al-Fil",
+        "Surah ar-Rahman (الشَّمْسُ = syamsiah, الْقَمَرُ = qamariah)",
+        "Surah al-Ikhlas",
+        "Surah al-Falaq"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa bilangannya huruf Lam Qamariah dan berapa huruf Lam Syamsiah?",
+      "options": [
+        "10 Qamariah, 18 Syamsiah",
+        "14 Qamariah, 14 Syamsiah",
+        "12 Qamariah, 16 Syamsiah",
+        "16 Qamariah, 12 Syamsiah"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "ال التعريف", "colour": "#009688" },
+      { "id": "n2", "label": "Lam Qamariah (14 huruf)", "colour": "#00796B" },
+      { "id": "n3", "label": "Lam Syamsiah (14 huruf)", "colour": "#00796B" },
+      { "id": "n4", "label": "Lam jelas (tidak tasydid)", "colour": "#004D40" },
+      { "id": "n5", "label": "Lam idgham (ada tasydid)", "colour": "#004D40" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis 2" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "sifat" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "sifat" }
+    ]
+  },
+  "vocab": [
+    { "word": "اللَّام الْقَمَرِيَّة", "meaning": "Lam Qamariah (lam yang dibaca jelas — seperti bulan الْقَمَر yang dapat dilihat jelas)" },
+    { "word": "اللَّام الشَّمْسِيَّة", "meaning": "Lam Syamsiah (lam yang tersembunyi/idgham — seperti matahari الشَّمْس yang menyembunyikan cahaya lain)" },
+    { "word": "الْإِدْغَام", "meaning": "idgham (bergabung/masuk — lam syamsiah bergabung masuk ke dalam huruf selepasnya)" },
+    { "word": "التَّشْدِيد", "meaning": "tasydid (tanda ّ yang menunjukkan huruf itu didobelkan — berlaku pada lam syamsiah)" },
+    { "word": "ال التَّعْرِيف", "meaning": "alif-lam ta'rif (partikel penentu dalam bahasa Arab — seperti 'the' dalam bahasa Inggeris)" }
+  ],
+  "funFact": "Tahukah kamu mengapa ia dipanggil 'Lam Qamariah' dan 'Lam Syamsiah'? Dinamakannya mengikut kata 'القمر' (bulan) dan 'الشمس' (matahari) sendiri! Perhatikan: الْقَمَرُ — lam dibaca jelas (itu contoh lam qamariah), manakala الشَّمْسُ — lam tidak dibaca dan ش bertasydid (itu contoh lam syamsiah). Jadi nama itu sendiri sudah mengajar kita contohnya. Pintar bukan cara ulama Arab mengajar bahasa mereka?"
+}

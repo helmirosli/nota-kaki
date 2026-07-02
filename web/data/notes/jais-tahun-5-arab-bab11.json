@@ -1,0 +1,126 @@
+{
+  "id": "jais-tahun-5-arab-bab11",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 11,
+  "title": "الْمَفْعُولُ بِهِ — Objek (Kata Nama yang Dikenakan Perbuatan)",
+  "emoji": "📖",
+  "colour": "#2196F3",
+  "estimatedMinutes": 22,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الدرس الحادي عشر — المفعول به",
+      "body": "Pada akhir pelajaran ini, murid dapat: (1) Mendengar contoh-contoh المفعول به dan tanda i'rabnya dengan betul. (2) Menyebut contoh-contoh المفعول به dengan betul. (3) Membaca ayat yang mengandungi المفعول به dengan jelas. (4) Menulis ayat yang mengandungi المفعول به dengan betul."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "تعريف المفعول به — Definisi المفعول به",
+          "body": {
+            "type": "list",
+            "intro": "المفعول به (al-Maf'uul bihi) ialah kata nama yang dikenakan padanya perbuatan pelaku (الفاعل). Ciri-ciri:",
+            "items": [
+              "المفعول به selalu berbaris fathah (َ) — dalam keadaan نصب (nasb).",
+              "المفعول به menjawab soalan 'Siapa/apa yang dilakukan oleh الفاعل?'",
+              "Kedudukan: فعل + فاعل + مفعول به.",
+              "Tanda نصب: مفرد → fathah (ـً), مثنى → ين, جمع مذكر → ين, جمع مؤنث → اتٍ."
+            ]
+          }
+        },
+        {
+          "icon": "🏟️",
+          "title": "أمثلة المفعول به — شاهدت في الملعب",
+          "body": {
+            "type": "pairs",
+            "intro": "Contoh ayat المفعول به dari buku (tema menonton pemain di padang):",
+            "rows": [
+              { "arabic": "شَاهَدْتُ اللَّاعِبَ فِيْ الْمَلْعَبِ", "meaning": "Saya melihat pemain (1 lelaki) di padang — المفعول به: اللاعبَ" },
+              { "arabic": "شَاهَدْتُ اللَّاعِبَيْنِ فِيْ الْمَلْعَبِ", "meaning": "Saya melihat dua pemain (lelaki) di padang — المفعول به: اللاعبيِنِ" },
+              { "arabic": "شَاهَدْتُ اللَّاعِبِيْنَ فِيْ الْمَلْعَبِ", "meaning": "Saya melihat para pemain (lelaki) di padang — المفعول به: اللاعبيِنَ" },
+              { "arabic": "شَاهَدْتُ اللَّاعِبَةَ فِيْ الْمَلْعَبِ", "meaning": "Saya melihat pemain (1 perempuan) di padang — المفعول به: اللاعبةَ" },
+              { "arabic": "شَاهَدْتُ اللَّاعِبَتَيْنِ فِيْ الْمَلْعَبِ", "meaning": "Saya melihat dua pemain (perempuan) di padang — المفعول به: اللاعبتيِنِ" },
+              { "arabic": "شَاهَدْتُ اللَّاعِبَاتِ فِيْ الْمَلْعَبِ", "meaning": "Saya melihat para pemain (perempuan) di padang — المفعول به: اللاعباتِ" },
+              { "arabic": "اشْتَرَيْتُ الْكُتُبَ الدِّرَاسِيَّةَ", "meaning": "Saya membeli buku-buku pelajaran — المفعول به: الكتبَ" },
+              { "arabic": "اشْتَرَيْتُ صُوْرَةَ الْمَسْجِدِ", "meaning": "Saya membeli gambar masjid — المفعول به: صورةَ" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Perbezaan الفاعل dan المفعول به: الفاعلُ → berbaris DHOMMAH (melakukan), المفعولَ به → berbaris FATHAH (dikenakan perbuatan). Contoh: شاهدَ الولدُ اللاعبَ — الولدُ = فاعل (dhommah), اللاعبَ = مفعول به (fathah). Kata kerja: شاهد = melihat, اشترى = membeli."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "المفعول به selalu berbaris...",
+      "options": [
+        "Dhommah (ُ)",
+        "Kasrah (ِ)",
+        "Fathah (َ)",
+        "Sukun (ْ)"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Dalam 'شَاهَدْتُ اللَّاعِبَتَيْنِ فِيْ الْمَلْعَبِ', المفعول به ialah...",
+      "options": [
+        "الملعب",
+        "شاهدت",
+        "اللاعبتين",
+        "في"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "'شاهدت اللاعبات' — اللاعبات merujuk kepada...",
+      "options": [
+        "Seorang pemain perempuan",
+        "Dua pemain perempuan",
+        "Para pemain perempuan (ramai)",
+        "Para pemain lelaki"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah maksud 'اشتريت الكتب الدراسية'?",
+      "options": [
+        "Saya melihat buku pelajaran",
+        "Saya membeli buku pelajaran",
+        "Saya membaca buku pelajaran",
+        "Saya menulis buku pelajaran"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "المفعول به", "colour": "#2196F3" },
+      { "id": "n2", "label": "مفرد (ـَ)", "colour": "#1976D2" },
+      { "id": "n3", "label": "مثنى (ينِ)", "colour": "#1565C0" },
+      { "id": "n4", "label": "جمع مذكر (ينَ)", "colour": "#0D47A1" },
+      { "id": "n5", "label": "جمع مؤنث (اتِ)", "colour": "#42A5F5" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "tanda نصب" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "tanda نصب" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "tanda نصب" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "tanda نصب" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْمَفْعُوْلُ بِهِ", "meaning": "Al-Maf'uul bihi — objek (kata nama yang dikenakan perbuatan فاعل)" },
+    { "word": "النَّصْبُ", "meaning": "An-Nasb — status i'rab نصب; ditandai fathah pada المفعول به mufrad" },
+    { "word": "الْمَلْعَبُ", "meaning": "Al-Mal'ab — padang permainan" },
+    { "word": "اللَّاعِبُ / اللَّاعِبَةُ", "meaning": "Al-Laa'ib / al-Laa'ibah — pemain (lelaki/perempuan)" },
+    { "word": "شَاهَدَ", "meaning": "Syaahada — melihat/menonton (fi'l maadhi)" },
+    { "word": "اشْتَرَى", "meaning": "Ishtara — membeli (fi'l maadhi)" }
+  ],
+  "funFact": "Tahukah kamu bahawa dalam bahasa Arab, kita boleh mengenal pasti الفاعل dan المفعول به hanya dari baris (harakat) pada huruf terakhirnya — tanpa perlu melihat urutan perkataan? Ini bermakna الولدُ ضَرَبَ الكلبَ (kanak-kanak memukul anjing) dan الكلبَ ضَرَبَ الولدُ bermaksud SAMA! Urutan perkataan boleh berubah, tapi maknanya tetap sama asalkan baris betul. Ini adalah kehebatan sistem i'rab (إعراب) bahasa Arab yang tiada tandingannya!"
+}

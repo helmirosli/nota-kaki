@@ -1,0 +1,157 @@
+{
+  "id": "jais-tahun-6-tauhid-bab1",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "tauhid",
+  "chapter": 1,
+  "title": "Tauhid 1: Mempercayai Allah — Sifat Wajib dan Mustahil",
+  "emoji": "✨",
+  "colour": "#FFB300",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "أَسْمَاء اللَّه وَصِفَاتُه — Mengenal Allah Melalui Sifat-sifatNya",
+      "body": "Tauhid (توحيد) bermaksud mengesakan Allah dalam semua aspek — rububiyyah (ketuhanan), uluhiyyah (ibadah), dan asma' wa sifat (nama dan sifat). Sebagai Muslim yang sempurna, kita wajib mengenal 20 sifat wajib Allah, 20 sifat mustahil, dan 1 sifat harus. Ini bukan sekadar hafazan — tetapi memahami siapa Allah yang kita sembah!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "✨",
+          "title": "Sifat Wajib Allah (20 Sifat) — Kumpulan 1",
+          "body": {
+            "type": "pairs",
+            "intro": "Sepuluh sifat wajib Allah yang pertama:",
+            "rows": [
+              { "arabic": "الْوُجُود", "meaning": "Wujud — Allah pasti ada (mustahil tiada)" },
+              { "arabic": "الْقِدَم", "meaning": "Qidam — Allah sedia ada, tiada permulaan" },
+              { "arabic": "الْبَقَاء", "meaning": "Baqa' — Allah kekal selama-lamanya" },
+              { "arabic": "الْمُخَالَفَة لِلْحَوَادِث", "meaning": "Mukhalafah lil hawadith — Allah tidak serupa dengan makhluk" },
+              { "arabic": "الْقِيَام بِنَفْسِه", "meaning": "Qiyamuhu binafsihi — Allah berdiri sendiri, tidak bergantung" }
+            ]
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Sifat Wajib Allah (20 Sifat) — Kumpulan 2",
+          "body": {
+            "type": "pairs",
+            "intro": "Sepuluh sifat wajib Allah yang kedua (sifat ma'ani):",
+            "rows": [
+              { "arabic": "الْقُدْرَة", "meaning": "Qudrah — Allah Maha Berkuasa atas segala-galanya" },
+              { "arabic": "الْإِرَادَة", "meaning": "Iradah — Allah Maha Berkehendak, berlaku apa yang Dia mahu" },
+              { "arabic": "الْعِلْم", "meaning": "Ilm — Allah Maha Mengetahui segala sesuatu" },
+              { "arabic": "الْحَيَاة", "meaning": "Hayah — Allah Maha Hidup, tidak mati" },
+              { "arabic": "السَّمْع", "meaning": "Sama' — Allah Maha Mendengar semua suara" }
+            ]
+          }
+        },
+        {
+          "icon": "🚫",
+          "title": "Sifat Mustahil — Lawan kepada Sifat Wajib",
+          "body": {
+            "type": "pairs",
+            "intro": "Sifat yang MUSTAHIL (tidak mungkin) ada pada Allah:",
+            "rows": [
+              { "arabic": "الْعَدَم", "meaning": "Adam (tiada) — mustahil Allah tiada; lawannya Wujud" },
+              { "arabic": "الْحُدُوث", "meaning": "Huduth (ada permulaan) — mustahil; lawannya Qidam" },
+              { "arabic": "الْفَنَاء", "meaning": "Fana' (binasa) — mustahil Allah binasa; lawannya Baqa'" },
+              { "arabic": "الْعَجْز", "meaning": "Ajaz (lemah/tidak berkuasa) — mustahil; lawannya Qudrah" },
+              { "arabic": "الْجَهْل", "meaning": "Jahl (jahil/tidak tahu) — mustahil; lawannya Ilm" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "✨",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ayat al-Quran tentang sifat Allah yang paling agung — Ayat al-Kursi:",
+        "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ",
+        "translation": "Allah, tidak ada Tuhan melainkan Dia, Yang Maha Hidup, Yang Terus-menerus mengurus makhluk-Nya.",
+        "source": "al-Baqarah: 255 — menunjukkan sifat Hayah (Maha Hidup) dan Qiyamuhu binafsihi (berdiri sendiri)"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Hafaz 20 Sifat Wajib",
+      "items": [
+        "Bahagikan kepada 4 kumpulan: Nafsiyyah (1), Salbiyyah (4), Ma'ani (7), Ma'nawiyyah (7).",
+        "Paling penting: hafaz Sifat Nafsiyyah (Wujud) — ini asas semua sifat.",
+        {
+          "type": "arabic",
+          "arabic": "Trik ingatan: 'Wujud, Qidam, Baqa', Mukhalafah, Qiyam' — 5 sifat pertama",
+          "translation": "Buat frasa bantuan: 'WaQBaMuQ' — Wa=Wujud, Q=Qidam, B=Baqa', Mu=Mukhalafah, Q=Qiyam"
+        },
+        "Sifat Harus Allah: Af'al (perbuatan) — Allah BOLEH buat apa saja atau tidak buat sesuatu.",
+        "Ingat: mengenal Allah dengan baik akan menguatkan iman dan menyempurnakan ibadah!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Sifat wajib Allah yang paling asas (sifat nafsiyyah) adalah:",
+      "options": [
+        "Qudrah (Maha Berkuasa)",
+        "Wujud (pasti ada)",
+        "Ilm (Maha Mengetahui)",
+        "Hayah (Maha Hidup)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah sifat mustahil yang berlawanan dengan 'Baqa'' (kekal)?",
+      "options": [
+        "Huduth (ada permulaan)",
+        "Adam (tiada)",
+        "Fana' (binasa/tidak kekal)",
+        "Ajaz (lemah)"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa jumlah sifat wajib, mustahil, dan harus Allah?",
+      "options": [
+        "10 wajib, 10 mustahil, 1 harus",
+        "20 wajib, 20 mustahil, 1 harus",
+        "99 wajib, 99 mustahil, 1 harus",
+        "13 wajib, 13 mustahil, 1 harus"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sifat 'Mukhalafah lil Hawadith' bermaksud:",
+      "options": [
+        "Allah Maha Mengetahui segala yang berlaku",
+        "Allah tidak serupa dengan makhluk ciptaan-Nya",
+        "Allah sentiasa memerhati makhluk-Nya",
+        "Allah mengetahui masa hadapan"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Sifat Allah", "colour": "#FFB300" },
+      { "id": "n2", "label": "20 Sifat Wajib", "colour": "#FF8F00" },
+      { "id": "n3", "label": "20 Sifat Mustahil", "colour": "#FF8F00" },
+      { "id": "n4", "label": "1 Sifat Harus", "colour": "#E65100" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "wajib ada" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "mustahil ada" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "boleh ada/tiada" }
+    ]
+  },
+  "vocab": [
+    { "word": "التَّوْحِيد", "meaning": "tauhid (mengesakan Allah dalam semua perkara)" },
+    { "word": "الصِّفَات الْوَاجِبَة", "meaning": "sifat wajib (sifat yang pasti ada pada Allah)" },
+    { "word": "الصِّفَات الْمُسْتَحِيلَة", "meaning": "sifat mustahil (sifat yang tidak mungkin ada pada Allah)" },
+    { "word": "الصِّفَات الْجَائِزَة", "meaning": "sifat harus/ja'iz (sifat yang boleh ada atau tidak pada Allah)" },
+    { "word": "الْوُجُود", "meaning": "wujud (ada — sifat wajib paling asas)" }
+  ],
+  "funFact": "Tahukah kamu bahawa ilmu Tauhid/Akidah yang kita pelajari (20 sifat Allah) adalah hasil karya Imam Abu al-Hasan al-Asy'ari (873-935M) dan Imam Abu Mansur al-Maturidi (853-944M)? Sebelum mereka, ramai Muslim keliru tentang bagaimana memahami sifat Allah. Ada yang terlalu literal (seolah Allah mempunyai tangan, muka seperti manusia) dan ada yang terlalu abstrak (menafikan semua sifat). Kedua-dua imam ini menggunakan kaedah 'wasatiyyah' (pertengahan) yang kemas dan sistematik — hasilnya adalah 20 sifat yang kita hafaz sekarang! Kaedah mereka diikuti oleh lebih 90% Muslim Sunni di seluruh dunia selama lebih 1,000 tahun."
+}

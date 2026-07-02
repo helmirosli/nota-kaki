@@ -1,0 +1,130 @@
+{
+  "id": "jais-tahun-5-arab-bab4",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 4,
+  "title": "الطُّيُورُ وَالْحَشَرَاتُ — Burung-burung",
+  "emoji": "📖",
+  "colour": "#2196F3",
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الدرس الرابع — الطيور والحشرات",
+      "body": "Pada akhir pelajaran ini, murid dapat: (1) Mendengar nama-nama burung yang disebut dengan betul. (2) Menyebut nama-nama burung dengan betul. (3) Membaca nama-nama burung dengan jelas. (4) Menulis nama-nama burung dengan betul."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🦜",
+          "title": "الوحدة الأولى — الطيور: حديقة الطيور",
+          "body": {
+            "type": "arabic",
+            "instruction": "Baca dan dengar teks tentang Taman Burung:",
+            "arabic": "تَقَعُ حَدِيقَةُ الطُّيُوْرِ فِيْ عَاصِمَةِ كُوَالَا لُمْبُوْر، وَهِيَ قَرِيْبَةٌ مِنَ الْمَسْجِدِ الْوَطَنِيِّ. إِنَّ الْحَدِيْقَةَ وَاسِعَةٌ وَجَمِيْلَةٌ، فِيْهَا طُيُوْرٌ كَثِيْرَةٌ مُتَنَوِّعَةٌ وَمِنْهَا طُيُوْرٌ مَحَلِّيَّةٌ وَمُسْتَوْرَدَةٌ.",
+            "translation": "Taman Burung terletak di ibu kota Kuala Lumpur, dan ia berdekatan dengan Masjid Negara. Taman ini luas dan indah, di dalamnya terdapat pelbagai jenis burung, termasuk burung tempatan dan burung import."
+          }
+        },
+        {
+          "icon": "🦚",
+          "title": "Nama-nama Burung — أسماء الطيور",
+          "body": {
+            "type": "pairs",
+            "intro": "Nama-nama burung yang terdapat di Taman Burung KL:",
+            "rows": [
+              { "arabic": "طَاوُوْسٌ", "meaning": "Taauwuus — merak (peacock)" },
+              { "arabic": "بَجْعَاءُ", "meaning": "Baj'aa' — burung undan (pelican)" },
+              { "arabic": "نَعَامَةٌ", "meaning": "Na'aamah — burung unta (ostrich)" },
+              { "arabic": "نَسْرٌ", "meaning": "Nasr — helang/rajawali (eagle)" },
+              { "arabic": "بَبَّغَاءُ", "meaning": "Babbagaa' — kakak tua (parrot)" },
+              { "arabic": "دِيكٌ", "meaning": "Diik — ayam jantan (rooster)" }
+            ]
+          }
+        },
+        {
+          "icon": "🌍",
+          "title": "Jenis Burung — طيور محلية ومستوردة",
+          "body": {
+            "type": "pairs",
+            "intro": "Taman Burung mengandungi dua jenis burung:",
+            "rows": [
+              { "arabic": "طُيُوْرٌ مَحَلِّيَّةٌ", "meaning": "Tuyuurun mahalliyyah — burung tempatan (burung yang hidup di Malaysia)" },
+              { "arabic": "طُيُوْرٌ مُسْتَوْرَدَةٌ", "meaning": "Tuyuurun mustawardah — burung import (burung yang dibawa dari luar negara)" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Taman Burung KL (حديقة الطيور) terletak berhampiran Masjid Negara (المسجد الوطني) di Kuala Lumpur. Ia mempunyai pelbagai spesies burung dari seluruh dunia — burung tempatan (محلية) dan burung import (مستوردة). Taman ini luas (واسعة) dan indah (جميلة)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Di mana terletaknya حديقة الطيور (Taman Burung)?",
+      "options": [
+        "Johor Bahru",
+        "Kuala Lumpur, berdekatan Masjid Negara",
+        "Shah Alam, Selangor",
+        "Putrajaya"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah maksud 'طَاوُوْسٌ' dalam bahasa Melayu?",
+      "options": [
+        "Burung unta",
+        "Burung undan",
+        "Merak",
+        "Kakak tua"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah maksud 'طُيُوْرٌ مُسْتَوْرَدَةٌ'?",
+      "options": [
+        "Burung tempatan",
+        "Burung liar",
+        "Burung import (dibawa dari luar negara)",
+        "Burung peliharaan"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah nama burung unta dalam bahasa Arab?",
+      "options": [
+        "طاووس",
+        "بجعاء",
+        "نعامة",
+        "ببغاء"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "حديقة الطيور", "colour": "#2196F3" },
+      { "id": "n2", "label": "طيور محلية", "colour": "#1976D2" },
+      { "id": "n3", "label": "طيور مستوردة", "colour": "#1565C0" },
+      { "id": "n4", "label": "المسجد الوطني", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "terdapat" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "terdapat" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "berdekatan" }
+    ]
+  },
+  "vocab": [
+    { "word": "حَدِيقَةُ الطُّيُوْرِ", "meaning": "Hadiiqatut tuyuur — Taman Burung" },
+    { "word": "الْمَسْجِدُ الْوَطَنِيُّ", "meaning": "Al-Masjidul wataniy — Masjid Negara" },
+    { "word": "طَاوُوْسٌ", "meaning": "Taauwuus — merak (peacock)" },
+    { "word": "بَجْعَاءُ", "meaning": "Baj'aa' — burung undan (pelican)" },
+    { "word": "نَعَامَةٌ", "meaning": "Na'aamah — burung unta (ostrich)" },
+    { "word": "مُتَنَوِّعَةٌ", "meaning": "Mutanawwi'ah — pelbagai jenis / beraneka ragam" }
+  ],
+  "funFact": "Tahukah kamu bahawa burung merak (طاووس) dalam bahasa Arab disebut dengan perkataan yang sama di seluruh dunia Arab? Bulu ekor merak yang cantik mengandungi pola berbentuk 'mata' — orang Melayu menyebutnya 'merak mengigal'. Dalam bahasa Arab, طيور (tuyuur) adalah bentuk jamak kepada طائر (taa'ir) yang bermaksud 'burung yang terbang'. Satu lagi perkataan untuk burung dalam bahasa Arab ialah عصفور (usfuur) — biasanya untuk burung kecil!"
+}

@@ -1,0 +1,149 @@
+{
+  "id": "jais-tahun-4-jawi-bab3",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "jawi",
+  "chapter": 3,
+  "title": "Jawi 3: Penulisan Karangan Jawi Pendek",
+  "emoji": "📜",
+  "colour": "#FF9800",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "كِتَابَة الْفَقْرَة — Menulis Karangan Pendek Jawi",
+      "body": "Dalam pelajaran ini, kita belajar menulis ayat dan karangan pendek dalam tulisan Jawi. Ini adalah kemahiran lanjutan yang memerlukan penguasaan huruf Jawi dan ejaan yang betul. Menulis Jawi membantu kita menghargai warisan budaya dan agama bangsa Melayu."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "✍️",
+          "title": "Peraturan Ejaan Jawi",
+          "body": {
+            "type": "pairs",
+            "intro": "Panduan ejaan Jawi mengikut Daftar Kata Jawi (DBP):",
+            "rows": [
+              { "label": "a di akhir kata", "arabic": "ا", "meaning": "kata = كات، baca = باچ" },
+              { "label": "i di akhir kata", "arabic": "ي", "meaning": "pagi = ڤاݢي، kaki = كاكي" },
+              { "label": "u di akhir kata", "arabic": "و", "meaning": "buku = بوكو، susu = سوسو" },
+              { "label": "e (pepet)", "arabic": "ء atau kosong", "meaning": "empat = امڤت، perang = ڤراڠ" }
+            ]
+          }
+        },
+        {
+          "icon": "✍️",
+          "title": "Latihan Menulis Ayat Jawi",
+          "body": {
+            "type": "arabic",
+            "instruction": "Salin ayat-ayat ini dalam Jawi:",
+            "arabic": "سايا اداله سئوراڠ ڤلاجر يڠ راجين.\nسايا سوك بلاجر اݢام اسلام.\nايبو باڤ سايا سڠت مڽاياڠي سايا.",
+            "translation": "Saya adalah seorang pelajar yang rajin.\nSaya suka belajar agama Islam.\nIbu bapa saya sangat menyayangi saya."
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Karangan Pendek: Keluarga Saya",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh karangan Jawi bertajuk 'Keluarga Saya':",
+            "arabic": "كلوارݢ سايا\nسايا مڤونياءي سئوراڠ ايبو دان سئوراڠ باڤ. سايا جوݢ مڤونياءي دوا ادق برادق. كامي تيڠݢل دي برا، سلاڠور.\nايبو سايا سئوراڠ ݢورو دان باڤ سايا سئوراڠ ڤٓيجات. كامي سلالو بريبادة برسام دي مسجد تمڤت كامي تيڠݢل.",
+            "translation": "Keluarga Saya\nSaya mempunyai seorang ibu dan seorang bapa. Saya juga mempunyai dua adik-beradik. Kami tinggal di Beranang, Selangor.\nIbu saya seorang guru dan bapa saya seorang pegawai. Kami selalu beribadat bersama di masjid tempat kami tinggal."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📜",
+      "text": {
+        "type": "list",
+        "intro": "Semak ejaan Jawi kamu dengan panduan ini:",
+        "items": [
+          "Huruf-huruf yang tidak bersambung ke kanan: ا د ذ ر ز و (sama dengan Arab)",
+          "Jawi ada 36 huruf = 28 huruf Arab + 5 huruf khas + 3 variasi",
+          "Setiap vokal panjang ada hurufnya: a=ا, i=ي, u=و",
+          "Vokal pendek biasanya tidak ditulis dalam Jawi"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Langkah Menulis Karangan Jawi",
+      "items": [
+        "Tulis draf dalam Rumi dahulu — kemudian terjemahkan ke Jawi.",
+        "Terjemahkan perkataan demi perkataan — gunakan kamus Jawi jika perlu.",
+        {
+          "type": "arabic",
+          "arabic": "Contoh: 'saya suka belajar' → سايا سوك بلاجر",
+          "translation": "saya = سايا | suka = سوك | belajar = بلاجر"
+        },
+        "Semak ejaan dengan Daftar Kata Jawi DBP — ini rujukan rasmi.",
+        "Baca semula karangan dari kanan ke kiri untuk semak kesilapan."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Dalam Jawi, huruf apa yang digunakan untuk vokal 'i' di akhir perkataan?",
+      "options": [
+        "ا (Alif)",
+        "ي (Ya')",
+        "و (Waw)",
+        "ه (Ha')"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan 'buku' dalam Jawi ditulis sebagai apa?",
+      "options": [
+        "بوكو",
+        "بكو",
+        "بوكا",
+        "بوكي"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Berapa jumlah huruf dalam sistem tulisan Jawi?",
+      "options": [
+        "28 huruf (sama dengan Arab)",
+        "33 huruf",
+        "36 huruf",
+        "40 huruf"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah cara terbaik untuk semak ejaan Jawi yang betul?",
+      "options": [
+        "Tanya rakan",
+        "Ikut ingatan sahaja",
+        "Rujuk Daftar Kata Jawi DBP",
+        "Gunakan ejaan Arab terus"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Penulisan Jawi", "colour": "#FF9800" },
+      { "id": "n2", "label": "Peraturan Ejaan", "colour": "#F57C00" },
+      { "id": "n3", "label": "Karangan Pendek", "colour": "#F57C00" },
+      { "id": "n4", "label": "Daftar Kata DBP", "colour": "#EF6C00" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "asas" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "latihan" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "rujukan" }
+    ]
+  },
+  "vocab": [
+    { "word": "سايا", "meaning": "saya (dalam Jawi)" },
+    { "word": "كلوارݢ", "meaning": "keluarga (dalam Jawi)" },
+    { "word": "تيڠݢل", "meaning": "tinggal (dalam Jawi)" },
+    { "word": "ݢورو", "meaning": "guru (dalam Jawi)" },
+    { "word": "مسجد", "meaning": "masjid (sama dalam Jawi dan Arab)" }
+  ],
+  "funFact": "Tahukah kamu bahawa matawang Malaysia pun ditulis dalam dua skrip — Rumi dan Jawi? Wang kertas dan syiling ringgit Malaysia ada tulisan Jawi di atasnya. Ini adalah salah satu cara kerajaan Malaysia mengekalkan penggunaan Jawi dalam kehidupan harian. Jawi juga digunakan pada papan tanda jalan di bandar-bandar utama dan dalam dokumen rasmi kerajaan. Jadi bila kamu belajar Jawi, kamu bukan sekadar belajar subjek sekolah — kamu menjaga warisan bangsa!"
+}

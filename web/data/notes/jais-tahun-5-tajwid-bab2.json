@@ -1,0 +1,200 @@
+{
+  "id": "jais-tahun-5-tajwid-bab2",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "tajwid",
+  "chapter": 2,
+  "title": "Mad Far'i Lanjutan dan Tighkatan Mad",
+  "emoji": "📗",
+  "colour": "#1565C0",
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "مَدْ فَرْعِيّ لَنْجُوتَن — Pelajaran Kedua (sambungan)",
+      "body": "Pelajaran ini meneruskan jenis-jenis Mad Far'i termasuk Mad Ta'zim, Mad Lazim, dan Mad 'Arid Lissukun, serta menerangkan Tighkatan (peringkat) bacaan Mad."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "✨",
+          "title": "Mad Ta'zim (Unit 6)",
+          "body": {
+            "type": "list",
+            "intro": "Mad keagungan — berkaitan dengan keesaan Allah ﷻ:",
+            "items": [
+              "Pengertian: Mad Ta'zim ialah mad yang berlaku apabila kalimat {لَا} yang menafikan bertemu dengan kalimat {إِلَٰهَ}.",
+              "Kadar: empat atau lima harakat.",
+              "Dinamakan Ta'zim (keagungan) kerana berkaitan dengan kalimat tauhid.",
+              "Contoh: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ (Surah An-Naml: 26)",
+              "Contoh: فَٱعْلَمْ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱللَّهُ (Surah Muhammad: 19)"
+            ]
+          }
+        },
+        {
+          "icon": "📏",
+          "title": "Mad Lazim Kalimi Muthaqal (Unit 7)",
+          "body": {
+            "type": "list",
+            "intro": "Mad lazim dalam kalimat bersama huruf bertashdid:",
+            "items": [
+              "Pengertian: Mad Lazim Kalimi Muthaqal ialah mad yang berlaku apabila huruf mad bertemu dengan huruf bertashdid dalam satu kalimat kata.",
+              "Kadar: enam harakat (dibaca dengan idgham).",
+              "Catatan: Huruf bertashdid asalnya adalah huruf sukun yang diidghamkan.",
+              "Contoh: ضَآلَّا (asalnya ضَالْلَاء), ٱلطَّآمَّةُ (asalnya الطَّامْمَةُ), ٱلضَّآلِّينَ (asalnya الضَّالْلِيْنَ)"
+            ]
+          }
+        },
+        {
+          "icon": "📐",
+          "title": "Mad Lazim Kalimi Mukhaffaf (Unit 8)",
+          "body": {
+            "type": "list",
+            "intro": "Mad lazim dalam kalimat tanpa tashdid:",
+            "items": [
+              "Pengertian: Mad Lazim Kalimi Mukhaffaf ialah mad yang berlaku apabila huruf mad bertemu dengan huruf sukun dalam satu kalimat kata (tanpa idgham).",
+              "Kadar: enam harakat (dibaca tanpa idgham)."
+            ]
+          }
+        },
+        {
+          "icon": "🔠",
+          "title": "Mad Lazim Harfi Muthaqal (Unit 9)",
+          "body": {
+            "type": "list",
+            "intro": "Mad lazim pada huruf awal surah dengan idgham:",
+            "items": [
+              "Pengertian: Mad Lazim Harfi Muthaqal ialah mad pada huruf-huruf awal surah (fawatih al-suwar) yang dieja tiga huruf dan huruf tengahnya adalah huruf mad yang diikuti dengan huruf bertashdid (idgham).",
+              "Kadar: enam harakat."
+            ]
+          }
+        },
+        {
+          "icon": "⭐",
+          "title": "Mad Lazim Harfi Mukhaffaf (Unit 10)",
+          "body": {
+            "type": "list",
+            "intro": "Mad lazim pada huruf awal surah tanpa idgham:",
+            "items": [
+              "Pengertian: Mad Lazim Harfi Mukhaffaf ialah mad pada huruf-huruf awal surah yang dieja tiga huruf, huruf tengahnya adalah huruf mad yang tidak diidghamkan kepada huruf selepasnya.",
+              "Kadar: enam harakat.",
+              "Huruf 2 Mad Lazim Harfi Mukhaffaf (8 huruf): ن، ق، ص، ع، س، ل، ك، م"
+            ]
+          }
+        },
+        {
+          "icon": "⏸️",
+          "title": "Mad 'Arid Lissukun (Unit 11)",
+          "body": {
+            "type": "list",
+            "intro": "Mad yang berlaku kerana waqaf (berhenti):",
+            "items": [
+              "Pengertian: Mad 'Arid Lissukun ialah mad yang berlaku apabila huruf mad bertemu dengan huruf mati kerana waqaf (berhenti bacaan).",
+              "Kadar: 2, 4, atau 6 harakat.",
+              "Dinamakan ''Arid' kerana sukun itu bersifat sementara (hanya ketika waqaf).",
+              "Contoh ا: بِحُسْبَانٍ, وَٱلْفُرْقَانَ, لَدَا ٱلْبَابِ",
+              "Contoh و: يَسْطُرُونَ, يُفِقُونَ, تَشْكُرُونَ",
+              "Contoh ي: بِٱلْمُهْتَدِينَ, عَلِيمٌ, عَزِيزٌ حَكِيمٌ"
+            ]
+          }
+        },
+        {
+          "icon": "〰️",
+          "title": "Mad Lin (Unit 12)",
+          "body": {
+            "type": "list",
+            "intro": "Mad yang berlaku pada huruf waw/ya mati selepas fathah ketika waqaf:",
+            "items": [
+              "Pengertian: Mad Lin ialah mad yang berlaku apabila huruf و atau ي mati yang didahului fathah, kemudian bertemu huruf mati kerana waqaf.",
+              "Kadar: 2, 4, atau 6 harakat."
+            ]
+          }
+        },
+        {
+          "icon": "🔃",
+          "title": "Mad 'Iwad, Tamkin, Sila Qasirah (Unit 13-15)",
+          "body": {
+            "type": "list",
+            "intro": "Tiga jenis Mad Far'i yang lain:",
+            "items": [
+              "Mad 'Iwad: Mad penggantian ketika waqaf pada tanwin fathah (dua baris atas). Kadar: 2 harakat.",
+              "Mad Tamkin: Mad yang berlaku antara dua huruf ya yang pertamanya bertashdid. Kadar: 2 harakat.",
+              "Mad Sila Qasirah: Mad pada ha' dhamir (ه) yang berbaris antara dua huruf yang berbaris (tanpa hamzah selepasnya). Kadar: 2 harakat."
+            ]
+          }
+        },
+        {
+          "icon": "🏆",
+          "title": "Tighkatan (Peringkat) Mad Far'i — Pelajaran Ketiga",
+          "body": {
+            "type": "list",
+            "intro": "Hierarki 5 peringkat Mad Far'i (mertabat medd far'i):",
+            "items": [
+              "i. Mad Lazim — dibaca dengan kadar enam harakat.",
+              "ii. Mad Wajib Muttasil — dibaca dengan kadar empat atau lima harakat.",
+              "iii. Mad 'Arid Lissukun — harus dibaca dua, empat atau enam harakat.",
+              "iv. Mad Ja'iz Munfasil — harus dibaca empat atau lima harakat.",
+              "v. Mad Badal — dibaca dengan kadar dua harakat."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Tahukah anda? Apabila terdapat dua harakat mad dalam satu kalimat, kita lihat hukumnya pada setiap kalimat. Mad Wajib Muttasil lebih tinggi peringkatnya daripada Mad 'Arid Lissukun."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapakah kadar bacaan Mad Lazim?",
+      "options": ["2 harakat", "4 harakat", "5 harakat", "6 harakat"],
+      "answer": 3
+    },
+    {
+      "q": "Mad Ta'zim berlaku apabila kalimat لَا bertemu dengan kalimat...",
+      "options": ["اللَّهُ", "إِلَٰهَ", "أَكْبَرُ", "رَحِيمٌ"],
+      "answer": 1
+    },
+    {
+      "q": "Mad 'Arid Lissukun berlaku apabila...",
+      "options": [
+        "Huruf mad bertemu hamzah dalam satu kalimat",
+        "Huruf mad bertemu huruf mati kerana waqaf",
+        "Dua huruf hamzah bertemu dalam satu kalimat",
+        "Ha' dhamir bertemu hamzah qat'"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Mengikut tighkatan mad, manakah yang paling tinggi peringkatnya?",
+      "options": ["Mad Badal", "Mad Ja'iz Munfasil", "Mad Lazim", "Mad 'Arid Lissukun"],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Mad Far'i Lanjutan", "colour": "#1565C0" },
+      { "id": "n2", "label": "Mad Ta'zim", "colour": "#0D47A1" },
+      { "id": "n3", "label": "Mad Lazim (4 jenis)", "colour": "#1976D2" },
+      { "id": "n4", "label": "Mad 'Arid Lissukun", "colour": "#42A5F5" },
+      { "id": "n5", "label": "Tighkatan Mad", "colour": "#1565C0" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "jenis" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "hierarki" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْمَدُّ التَّعْظِيمُ", "meaning": "Mad Ta'zim — mad apabila لَا bertemu إِلَٰهَ. Kadar: 4-5 harakat" },
+    { "word": "الْمَدُّ اللَّازِمُ", "meaning": "Mad Lazim — mad paling panjang, 6 harakat. Terbahagi 4: Kalimi Muthaqal, Kalimi Mukhaffaf, Harfi Muthaqal, Harfi Mukhaffaf" },
+    { "word": "الْمَدُّ الْعَارِضُ لِلسُّكُونِ", "meaning": "Mad 'Arid Lissukun — mad ketika waqaf, sukun sementara. Kadar: 2, 4, atau 6 harakat" },
+    { "word": "مَدُّ اللِّين", "meaning": "Mad Lin — mad pada و atau ي mati selepas fathah ketika waqaf. Kadar: 2, 4, atau 6 harakat" },
+    { "word": "التِّغْكَتَنْ مَدّ", "meaning": "Tighkatan Mad — hierarki peringkat bacaan mad far'i: Lazim > Wajib Muttasil > 'Arid Lissukun > Ja'iz Munfasil > Badal" }
+  ],
+  "funFact": "Tahukah kamu bahawa huruf-huruf awal surah yang mengandungi Mad Lazim Harfi Mukhaffaf adalah 8 huruf yang terkumpul dalam kata: نَقَصَ عَسَلُكُمْ? Ini cara para ulama Tajwid mengingat huruf-huruf tersebut dengan mudah. Ilmu tajwid memang sangat teratur dan indah!"
+}

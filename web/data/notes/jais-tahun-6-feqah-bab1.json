@@ -1,0 +1,156 @@
+{
+  "id": "jais-tahun-6-feqah-bab1",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "feqah",
+  "chapter": 1,
+  "title": "Feqah 1: Solat Sunat — Jenis dan Hukumnya",
+  "emoji": "🕌",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الصَّلَوَات النَّافِلَة — Solat Sunat",
+      "body": "Selain solat fardu (wajib) 5 waktu, terdapat banyak solat sunat yang sangat digalakkan dalam Islam. Solat sunat adalah ibadah tambahan yang mendekatkan diri kepada Allah dan melengkapi kekurangan dalam solat fardu. Nabi SAW sangat menjaga solat-solat sunat ini sepanjang hayatnya."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📊",
+          "title": "Jenis-jenis Solat Sunat",
+          "body": {
+            "type": "pairs",
+            "intro": "Solat sunat dan bilangan rakaat:",
+            "rows": [
+              { "arabic": "سُنَّة الرَّوَاتِب", "meaning": "Sunat Rawatib — mengiringi solat fardu (sebelum/selepas): Subuh 2, Zuhur 4+2, Asar tiada, Maghrib 2, Isyak 2" },
+              { "arabic": "صَلَاة الضُّحَى", "meaning": "Solat Dhuha — 2-12 rakaat, dari selepas matahari naik hingga menjelang Zuhur" },
+              { "arabic": "صَلَاة التَّهَجُّد / الْقِيَام", "meaning": "Solat Tahajjud — malam selepas tidur; Nabi SAW: 8 rakaat + 3 witir" },
+              { "arabic": "صَلَاة الْوِتْر", "meaning": "Solat Witir — 1/3/5/7/9/11 rakaat (ganjil), sunat muakkad sangat kuat" },
+              { "arabic": "صَلَاة التَّرَاوِيح", "meaning": "Solat Tarawih — 8 atau 20 rakaat, hanya di bulan Ramadan, berjemaah" }
+            ]
+          }
+        },
+        {
+          "icon": "🌙",
+          "title": "Kelebihan Solat Tahajjud",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah tentang kelebihan solat malam:",
+            "arabic": "وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ\nعَسَىٰ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا",
+            "translation": "Dan pada sebahagian malam, solat tahajjudlah kamu sebagai sunat untukmu. Mudah-mudahan Tuhanmu akan membangkitkanmu ke tempat yang terpuji.",
+            "source": "Surah al-Isra': 79"
+          }
+        },
+        {
+          "icon": "☀️",
+          "title": "Kelebihan Solat Dhuha",
+          "body": {
+            "type": "arabic",
+            "instruction": "Hadith tentang kelebihan Solat Dhuha:",
+            "arabic": "يُصْبِحُ عَلَى كُلِّ سُلَامَى مِن أَحَدِكُمْ صَدَقَة\nوَيُجْزِئُ عَن ذَلِكَ كُلِّهِ رَكْعَتَا الضُّحَى",
+            "translation": "Setiap tulang seseorang dari kamu wajib ada sedekahnya setiap pagi. Dan dua rakaat solat Dhuha sudah mencukupi semuanya.",
+            "source": "Riwayat Muslim"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌙",
+      "text": {
+        "type": "list",
+        "intro": "Manfaat solat sunat rawatib:",
+        "items": [
+          "Melengkapi kekurangan dalam solat fardu — solat fardu tidak sempurna tanpa rawatib",
+          "Hadith: 'Rumah di syurga bagi yang menunaikan 12 rakaat rawatib sehari' (Riwayat al-Tirmidzi)",
+          "12 rakaat rawatib: 2 sebelum Subuh, 4+2 sebelum+selepas Zuhur, 2 selepas Maghrib, 2 selepas Isyak",
+          "Sunat Subuh (Qabliyyah Subuh) adalah yang paling kuat — Nabi jarang tinggalkannya"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Amalkan Solat Sunat",
+      "items": [
+        "Mula dengan Sunat Rawatib — ini yang paling mudah kerana mengiringi solat fardu.",
+        "Targetkan 12 rakaat rawatib sehari — ini rezeki rumah di syurga!",
+        {
+          "type": "pairs",
+          "intro": "Jadual 12 rakaat rawatib:",
+          "rows": [
+            { "arabic": "قَبْل الصُّبْح: ٢", "meaning": "2 rakaat sebelum Subuh" },
+            { "arabic": "قَبْل الظُّهْر: ٤ / بَعْد الظُّهْر: ٢", "meaning": "4 sebelum + 2 selepas Zuhur" },
+            { "arabic": "بَعْد الْمَغْرِب: ٢ / بَعْد الْعِشَاء: ٢", "meaning": "2 selepas Maghrib + 2 selepas Isyak" }
+          ]
+        },
+        "Apabila sudah amalkan rawatib, tambah solat Dhuha 2 rakaat setiap pagi.",
+        "Cita-cita tertinggi: solat Tahajjud — walaupun 2 rakaat sebelum tidur adalah sunat yang baik!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa rakaat solat sunat rawatib yang menjamin rumah di syurga?",
+      "options": [
+        "6 rakaat",
+        "8 rakaat",
+        "10 rakaat",
+        "12 rakaat"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Solat apakah yang HANYA boleh dilakukan pada bulan Ramadan?",
+      "options": [
+        "Solat Tahajjud",
+        "Solat Dhuha",
+        "Solat Tarawih",
+        "Solat Witir"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Menurut Surah al-Isra':79, apakah ganjaran bagi yang menunaikan solat Tahajjud?",
+      "options": [
+        "Diampunkan dosa",
+        "Dibangkitkan ke tempat yang terpuji (Maqam Mahmud)",
+        "Masuk syurga tanpa hisab",
+        "Dimuliakan di kalangan manusia"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Solat Witir diminta sentiasa berbilang rakaat yang:",
+      "options": [
+        "Genap",
+        "Ganjil",
+        "Berbaki 0 jika dibahagi 3",
+        "Tidak ada syarat"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Solat Sunat", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Rawatib (12 rakaat)", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "Dhuha", "colour": "#7B1FA2" },
+      { "id": "n4", "label": "Tahajjud / Witir", "colour": "#4A148C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "mengiringi fardu" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "pagi" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "malam" }
+    ]
+  },
+  "vocab": [
+    { "word": "السُّنَّة الرَّاتِبَة", "meaning": "sunat rawatib (solat sunat yang mengiringi solat fardu)" },
+    { "word": "الضُّحَى", "meaning": "dhuha (waktu matahari naik — antara Subuh dan Zuhur)" },
+    { "word": "التَّهَجُّد", "meaning": "tahajjud (solat malam selepas tidur)" },
+    { "word": "الْوِتْر", "meaning": "witir (solat ganjil — penutup solat malam)" },
+    { "word": "التَّرَاوِيح", "meaning": "tarawih (solat malam Ramadan berjemaah)" }
+  ],
+  "funFact": "Tahukah kamu bahawa Nabi Muhammad SAW pernah solat malam (Tahajjud) hingga kakinya bengkak-bengkak? Apabila Aisyah r.a. bertanya mengapa baginda bersungguh-sungguh sedangkan dosa-dosanya sudah diampunkan, Nabi SAW menjawab: 'Tidakkah aku ingin menjadi hamba yang sangat bersyukur?' Ini mengajar kita bahawa ibadah bukan sekadar untuk mendapat pahala atau menghapus dosa — tetapi sebagai ungkapan syukur dan kasih kepada Allah. Orang yang paling dicintai Allah bukan yang paling banyak ibadahnya, tetapi yang ibadahnya paling ikhlas dan penuh kesyukuran!"
+}

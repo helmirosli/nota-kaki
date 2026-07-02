@@ -1,0 +1,156 @@
+{
+  "id": "jais-tahun-6-sirah-bab2",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "sirah",
+  "chapter": 2,
+  "title": "Sirah 2: Khalifah Umar bin al-Khattab r.a.",
+  "emoji": "⚔️",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "عُمَر بْنُ الْخَطَّاب — Al-Faruq, Khalifah Kedua",
+      "body": "Umar bin al-Khattab r.a. adalah khalifah kedua Islam (13H-23H). Beliau dikenali sebagai 'al-Faruq' (yang membezakan hak dari batil) dan terkenal dengan keadilan, ketegasan, dan kecekapan pentadbiran yang luar biasa. Di bawah kepimpinannya, empayar Islam berkembang pesat — dari Parsi di timur hingga Mesir di barat."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "⭐",
+          "title": "Biodata Umar al-Faruq r.a.",
+          "body": {
+            "type": "list",
+            "intro": "Maklumat penting tentang Umar r.a.:",
+            "items": [
+              "Nama penuh: Umar bin al-Khattab bin Nufail al-Adawi al-Qurashi",
+              "Gelaran: al-Faruq (pembeza antara hak dan batil)",
+              "Masuk Islam: pada tahun ke-6 kenabian, selepas doa Nabi SAW",
+              "Khilafah: 13H-23H (10 tahun 6 bulan)",
+              "Syahid: ditikam oleh Abu Lu'lu'ah al-Majusi semasa solat Subuh, 23H"
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Sumbangan Besar Umar r.a.",
+          "body": {
+            "type": "list",
+            "intro": "Pencapaian utama Khalifah Umar r.a.:",
+            "items": [
+              "Membebaskan Jerusalem (Baitulmaqdis) 638M — memasuki dengan kenderaan bergantian dengan pembantunya",
+              "Menakluki Parsi dan Mesir — empayar Islam berkembang dua kali ganda",
+              "Mencipta sistem Takwim Hijriah (kalendar Islam) bermula 622M",
+              "Menubuhkan 'Baitul Mal' (perbendaharaan negara) yang teratur",
+              "Sistem pentadbiran wilayah — gabenor, hakim, tentera yang kemas"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Keadilan Umar r.a. yang Terkenal",
+          "body": {
+            "type": "list",
+            "intro": "Kisah-kisah keadilan Umar r.a. yang masyhur:",
+            "items": [
+              "Berbaris bersama rakyat biasa untuk mengambil ration — tidak ada keistimewaan sebagai khalifah",
+              "Membawa sendiri guni tepung ke rumah seorang janda miskin pada malam hari (tanpa orang tahu)",
+              "Berkata: 'Jika seekor keledai terjatuh ke dalam lubang di Iraq, aku takut Allah akan bertanya mengapa aku tidak membina jalan yang baik'",
+              "Membebaskan Jerusalem tanpa pertumpahan darah — solat di luar gereja supaya tidak dijadikan alasan mengambilnya"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "⚔️",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith Nabi SAW tentang kelebihan Umar r.a.:",
+        "arabic": "لَوْ كَانَ بَعْدِي نَبِيٌّ لَكَانَ عُمَر",
+        "translation": "Sekiranya ada Nabi selepas aku, nescaya Umar-lah orangnya.",
+        "source": "Riwayat al-Tirmidzi — hadith yang menunjukkan betapa tingginya kedudukan Umar r.a."
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Pengajaran dari Khilafah Umar r.a.",
+      "items": [
+        "Keadilan tanpa pilih kasih — Umar bahkan bersiap sedia menghukum anaknya sendiri jika bersalah.",
+        "Pemimpin yang rapat dengan rakyat — Umar sendiri turun ke lapangan memeriksa keadaan.",
+        {
+          "type": "arabic",
+          "arabic": "قَالَ عُمَر: كَيْفَ أُحَاسَب عَلَى النَّاسِ وَأَنَا لَا أَعْلَم أَحْوَالَهُم؟",
+          "translation": "Umar berkata: 'Bagaimana aku boleh dipertanggungjawabkan ke atas rakyat jika aku tidak tahu keadaan mereka?'"
+        },
+        "Sistem yang berkesan — Umar mencipta sistem takwim, pentadbiran, dan baitul mal yang masih relevan.",
+        "Ingat: 'Kekuatan sebenar bukanlah kemenangan atas musuh — tetapi kemenangan atas diri sendiri!'"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Mengapa Umar r.a. mendapat gelaran 'al-Faruq'?",
+      "options": [
+        "Kerana beliau sangat kuat dan perkasa",
+        "Kerana beliau memisahkan (membezakan) antara hak dan batil",
+        "Kerana beliau adalah pahlawan perang terhebat",
+        "Kerana Nabi SAW memberinya gelaran itu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah sumbangan Umar r.a. berkaitan sistem masa?",
+      "options": [
+        "Mencipta jam matahari",
+        "Mencipta Takwim Hijriah yang bermula 622M",
+        "Menetapkan waktu solat yang tepat",
+        "Mencipta sistem bulan dan bintang"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Ketika memasuki Jerusalem (Baitulmaqdis), Umar r.a. melakukan sesuatu yang menakjubkan iaitu:",
+      "options": [
+        "Merobohkan gereja-gereja",
+        "Masuk berkuda sambil mengibarkan bendera Islam",
+        "Memasuki secara bergantian dengan pembantunya dan tidak solat di dalam gereja",
+        "Membayar wang kepada penduduk untuk meninggalkan bandar"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bagaimana Umar r.a. syahid?",
+      "options": [
+        "Gugur dalam peperangan",
+        "Sakit panjang",
+        "Ditikam oleh Abu Lu'lu'ah semasa solat Subuh",
+        "Diracun oleh musuh Islam"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Umar al-Faruq r.a.", "colour": "#FF6F00" },
+      { "id": "n2", "label": "Keadilan Terkenal", "colour": "#E65100" },
+      { "id": "n3", "label": "Perluasan Empayar", "colour": "#E65100" },
+      { "id": "n4", "label": "Inovasi Pentadbiran", "colour": "#BF360C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "sifat" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "pencapaian" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "legasi" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْفَارُوق", "meaning": "al-Faruq (pembeza antara hak dan batil)" },
+    { "word": "بَيْت الْمَال", "meaning": "Baitul Mal (perbendaharaan negara Islam)" },
+    { "word": "التَّقْوِيم الْهِجْرِي", "meaning": "Takwim Hijriah (kalendar Islam)" },
+    { "word": "الشَّهِيد", "meaning": "syahid (yang gugur di jalan Allah)" },
+    { "word": "الْعَدَالَة", "meaning": "keadilan" }
+  ],
+  "funFact": "Tahukah kamu bahawa Umar r.a. terkenal dengan amalan 'rondaan malam' (حراسة الليل)? Beliau akan berselindung dengan kain biasa dan keluar bersendirian pada waktu malam untuk memeriksa keadaan rakyatnya. Pada suatu malam, beliau ternampak seorang wanita tua yang memasak batu untuk mengalih perhatian anak-anaknya yang lapar — seolah-olah memasak makanan! Umar terus menangis, pulang, membawa sendiri beg tepung di belakangnya, dan menghantar kepada wanita itu. Wanita tua itu tidak tahu dia adalah Khalifah! Ali r.a. yang mengiringi bertawarkan untuk membawa guni itu, tetapi Umar berkata: 'Kamu akan menanggung beban di dunia ini untukku — tapi siapa yang akan menanggung beban di akhirat nanti?'"
+}

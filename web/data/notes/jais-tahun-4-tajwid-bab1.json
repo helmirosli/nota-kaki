@@ -1,0 +1,173 @@
+{
+  "id": "jais-tahun-4-tajwid-bab1",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "tajwid",
+  "chapter": 1,
+  "title": "Pelajaran 1: Nun Sakinah & Tanwin — Izhar Halqi",
+  "emoji": "📿",
+  "colour": "#1A237E",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "نُونْ سَاكِنَة وَتَنْوِين — Nun Sakinah dan Tanwin",
+      "body": "Dalam pelajaran ini kita belajar hukum-hukum bacaan Nun Sakinah (ن mati) dan Tanwin (ً ٍ ٌ). Terdapat 4 hukum: Izhar, Idgham, Iqlab, dan Ikhfa. Kita mulakan dengan Izhar Halqi."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📝",
+          "title": "Apa Itu Nun Sakinah dan Tanwin?",
+          "body": {
+            "type": "list",
+            "intro": "Pengertian asas:",
+            "items": [
+              "نُون سَاكِنَة = huruf Nun yang mati/bertanda sukun (نْ) — wujud dalam tulisan dan bacaan",
+              "تَنْوِين = bunyi Nun mati tambahan di hujung kata nama: ً (fathah dua), ٍ (kasrah dua), ٌ (dhammah dua)",
+              "Contoh Nun Sakinah: مِنْ، عَنْ، أَنْعَمْتَ",
+              "Contoh Tanwin: كِتَابٌ، مُسْلِمٍ، طَالِبًا"
+            ]
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Izhar Halqi — Jelas dan Terang",
+          "body": {
+            "type": "list",
+            "intro": "Pengertian Izhar Halqi:",
+            "items": [
+              "Izhar = sebut dengan JELAS, TERANG, tanpa dengung",
+              "Halqi = huruf-hurufnya keluar dari TEKAK (حلق)",
+              "Berlaku apabila Nun Sakinah atau Tanwin bertemu 6 huruf halqi: ء ه ع ح غ خ",
+              "Cara baca: lafazkan Nun Sakinah/Tanwin dengan terang, tidak lebur ke huruf berikutnya"
+            ]
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "6 Huruf Izhar Halqi",
+          "body": {
+            "type": "pairs",
+            "intro": "Hafaz 6 huruf ini — semuanya keluar dari tekak:",
+            "rows": [
+              { "arabic": "ء (hamzah)", "meaning": "seperti 'a' di awal — أَحَد" },
+              { "arabic": "ه (ha')", "meaning": "seperti 'h' hembus — هَادِي" },
+              { "arabic": "ع ('ain)", "meaning": "dari pertengahan tekak — عَلِيم" },
+              { "arabic": "ح (ha)", "meaning": "tekak tengah — حَكِيم" },
+              { "arabic": "غ (ghain)", "meaning": "dari tekak atas — غَفُور" },
+              { "arabic": "خ (kha)", "meaning": "tekak atas — خَالِق" }
+            ],
+            "outro": "Hafaz: أَهَّا عَحَّا غَخَّا — ini 6 huruf Izhar Halqi!"
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Contoh Izhar Halqi dalam Al-Quran",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh-contoh Izhar Halqi (garisbawah = Nun Sakinah/Tanwin bertemu huruf halqi):",
+            "arabic": "مِنْ أَهْلِ الْكِتَابِ (نْ + أ)\nعَلِيمٌ حَكِيمٌ (ٌ + ح)\nمَنْ عَمِلَ صَالِحًا (نْ + ع)\nكِتَابٌ غَيْرُ ذِي عِوَجٍ (ٌ + غ)",
+            "translation": "daripada ahli Kitab | Yang Maha Mengetahui lagi Maha Bijaksana | sesiapa yang beramal soleh | Kitab yang tidak ada kebenkokan padanya"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "list",
+        "intro": "Ringkasan Izhar Halqi:",
+        "items": [
+          "Bila: Nun Sakinah/Tanwin bertemu ء ه ع ح غ خ",
+          "Cara: baca Nun JELAS tanpa dengung, terang dan bersih",
+          "Cara mudah ingat 6 huruf: أَهَّا عَحَّا غَخَّا (ambil satu-satu huruf)"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengenal dan Membaca Izhar Halqi",
+      "items": [
+        "Cari Nun Sakinah (نْ) atau Tanwin (ً ٍ ٌ) dalam ayat.",
+        "Lihat huruf SELEPAS Nun Sakinah/Tanwin.",
+        "Jika huruf itu adalah ء ه ع ح غ خ — ini IZHAR HALQI.",
+        {
+          "type": "arabic",
+          "arabic": "مَنْ + عَمِلَ = مَنْ عَمِلَ",
+          "translation": "نْ bertemu ع → baca Nun dengan jelas: 'man-'amila'"
+        },
+        "Baca dengan terang dan bersih — jangan ada dengung selepas Nun."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa banyak huruf Izhar Halqi?",
+      "options": [
+        "4 huruf",
+        "5 huruf",
+        "6 huruf",
+        "8 huruf"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah maksud 'Izhar' dalam tajwid?",
+      "options": [
+        "Masukkan",
+        "Tukar",
+        "Sembunyi",
+        "Jelas dan terang"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Huruf manakah yang BUKAN termasuk dalam Izhar Halqi?",
+      "options": [
+        "ء",
+        "ب",
+        "ع",
+        "ه"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dalam perkataan 'عَلِيمٌ حَكِيمٌ', tanwin (ٌ) bertemu dengan huruf apa?",
+      "options": [
+        "ء",
+        "ع",
+        "ح",
+        "غ"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Nun Sakinah / Tanwin", "colour": "#1A237E" },
+      { "id": "n2", "label": "Izhar Halqi", "colour": "#283593" },
+      { "id": "n3", "label": "Idgham", "colour": "#303F9F" },
+      { "id": "n4", "label": "Iqlab", "colour": "#303F9F" },
+      { "id": "n5", "label": "Ikhfa", "colour": "#303F9F" },
+      { "id": "n6", "label": "ء ه ع ح غ خ", "colour": "#3F51B5" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "hukum 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "hukum 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "hukum 3" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "hukum 4" },
+      { "id": "e5", "source": "n2", "target": "n6", "label": "6 huruf" }
+    ]
+  },
+  "vocab": [
+    { "word": "إِظْهَار", "meaning": "jelas / terang (nama hukum)" },
+    { "word": "حَلْقِي", "meaning": "berkaitan tekak (halq = tekak)" },
+    { "word": "نُون سَاكِنَة", "meaning": "huruf Nun yang bertanda mati" },
+    { "word": "تَنْوِين", "meaning": "baris dua di akhir kata nama" },
+    { "word": "دَنْدَنَة / غُنَّة", "meaning": "dengung hidung" }
+  ],
+  "funFact": "Tahukah kamu bahawa ilmu tajwid bermula dari zaman Rasulullah SAW sendiri? Baginda belajar membaca al-Quran terus dari Jibril a.s. dengan cara pertalaqqi (berhadapan muka). Sistem tajwid mula dicodkan secara bertulis pada abad ke-3 Hijriah oleh ulama seperti Imam Khalil al-Farahidi. Kita hari ini belajar tajwid menggunakan sistem yang sama dengan yang diajar Jibril kepada Nabi Muhammad SAW lebih 1400 tahun dahulu!"
+}

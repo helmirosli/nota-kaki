@@ -1,0 +1,167 @@
+{
+  "id": "jais-tahun-4-akhlak-bab3",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "akhlak",
+  "chapter": 3,
+  "title": "Bab 3: Adab dengan Ibu Bapa",
+  "emoji": "🌱",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْأَدَب مَعَ الْوَالِدَيْن — Adab dengan Ibu Bapa",
+      "body": "Berbakti kepada ibu bapa adalah kewajipan yang Allah SWT letakkan terus selepas perintah bertauhid. Ibu bapa adalah manusia yang paling berjasa dalam hidup kita. Doa ibu bapa adalah salah satu doa yang paling cepat dimakbulkan Allah SWT."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Perintah Allah tentang Ibu Bapa",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah yang menggandingkan perintah tauhid dengan berbakti kepada ibu bapa:",
+            "arabic": "وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا",
+            "translation": "Dan Tuhanmu telah memerintahkan supaya kamu tidak menyembah selain Dia, dan hendaklah kamu berbuat baik kepada ibu bapa.",
+            "source": "Surah al-Isra': 23"
+          }
+        },
+        {
+          "icon": "💚",
+          "title": "Adab-adab dengan Ibu Bapa",
+          "body": {
+            "type": "list",
+            "intro": "Cara beradab yang betul dengan ibu bapa:",
+            "items": [
+              "Berkata dengan lembut — tidak meninggikan suara apatah lagi menengking",
+              "Taat perintah ibu bapa selagi tidak melanggar perintah Allah",
+              "Membantu kerja rumah tanpa disuruh berulang kali",
+              "Mendoakan ibu bapa setiap hari — terutama dalam solat",
+              "Tidak berjalan di hadapan mereka dengan sombong",
+              "Meminta izin sebelum pergi ke mana-mana"
+            ]
+          }
+        },
+        {
+          "icon": "🤲",
+          "title": "Doa untuk Ibu Bapa",
+          "body": {
+            "type": "arabic",
+            "instruction": "Doa yang diajar Allah dalam al-Quran untuk ibu bapa:",
+            "arabic": "رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+            "translation": "Ya Tuhanku, kasihilah mereka berdua (ibu bapa) sebagaimana mereka telah mendidikku sewaktu kecil.",
+            "source": "Surah al-Isra': 24"
+          }
+        },
+        {
+          "icon": "⭐",
+          "title": "Kelebihan Berbakti kepada Ibu Bapa",
+          "body": {
+            "type": "list",
+            "intro": "Ganjaran bagi anak yang berbakti:",
+            "items": [
+              "Redha Allah bergantung pada redha ibu bapa",
+              "Murka Allah bergantung pada murka ibu bapa",
+              "Doa ibu bapa untuk anaknya dikabulkan Allah",
+              "Berbakti kepada ibu bapa = jihad yang paling utama selepas solat",
+              "Orang yang berbakti kepada ibu bapa dipanjangkan umur dan diluaskan rezeki"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💚",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith tentang redha ibu bapa:",
+        "arabic": "رِضَا اللَّهِ فِي رِضَا الْوَالِدَيْنِ، وَسَخَطُ اللَّهِ فِي سَخَطِ الْوَالِدَيْن",
+        "translation": "Redha Allah ada dalam redha kedua ibu bapa, dan murka Allah ada dalam murka kedua ibu bapa.",
+        "source": "Riwayat al-Tirmidzi"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Berbakti kepada Ibu Bapa Setiap Hari",
+      "items": [
+        "Ucapkan salam kepada ibu bapa setiap pagi dan petang.",
+        "Bantu ibu bapa tanpa mengeluh — kerja rumah adalah ibadah.",
+        "Baca doa untuk ibu bapa selepas setiap solat.",
+        {
+          "type": "arabic",
+          "arabic": "اللَّهُمَّ اغْفِرْ لِي وَلِوَالِدَيَّ وَارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+          "translation": "Ya Allah, ampunkanlah aku dan kedua ibu bapaku, dan kasihilah mereka sebagaimana mereka mendidikku sewaktu kecil."
+        },
+        "Apabila ibu bapa sudah tua, layani mereka dengan penuh kasih sayang — mereka pernah jaga kita bayi!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Dalam al-Quran, perintah berbuat baik kepada ibu bapa datang selepas perintah apa?",
+      "options": [
+        "Perintah menunaikan solat",
+        "Perintah bertauhid (tidak menyembah selain Allah)",
+        "Perintah berpuasa",
+        "Perintah menunaikan zakat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah kata-kata yang TIDAK BOLEH diucapkan kepada ibu bapa walaupun mereka buat silap?",
+      "options": [
+        "Maaf",
+        "Terima kasih",
+        "Kata-kata kasar atau 'Ah!'",
+        "Saya faham"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Menurut hadith, di mana letaknya redha Allah?",
+      "options": [
+        "Dalam solat yang sempurna",
+        "Dalam puasa Ramadan",
+        "Dalam redha kedua ibu bapa",
+        "Dalam sedekah yang ikhlas"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah doa yang Allah ajarkan dalam al-Quran untuk ibu bapa?",
+      "options": [
+        "رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+        "اللَّهُمَّ اغْفِرْ لِي ذُنُوبِي",
+        "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَة",
+        "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ"
+      ],
+      "answer": 0
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Adab dengan Ibu Bapa", "colour": "#4CAF50" },
+      { "id": "n2", "label": "Kata-kata Lembut", "colour": "#388E3C" },
+      { "id": "n3", "label": "Taat & Bantu", "colour": "#388E3C" },
+      { "id": "n4", "label": "Doa untuk Mereka", "colour": "#388E3C" },
+      { "id": "n5", "label": "Redha Allah", "colour": "#66BB6A" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "cara 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "cara 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "cara 3" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "hasilnya" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْوَالِدَان", "meaning": "kedua ibu bapa" },
+    { "word": "بِرّ الْوَالِدَيْن", "meaning": "berbakti kepada ibu bapa" },
+    { "word": "رِضَا", "meaning": "redha / kepuasan hati" },
+    { "word": "سَخَط", "meaning": "murka / marah" },
+    { "word": "إِحْسَان", "meaning": "berbuat baik / kebaikan" }
+  ],
+  "funFact": "Tahukah kamu bahawa Nabi SAW pernah berkata 'ibu, ibu, ibu, kemudian bapa' apabila ditanya siapa yang paling berhak mendapat layanan baik? Seorang sahabat bertanya kepada Nabi SAW: 'Siapa yang paling berhak mendapat layanan baikku?' Nabi SAW menjawab 'ibumu' tiga kali berturut-turut, baru kemudian 'ayahmu'. Ini menunjukkan betapa besarnya jasa ibu — beliau menanggung kesakitan mengandung, melahirkan, dan menyusukan kita!"
+}

@@ -1,0 +1,178 @@
+{
+  "id": "jais-tahun-4-sirah-bab3",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "sirah",
+  "chapter": 3,
+  "title": "Bab 3: Hijrah ke Madinah",
+  "emoji": "🏙️",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْهِجْرَة إِلَى الْمَدِينَة — Hijrah ke Madinah",
+      "body": "Hijrah ke Madinah adalah peristiwa besar dalam sejarah Islam yang berlaku pada tahun 622 Masihi. Ia menjadi titik permulaan Takwim Hijriah (Kalendar Islam). Nabi Muhammad SAW dan kaum muslimin berhijrah dari Mekah ke Madinah (ketika itu dipanggil Yathrib) atas perintah Allah SWT."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📋",
+          "title": "Sebab-sebab Hijrah",
+          "body": {
+            "type": "list",
+            "intro": "Kenapa kaum muslimin perlu berhijrah?",
+            "items": [
+              "Tekanan dan penindasan kaum Quraisy terhadap orang Islam semakin teruk",
+              "Kaum Quraisy merancang untuk membunuh Nabi SAW ('Malam Bertukar Tidur')",
+              "Penduduk Madinah (Ansar) telah bersumpah menerima dan melindungi orang Islam",
+              "Allah SWT memerintahkan hijrah untuk meneruskan dakwah Islam",
+              "Madinah menjadi tempat pembinaan negara Islam yang pertama"
+            ]
+          }
+        },
+        {
+          "icon": "🌙",
+          "title": "Rancangan Pembunuhan Nabi SAW",
+          "body": {
+            "type": "list",
+            "intro": "Rancangan jahat kaum Quraisy (Malam Bertukar Tidur):",
+            "items": [
+              "Kaum Quraisy berkumpul di Darul Nadwah untuk merancang membunuh Nabi SAW",
+              "Rancangan: setiap kabilah hantar seorang pemuda berbilang kabilah menikam Nabi serentak",
+              "Nabi SAW diberitahu oleh Allah tentang rancangan ini melalui wahyu",
+              "Ali bin Abi Talib r.a. berbaring di tempat tidur Nabi SAW untuk mengelirukan musuh",
+              "Nabi SAW keluar dengan selamat walaupun musuh berjaga di depan pintu"
+            ]
+          }
+        },
+        {
+          "icon": "🕳️",
+          "title": "Perjalanan Nabi SAW ke Madinah",
+          "body": {
+            "type": "list",
+            "intro": "Perjalanan bersejarah Nabi SAW dan Abu Bakar r.a.:",
+            "items": [
+              "Nabi SAW ditemani Abu Bakar r.a. dalam perjalanan ke Madinah",
+              "Mereka bersembunyi di Gua Thur selama 3 hari",
+              "Musuh Quraisy datang ke mulut gua — tapi tidak melihat mereka",
+              "Abu Bakar berasa takut: 'Jika mereka melihat ke bawah kaki mereka, mereka akan nampak kita'",
+              "Nabi SAW berkata: 'Jangan takut, Allah bersama kita' (Surah al-Taubah: 40)",
+              "Seekor labah-labah membuat sarang dan merpati bertelur — musuh pun beredar"
+            ]
+          }
+        },
+        {
+          "icon": "🕌",
+          "title": "Penerimaan di Madinah",
+          "body": {
+            "type": "list",
+            "intro": "Sambutan meriah penduduk Madinah:",
+            "items": [
+              "Penduduk Madinah (Ansar) menyambut Nabi SAW dengan nyanyian 'Tala'a al-Badru Alayna'",
+              "Nabi SAW membina Masjid Nabawi — masjid Islam yang pertama di Madinah",
+              "Baginda mempersaudarakan Muhajirin (dari Mekah) dengan Ansar (penduduk Madinah)",
+              "Piagam Madinah ditubuhkan — perlembagaan negara Islam pertama di dunia",
+              "Madinah menjadi pusat pemerintahan dan penyebaran Islam"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Firman Allah tentang Hijrah:",
+        "arabic": "لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
+        "translation": "Jangan bersedih, sesungguhnya Allah bersama kita.",
+        "source": "Surah al-Taubah: 40",
+        "outro": "Ini kata-kata Nabi SAW kepada Abu Bakar r.a. di dalam Gua Thur — pengajaran besar tentang tawakal kepada Allah!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Kronologi Hijrah ke Madinah",
+      "items": [
+        "Kaum Quraisy merancang membunuh Nabi SAW di Darul Nadwah.",
+        "Ali r.a. tidur di tempat Nabi SAW — Nabi SAW dan Abu Bakar r.a. keluar secara rahsia.",
+        "Bersembunyi di Gua Thur (3 hari) — labah-labah dan merpati melindungi mereka.",
+        {
+          "type": "arabic",
+          "arabic": "وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ",
+          "translation": "Dan ingatlah ketika orang-orang kafir merancang untuk menawan, membunuh, atau mengusir kamu."
+        },
+        "Tiba di Madinah — disambut penduduk dengan gembira. Pembinaan Masjid Nabawi bermula.",
+        "Tahun 1 Hijriah mula dikira — sistem takwim Islam bermula dari peristiwa bersejarah ini."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah peristiwa yang menandakan permulaan Takwim Hijriah?",
+      "options": [
+        "Kelahiran Nabi SAW",
+        "Wahyu pertama",
+        "Hijrah ke Madinah",
+        "Pembukaan Mekah"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Siapakah yang menemani Nabi SAW dalam perjalanan hijrah ke Madinah?",
+      "options": [
+        "Saidina Umar r.a.",
+        "Saidina Ali r.a.",
+        "Saidina Abu Bakar r.a.",
+        "Saidina Uthman r.a."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa hari Nabi SAW dan Abu Bakar r.a. bersembunyi di Gua Thur?",
+      "options": [
+        "1 hari",
+        "3 hari",
+        "7 hari",
+        "10 hari"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang dimaksudkan dengan 'Ansar'?",
+      "options": [
+        "Orang Islam dari Mekah yang berhijrah",
+        "Kaum Quraisy yang memeluk Islam",
+        "Penduduk Madinah yang menerima dan membantu kaum muslimin",
+        "Para sahabat Nabi SAW yang pertama"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Hijrah ke Madinah", "colour": "#FF6F00" },
+      { "id": "n2", "label": "Gua Thur", "colour": "#E65100" },
+      { "id": "n3", "label": "Muhajirin", "colour": "#E65100" },
+      { "id": "n4", "label": "Ansar", "colour": "#E65100" },
+      { "id": "n5", "label": "Masjid Nabawi", "colour": "#FF8F00" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "bersembunyi" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "orang berhijrah" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "orang penerima" },
+      { "id": "e4", "source": "n3", "target": "n4", "label": "dipersaudarakan" },
+      { "id": "e5", "source": "n1", "target": "n5", "label": "dibina selepas tiba" }
+    ]
+  },
+  "vocab": [
+    { "word": "هِجْرَة", "meaning": "berpindah tempat kerana Allah" },
+    { "word": "الْمُهَاجِرُون", "meaning": "orang yang berhijrah dari Mekah" },
+    { "word": "الْأَنْصَار", "meaning": "penduduk Madinah yang membantu" },
+    { "word": "غَار ثَوْر", "meaning": "Gua Thur — tempat bersembunyi" },
+    { "word": "التَّقْوِيم الْهِجْرِي", "meaning": "Kalendar Hijriah" }
+  ],
+  "funFact": "Tahukah kamu bahawa labah-labah yang membuat sarang di Gua Thur sebenarnya bukan mukjizat biasa? Dalam sejarah, disebutkan seekor labah-labah membuat sarang dan dua ekor merpati bertelur di mulut gua, meyakinkan musuh bahawa tiada orang masuk ke dalam gua itu. Cerita ini mengajar kita bahawa Allah boleh menggunakan makhluk sekecil labah-labah untuk melindungi Nabi-Nya. Jangan pandang rendah perkara kecil — Allah menggunakan semua yang Dia ciptakan dalam rencana-Nya!"
+}

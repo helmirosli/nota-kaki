@@ -1,0 +1,147 @@
+{
+  "id": "jais-tahun-5-jawi-bab2",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "jawi",
+  "chapter": 2,
+  "title": "Kata Mengkomakan Imbuhan 'i-'",
+  "emoji": "🖊️",
+  "colour": "#FF9800",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "كات يغ مڠكوناكن ايمبوهن 'i-' — Pelajaran Kedua",
+      "body": "Pelajaran ini menerangkan cara menulis dalam tulisan Jawi kata-kata Melayu yang menggunakan imbuhan akhiran '-i'. Cara penulisan '-i' dalam Jawi berbeza mengikut huruf akhir kata dasar — sama ada ditulis dengan '-ي' atau '-ءي'."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "1️⃣",
+          "title": "Unit 1 — Imbuhan 'i-' Ditulis Dengan Huruf '-ي'",
+          "body": {
+            "type": "list",
+            "intro": "Imbuhan '-i' ditulis dengan huruf '-ي' (ya sahaja) apabila:",
+            "items": [
+              "Kata dasar berakhir dengan konsonan (huruf mati).",
+              "Contoh perkataan: هياسي (hiasi), اوبتي (ubati), دچونتوهي (dicontohi), منوتوفي (menutupi), ممبركتي (memberkati)"
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Contoh Kata — Imbuhan '-ي'",
+          "body": {
+            "type": "pairs",
+            "intro": "Kata dengan imbuhan 'i-' ditulis '-ي' dalam Jawi:",
+            "rows": [
+              { "arabic": "هياسي", "meaning": "hiasi (kata dasar: hias + i → berakhir konsonan 's')" },
+              { "arabic": "اوبتي", "meaning": "ubati (kata dasar: ubat + i → berakhir konsonan 't')" },
+              { "arabic": "دچونتوهي", "meaning": "dicontohi (kata dasar: contoh + i → berakhir konsonan 'h')" },
+              { "arabic": "منوتوفي", "meaning": "menutupi (kata dasar: tutup + i → berakhir konsonan 'p')" },
+              { "arabic": "ممبركتي", "meaning": "memberkati (kata dasar: berkat + i → berakhir konsonan 't')" }
+            ]
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Contoh Ayat — Imbuhan '-ي'",
+          "body": {
+            "type": "list",
+            "intro": "Contoh penggunaan dalam ayat:",
+            "items": [
+              "فڠاوس سكوله مستيله ممفواءي اخلاق ترفوجي دان بوليه دچونتوهي. (Pengawas sekolah mestilah mempunyai akhlak terpuji dan boleh dicontohi.)",
+              "سسياقا يغ منوتوفي عاءيب سسأورغ مسلم سوقتو ددنيا، مك الله اكن منوتوف عاءيبث قد هاري قيامة. (Sesiapa yang menutupi aib seseorang muslim sewaktu di dunia, maka Allah akan menutupi aibnya pada hari kiamat.)",
+              "برزكاتله سوڤايا الله ممبركتي هيدوف كيت. (Berzakatlah supaya Allah memberkati hidup kita.)"
+            ]
+          }
+        },
+        {
+          "icon": "2️⃣",
+          "title": "Unit 2 — Imbuhan 'i-' Ditulis Dengan Huruf '-ءي'",
+          "body": {
+            "type": "list",
+            "intro": "Imbuhan '-i' ditulis dengan huruf '-ءي' (hamzah+ya) apabila:",
+            "items": [
+              "Kata dasar berakhir dengan vokal (a, i, u).",
+              "Contoh perkataan: مراساءي (merasai), دفرستوجوءي (dipersetujui), دسوكاءي (disukai), منروكاءي (menerokai)"
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Contoh Kata — Imbuhan '-ءي'",
+          "body": {
+            "type": "pairs",
+            "intro": "Kata dengan imbuhan 'i-' ditulis '-ءي' dalam Jawi:",
+            "rows": [
+              { "arabic": "مراساءي", "meaning": "merasai (kata dasar: rasa + i → berakhir vokal 'a')" },
+              { "arabic": "دفرستوجوءي", "meaning": "dipersetujui (kata dasar: setuju + i → berakhir vokal 'u')" },
+              { "arabic": "دسوكاءي", "meaning": "disukai (kata dasar: suka + i → berakhir vokal 'a')" },
+              { "arabic": "منروكاءي", "meaning": "menerokai (kata dasar: teroka + i → berakhir vokal 'a')" },
+              { "arabic": "مراساءي", "meaning": "merasai (kata dasar: rasa + i → berakhir vokal 'a')" }
+            ]
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Contoh Ayat — Imbuhan '-ءي'",
+          "body": {
+            "type": "list",
+            "intro": "Contoh penggunaan dalam ayat:",
+            "items": [
+              "دوكتور شيخ مظفر شكور تله منروكاءي اڠكاس لقس قد 10 اوكتوبر 2007. (Doktor Sheikh Muzaffar Shukur telah menerokai angkasa lepas pada 10 Oktober 2007.)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Ringkasan: Imbuhan '-i' dalam Jawi → '-ي' (kata dasar berakhir konsonan), '-ءي' (kata dasar berakhir vokal a/i/u)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Perkataan 'dicontohi' dalam Jawi ditulis sebagai...",
+      "options": ["دچونتوهءي", "دچونتوهي", "دچونتوهاي", "دچونتوهوي"],
+      "answer": 1
+    },
+    {
+      "q": "Imbuhan '-i' bagi kata dasar yang berakhir dengan vokal ditulis dalam Jawi dengan huruf...",
+      "options": ["-ي", "-ءي", "-اي", "-وي"],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan 'disukai' (suka+i) dalam Jawi ditulis sebagai...",
+      "options": ["دسوكاي", "دسوكيءي", "دسوكاءي", "دسوكوي"],
+      "answer": 2
+    },
+    {
+      "q": "Antara berikut, manakah kata yang menggunakan imbuhan '-i' ditulis '-ي' (tanpa hamzah)?",
+      "options": ["merasai", "disukai", "menutupi", "menerokai"],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Imbuhan '-i'", "colour": "#FF9800" },
+      { "id": "n2", "label": "Jawi: '-ي'", "colour": "#F57C00" },
+      { "id": "n3", "label": "Jawi: '-ءي'", "colour": "#EF6C00" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "kata dasar berakhir konsonan" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "kata dasar berakhir vokal" }
+    ]
+  },
+  "vocab": [
+    { "word": "ايمبوهن", "meaning": "Imbuhan — unsur yang ditambah pada kata dasar untuk membentuk kata baru" },
+    { "word": "هياسي", "meaning": "Hiasi (Jawi: هياسي) — kata dasar: hias; imbuhan '-i' ditulis '-ي'" },
+    { "word": "مراساءي", "meaning": "Merasai (Jawi: مراساءي) — kata dasar: rasa; imbuhan '-i' ditulis '-ءي'" },
+    { "word": "دسوكاءي", "meaning": "Disukai (Jawi: دسوكاءي) — kata dasar: suka; imbuhan '-i' ditulis '-ءي'" },
+    { "word": "منروكاءي", "meaning": "Menerokai (Jawi: منروكاءي) — kata dasar: teroka; imbuhan '-i' ditulis '-ءي'" }
+  ],
+  "funFact": "Tahukah kamu bahawa Doktor Sheikh Muzaffar Shukur yang disebut dalam buku ini adalah angkasawan Malaysia yang pertama? Beliau menerokai angkasa lepas pada 10 Oktober 2007 menaiki kapal angkasa Soyuz TMA-11 ke Stesen Angkasa Antarabangsa (ISS). Beliau adalah kebanggaan Malaysia!"
+}

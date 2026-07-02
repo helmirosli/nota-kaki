@@ -1,0 +1,150 @@
+{
+  "id": "jais-tahun-4-khat-bab2",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "khat",
+  "chapter": 2,
+  "title": "Khat 2: Menulis Kalimah dan Ayat",
+  "emoji": "🖊️",
+  "colour": "#795548",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "كِتَابَة الْكَلِمَات وَالْجُمَل — Menulis Kalimah dan Ayat",
+      "body": "Setelah menguasai huruf asas, sekarang kita belajar menulis kalimah (perkataan) dan ayat dalam Khat Nasakh. Dalam latihan ini, kita fokus pada keseragaman saiz huruf, jarak antara perkataan, dan keindahan keseluruhan tulisan."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🖊️",
+          "title": "Latihan Kalimah Khat — Set 1",
+          "body": {
+            "type": "arabic",
+            "instruction": "Salin kalimah-kalimah ini dengan Khat Nasakh yang indah:",
+            "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\nالْحَمْدُ لِلَّهِ\nسُبْحَانَ اللَّهِ\nلَا إِلَٰهَ إِلَّا اللَّهُ",
+            "translation": "Dengan nama Allah Yang Pemurah lagi Penyayang\nSegala puji bagi Allah\nMaha Suci Allah\nTiada Tuhan selain Allah"
+          }
+        },
+        {
+          "icon": "🖊️",
+          "title": "Latihan Kalimah Khat — Set 2",
+          "body": {
+            "type": "arabic",
+            "instruction": "Salin ayat al-Quran pendek ini:",
+            "arabic": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ\nفَإِنَّ مَعَ الْعُسْرِ يُسْرًا\nوَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّهِ",
+            "translation": "Sesungguhnya Allah bersama orang-orang yang sabar\nSesungguhnya bersama kesulitan ada kemudahan\nTidak ada kemenangan kecuali dari sisi Allah"
+          }
+        },
+        {
+          "icon": "📊",
+          "title": "Perkadaran Huruf dalam Khat Nasakh",
+          "body": {
+            "type": "list",
+            "intro": "Panduan perkadaran (nisbah) dalam khat Nasakh:",
+            "items": [
+              "Huruf Alif tegak (ا) = ukuran piawai — ukur semua huruf lain berdasarkan ini",
+              "Huruf lingkaran (م، ع) = kira-kira 1 unit Alif",
+              "Huruf panjang ke bawah (ق، غ) = jarak ke bawah garis kira-kira 1-2 unit",
+              "Jarak antara huruf = kira-kira 1/2 unit Alif",
+              "Jarak antara perkataan = kira-kira 1 unit Alif"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "✨",
+      "text": {
+        "type": "list",
+        "intro": "Cara menilai khat yang baik:",
+        "items": [
+          "KONSISTEN — semua huruf yang sama bentuknya seragam",
+          "SEIMBANG — kiri dan kanan seimbang, tidak condong",
+          "BERNYAWA — ada irama dalam tulisan — tidak kaku",
+          "BERSIH — tiada cengkerang atau dakwat berlebihan"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Berlatih Khat dengan Berkesan",
+      "items": [
+        "Trace (jejak) tulisan khat contoh dahulu sebelum menulis sendiri.",
+        "Tulis satu perkataan 10 kali berturut-turut sebelum tukar perkataan lain.",
+        {
+          "type": "arabic",
+          "arabic": "الله × 10, kemudian محمد × 10, kemudian الإسلام × 10",
+          "translation": "Latih setiap perkataan berulang kali hingga tangan biasa dengan pergerakannya"
+        },
+        "Bandingkan tulisan kamu dengan contoh — cari apa yang perlu diperbaiki.",
+        "Minta guru atau ibu bapa nilai tulisan kamu — pandangan luar sangat membantu."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah kalimah yang biasa digunakan sebagai 'ukuran piawai' dalam khat Nasakh?",
+      "options": [
+        "Huruf Mim (م)",
+        "Huruf Alif (ا)",
+        "Huruf Lam (ل)",
+        "Huruf Ba' (ب)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah cara terbaik untuk mula belajar menulis khat?",
+      "options": [
+        "Terus tulis sendiri tanpa contoh",
+        "Trace (jejak) contoh tulisan dahulu",
+        "Gunakan komputer untuk cetak",
+        "Tiru tulisan dalam buku latihan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang dimaksudkan dengan 'konsisten' dalam khat?",
+      "options": [
+        "Menulis dengan cepat",
+        "Menggunakan tinta yang sama",
+        "Semua huruf yang sama mempunyai bentuk yang seragam",
+        "Tidak membuat kesilapan"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa kali disyorkan menulis satu perkataan sebelum beralih ke perkataan lain?",
+      "options": [
+        "1-2 kali",
+        "3-5 kali",
+        "10 kali",
+        "50 kali"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Khat Nasakh Lanjutan", "colour": "#795548" },
+      { "id": "n2", "label": "Kalimah Zikir", "colour": "#5D4037" },
+      { "id": "n3", "label": "Ayat al-Quran", "colour": "#5D4037" },
+      { "id": "n4", "label": "Perkadaran Huruf", "colour": "#4E342E" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "latihan 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "latihan 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "teknik" }
+    ]
+  },
+  "vocab": [
+    { "word": "كَلِمَة", "meaning": "kalimah / perkataan" },
+    { "word": "جُمْلَة", "meaning": "ayat / frasa" },
+    { "word": "نِسْبَة", "meaning": "nisbah / perkadaran" },
+    { "word": "اتِّزَان", "meaning": "keseimbangan" },
+    { "word": "تَمَرُّن", "meaning": "latihan / berlatih" }
+  ],
+  "funFact": "Tahukah kamu bahawa terdapat lebih dari 20 jenis khat Arab yang berbeza? Yang paling terkenal ialah: Nasakh (paling biasa), Kufi (tertua, tegak-lurus), Thuluth (digunakan di masjid), Diwani (digunakan dalam dokumen rasmi Uthmaniyyah), dan Farisi (khat Persia yang condong). Setiap khat mempunyai keindahan tersendiri. Al-Quran paling sering dicetak dalam Khat Nasakh kerana ia paling mudah dibaca dan paling jelas!"
+}

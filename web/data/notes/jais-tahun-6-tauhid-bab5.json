@@ -1,0 +1,154 @@
+{
+  "id": "jais-tahun-6-tauhid-bab5",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "tauhid",
+  "chapter": 5,
+  "title": "Tauhid 5: Iman kepada Qada' dan Qadar",
+  "emoji": "⚡",
+  "colour": "#FFB300",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الإِيمَان بِالْقَضَاء وَالْقَدَر — Rukun Iman Keenam",
+      "body": "Iman kepada Qada' dan Qadar adalah rukun iman yang keenam (terakhir). Qada' bermaksud ketetapan atau keputusan Allah, manakala Qadar bermaksud ukuran atau takdir Allah. Percaya kepada Qada' dan Qadar bermaksud kita yakin bahawa semua yang berlaku di alam ini — baik dan buruk — adalah dengan ilmu, kehendak, dan keputusan Allah. Ini bukan bermaksud kita tidak perlu berusaha — tetapi menggabungkan usaha dengan tawakal!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "⚡",
+          "title": "Perbezaan Qada' dan Qadar",
+          "body": {
+            "type": "pairs",
+            "intro": "Memahami perbezaan antara Qada' dan Qadar:",
+            "rows": [
+              { "arabic": "الْقَضَاء", "meaning": "Qada' — ketetapan/keputusan Allah yang telah tertulis di Loh Mahfuz sejak azali (sebelum alam dicipta)" },
+              { "arabic": "الْقَدَر", "meaning": "Qadar — pelaksanaan atau realisasi ketetapan Allah itu dalam masa dan tempat yang ditentukan" },
+              { "arabic": "الْمِثَال", "meaning": "Contoh: Ajal seseorang (masa kematian) adalah Qada'. Kematiannya akibat kemalangan hari ini adalah Qadar." }
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "4 Peringkat Qada' dan Qadar",
+          "body": {
+            "type": "list",
+            "intro": "Empat perkara yang perlu diimani dalam Qada' dan Qadar:",
+            "items": [
+              "1. Ilmu Allah — Allah mengetahui semua yang akan berlaku sejak azali",
+              "2. Kitabah — Allah mencatat semua dalam Loh Mahfuz",
+              "3. Masyi'ah — semua yang berlaku adalah dengan kehendak Allah",
+              "4. Khalq — Allah yang mencipta semua kejadian dan akibatnya"
+            ]
+          }
+        },
+        {
+          "icon": "💪",
+          "title": "Usaha + Tawakal — Formula Mukmin",
+          "body": {
+            "type": "list",
+            "intro": "Cara tepat menghadapi Qada' dan Qadar:",
+            "items": [
+              "BUKAN: duduk sahaja kerana 'semua sudah ditakdirkan'",
+              "BUKAN: usaha keras tanpa ingat Allah sama sekali",
+              "BETUL: Usaha maksimum → lakukan yang terbaik dalam kawalan kita",
+              "BETUL: Tawakal → serahkan keputusan akhir kepada Allah",
+              "Hadith Nabi SAW: 'Ikat unta kamu, kemudian tawakal kepada Allah' (al-Tirmidzi)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "⚡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Firman Allah tentang perkara yang baik dan buruk datang dari Allah:",
+        "arabic": "قُل لَّن يُصِيبَنَا إِلَّا مَا كَتَبَ اللَّهُ لَنَا هُوَ مَوْلَانَا وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُون",
+        "translation": "Katakanlah: 'Tidak akan menimpa kami melainkan apa yang telah Allah tetapkan untuk kami. Dialah pelindung kami. Dan kepada Allah sahajalah orang-orang beriman harus bertawakal.'",
+        "source": "Surah al-Taubah: 51"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Pengajaran Iman kepada Qada' dan Qadar",
+      "items": [
+        "Redha dengan ketentuan Allah — tidak merungut atau putus asa bila ditimpa musibah.",
+        "Tidak sombong bila berjaya — ingat bahawa kejayaan adalah takdir baik dari Allah.",
+        {
+          "type": "arabic",
+          "arabic": "قَالَ النَّبِيُّ ﷺ: عَجَبًا لِأَمْرِ الْمُؤْمِنِ! إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ\nإِنْ أَصَابَتْهُ سَرَّاءُ شَكَرَ فَكَانَ خَيْرًا لَهُ\nوَإِنْ أَصَابَتْهُ ضَرَّاءُ صَبَرَ فَكَانَ خَيْرًا لَهُ",
+          "translation": "Nabi SAW bersabda: 'Ajaib urusan orang Mukmin! Semua urusannya adalah baik. Jika ditimpa kesenangan, dia bersyukur — itu baik baginya. Jika ditimpa kesusahan, dia bersabar — itu pun baik baginya.' (Riwayat Muslim)"
+        },
+        "Tidak patah semangat — musibah mungkin adalah ujian untuk meningkatkan darjat kita.",
+        "Formula hidup Muslim: Usaha → Doa → Tawakal → Redha dengan apa yang Allah takdirkan!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah perbezaan antara Qada' dan Qadar?",
+      "options": [
+        "Qada' berkaitan pahala; Qadar berkaitan dosa",
+        "Qada' adalah ketetapan Allah sejak azali; Qadar adalah pelaksanaannya dalam kehidupan",
+        "Qada' berlaku di syurga; Qadar berlaku di dunia",
+        "Tiada perbezaan — kedua-duanya bermaksud takdir"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Hadith 'Ikat unta kamu, kemudian tawakal' mengajar kita bahawa:",
+      "options": [
+        "Tawakal bermaksud tidak perlu berusaha",
+        "Usaha dan tawakal mesti digabungkan — bukan satu sahaja",
+        "Berusaha lebih penting dari tawakal",
+        "Tawakal lebih penting dari usaha"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Empat peringkat Qada' dan Qadar adalah Ilmu, Kitabah, Masyi'ah, dan:",
+      "options": [
+        "Syukur",
+        "Sabar",
+        "Khalq (penciptaan)",
+        "Iradah"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Menurut hadith Muslim, apa yang patut dilakukan Mukmin bila ditimpa musibah?",
+      "options": [
+        "Marah dan merungut kerana tidak adil",
+        "Bersabar — itu pun baik baginya",
+        "Mencari sebab dan salahkan orang lain",
+        "Berdoa sahaja tanpa bersabar"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Qada' & Qadar", "colour": "#FFB300" },
+      { "id": "n2", "label": "4 Peringkat", "colour": "#FF8F00" },
+      { "id": "n3", "label": "Usaha + Tawakal", "colour": "#FF8F00" },
+      { "id": "n4", "label": "Sabar + Syukur", "colour": "#E65100" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "asas iman" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "cara menghadapi" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "reaksi Mukmin" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْقَضَاء", "meaning": "Qada' (ketetapan/keputusan Allah sejak azali)" },
+    { "word": "الْقَدَر", "meaning": "Qadar (pelaksanaan takdir Allah dalam kehidupan)" },
+    { "word": "اللَّوْح الْمَحْفُوظ", "meaning": "Loh Mahfuz (papan terpelihara — tempat Allah mencatat semua takdir)" },
+    { "word": "التَّوَكُّل", "meaning": "tawakal (berserah kepada Allah selepas berusaha)" },
+    { "word": "الرِّضَا", "meaning": "redha (menerima dengan hati yang tenang ketentuan Allah)" }
+  ],
+  "funFact": "Tahukah kamu bahawa perdebatan tentang Qada' dan Qadar (takdir) adalah salah satu perdebatan falsafah paling lama dalam sejarah manusia? Dalam Islam, perbahasan ini melahirkan pelbagai aliran pemikiran. Golongan Jabariyyah (fatalis) berkata: 'Semua sudah ditentukan, manusia tiada pilihan!' — ini salah. Golongan Mu'tazilah berkata: 'Manusia yang sepenuhnya menentukan takdirnya sendiri!' — ini pun salah. Akidah Ahlus Sunnah wal Jama'ah mengambil jalan tengah: manusia ada ikhtiar (pilihan) tetapi pilihan itu juga dalam lingkungan ilmu Allah. Ibarat manusia memandu kereta di lebuh raya — dia bebas memilih laluan, tetapi lebuh raya dan sistem itu Allah yang cipta!"
+}

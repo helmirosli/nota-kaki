@@ -1,0 +1,128 @@
+{
+  "id": "jais-tahun-5-arab-bab3",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 3,
+  "title": "الرِّحْلَةُ إِلَى شَاطِئِ الْبَحْرِ — Perjalanan ke Pantai",
+  "emoji": "📖",
+  "colour": "#2196F3",
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الدرس الثالث — الرحلة إلى شاطئ البحر",
+      "body": "Pada akhir pelajaran ini, murid dapat: (1) Mendengar cerita perjalanan ke pantai dengan betul. (2) Menyebut cerita perjalanan ke pantai dengan betul. (3) Membaca cerita perjalanan ke pantai dengan jelas. (4) Membentuk jawapan soalan tentang cerita tersebut."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "القصة — الرحلة إلى شاطئ البحر",
+          "body": {
+            "type": "arabic",
+            "instruction": "Baca dan dengar cerita ini:",
+            "arabic": "فِي الْعُطْلَةِ الْمَدْرَسِيَّةِ الْمَاضِيَةِ، ذَهَبَتْ شَهِيْرَةُ مَعَ عَائِلَتِهَا إِلَى شَاطِئِ الْبَحْرِ بِبَاغَن لَالَنْج، بِوِلَايَةِ سَلَانْجُور. يَقَعُ هَذَا الشَّاطِئُ حَوَالَيْ ٢٠ كِيلُومِتْرًا مِنْ بَيْتِهَا. اِنْطَلَقَتْ شَهِيْرَةُ وَعَائِلَتُهَا مِنَ الْمَنْزِلِ فِي الصَّبَاحِ الْبَاكِرِ، وَفِي الطَّرِيقِ، شَاهَدَتْ شَهِيْرَةُ مَزَارِعَ أَشْجَارِ التَّرْجِيل وَالْمَطَّاطِ.",
+            "translation": "Semasa cuti sekolah yang lalu, Shahirah pergi bersama keluarganya ke pantai di Bagan Lalang, Selangor. Pantai ini terletak kira-kira 20 kilometer dari rumahnya. Shahirah dan keluarganya bertolak dari rumah pada waktu pagi yang awal. Di sepanjang perjalanan, Shahirah melihat ladang pokok kelapa sawit dan getah."
+          }
+        },
+        {
+          "icon": "🏖️",
+          "title": "Kosa Kata Penting — Perjalanan ke Pantai",
+          "body": {
+            "type": "pairs",
+            "intro": "Kosa kata penting dari cerita ini:",
+            "rows": [
+              { "arabic": "شَاطِئُ الْبَحْرِ", "meaning": "Syaathi'ul bahr — pantai laut" },
+              { "arabic": "عَائِلَةٌ", "meaning": "'Aa'ilah — keluarga" },
+              { "arabic": "الْعُطْلَةُ", "meaning": "Al-'Uthlah — cuti/percutian" },
+              { "arabic": "الْمَنْزِلُ", "meaning": "Al-Manzil — rumah" },
+              { "arabic": "الصَّبَاحُ الْبَاكِرُ", "meaning": "Ash-Shabaahul Baakir — waktu pagi awal" },
+              { "arabic": "مَزَارِعُ", "meaning": "Mazaari' — ladang-ladang" }
+            ]
+          }
+        },
+        {
+          "icon": "🌊",
+          "title": "Sambungan Cerita — Di Pantai",
+          "body": {
+            "type": "arabic",
+            "instruction": "Sambungan cerita di pantai:",
+            "arabic": "فَلَمَّا وَصَلُوا إِلَى شَاطِئِ الْبَحْرِ، كَانَتْ شَهِيْرَةُ وَأُمُّهَا اسْتَرَاحَتَا تَحْتَ ظِلِّ الشَّجَرَةِ الْمُوْرِقَةِ، وَأَمَّا أَخُوهَا لَعِبَ كُرَةَ الْقَدَم مَعَ أَبِيهِ، ثُمَّ سَبَحَا فِي الْبَحْرِ. بَعْدَ ذَلِكَ تَنَاوَلُوا الْأَطْعِمَةَ وَالْأَشْرِبَةَ، وَفِي الْمَسَاءِ عَادُوا إِلَى مَنْزِلِهِمْ فَرِحِيْنَ مَسْرُوْرِيْنَ.",
+            "translation": "Apabila sampai di pantai, Shahirah dan ibunya berehat di bawah naungan pokok yang rendang, manakala abangnya bermain bola sepak dengan ayahnya, kemudian mereka berenang di laut. Selepas itu mereka menjamu selera, dan pada waktu petang mereka pulang ke rumah dengan rasa gembira dan senang hati."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Cerita ini menggunakan kata kerja lampau (fi'l maadhi): ذَهَبَتْ (telah pergi)، اسْتَرَاحَتَا (berehat)، لَعِبَ (bermain)، تَنَاوَلُوا (menjamu selera)، عَادُوا (pulang). Pantai Bagan Lalang terletak di Selangor, kira-kira 20 km dari rumah Shahirah."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Di manakah lokasi pantai yang dikunjungi Shahirah?",
+      "options": [
+        "Port Dickson, Negeri Sembilan",
+        "Bagan Lalang, Selangor",
+        "Cherating, Pahang",
+        "Pantai Timur, Kelantan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah maksud 'شَاطِئُ الْبَحْرِ' dalam bahasa Melayu?",
+      "options": [
+        "Taman permainan",
+        "Hutan lipur",
+        "Pantai laut",
+        "Ladang pertanian"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apa yang Shahirah dan ibunya lakukan di pantai?",
+      "options": [
+        "Bermain bola sepak",
+        "Berenang di laut",
+        "Berehat di bawah naungan pokok",
+        "Memancing ikan"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang dilakukan abang Shahirah bersama ayahnya?",
+      "options": [
+        "Berehat di bawah pokok",
+        "Bermain bola sepak dan berenang",
+        "Membeli makanan",
+        "Memandu kereta"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "الرحلة إلى الشاطئ", "colour": "#2196F3" },
+      { "id": "n2", "label": "شهيرة والعائلة", "colour": "#1976D2" },
+      { "id": "n3", "label": "بيتهم", "colour": "#42A5F5" },
+      { "id": "n4", "label": "شاطئ البحر", "colour": "#1565C0" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n2", "target": "n3", "label": "bertolak dari" },
+      { "id": "e2", "source": "n2", "target": "n4", "label": "pergi ke" },
+      { "id": "e3", "source": "n2", "target": "n3", "label": "pulang ke" }
+    ]
+  },
+  "vocab": [
+    { "word": "الرِّحْلَةُ", "meaning": "Ar-Rihlah — perjalanan/lawatan" },
+    { "word": "شَاطِئُ الْبَحْرِ", "meaning": "Syaathi'ul bahr — pantai laut" },
+    { "word": "الْعُطْلَةُ الْمَدْرَسِيَّةُ", "meaning": "Al-'Uthlatul Madrasiyyah — cuti sekolah" },
+    { "word": "اسْتَرَاحَ", "meaning": "Istaraaha — berehat" },
+    { "word": "تَنَاوَلَ", "meaning": "Tanaawala — menjamu selera / memakan" },
+    { "word": "فَرِحٌ مَسْرُوْرٌ", "meaning": "Farihun masruurun — gembira dan senang hati" }
+  ],
+  "funFact": "Tahukah kamu bahawa Bagan Lalang adalah sebuah perkampungan nelayan di Sepang, Selangor? Pantainya terkenal sebagai destinasi percutian keluarga di hujung minggu. Dalam bahasa Arab, 'شاطئ' bermaksud pantai atau tepi sungai/laut. Perkataan yang sama digunakan dalam al-Quran dalam Surah al-Qasas ayat 30: 'مِن شَاطِئِ الوَادِ الأَيْمَنِ' — 'dari tebing lembah sebelah kanan'!"
+}

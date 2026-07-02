@@ -1,0 +1,158 @@
+{
+  "id": "jais-tahun-6-tauhid-bab3",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "tauhid",
+  "chapter": 3,
+  "title": "Tauhid 3: Iman kepada Kitab-kitab Allah",
+  "emoji": "📚",
+  "colour": "#FFB300",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الإِيمَان بِالْكُتُب — Rukun Iman Ketiga",
+      "body": "Iman kepada kitab-kitab Allah adalah rukun iman yang ketiga. Allah menurunkan kitab-kitab suci kepada para Nabi sebagai panduan untuk manusia. Kita wajib beriman dengan semua kitab Allah — walaupun hanya 4 yang perlu diketahui dengan lengkap. Al-Quran adalah kitab terakhir, sempurna, dan terpelihara — tidak pernah dan tidak akan berubah hingga Hari Kiamat."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📚",
+          "title": "Empat Kitab Utama Allah",
+          "body": {
+            "type": "pairs",
+            "intro": "Empat kitab besar yang wajib diketahui:",
+            "rows": [
+              { "arabic": "التَّوْرَاة", "meaning": "Taurat — diturunkan kepada Nabi Musa a.s. (dalam bahasa Ibrani)" },
+              { "arabic": "الزَّبُور", "meaning": "Zabur — diturunkan kepada Nabi Daud a.s. (kitab mazmur/nyanyian pujian)" },
+              { "arabic": "الإِنْجِيل", "meaning": "Injil — diturunkan kepada Nabi Isa a.s. (dalam bahasa Aramaic)" },
+              { "arabic": "الْقُرْآن الْكَرِيم", "meaning": "al-Quran — diturunkan kepada Nabi Muhammad SAW (dalam bahasa Arab, terpelihara)" }
+            ]
+          }
+        },
+        {
+          "icon": "⭐",
+          "title": "Keistimewaan al-Quran",
+          "body": {
+            "type": "list",
+            "intro": "Mengapa al-Quran istimewa berbanding kitab-kitab sebelumnya:",
+            "items": [
+              "Satu-satunya kitab yang terpelihara 100% — tidak berubah sejak diturunkan 1,400 tahun lalu",
+              "Dihafaz oleh jutaan manusia (huffaz) — tiada kitab lain yang dihafaz sebanyak ini",
+              "Berlaku untuk semua manusia hingga Hari Kiamat — bukan untuk satu kaum sahaja",
+              "Mukjizat bahasa — tiada siapa yang dapat meniru gaya bahasa dan keindahannya",
+              "Allah sendiri yang menjaga: 'إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُون' (al-Hijr:9)"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Suhuf — Lembaran Wahyu Lain",
+          "body": {
+            "type": "list",
+            "intro": "Selain 4 kitab besar, terdapat Suhuf (lembaran-lembaran wahyu):",
+            "items": [
+              "Suhuf Ibrahim a.s. — 10 suhuf (lembaran wahyu kepada Nabi Ibrahim)",
+              "Suhuf Musa a.s. — 10 suhuf (sebelum Taurat diturunkan)",
+              "Suhuf Idris a.s. — 30 suhuf",
+              "Suhuf Adam a.s. — 10 suhuf",
+              "Jumlah kesemuanya: 104 kitab/suhuf — yang wajib kita ketahui nama 4 kitab besar"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Janji Allah menjaga al-Quran — tidak akan berubah selama-lamanya:",
+        "arabic": "إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُون",
+        "translation": "Sesungguhnya Kami yang menurunkan al-Quran dan sesungguhnya Kami yang memeliharanya.",
+        "source": "Surah al-Hijr: 9 — janji Allah yang membuktikan al-Quran tidak akan pernah berubah"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Ingat Empat Kitab dan Nabi-nabinya",
+      "items": [
+        "Urutan ikut 'T-Z-I-Q': Taurat (Musa), Zabur (Daud), Injil (Isa), Quran (Muhammad SAW).",
+        "Kitab lama (Taurat, Zabur, Injil) sudah berubah — tidak lagi asli seperti yang diturunkan.",
+        {
+          "type": "arabic",
+          "arabic": "إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُون",
+          "translation": "Hanya al-Quran yang dijamin oleh Allah sendiri terpelihara — sebab itu al-Quran menjadi rujukan utama"
+        },
+        "Suhuf Ibrahim diturunkan sebelum Taurat — Ibrahim a.s. mendapat 10 lembaran wahyu.",
+        "Pengajaran: al-Quran adalah hadiah terbesar daripada Allah kepada kita — jaga, baca, dan amalkan!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Kitab Injil diturunkan kepada Nabi siapa?",
+      "options": [
+        "Nabi Musa a.s.",
+        "Nabi Daud a.s.",
+        "Nabi Isa a.s.",
+        "Nabi Ibrahim a.s."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang menjadikan al-Quran istimewa berbanding kitab-kitab lain?",
+      "options": [
+        "Al-Quran diturunkan dalam bahasa yang paling indah",
+        "Al-Quran adalah satu-satunya kitab yang terpelihara dan dijamin Allah",
+        "Al-Quran mengandungi semua hukum agama",
+        "Al-Quran adalah kitab yang paling tebal"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kitab Zabur diturunkan kepada Nabi siapa?",
+      "options": [
+        "Nabi Ibrahim a.s.",
+        "Nabi Musa a.s.",
+        "Nabi Daud a.s.",
+        "Nabi Sulaiman a.s."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Surah al-Hijr ayat 9 'إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُون' membuktikan bahawa:",
+      "options": [
+        "Al-Quran diturunkan secara beransur-ansur",
+        "Allah menjaga al-Quran daripada sebarang perubahan",
+        "Al-Quran boleh ditafsirkan dengan pelbagai cara",
+        "Al-Quran mengandungi semua ilmu dunia"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Kitab-kitab Allah", "colour": "#FFB300" },
+      { "id": "n2", "label": "Taurat (Musa)", "colour": "#FF8F00" },
+      { "id": "n3", "label": "Zabur (Daud)", "colour": "#FF8F00" },
+      { "id": "n4", "label": "Injil (Isa)", "colour": "#E65100" },
+      { "id": "n5", "label": "al-Quran (Muhammad)", "colour": "#E65100" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "kitab 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "kitab 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "kitab 3" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "kitab terakhir" }
+    ]
+  },
+  "vocab": [
+    { "word": "التَّوْرَاة", "meaning": "Taurat (kitab Nabi Musa a.s.)" },
+    { "word": "الزَّبُور", "meaning": "Zabur (kitab Nabi Daud a.s. — mazmur/nyanyian pujian)" },
+    { "word": "الإِنْجِيل", "meaning": "Injil (kitab Nabi Isa a.s.)" },
+    { "word": "الصُّحُف", "meaning": "suhuf (lembaran-lembaran wahyu — lebih kecil dari kitab)" },
+    { "word": "الْحَافِظُون", "meaning": "al-hafizun (yang memelihara — Allah yang menjaga al-Quran)" }
+  ],
+  "funFact": "Tahukah kamu bahawa walaupun percetakan moden baru wujud pada abad ke-15, al-Quran sudah 'dicetak' dalam hati jutaan manusia jauh sebelum itu? Semasa Perang Yamamah (tahun 633M), lebih 70 huffaz (penghafaz al-Quran) syahid dalam satu hari. Walaupun begitu, al-Quran tidak hilang kerana terdapat ribuan hafiz lain di seluruh dunia Islam! Hari ini, dianggarkan lebih 10 juta orang di seluruh dunia adalah hafiz al-Quran — dan jumlah ini terus bertambah. Cuba bandingkan: berapa ramai orang yang hafaz keseluruhan Shakespeare atau Bible? Kemampuan al-Quran untuk dihafaz oleh jutaan orang dalam bahasa yang sama (Arab) selama 1,400 tahun adalah salah satu mukjizatnya yang paling jelas!"
+}

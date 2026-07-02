@@ -1,0 +1,154 @@
+{
+  "id": "jais-tahun-5-jawi-bab3",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "jawi",
+  "chapter": 3,
+  "title": "Kata Pinjaman Daripada Bahasa Asing",
+  "emoji": "🖊️",
+  "colour": "#FF9800",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "كات فينجمن درڤد بهاس اسيغ — Pelajaran Ketiga",
+      "body": "Bahasa Melayu banyak menerima kata pinjaman dari bahasa asing, terutamanya bahasa Arab dan bahasa Inggeris. Pelajaran ini menerangkan cara menulis kata-kata pinjaman tersebut dalam tulisan Jawi."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "1️⃣",
+          "title": "Unit 1 — Kata Pinjaman Bahasa Arab",
+          "body": {
+            "type": "list",
+            "intro": "Kata pinjaman bahasa Arab terbahagi kepada dua kategori:",
+            "items": [
+              "Kata umum — digunakan dalam kehidupan seharian dan ditulis mengikut sebutan Melayu. Contoh: وقت (waktu), عالم (alam), كراجاءن (kerajaan), مسجد (masjid), كيتب (kitab).",
+              "Istilah — digunakan dalam konteks agama dan keilmuan. Ditulis mengikut ejaan Arab asal. Contoh: وضوء (wuduk), زكاة (zakat), صلاة (solat), قبله (kiblat), امام (imam)."
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Contoh Kata Pinjaman Arab — Kata Umum",
+          "body": {
+            "type": "pairs",
+            "intro": "Kata pinjaman Arab yang digunakan sebagai kata umum dalam Jawi:",
+            "rows": [
+              { "arabic": "وقت", "meaning": "waktu (dari Arab: وَقْتٌ)" },
+              { "arabic": "عالم", "meaning": "alam (dari Arab: عَالَمٌ)" },
+              { "arabic": "كيتب", "meaning": "kitab (dari Arab: كِتَابٌ)" },
+              { "arabic": "مسجد", "meaning": "masjid (dari Arab: مَسْجِدٌ)" },
+              { "arabic": "صلاة", "meaning": "solat (dari Arab: صَلَاةٌ)" },
+              { "arabic": "وضوء", "meaning": "wuduk (dari Arab: وُضُوءٌ)" }
+            ]
+          }
+        },
+        {
+          "icon": "2️⃣",
+          "title": "Unit 2 — Kata Pinjaman Bahasa Inggeris",
+          "body": {
+            "type": "list",
+            "intro": "Ada dua kaedah menulis kata pinjaman bahasa Inggeris dalam Jawi:",
+            "items": [
+              "Kaedah 1: Ditulis mengikut sebutan bahasa Melayu (sebutannya disebut balik dalam Melayu).",
+              "Kaedah 2: Konsonan berturutan (consecutive consonants) — ditulis satu sahaja, huruf konsonen awal yang tidak diikuti vokal digugurkan."
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Kata Pinjaman Inggeris — Kaedah 1 (Sebutan Melayu)",
+          "body": {
+            "type": "pairs",
+            "intro": "Ditulis sebutannya dalam Bahasa Melayu:",
+            "rows": [
+              { "arabic": "ايندوستري", "meaning": "industri (industry)" },
+              { "arabic": "باتاليون", "meaning": "batalion (battalion)" },
+              { "arabic": "اونيۏرسيتي", "meaning": "universiti (university)" },
+              { "arabic": "سوبسيدي", "meaning": "subsidi (subsidy)" },
+              { "arabic": "ريڤوبليك", "meaning": "republik (republic)" },
+              { "arabic": "ۏيروس", "meaning": "virus (virus)" }
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Kata Pinjaman Inggeris — Kaedah 2 (Konsonan Berturutan)",
+          "body": {
+            "type": "pairs",
+            "intro": "Konsonan berturutan di awal kata ditulis satu sahaja (konsonan pertama yang tidak diikuti vokal digugurkan):",
+            "rows": [
+              { "arabic": "سكريف", "meaning": "skrip (script) — konsonan 'sk' → 's' digugurkan" },
+              { "arabic": "كلينيك", "meaning": "klinik (clinic) — konsonan 'kl' → 'k' digugurkan" },
+              { "arabic": "ايكسفورت", "meaning": "eksport (export)" },
+              { "arabic": "ستروكتور", "meaning": "struktur (structure) — konsonan 'str' → 'st' dikekal" },
+              { "arabic": "سنوركليغ", "meaning": "snorkeling (snorkeling)" },
+              { "arabic": "فسيكولوكي", "meaning": "psikologi (psychology) — konsonan 'ps' → 'p' digugurkan" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Ingat: Kata pinjaman Arab — ada yang ditulis sebagai kata umum (sebutan Melayu) dan ada yang kekal sebagai istilah agama. Kata pinjaman Inggeris — ditulis sebutannya dalam Melayu, konsonan berturutan di awal kata boleh dikurangkan."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Kata 'universiti' (university) dalam Jawi ditulis sebagai...",
+      "options": ["اونيۏرسيتي", "يونيۏرستي", "اونيۏرستي", "يونيۏرسيتي"],
+      "answer": 0
+    },
+    {
+      "q": "Kata 'klinik' (clinic) dalam Jawi ditulis dengan kaedah konsonan berturutan sebagai...",
+      "options": ["كليينيك", "كلينيك", "كيلينيك", "كلاينيك"],
+      "answer": 1
+    },
+    {
+      "q": "Kata pinjaman Arab yang digunakan sebagai istilah agama ditulis dalam Jawi...",
+      "options": [
+        "Mengikut sebutan Melayu sahaja",
+        "Mengikut ejaan Arab asal",
+        "Dengan huruf Latin",
+        "Tidak ditulis dalam Jawi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kata 'psikologi' (psychology) dalam Jawi ditulis sebagai...",
+      "options": ["فسيكولوكي", "فيسيكولوكي", "فسيكولوڬي", "سيكولوكي"],
+      "answer": 0
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Kata Pinjaman", "colour": "#FF9800" },
+      { "id": "n2", "label": "Bahasa Arab", "colour": "#F57C00" },
+      { "id": "n3", "label": "Bahasa Inggeris", "colour": "#EF6C00" },
+      { "id": "n4", "label": "Kata Umum", "colour": "#FFB74D" },
+      { "id": "n5", "label": "Istilah Agama", "colour": "#FF9800" },
+      { "id": "n6", "label": "Sebutan Melayu", "colour": "#FFA726" },
+      { "id": "n7", "label": "Konsonan Berturutan", "colour": "#FB8C00" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "sumber" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "sumber" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "jenis" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "jenis" },
+      { "id": "e5", "source": "n3", "target": "n6", "label": "kaedah" },
+      { "id": "e6", "source": "n3", "target": "n7", "label": "kaedah" }
+    ]
+  },
+  "vocab": [
+    { "word": "كات فينجمن", "meaning": "Kata pinjaman — kata yang dipinjam dari bahasa lain dan diserap ke dalam bahasa Melayu" },
+    { "word": "وضوء", "meaning": "Wuduk — kata pinjaman Arab (istilah agama), ditulis mengikut ejaan Arab" },
+    { "word": "ايندوستري", "meaning": "Industri (Jawi: ايندوستري) — kata pinjaman Inggeris 'industry', ditulis sebutannya" },
+    { "word": "كلينيك", "meaning": "Klinik (Jawi: كلينيك) — kata pinjaman Inggeris 'clinic', konsonan 'kl' dikurangkan" },
+    { "word": "فسيكولوكي", "meaning": "Psikologi (Jawi: فسيكولوكي) — kata pinjaman Inggeris 'psychology', konsonan 'ps' dikurangkan" }
+  ],
+  "funFact": "Tahukah kamu bahawa lebih 5,000 patah perkataan dalam bahasa Melayu berasal dari bahasa Arab? Kata-kata seperti 'alam', 'ilmu', 'waktu', 'masjid', dan 'selamat' semuanya datang dari bahasa Arab. Ini menunjukkan betapa eratnya hubungan antara bahasa Melayu dan Islam sejak berabad-abad lampau!"
+}

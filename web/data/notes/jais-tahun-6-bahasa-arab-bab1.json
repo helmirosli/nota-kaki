@@ -1,0 +1,158 @@
+{
+  "id": "jais-tahun-6-bahasa-arab-bab1",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "bahasa-arab",
+  "chapter": 1,
+  "title": "Bahasa Arab 1: Alam Kehidupan dan Akhirat",
+  "emoji": "🌍",
+  "colour": "#1565C0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الدُّنْيَا وَالْآخِرَة — Dunia dan Akhirat",
+      "body": "Dalam Tahun 6, perbendaharaan kata bahasa Arab meliputi konsep-konsep yang lebih mendalam tentang kehidupan manusia — dunia sebagai tempat sementara dan akhirat sebagai tujuan akhir. Perkataan-perkataan ini sering muncul dalam al-Quran, doa, dan perbincangan agama harian."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🌍",
+          "title": "Kosa Kata Dunia dan Akhirat",
+          "body": {
+            "type": "pairs",
+            "intro": "Perkataan penting tentang dunia dan akhirat:",
+            "rows": [
+              { "arabic": "الدُّنْيَا", "meaning": "al-dunya — dunia (kehidupan sementara)" },
+              { "arabic": "الْآخِرَة", "meaning": "al-akhirah — akhirat (kehidupan kekal)" },
+              { "arabic": "الْجَنَّة", "meaning": "al-jannah — syurga" },
+              { "arabic": "النَّار", "meaning": "al-naar — neraka" },
+              { "arabic": "الْمَوْت", "meaning": "al-mawt — kematian" },
+              { "arabic": "الْبَعْث", "meaning": "al-ba'th — kebangkitan semula" },
+              { "arabic": "الْحِسَاب", "meaning": "al-hisab — hisab (pengiraan amal)" },
+              { "arabic": "الصِّرَاط", "meaning": "al-sirat — titian sirat" }
+            ]
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Ayat Perbualan tentang Kehidupan",
+          "body": {
+            "type": "pairs",
+            "intro": "Perbualan dalam bahasa Arab tentang kehidupan:",
+            "rows": [
+              { "arabic": "مَا هَدَفُكَ فِي الْحَيَاة؟", "meaning": "Apa tujuan hidupmu? — soalan yang mendalam" },
+              { "arabic": "هَدَفِي رِضَا اللَّه", "meaning": "Tujuanku adalah keredhaan Allah" },
+              { "arabic": "الدُّنْيَا فَانِيَة", "meaning": "Dunia ini sementara/fana" },
+              { "arabic": "الْآخِرَة خَيْرٌ وَأَبْقَى", "meaning": "Akhirat lebih baik dan lebih kekal (al-A'la:17)" }
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil al-Quran",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah tentang perbandingan dunia dan akhirat:",
+            "arabic": "وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا لَعِبٌ وَلَهْوٌ\nوَلَلدَّارُ الْآخِرَةُ خَيْرٌ لِّلَّذِينَ يَتَّقُون",
+            "translation": "Dan kehidupan dunia ini tidak lain hanyalah permainan dan senda gurau. Dan sesungguhnya negeri akhirat itu lebih baik bagi orang-orang yang bertaqwa.",
+            "source": "Surah al-An'am: 32"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "⭐",
+      "text": {
+        "type": "arabic",
+        "instruction": "Doa yang mengimbangi dunia dan akhirat:",
+        "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً\nوَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّار",
+        "translation": "Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka.",
+        "source": "Surah al-Baqarah: 201 — doa paling lengkap dalam al-Quran"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Latihan Perbualan",
+      "items": [
+        "Hafaz frasa الدُّنْيَا فَانِيَة وَالْآخِرَة بَاقِيَة dan gunakan dalam perbualan.",
+        "Bina ayat sendiri menggunakan kosa kata dunia dan akhirat.",
+        {
+          "type": "pairs",
+          "intro": "Latihan isi tempat kosong:",
+          "rows": [
+            { "arabic": "الْجَنَّة أَحْسَن مِن ___", "meaning": "Syurga lebih baik dari ___ (dunia)" },
+            { "arabic": "بَعْدَ الْمَوْتِ يَأْتِي ___", "meaning": "Selepas kematian datang ___ (akhirat)" }
+          ]
+        },
+        "Hafaz doa Rabbana Atina (al-Baqarah:201) — ini doa terpendek yang paling sempurna.",
+        "Buat dialog 4 ayat dengan rakan: tanya dan jawab tentang tujuan hidup dalam bahasa Arab."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah makna perkataan 'الْآخِرَة' dalam bahasa Arab?",
+      "options": [
+        "Dunia",
+        "Syurga",
+        "Akhirat",
+        "Neraka"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Dalam Surah al-An'am:32, Allah membandingkan dunia dengan:",
+      "options": [
+        "Taman yang indah",
+        "Permainan dan senda gurau",
+        "Tempat yang penuh ujian",
+        "Laluan menuju akhirat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah terjemahan 'الدُّنْيَا فَانِيَة'?",
+      "options": [
+        "Akhirat itu kekal",
+        "Dunia ini sementara",
+        "Kehidupan itu indah",
+        "Syurga itu dekat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Doa 'رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً' dipanggil doa paling lengkap kerana:",
+      "options": [
+        "Paling panjang dalam al-Quran",
+        "Merangkumi permohonan kebaikan dunia, akhirat, dan perlindungan dari neraka",
+        "Nabi SAW amalkan setiap hari",
+        "Ia adalah doa dalam Surah al-Fatihah"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Dunia dan Akhirat", "colour": "#1565C0" },
+      { "id": "n2", "label": "al-Dunya (سementara)", "colour": "#0D47A1" },
+      { "id": "n3", "label": "al-Akhirah (Kekal)", "colour": "#0D47A1" },
+      { "id": "n4", "label": "Doa Rabbana Atina", "colour": "#1A237E" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "sementara" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "kekal" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "doa keseimbangan" }
+    ]
+  },
+  "vocab": [
+    { "word": "الدُّنْيَا", "meaning": "dunia (dari 'dana' — dekat, kerana dunia lebih dekat dari akhirat)" },
+    { "word": "الْآخِرَة", "meaning": "akhirat (yang kemudian / yang terakhir)" },
+    { "word": "فَانٍ", "meaning": "fana (sementara / akan binasa)" },
+    { "word": "بَاقٍ", "meaning": "baqi (kekal / abadi)" },
+    { "word": "الرِّضَا", "meaning": "redha (keredhaan / kepuasan)" }
+  ],
+  "funFact": "Tahukah kamu bahawa perkataan 'دُنْيَا' (dunya) sebenarnya berasal dari akar kata yang bermaksud 'dekat' atau 'rendah'? Para ulama bahasa Arab menjelaskan bahawa dunia dipanggil 'dunya' kerana ia lebih dekat kepada kita berbanding akhirat, dan juga kerana darjatnya lebih rendah berbanding akhirat. Imam al-Ghazali dalam kitabnya Ihya' Ulumiddin menulis: 'Dunia adalah ladang untuk akhirat — sesiapa yang tidak menanam di ladang ini, tidak akan menuai di akhirat.' Ini mengajar kita untuk tidak meninggalkan dunia sepenuhnya, tetapi menggunakannya untuk mempersiapkan akhirat!"
+}

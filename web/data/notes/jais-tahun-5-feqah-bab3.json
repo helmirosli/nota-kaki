@@ -1,0 +1,162 @@
+{
+  "id": "jais-tahun-5-feqah-bab3",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "feqah",
+  "chapter": 3,
+  "title": "Solat Sunnah Dua Hari Raya",
+  "emoji": "🌙",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "صَلَاةُ سُنَّةِ الْعِيدَيْنِ — Pelajaran Ketiga",
+      "body": "Solat Sunnah Dua Hari Raya ialah solat sunnah Eid Fitri (1 Syawal) dan Eid Adha (10 Zulhijjah). Hukumnya sunnah mu'akkadah — sangat digalakkan untuk dikerjakan."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📝",
+          "title": "1. Lafaz Niat Solat Hari Raya",
+          "body": {
+            "type": "list",
+            "intro": "Lafaz niat solat sunnah Eid Fitri dan Eid Adha:",
+            "items": [
+              "Niat Eid Fitri: أُصَلِّي سُنَّةَ عِيدِ الْفِطْرِ رَكْعَتَيْنِ لِلَّهِ تَعَالَى — (Sahaja aku solat sunnah eid fitri dua rakaat kerana Allah ta'ala.)",
+              "Niat Eid Adha: أُصَلِّي سُنَّةَ عِيدِ الْأَضْحَى رَكْعَتَيْنِ لِلَّهِ تَعَالَى — (Sahaja aku solat sunnah eid adha dua rakaat kerana Allah ta'ala.)"
+            ]
+          }
+        },
+        {
+          "icon": "🔄",
+          "title": "2. Lafaz Takbir & Tasbih Dalam Solat Hari Raya",
+          "body": {
+            "type": "list",
+            "intro": "Lafaz yang dibaca semasa solat sunnah hari raya:",
+            "items": [
+              "Lafaz takbir: اللَّهُ أَكْبَرُ",
+              "Lafaz tasbih: سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ"
+            ]
+          }
+        },
+        {
+          "icon": "🕌",
+          "title": "3. Takbir Hari Raya (wajib hafaz)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Lafaz takbir hari raya (wajib hafaz):",
+            "arabic": "اَللَّهُ أَكْبَرُ اَللَّهُ أَكْبَرُ اَللَّهُ أَكْبَرُ ۞ لَا إِلَهَ إِلاَّ اللَّهُ وَاللَّهُ أَكْبَرُ ۞ اَللَّهُ أَكْبَرُ وَلِلَّهِ الْحَمْدُ ۞ اَللَّهُ أَكْبَرُ كَبِيرًا وَالْحَمْدُ لِلَّهِ كَثِيرًا وَسُبْحَانَ اللَّهِ بُكْرَةً وَأَصِيلًا ۞ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ صَدَقَ وَعْدَهُ وَنَصَرَ عَبْدَهُ وَأَعَزَّ جُنْدَهُ وَهَزَمَ الْأَحْزَابَ وَحْدَهُ ۞ لَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ ۞ اَللَّهُ أَكْبَرُ وَلِلَّهِ الْحَمْدُ",
+            "translation": "Allah Maha Besar, Allah Maha Besar, Allah Maha Besar. Tiada tuhan yang berhak disembah melainkan Allah, dan Allah Maha Besar. Allah Maha Besar dan segala puji bagi Allah."
+          }
+        },
+        {
+          "icon": "📋",
+          "title": "4. Cara Solat Sunnah Dua Hari Raya",
+          "body": {
+            "type": "list",
+            "intro": "Cara mengerjakan solat sunnah hari raya (2 rakaat):",
+            "items": [
+              "1. Niat berserta takbiratul ihram.",
+              "2. Rakaat pertama: takbir 7 kali, serta baca tasbih selepas setiap takbir.",
+              "3. Rakaat kedua: takbir 5 kali, serta baca tasbih selepas setiap takbir.",
+              "4. Membaca surah al-Fatihah dan 2 surah.",
+              "5. Rukuk.",
+              "6. Iktidal.",
+              "7. Sujud.",
+              "8. Duduk antara dua sujud.",
+              "9. Duduk dan membaca tasyahud akhir.",
+              "10. Salam.",
+              "Selepas solat, diiringi dengan dua khutbah."
+            ]
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "5. Syarat Sah Solat Sunnah Dua Hari Raya",
+          "body": {
+            "type": "list",
+            "intro": "Syarat sah solat sunnah hari raya:",
+            "items": [
+              "1. Menutup aurat.",
+              "2. Suci dari hadas dan najis.",
+              "3. Menghadap qiblat.",
+              "4. Dilakukan pada 1 Syawal (Eid Fitri) atau 10 Zulhijjah (Eid Adha).",
+              "5. Diteruskan/diiringi dengan dua khutbah."
+            ]
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "6. Hikmah Solat Sunnah Dua Hari Raya",
+          "body": {
+            "type": "list",
+            "intro": "4 hikmah solat sunnah hari raya:",
+            "items": [
+              "1. Mengakui kebesaran Allah ﷻ.",
+              "2. Memperkuatkan ketebalan keimanan kepada Allah ﷻ.",
+              "3. Mempererat hubungan silaturrahim.",
+              "4. Bermaaf-maafan sesama umat Islam."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Tahukah anda? Umat Islam di seluruh pelusuk negeri berkumpul di tempat yang luas dan indah untuk menunaikan solat sunnah hari raya bersama-sama."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Pada tarikh berapakah dilakukan Solat Sunnah Eid Fitri?",
+      "options": ["1 Muharram", "10 Zulhijjah", "1 Syawal", "15 Syaaban"],
+      "answer": 2
+    },
+    {
+      "q": "Berapa kali takbir pada rakaat pertama solat sunnah hari raya?",
+      "options": ["3 kali", "5 kali", "7 kali", "9 kali"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah hukum mengerjakan solat sunnah hari raya?",
+      "options": ["Fardhu ain", "Fardhu kifayah", "Sunnah mu'akkadah", "Harus"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang dilakukan selepas solat sunnah hari raya?",
+      "options": [
+        "Baca al-Quran",
+        "Dua khutbah",
+        "Terus pulang ke rumah",
+        "Solat sunat lagi"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Solat Sunnah Hari Raya", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Eid Fitri (1 Syawal)", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "Eid Adha (10 Zulhijjah)", "colour": "#7B1FA2" },
+      { "id": "n4", "label": "Cara & Syarat", "colour": "#AB47BC" },
+      { "id": "n5", "label": "Hikmah", "colour": "#4CAF50" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "cara" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "hikmah" }
+    ]
+  },
+  "vocab": [
+    { "word": "صَلَاةُ الْعِيدِ", "meaning": "Solat Eid — solat sunnah yang dikerjakan pada hari raya Eid Fitri dan Eid Adha" },
+    { "word": "التَّكْبِيرُ", "meaning": "Takbir — lafaz اللَّهُ أَكْبَرُ yang dibaca semasa solat hari raya" },
+    { "word": "التَّسْبِيحُ", "meaning": "Tasbih — zikir سُبْحَانَ اللَّهِ yang dibaca selepas setiap takbir" },
+    { "word": "الْخُطْبَةُ", "meaning": "Khutbah — ceramah agama yang diberikan selepas solat sunnah hari raya" },
+    { "word": "صِلَةُ الرَّحِمِ", "meaning": "Silaturrahim — hubungan kekeluargaan dan persaudaraan yang dipererat semasa hari raya" }
+  ],
+  "funFact": "Tahukah kamu bahawa semasa Rasulullah ﷺ, solat Eid dikerjakan di kawasan lapang (mushalla) di luar bandar, bukan di dalam masjid? Ini kerana umat Islam yang ramai berkumpul bersama-sama untuk meraikan kejayaan puasa sebulan Ramadhan. Tradisi berkumpul di kawasan lapang ini masih diamalkan di banyak negara Islam hingga ke hari ini, menunjukkan betapa kuatnya semangat ukhuwah Islamiyyah!"
+}

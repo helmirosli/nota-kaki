@@ -1,0 +1,127 @@
+{
+  "id": "jais-tahun-5-arab-bab10",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 10,
+  "title": "الْفَاعِلُ — Subjek (Pelaku)",
+  "emoji": "📖",
+  "colour": "#2196F3",
+  "estimatedMinutes": 22,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الدرس العاشر — الفاعل",
+      "body": "Pada akhir pelajaran ini, murid dapat: (1) Mendengar contoh-contoh الفاعل dan tanda i'rabnya dengan betul. (2) Menyebut contoh-contoh الفاعل dengan betul. (3) Membaca ayat yang mengandungi الفاعل dengan jelas. (4) Menulis ayat yang mengandungi الفاعل dengan betul."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "تعريف الفاعل — Definisi الفاعل",
+          "body": {
+            "type": "list",
+            "intro": "الفاعل (al-Faa'il) ialah kata nama (اسم) yang melakukan sesuatu perbuatan (fi'l). Ciri-ciri الفاعل:",
+            "items": [
+              "الفاعل selalu datang SELEPAS kata kerja (فعل).",
+              "الفاعل berbaris dhommah (ُ) — dalam keadaan رفع (rafa').",
+              "الفاعل menjawab soalan 'Siapa yang melakukan?' atau 'Apa yang melakukan?'",
+              "الفاعل boleh bersifat: مفرد (satu), مثنى (dua), atau جمع (jamak).",
+              "الفاعل juga boleh bersifat مذكر (lelaki) atau مؤنث (perempuan)."
+            ]
+          }
+        },
+        {
+          "icon": "🖼️",
+          "title": "أمثلة الفاعل — Contoh-contoh dari Buku",
+          "body": {
+            "type": "pairs",
+            "intro": "8 ayat contoh الفاعل (dari gambar dalam buku):",
+            "rows": [
+              { "arabic": "جَلَسَتِ التِّلْمِيْذَةُ عَلَى الْكُرْسِيِّ", "meaning": "Pelajar perempuan duduk di atas kerusi — الفاعل: التلميذةُ (mufrad muannats)" },
+              { "arabic": "وَقَفَ التِّلْمِيْذُ فِيْ الْقَاعَةِ", "meaning": "Pelajar lelaki berdiri di dalam dewan — الفاعل: التلميذُ (mufrad muzakkar)" },
+              { "arabic": "كَتَبَ التِّلْمِيْذَانِ الرِّسَالَتَيْنِ", "meaning": "Dua pelajar lelaki menulis dua surat — الفاعل: التلميذانِ (muthanna muzakkar)" },
+              { "arabic": "يَمْشِيْ الْأَوْلَادُ إِلَى الْمَدْرَسَةِ", "meaning": "Kanak-kanak lelaki berjalan ke sekolah — الفاعل: الأولادُ (jamak muzakkar)" },
+              { "arabic": "تَسْبَحُ الْأَسْمَاكُ فِيْ النَّهْرِ", "meaning": "Ikan-ikan berenang di sungai — الفاعل: الأسماكُ (jamak)" },
+              { "arabic": "زَرَعَ الْفَلَّاحُوْنَ فِيْ الْمَزْرَعِ", "meaning": "Para petani menanam di ladang — الفاعل: الفلاحونَ (jamak muzakkar)" },
+              { "arabic": "لَعِبَتِ اللَّاعِبَاتُ كُرَةَ السَّلَّةِ", "meaning": "Para pemain perempuan bermain bola keranjang — الفاعل: اللاعباتُ (jamak muannats)" },
+              { "arabic": "دَرَسَتِ الْبِنْتَانِ الدُّرُوْسَ", "meaning": "Dua perempuan belajar pelajaran — الفاعل: البنتانِ (muthanna muannats)" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Tanda i'rab الفاعل: مفرد → dhommah (ُ), مثنى → alif (ان), جمع مذكر سالم → واو (ون), جمع مؤنث سالم → dhommah (ات). Ingat: الفاعل selalu berbaris DHOMMAH (رفع) dalam mufrad. Contoh: التلميذةُ، التلميذُ، الأسماكُ."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Dalam ayat 'جَلَسَتِ التِّلْمِيْذَةُ عَلَى الْكُرْسِيِّ', siapakah الفاعل?",
+      "options": [
+        "الكرسي",
+        "التلميذة",
+        "جلست",
+        "على"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "الفاعل dalam bentuk مفرد selalu berbaris...",
+      "options": [
+        "Fathah (َ)",
+        "Kasrah (ِ)",
+        "Dhommah (ُ)",
+        "Sukun (ْ)"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah الفاعل dalam ayat 'يَمْشِيْ الْأَوْلَادُ إِلَى الْمَدْرَسَةِ'?",
+      "options": [
+        "يمشي",
+        "المدرسة",
+        "إلى",
+        "الأولاد"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "الفاعل dalam bentuk مثنى مؤنث ialah...",
+      "options": [
+        "ون",
+        "ات",
+        "ان",
+        "ين"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "الفاعل", "colour": "#2196F3" },
+      { "id": "n2", "label": "مفرد (ُ)", "colour": "#1976D2" },
+      { "id": "n3", "label": "مثنى (انِ)", "colour": "#1565C0" },
+      { "id": "n4", "label": "جمع مذكر (ونَ)", "colour": "#0D47A1" },
+      { "id": "n5", "label": "جمع مؤنث (اتُ)", "colour": "#42A5F5" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "bentuk" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "bentuk" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "bentuk" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "bentuk" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْفَاعِلُ", "meaning": "Al-Faa'il — subjek / pelaku (kata nama yang melakukan perbuatan)" },
+    { "word": "الرَّفْعُ", "meaning": "Ar-Raf' — status i'rab رفع; ditandai dengan dhommah pada الفاعل" },
+    { "word": "الْمَزْرَعَةُ", "meaning": "Al-Maz'raah — ladang pertanian" },
+    { "word": "الْفَلَّاحُوْنَ", "meaning": "Al-Fallaahun — para petani (jamak lelaki)" },
+    { "word": "كُرَةُ السَّلَّةِ", "meaning": "Kuratus sallah — bola keranjang (basketball)" },
+    { "word": "الْقَاعَةُ", "meaning": "Al-Qaa'ah — dewan (hall)" }
+  ],
+  "funFact": "Tahukah kamu bahawa dalam bahasa Arab, kata kerja (فعل) harus bersesuaian (مطابقة) dengan الفاعل dari segi jantina? Kalau الفاعل perempuan, kata kerja ditambah تاء (ت) di akhir dalam fi'l maadhi. Contoh: جلسَ (lelaki duduk) → جلسَتْ (perempuan duduk). Inilah sebabnya dalam 8 ayat di buku, kita nampak جلستِ التلميذةُ (perempuan) tapi وقفَ التلميذُ (lelaki). Bahasa Arab sangat teliti dalam perbezaan jantina!"
+}

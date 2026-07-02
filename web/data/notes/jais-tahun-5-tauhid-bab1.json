@@ -1,0 +1,197 @@
+{
+  "id": "jais-tahun-5-tauhid-bab1",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "tauhid",
+  "chapter": 1,
+  "title": "Beriman kepada Qada dan Qadar",
+  "emoji": "⭐",
+  "colour": "#FFB300",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْإِيمَانُ بِالْقَضَاءِ وَالْقَدَرِ — Pelajaran Pertama",
+      "body": "Beriman kepada Qada dan Qadar ialah Rukun Iman yang ke-6. Kita wajib mempercayai bahawa segala sesuatu yang berlaku di alam ini adalah ketetapan Allah ﷻ yang telah ditentukan sejak azali. Namun begitu, kita tetap wajib berusaha, berikhtiar dan berdoa."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Unit 1: Pengertian Qada dan Qadar",
+          "body": {
+            "type": "pairs",
+            "intro": "Qada ialah ketetapan Allah ﷻ yang azali. Contoh Qada:",
+            "rows": [
+              { "label": "1", "arabic": "الْمَوْت", "meaning": "Berlaku kematian" },
+              { "label": "2", "arabic": "الْكَسَب", "meaning": "Memperoleh kekayaan" },
+              { "label": "3", "arabic": "الْقُدْرَة", "meaning": "Berlaku kekuasaan" },
+              { "label": "4", "arabic": "الزَّوَاج", "meaning": "Berlaku jodoh/pertemuan" }
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Unit 1: Pengertian Qadar",
+          "body": {
+            "type": "list",
+            "intro": "Qadar ialah ketetapan Allah ﷻ yang telah berlaku ke atas makhluk. Contoh Qadar:",
+            "items": [
+              "Seseorang sakit meninggal dunia kerana demam yang tidak dirawat",
+              "Kekayaan harta Abd al-Rahman bin Auf yang dikurniakan kepadanya",
+              "Disebabkan seseorang malas bekerja, kini hidup dalam kemiskinan",
+              "Seseorang yang bertemu jodoh pada usia muda"
+            ]
+          }
+        },
+        {
+          "icon": "⚖️",
+          "title": "Unit 1.1: Hukum Beriman kepada Qada dan Qadar",
+          "body": {
+            "type": "list",
+            "intro": "Hukum beriman kepada Qada dan Qadar ialah WAJIB, kerana ia adalah Rukun Iman yang ke-6 dan asas dalam rukun iman.",
+            "items": [
+              "Wajib beriman kepada Qada dan Qadar",
+              "Ia adalah Rukun Iman yang ke-6"
+            ]
+          }
+        },
+        {
+          "icon": "📋",
+          "title": "Unit 1.2: Dalil Beriman kepada Qada dan Qadar",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah ﷻ (wajib hafaz):",
+            "arabic": "إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ ﴿٤٩﴾",
+            "translation": "Sesungguhnya Kami menciptakan tiap-tiap sesuatu menurut taqdir (ukuran yang telah ditentukan).",
+            "source": "Surah al-Qamar: 49"
+          }
+        },
+        {
+          "icon": "🎯",
+          "title": "Unit 2: Maqsud Beriman kepada Qada dan Qadar",
+          "body": {
+            "type": "list",
+            "intro": "Maqsud/tujuan beriman kepada Qada dan Qadar (6 perkara):",
+            "items": [
+              "1. Mempercayai bahawa Allah ﷻ telah menetapkan segala perkara di alam ini",
+              "2. Setiap perkara yang berlaku adalah ketetapan Allah ﷻ yang tertulis dalam Loh Mahfuz sejak azali",
+              "3. Segala yang berlaku di alam ini, Allah ﷻ telah mengetahui dan menetapkannya sebelumnya",
+              "4. Setiap manusia wajib berusaha, berikhtiar dan berdoa untuk mencapai apa yang dicita-citakan",
+              "5. Jika cita-cita belum tercapai walau sudah berusaha dan berdoa, yakini ada hikmah disebaliknya",
+              "6. Manusia hendaklah sentiasa bersyukur baik dalam perkara qada dan qadar"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Unit 3: Akibat Tidak Beriman kepada Qada dan Qadar",
+          "body": {
+            "type": "list",
+            "intro": "Antaranya akibat seseorang yang tidak beriman kepada Qada dan Qadar:",
+            "items": [
+              "1. Hukumnya menjadi kafir",
+              "2. Jauh dari rahmat Allah ﷻ",
+              "3. Mudah berputus asa dan malas berusaha",
+              "4. Menjadi sombong dan angkuh",
+              "5. Jiwa tidak tenteram"
+            ]
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "Unit 4: Hikmah Beriman kepada Qada dan Qadar",
+          "body": {
+            "type": "list",
+            "intro": "Hikmah beriman kepada Qada dan Qadar:",
+            "items": [
+              "Melatih diri untuk bersyukur dan bersabar dalam setiap keadaan",
+              "Menjauhkan diri daripada sifat sombong dan putus asa",
+              "Menumbuhkan sifat husnul zan (sangka baik) terhadap Allah ﷻ",
+              "Mendorong seseorang untuk rajin bekerja dan menenteramkan jiwa",
+              "Berdoa menjadi penghubung yang erat antara manusia dengan Allah ﷻ",
+              "Sentiasa berdoa kepada Allah ﷻ dalam semua keadaan, suka atau susah"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Dalil Beriman kepada Qada dan Qadar — wajib hafaz:",
+        "arabic": "إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ",
+        "translation": "Sesungguhnya Kami menciptakan tiap-tiap sesuatu menurut taqdir (yang ditentukan).",
+        "source": "Surah al-Qamar: 49"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menghadapi Qada dan Qadar",
+      "items": [
+        "Berusaha, berikhtiar dan berdoa untuk mencapai matlamat — jangan berdoa sahaja tanpa berusaha.",
+        "Jika ditimpa musibah, bacalah istirja': إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
+        "Terima dengan redha dan yakin ada hikmah disebalik setiap ketentuan Allah ﷻ.",
+        "Sentiasa bersyukur ketika senang dan bersabar ketika susah."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah hukum beriman kepada Qada dan Qadar?",
+      "options": ["Sunat", "Harus", "Wajib", "Makruh"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah dalil beriman kepada Qada dan Qadar dalam buku ini?",
+      "options": [
+        "Surah al-Baqarah: 286",
+        "Surah al-Qamar: 49",
+        "Surah al-Hadid: 22",
+        "Surah al-Insan: 30"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa bilangan akibat tidak beriman kepada Qada dan Qadar yang disebut dalam buku?",
+      "options": ["3", "4", "5", "6"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang patut dibaca apabila ditimpa musibah?",
+      "options": [
+        "سُبْحَانَ اللَّه",
+        "اللَّهُ أَكْبَر",
+        "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
+        "لَا إِلَهَ إِلَّا اللَّه"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Beriman kepada Qada & Qadar", "colour": "#FFB300" },
+      { "id": "n2", "label": "Pengertian (Unit 1)", "colour": "#FF8F00" },
+      { "id": "n3", "label": "Maqsud (Unit 2)", "colour": "#FF8F00" },
+      { "id": "n4", "label": "Akibat (Unit 3)", "colour": "#F44336" },
+      { "id": "n5", "label": "Hikmah (Unit 4)", "colour": "#4CAF50" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "apa itu" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "kenapa" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "jika tidak" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "faedah" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْقَضَاء", "meaning": "Qada — ketetapan Allah ﷻ yang azali (sebelum berlaku)" },
+    { "word": "الْقَدَر", "meaning": "Qadar — ketetapan Allah ﷻ yang telah berlaku ke atas makhluk" },
+    { "word": "الِاخْتِيَار", "meaning": "ikhtiar — usaha dan pilihan yang dilakukan manusia" },
+    { "word": "التَّوَكُّل", "meaning": "tawakal — bergantung kepada Allah ﷻ setelah berusaha" },
+    { "word": "حُسْنُ الظَّنّ", "meaning": "husnul zan — sangka baik terhadap Allah ﷻ dan manusia" }
+  ],
+  "funFact": "Tahukah kamu bahawa beriman kepada Qada dan Qadar sebenarnya membuatkan kita lebih berani dan bersemangat? Seorang Muslim tidak perlu takut gagal kerana dia tahu bahawa setiap kejadian ada hikmahnya. Nabi ﷺ pernah bersabda: 'Sungguh mengagumkan keadaan orang Mukmin — semua urusannya baik untuknya: jika ditimpa kesenangan dia bersyukur, jika ditimpa kesusahan dia bersabar.' Inilah kekuatan iman kepada Qada dan Qadar!"
+}

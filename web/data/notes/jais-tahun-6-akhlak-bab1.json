@@ -1,0 +1,152 @@
+{
+  "id": "jais-tahun-6-akhlak-bab1",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "akhlak",
+  "chapter": 1,
+  "title": "Akhlak 1: Ikhlas dan Niat yang Betul",
+  "emoji": "💚",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الإِخْلَاص — Keikhlasan dalam Beramal",
+      "body": "Ikhlas (الإِخْلَاص) bermaksud melakukan sesuatu amalan semata-mata kerana Allah — bukan kerana ingin dipuji, dilihat, atau mendapat habuan dunia. Ini adalah asas semua amalan dalam Islam. Amalan tanpa ikhlas ibarat jasad tanpa roh — ada rupa tetapi tiada nilai di sisi Allah. Niat yang betul boleh mengubah perkara biasa menjadi ibadah!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "💚",
+          "title": "Hadith Asas Niat",
+          "body": {
+            "type": "arabic",
+            "instruction": "Hadith paling penting dalam Islam tentang niat:",
+            "arabic": "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ\nوَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى",
+            "translation": "Sesungguhnya amalan-amalan itu (dinilai) berdasarkan niat-niatnya. Dan sesungguhnya setiap orang akan mendapat (ganjaran) apa yang diniatkannya.",
+            "source": "Riwayat Bukhari & Muslim — hadith pertama dalam banyak kitab hadith, sangat fundamental"
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Tingkatan Ikhlas",
+          "body": {
+            "type": "list",
+            "intro": "Tiga tingkatan dalam ikhlas beramal:",
+            "items": [
+              "Ikhlas kerana takut azab Allah (khauf) — ini tingkatan paling asas",
+              "Ikhlas kerana mengharap pahala/syurga (raja') — ini lebih tinggi",
+              "Ikhlas kerana cinta dan syukur kepada Allah (mahabbah & shukr) — ini paling tinggi",
+              "Riya' (تَرَاءَى) — buat amal supaya dipuji orang — ini SYIRIK KECIL yang merosakkan amalan"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Tanda-tanda Riya' yang Perlu Dihindari",
+          "body": {
+            "type": "list",
+            "intro": "Tandai dan elakkan riya' dalam kehidupan harian:",
+            "items": [
+              "Rajin beramal bila ada orang tengok, malas bila bersendirian",
+              "Suka cerita amalan baik diri sendiri kepada orang ramai",
+              "Sedih bila amalan baik tidak diperhatikan orang",
+              "Solat lebih khusyuk bila dilihat orang lain",
+              "Bersedekah lebih bila ada orang yang perasan"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💚",
+      "text": {
+        "type": "arabic",
+        "instruction": "Firman Allah tentang ikhlas dalam beribadah:",
+        "arabic": "وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّين",
+        "translation": "Padahal mereka tidak diperintahkan melainkan supaya menyembah Allah dengan memurnikan (ikhlas) ketaatan kepada-Nya dalam agama.",
+        "source": "Surah al-Bayyinah: 5"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Memperkuat Ikhlas",
+      "items": [
+        "Semak niat sebelum setiap amalan — tanya diri: 'Ini untuk Allah atau untuk orang?'",
+        "Amalkan banyak amalan tersembunyi — sedekah rahsia, solat sunat di rumah, doa dalam hati.",
+        {
+          "type": "arabic",
+          "arabic": "قَالَ النَّبِيُّ ﷺ: أَخْوَفُ مَا أَخَافُ عَلَيْكُمُ الشِّرْكُ الأَصْغَرُ\nقَالُوا: مَا الشِّرْكُ الأَصْغَرُ؟\nقَالَ: الرِّيَاء",
+          "translation": "Nabi SAW bersabda: 'Sesuatu yang paling aku takutkan menimpa kamu adalah syirik kecil.' Para sahabat bertanya: 'Apakah syirik kecil itu?' Jawab Nabi: 'Riya'.' (Riwayat Ahmad)"
+        },
+        "Bila dapat pujian, katakan: 'Alhamdulillah' — kembalikan kepujian kepada Allah.",
+        "Ingat: Allah melihat hati — Dia tahu sama ada kita ikhlas atau tidak!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apa yang dimaksudkan dengan 'ikhlas' dalam beramal?",
+      "options": [
+        "Melakukan amalan dengan sempurna dan teliti",
+        "Melakukan amalan semata-mata kerana Allah, bukan kerana pujian",
+        "Melakukan amalan sebanyak mungkin",
+        "Melakukan amalan yang sukar sahaja"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Menurut hadith 'إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ', amalan seseorang dinilai berdasarkan:",
+      "options": [
+        "Jumlah amalan yang dilakukan",
+        "Niat yang ada dalam hatinya",
+        "Cara pelaksanaan amalan tersebut",
+        "Siapa yang melihat amalan tersebut"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Riya' dalam Islam dianggap sebagai:",
+      "options": [
+        "Dosa kecil yang mudah diampuni",
+        "Syirik kecil yang merosakkan amalan",
+        "Sifat terpuji jika digunakan untuk berdakwah",
+        "Sifat semula jadi manusia yang boleh diterima"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Manakah tingkatan ikhlas yang PALING TINGGI?",
+      "options": [
+        "Ikhlas kerana takut azab neraka",
+        "Ikhlas kerana mengharap syurga",
+        "Ikhlas kerana cinta dan syukur kepada Allah",
+        "Ikhlas kerana mahu dipuji ulama"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Ikhlas", "colour": "#4CAF50" },
+      { "id": "n2", "label": "Niat yang Betul", "colour": "#388E3C" },
+      { "id": "n3", "label": "Amalan Bernilai", "colour": "#388E3C" },
+      { "id": "n4", "label": "Riya' = Syirik Kecil", "colour": "#1B5E20" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "asas" },
+      { "id": "e2", "source": "n2", "target": "n3", "label": "hasil" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "lawan" }
+    ]
+  },
+  "vocab": [
+    { "word": "الإِخْلَاص", "meaning": "ikhlas (tulus semata-mata kerana Allah)" },
+    { "word": "النِّيَّة", "meaning": "niyyah (niat — tekad hati sebelum beramal)" },
+    { "word": "الرِّيَاء", "meaning": "riya' (buat amalan untuk dipuji orang — syirik kecil)" },
+    { "word": "الشِّرْك الأَصْغَر", "meaning": "syirik kecil (dosa besar yang tidak menyebabkan keluar dari Islam)" },
+    { "word": "التَّوَاضُع", "meaning": "tawadu' (rendah diri — bantu ikhlas dengan tidak riak)" }
+  ],
+  "funFact": "Tahukah kamu bahawa hadith 'Sesungguhnya amalan-amalan itu berdasarkan niatnya' adalah antara hadith yang paling banyak disebut dalam sejarah Islam? Imam al-Syafi'i berkata: 'Hadith ini adalah sepertiga daripada Islam.' Imam Ahmad bin Hanbal berkata: 'Asas Islam terdiri dari tiga hadith' — dan hadith niat adalah salah satunya. Bahkan Imam Bukhari memulakan kitab hadith teragungnya, Sahih al-Bukhari, dengan hadith ini! Ini bermaksud para ulama besar sejak 1,200 tahun lalu sudah menetapkan: sebelum belajar apa-apa dalam Islam, pertama-tama betulkan niat. Adakah kamu belajar hari ini kerana Allah?"
+}

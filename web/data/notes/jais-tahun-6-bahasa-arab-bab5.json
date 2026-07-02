@@ -1,0 +1,158 @@
+{
+  "id": "jais-tahun-6-bahasa-arab-bab5",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "bahasa-arab",
+  "chapter": 5,
+  "title": "Bahasa Arab 5: Alam Semula Jadi dan Ciptaan Allah",
+  "emoji": "🌿",
+  "colour": "#1565C0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الطَّبِيعَة وَخَلْق اللَّه — Alam Semula Jadi dan Ciptaan Allah",
+      "body": "Alam semula jadi adalah salah satu tanda kebesaran Allah (ayat kauniyyah). Al-Quran sangat banyak menyebut tentang alam — langit, bumi, hujan, pokok, haiwan — sebagai bukti kewujudan dan kebesaran Allah. Kosa kata alam semula jadi dalam bahasa Arab membantu kita memahami ayat-ayat al-Quran dengan lebih mendalam."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🌿",
+          "title": "Kosa Kata Alam Semula Jadi",
+          "body": {
+            "type": "pairs",
+            "intro": "Perkataan alam semula jadi dalam bahasa Arab:",
+            "rows": [
+              { "arabic": "الْأَرْض", "meaning": "al-ard — bumi" },
+              { "arabic": "السَّمَاء", "meaning": "al-sama' — langit" },
+              { "arabic": "الْبَحْر", "meaning": "al-bahr — laut / lautan" },
+              { "arabic": "الْجَبَل", "meaning": "al-jabal — gunung" },
+              { "arabic": "النَّهْر", "meaning": "al-nahr — sungai" },
+              { "arabic": "الْمَطَر", "meaning": "al-matar — hujan" },
+              { "arabic": "الشَّجَرَة", "meaning": "al-syajarah — pokok" },
+              { "arabic": "الزَّهْرَة", "meaning": "al-zahrah — bunga" }
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Ayat Kauniyyah dalam al-Quran",
+          "body": {
+            "type": "arabic",
+            "instruction": "Allah bersumpah dengan tanda-tanda alam sebagai bukti kebesaran-Nya:",
+            "arabic": "وَالشَّمْسِ وَضُحَاهَا — وَالْقَمَرِ إِذَا تَلَاهَا\nوَالنَّهَارِ إِذَا جَلَّاهَا — وَاللَّيْلِ إِذَا يَغْشَاهَا",
+            "translation": "Demi matahari dan cahayanya di pagi hari — demi bulan apabila mengiringinya — demi siang apabila menampakkannya — demi malam apabila menutupinya.",
+            "source": "Surah al-Syams: 1-4"
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Perbualan tentang Alam",
+          "body": {
+            "type": "pairs",
+            "intro": "Cara berbicara tentang alam dalam bahasa Arab:",
+            "rows": [
+              { "arabic": "الطَّبِيعَة جَمِيلَة جِدًّا", "meaning": "Alam ini sangat indah" },
+              { "arabic": "مَنْ خَلَقَ هَذَا كُلَّه؟", "meaning": "Siapa yang mencipta semua ini?" },
+              { "arabic": "اللَّهُ خَلَقَ كُلَّ شَيْء", "meaning": "Allah yang mencipta segalanya" },
+              { "arabic": "سُبْحَانَ اللَّهِ مَا أَجْمَلَ خَلْقَه!", "meaning": "Subhanallah, betapa indah ciptaan-Nya!" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌿",
+      "text": {
+        "type": "arabic",
+        "instruction": "Firman Allah tentang tanda-tanda kebesaran-Nya di alam:",
+        "arabic": "إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ\nوَاخْتِلَافِ اللَّيْلِ وَالنَّهَار\nلَآيَاتٍ لِّأُولِي الْأَلْبَاب",
+        "translation": "Sesungguhnya dalam penciptaan langit dan bumi, dan silih bergantinya malam dan siang — terdapat tanda-tanda bagi orang yang berakal.",
+        "source": "Surah Ali Imran: 190"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Latihan Gunakan Kosa Kata Alam",
+      "items": [
+        "Lihat sekeliling kamu dan sebut nama benda dalam bahasa Arab: هَذِهِ شَجَرَة، ذَلِكَ جَبَل.",
+        "Bina ayat pujian: اللَّهُ خَلَقَ السَّمَاء وَالْأَرْض وَالْبَحْر.",
+        {
+          "type": "pairs",
+          "intro": "Latihan soal jawab:",
+          "rows": [
+            { "arabic": "مَنْ خَلَقَ السَّمَاء؟", "meaning": "Siapa mencipta langit? → اللَّهُ خَلَقَ السَّمَاء" },
+            { "arabic": "مَنْ خَلَقَ الْإِنْسَان؟", "meaning": "Siapa mencipta manusia? → اللَّهُ خَلَقَ الْإِنْسَان" }
+          ]
+        },
+        "Hafaz frasa 'سُبْحَانَ اللَّهِ مَا أَجْمَلَ خَلْقَه' dan ucapkan ketika melihat keindahan alam.",
+        "Kaitkan setiap benda alam yang kamu lihat dengan ayat al-Quran yang berkaitan — ini menguatkan iman!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah makna 'الْجَبَل' dalam bahasa Arab?",
+      "options": [
+        "Laut",
+        "Sungai",
+        "Gunung",
+        "Pokok"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Surah al-Syams ayat 1-4 menyebut empat sumpah Allah — yang manakah BUKAN antara empat sumpah itu?",
+      "options": [
+        "Matahari",
+        "Bulan",
+        "Bintang",
+        "Malam"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Menurut Surah Ali Imran:190, siapakah yang dapat melihat tanda-tanda kebesaran Allah dalam alam?",
+      "options": [
+        "Hanya para nabi",
+        "Orang yang berakal (ulul albab)",
+        "Hanya orang Islam",
+        "Para saintis sahaja"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Ayat kauniyyah bermaksud:",
+      "options": [
+        "Ayat al-Quran tentang hukum syariat",
+        "Tanda-tanda kebesaran Allah dalam alam semesta",
+        "Ayat yang dibaca dalam solat",
+        "Ayat tentang sejarah"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Alam Semula Jadi", "colour": "#1565C0" },
+      { "id": "n2", "label": "Kosa Kata Alam", "colour": "#0D47A1" },
+      { "id": "n3", "label": "Ayat Kauniyyah", "colour": "#0D47A1" },
+      { "id": "n4", "label": "Ali Imran: 190", "colour": "#1A237E" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "bahasa" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "tanda Allah" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "dalil" }
+    ]
+  },
+  "vocab": [
+    { "word": "الطَّبِيعَة", "meaning": "alam semula jadi" },
+    { "word": "الْآيَات الْكَوْنِيَّة", "meaning": "ayat kauniyyah (tanda-tanda Allah dalam alam)" },
+    { "word": "الْخَلْق", "meaning": "penciptaan / ciptaan" },
+    { "word": "أُولُو الْأَلْبَاب", "meaning": "ulul albab (orang yang berakal / bijaksana)" },
+    { "word": "سُبْحَانَ اللَّه", "meaning": "Subhanallah (Maha Suci Allah — ungkapan kagum)" }
+  ],
+  "funFact": "Tahukah kamu bahawa al-Quran menyebut tumbuhan, haiwan, dan fenomena alam lebih dari 1,000 kali? Para saintis Muslim abad pertengahan seperti Ibn al-Haytham (fizik cahaya), al-Biruni (geografi), dan Ibn Sina (perubatan) terinspirasi untuk mengkaji alam kerana al-Quran sering menggesa manusia untuk berfikir tentang alam. Kata 'أَفَلَا تَتَفَكَّرُون' (tidakkah kamu berfikir?) dan 'أَفَلَا يَنْظُرُون' (tidakkah kamu melihat?) muncul berkali-kali dalam al-Quran — ini adalah ajakan kepada sains dan penelitian! Peradaban Islam menjadi pusat sains dunia selama 500 tahun kerana semangat al-Quran untuk berfikir tentang alam."
+}

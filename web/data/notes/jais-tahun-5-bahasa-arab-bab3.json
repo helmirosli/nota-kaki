@@ -1,0 +1,157 @@
+{
+  "id": "jais-tahun-5-bahasa-arab-bab3",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 3,
+  "title": "Dars 3: Pekerjaan dan Profesion (الْمِهَن)",
+  "emoji": "👷",
+  "colour": "#1565C0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْمِهَن وَالْوَظَائِف — Pekerjaan dan Profesion",
+      "body": "Dalam dars ini kita belajar nama-nama pekerjaan dalam bahasa Arab. Mengetahui nama pekerjaan penting untuk perbualan harian dan memahami teks Arab tentang masyarakat dan ekonomi."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "👷",
+          "title": "Nama-nama Pekerjaan",
+          "body": {
+            "type": "pairs",
+            "intro": "Pekerjaan dalam bahasa Arab:",
+            "rows": [
+              { "arabic": "مُعَلِّم / مُعَلِّمَة", "meaning": "guru (lelaki / perempuan)" },
+              { "arabic": "طَبِيب / طَبِيبَة", "meaning": "doktor (lelaki / perempuan)" },
+              { "arabic": "مُهَنْدِس", "meaning": "jurutera" },
+              { "arabic": "مُحَامٍ", "meaning": "peguam" },
+              { "arabic": "فَلَّاح", "meaning": "petani" },
+              { "arabic": "تَاجِر", "meaning": "peniaga / pedagang" },
+              { "arabic": "طَيَّار", "meaning": "juruterbang" },
+              { "arabic": "شُرْطِيّ", "meaning": "polis" },
+              { "arabic": "جَنْدِيّ", "meaning": "tentera" },
+              { "arabic": "طَاهٍ", "meaning": "tukang masak / chef" }
+            ]
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Soal Jawab tentang Pekerjaan",
+          "body": {
+            "type": "arabic",
+            "instruction": "Cara tanya dan jawab tentang pekerjaan:",
+            "arabic": "مَا مِهْنَتُكَ؟ / مَا عَمَلُكَ؟\nأَنَا مُعَلِّمٌ. (saya seorang guru)\nمَا مِهْنَةُ أَبِيكَ؟\nأَبِي طَبِيبٌ. (Bapa saya seorang doktor)",
+            "translation": "Apakah pekerjaan kamu?\nSaya seorang guru.\nApakah pekerjaan bapa kamu?\nBapa saya seorang doktor."
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Pekerjaan Mulia dalam Islam",
+          "body": {
+            "type": "list",
+            "intro": "Pekerjaan yang sangat dihormati dalam Islam:",
+            "items": [
+              "عَالِم (ulama) — penjaga ilmu agama, pewaris para nabi",
+              "مُعَلِّم (guru) — mendidik generasi, pahalanya mengalir walaupun selepas mati",
+              "طَبِيب (doktor) — menjaga nyawa manusia adalah jihad",
+              "فَلَّاح (petani) — menghasilkan makanan, ada hadith memuji petani",
+              "Semua pekerjaan halal adalah mulia — Nabi SAW pun pernah berniaga dan mengembala kambing"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "⭐",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith tentang kerja yang baik:",
+        "arabic": "إِنَّ اللَّهَ يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ",
+        "translation": "Sesungguhnya Allah suka apabila seseorang daripada kamu melakukan sesuatu kerja, dia melakukannya dengan sempurna.",
+        "source": "Riwayat al-Tirmidzi"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Perbualan tentang Pekerjaan",
+      "items": [
+        "Hafaz cara tanya pekerjaan: مَا مِهْنَتُكَ؟ (apa pekerjaan kamu?)",
+        "Latih jawab dengan pelbagai pekerjaan berbeza.",
+        {
+          "type": "arabic",
+          "arabic": "أُرِيدُ أَنْ أَكُونَ طَبِيبًا فِي الْمُسْتَقْبَل",
+          "translation": "Saya ingin menjadi doktor pada masa hadapan"
+        },
+        "Tanya pekerjaan ibu bapa dan orang dewasa di sekeliling.",
+        "Guna dalam ayat: أَبِي مُعَلِّمٌ وَأُمِّي طَبِيبَةٌ (bapa saya guru, ibu saya doktor)"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah bahasa Arab untuk 'jurutera'?",
+      "options": [
+        "طَبِيب",
+        "مُهَنْدِس",
+        "شُرْطِيّ",
+        "تَاجِر"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Cara tanya pekerjaan dalam bahasa Arab ialah:",
+      "options": [
+        "مَا اسْمُكَ؟",
+        "مَا عُمْرُكَ؟",
+        "مَا مِهْنَتُكَ؟",
+        "مَا بَلَدُكَ؟"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Perkataan مُعَلِّمَة bermaksud:",
+      "options": [
+        "Guru lelaki",
+        "Guru perempuan",
+        "Doktor perempuan",
+        "Pelajar perempuan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Menurut hadith, Allah suka apabila seseorang melakukan kerjanya dengan apa?",
+      "options": [
+        "Cepat",
+        "Murah",
+        "Sempurna dan tekun",
+        "Sendirian"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Pekerjaan Arab", "colour": "#1565C0" },
+      { "id": "n2", "label": "Profesion", "colour": "#1976D2" },
+      { "id": "n3", "label": "Soal Jawab", "colour": "#1976D2" },
+      { "id": "n4", "label": "Nilai Kerja Islam", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "vocab" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "perbualan" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "pengajaran" }
+    ]
+  },
+  "vocab": [
+    { "word": "مِهْنَة", "meaning": "pekerjaan / profesion" },
+    { "word": "مُعَلِّم", "meaning": "guru" },
+    { "word": "طَبِيب", "meaning": "doktor" },
+    { "word": "مُهَنْدِس", "meaning": "jurutera" },
+    { "word": "تَاجِر", "meaning": "peniaga / pedagang" }
+  ],
+  "funFact": "Tahukah kamu bahawa Nabi Muhammad SAW pernah bekerja dalam pelbagai bidang sebelum menjadi Nabi? Pada usia 12 tahun, Baginda mengembala kambing. Ketika dewasa, Baginda berniaga membawa dagangan Siti Khadijah r.a. ke Syria. Baginda adalah peniaga yang sangat jujur hingga digelar 'al-Amin' (yang dipercayai) oleh penduduk Mekah. Ini mengajar kita bahawa bekerja keras dan jujur adalah sifat mulia — walaupun Rasulullah SAW sendiri pernah jadi pekerja biasa sebelum menjadi Nabi!"
+}

@@ -1,0 +1,164 @@
+{
+  "id": "jais-tahun-6-tajwid-bab2",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "tajwid",
+  "chapter": 2,
+  "title": "Tajwid 2: Hukum Nun Sakinah dan Tanwin (Ulangkaji dan Lanjutan)",
+  "emoji": "🔤",
+  "colour": "#1A237E",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "أَحْكَام النُّون السَّاكِنَة وَالتَّنْوِين — Hukum Nun Sakinah",
+      "body": "Hukum nun sakinah dan tanwin adalah antara hukum tajwid yang paling kerap digunakan dalam bacaan al-Quran. Di Tahun 6, pelajar mengulangkaji dan mendalami keempat-empat hukum ini dengan lebih banyak contoh dan penerapan langsung dalam surah-surah al-Quran."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📊",
+          "title": "Empat Hukum Nun Sakinah dan Tanwin",
+          "body": {
+            "type": "pairs",
+            "intro": "Empat hukum yang berlaku apabila nun sakinah (نْ) atau tanwin bertemu huruf tertentu:",
+            "rows": [
+              { "arabic": "الْإِظْهَار الْحَلْقِي", "meaning": "Izhar Halqi — baca jelas, tanpa dengung, bila bertemu huruf tekak: أ ه ع غ ح خ" },
+              { "arabic": "الْإِدْغَام", "meaning": "Idgham — masuk ke huruf berikutnya, ada dengung (بغنة: ي ن م و) atau tanpa dengung (بلا غنة: ل ر)" },
+              { "arabic": "الْإِقْلَاب", "meaning": "Iqlab — tukar nun jadi mim dengung bila bertemu ب (ba')" },
+              { "arabic": "الْإِخْفَاء", "meaning": "Ikhfa' — sembunyi nun dengan dengung bila bertemu 15 huruf yang lain" }
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Huruf Ikhfa' (15 Huruf)",
+          "body": {
+            "type": "list",
+            "intro": "Lima belas huruf ikhfa' yang menyebabkan nun/tanwin disembunyikan dengan dengung:",
+            "items": [
+              "ت ث ج د ذ ز س ش ص ض ط ظ ف ق ك",
+              "Cara hafaz: 'Ta, Tsa, Jim, Dal, Dzal, Za, Sin, Syin, Sad, Dhad, Tha, Zha, Fa, Qaf, Kaf'",
+              "Contoh: مِن تَحْتِهَا (min tahtiha) — نْ bertemu ت = ikhfa'",
+              "Contoh: مَن جَاء (man ja'a) — نْ bertemu ج = ikhfa'",
+              "Dengung ikhfa' lebih ringan dari ghunnah idgham — antara jelas dan sembunyi"
+            ]
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Contoh dalam Surah al-Fatihah",
+          "body": {
+            "type": "pairs",
+            "intro": "Hukum nun sakinah/tanwin dalam Surah al-Fatihah:",
+            "rows": [
+              { "arabic": "الرَّحْمَٰنِ الرَّحِيم", "meaning": "tanwin kasrah bertemu alif lam — IZHAR (baca terang)" },
+              { "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ", "meaning": "نَ bertemu عـ — IZHAR HALQI (nun jelas, 'ain huruf tekak)" },
+              { "arabic": "غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ", "meaning": "tiada nun sakinah — periksa setiap ayat dengan teliti" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "list",
+        "intro": "Cara mudah ingat empat hukum nun sakinah:",
+        "items": [
+          "IZHAR: 6 huruf tekak — BACA TERANG (seperti 'izh-har' = 'zahir/nyata')",
+          "IDGHAM: 6 huruf (يرملون) — MASUK ke huruf seterusnya",
+          "IQLAB: 1 huruf sahaja (ب) — TUKAR jadi mim dengung",
+          "IKHFA': 15 huruf lain — SEMBUNYI dengan dengung ringan",
+          "Mudah ingat: 6+6+1+15 = 28 huruf = semua huruf hijaiyyah!"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Latih Hukum Nun Sakinah",
+      "items": [
+        "Pilih mana-mana surah pendek — cari semua نْ dan tanwin, kemudian tentukan hukumnya.",
+        "Baca dengan kuat dan dengar semula — adakah bunyi betul?",
+        {
+          "type": "pairs",
+          "intro": "Latihan pantas — tentukan hukum:",
+          "rows": [
+            { "arabic": "مِنْ بَعْد", "meaning": "نْ bertemu ب = IQLAB (baca mim dengung)" },
+            { "arabic": "مَن يَقُول", "meaning": "نْ bertemu ي = IDGHAM BIGHUNNAH" },
+            { "arabic": "مِنْ عِلْم", "meaning": "نْ bertemu ع = IZHAR HALQI" }
+          ]
+        },
+        "Amalkan dengan Surah al-Ikhlas, al-Falaq, al-Nas — pendek tetapi kaya dengan contoh.",
+        "Ingat: hukum tajwid bukan beban — ia adalah cara menghormati kalam Allah!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah hukum nun sakinah apabila bertemu huruf 'ب' (ba')?",
+      "options": [
+        "Izhar",
+        "Idgham",
+        "Iqlab",
+        "Ikhfa'"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa huruf yang menyebabkan hukum Ikhfa'?",
+      "options": [
+        "6 huruf",
+        "10 huruf",
+        "15 huruf",
+        "20 huruf"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Huruf-huruf Izhar Halqi semuanya termasuk dalam kawasan makhraj yang mana?",
+      "options": [
+        "Bibir",
+        "Lidah",
+        "Tekak (halqi)",
+        "Hidung"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah berlaku pada perkataan 'مِنْ يَوْم' (min yawm)?",
+      "options": [
+        "Izhar — baca nun jelas",
+        "Idgham bighunnah — masuk ke huruf ya' dengan dengung",
+        "Iqlab — tukar jadi mim",
+        "Ikhfa' — sembunyi dengan dengung"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Nun Sakinah / Tanwin", "colour": "#1A237E" },
+      { "id": "n2", "label": "Izhar (6 tekak)", "colour": "#283593" },
+      { "id": "n3", "label": "Idgham (6 huruf)", "colour": "#283593" },
+      { "id": "n4", "label": "Iqlab (ب sahaja)", "colour": "#283593" },
+      { "id": "n5", "label": "Ikhfa' (15 huruf)", "colour": "#283593" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jelas" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "masuk" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "tukar" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "sembunyi" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْإِظْهَار", "meaning": "izhar (nyata/jelas — baca nun terang)" },
+    { "word": "الْإِدْغَام", "meaning": "idgham (masuk — nun masuk ke huruf seterusnya)" },
+    { "word": "الْإِقْلَاب", "meaning": "iqlab (menukar — nun ditukar jadi mim)" },
+    { "word": "الْإِخْفَاء", "meaning": "ikhfa' (menyembunyikan — nun disembunyikan separuh)" },
+    { "word": "الْغُنَّة", "meaning": "ghunnah (dengung — bunyi dari hidung)" }
+  ],
+  "funFact": "Tahukah kamu bahawa hukum-hukum tajwid ini sebenarnya wujud secara semula jadi dalam percakapan orang Arab? Orang Arab asli secara fitrah akan melakukan izhar, idgham, iqlab, dan ikhfa' tanpa pernah belajar nama-nama teknikal ini — kerana lidah mereka mengikut cara yang paling mudah dan semula jadi untuk menyebut huruf-huruf berturutan. Para ulama tajwid kemudiannya mengkaji dan menamakan corak-corak ini untuk membantu bukan Arab belajar membaca dengan betul. Ini bermakna tajwid bukan rekaan manusia — ia adalah sains yang menggambarkan cara lidah Arab yang paling semula jadi bergerak!"
+}

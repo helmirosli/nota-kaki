@@ -1,0 +1,154 @@
+{
+  "id": "jais-tahun-6-feqah-bab5",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "feqah",
+  "chapter": 5,
+  "title": "Feqah 5: Fardhu Kifayah dan Tanggungjawab Masyarakat",
+  "emoji": "🤝",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "فَرْض الْكِفَايَة — Tanggungjawab Kolektif Masyarakat",
+      "body": "Fardhu Kifayah adalah tanggungjawab yang wajib dilaksanakan oleh sekurang-kurangnya sebahagian daripada masyarakat Muslim. Jika ada yang melakukannya, tanggungjawab gugur dari yang lain. Jika tiada seorang pun melakukannya, SEMUA berdosa. Konsep ini menunjukkan betapa Islam memandang masyarakat sebagai satu kesatuan yang saling bertanggungjawab."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📊",
+          "title": "Perbezaan Fardhu 'Ain dan Fardhu Kifayah",
+          "body": {
+            "type": "pairs",
+            "intro": "Dua jenis kewajipan dalam Islam:",
+            "rows": [
+              { "arabic": "فَرْض الْعَيْن", "meaning": "Fardhu 'Ain: wajib ke atas SETIAP individu Muslim — tidak boleh diwakilkan. Contoh: Solat 5 waktu, puasa Ramadan, zakat (jika layak), haji (sekali seumur hidup)" },
+              { "arabic": "فَرْض الْكِفَايَة", "meaning": "Fardhu Kifayah: wajib dilaksanakan oleh SEBAHAGIAN dari masyarakat. Jika cukup yang lakukan, yang lain tidak berdosa. Contoh: Mengurus jenazah, belajar perubatan, menguasai ilmu falak" }
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Contoh-contoh Fardhu Kifayah",
+          "body": {
+            "type": "list",
+            "intro": "Aktiviti fardhu kifayah yang penting dalam masyarakat:",
+            "items": [
+              "Mengurus jenazah Muslim — mandi, kapan, solat jenazah, kubur",
+              "Menyebarkan dakwah Islam — masyarakat perlu ada pendakwah",
+              "Belajar ilmu perubatan — masyarakat perlu ada doktor",
+              "Menguasai ilmu sains dan teknologi — untuk pembangunan ummah",
+              "Menghafaz al-Quran 30 juz — masyarakat perlu ada huffaz",
+              "Menjadi hakim dan qadi — untuk menegakkan keadilan"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil Tanggungjawab Kolektif",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah tentang tanggungjawab masyarakat untuk amar makruf nahi mungkar:",
+            "arabic": "وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ\nوَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَر\nوَأُولَٰئِكَ هُمُ الْمُفْلِحُون",
+            "translation": "Dan hendaklah ada di antara kamu segolongan orang yang menyeru kepada kebaikan, menyuruh berbuat makruf, dan mencegah kemungkaran. Mereka itulah orang-orang yang beruntung.",
+            "source": "Surah Ali Imran: 104"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🤝",
+      "text": {
+        "type": "list",
+        "intro": "Implikasi fardhu kifayah bagi pelajar Tahun 6:",
+        "items": [
+          "Belajar dengan bersungguh-sungguh — mungkin kamu akan menjadi doktor, jurutera, atau ulama yang diperlukan ummah",
+          "Pilih bidang yang diperlukan masyarakat Islam — bukan hanya yang memberi gaji tinggi",
+          "Jadikan cita-cita kamu sebagai ibadah: 'Aku belajar untuk berkhidmat kepada ummah dan agama Allah'",
+          "Ingat: jika tiada orang Islam yang belajar perubatan, semua berdosa kerana meninggalkan fardhu kifayah!"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Memainkan Peranan dalam Fardhu Kifayah",
+      "items": [
+        "Kenal pasti keperluan masyarakat Islam — apa yang kurang? Doktor? Guru? Jurutera? Ulama?",
+        "Pilih jurusan pelajaran yang memenuhi keperluan masyarakat.",
+        {
+          "type": "arabic",
+          "arabic": "طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِم",
+          "translation": "Menuntut ilmu adalah wajib ke atas setiap Muslim. (Hadith Riwayat Ibn Majah)"
+        },
+        "Sertai aktiviti fardhu kifayah — tolong uruskan jenazah, sertai badan amal, ikut program dakwah.",
+        "Ingat: setiap kali kamu memenuhi fardhu kifayah, kamu sebenarnya menyelamatkan seluruh masyarakat dari dosa!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah yang berlaku jika tiada seorang pun dalam masyarakat menunaikan fardhu kifayah?",
+      "options": [
+        "Hanya ketua masyarakat berdosa",
+        "Semua ahli masyarakat berdosa",
+        "Tidak ada dosa kerana ia bukan wajib",
+        "Hanya ulama yang berdosa"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Manakah antara berikut adalah FARDHU 'AIN (bukan fardhu kifayah)?",
+      "options": [
+        "Menghafaz al-Quran 30 juz",
+        "Belajar ilmu perubatan",
+        "Solat 5 waktu",
+        "Mengurus jenazah"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Menurut Surah Ali Imran:104, apakah kewajipan sebahagian masyarakat Islam?",
+      "options": [
+        "Mengumpulkan harta untuk derma",
+        "Menyeru kepada kebaikan dan mencegah kemungkaran",
+        "Berperang untuk membela Islam",
+        "Menghafaz al-Quran"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Mengapa ilmu perubatan dianggap fardhu kifayah?",
+      "options": [
+        "Kerana doktor mendapat gaji tinggi",
+        "Kerana masyarakat memerlukan orang yang mahir mengubati penyakit",
+        "Kerana ia disebut dalam al-Quran",
+        "Kerana Nabi SAW adalah seorang doktor"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Fardhu Kifayah", "colour": "#9C27B0" },
+      { "id": "n2", "label": "vs Fardhu 'Ain", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "Contoh: Jenazah, Dakwah", "colour": "#7B1FA2" },
+      { "id": "n4", "label": "Ali Imran:104", "colour": "#4A148C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "bezakan" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "contoh" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "dalil" }
+    ]
+  },
+  "vocab": [
+    { "word": "فَرْض الْكِفَايَة", "meaning": "fardhu kifayah (wajib kolektif — cukup jika sebahagian lakukan)" },
+    { "word": "فَرْض الْعَيْن", "meaning": "fardhu 'ain (wajib individu — setiap orang mesti lakukan)" },
+    { "word": "الْأُمَّة", "meaning": "ummah (komuniti Muslim)" },
+    { "word": "الْأَمْر بِالْمَعْرُوف", "meaning": "amar makruf (menyuruh kebaikan)" },
+    { "word": "النَّهْي عَنِ الْمُنكَر", "meaning": "nahi mungkar (mencegah kemungkaran)" }
+  ],
+  "funFact": "Tahukah kamu bahawa konsep fardhu kifayah sebenarnya menjadi asas kepada sistem 'spesialisasi' dalam masyarakat Islam? Oleh kerana tidak semua orang perlu menjadi ulama, doktor, jurutera, dan tentera serentak, Islam membolehkan masyarakat 'bahagi tugas' — setiap orang menumpukan pada bidang yang diperlukan. Ini bersamaan dengan apa yang para ahli ekonomi moden panggil 'comparative advantage' — spesialisasi untuk keberkesanan. Imam al-Ghazali menulis 900 tahun lalu bahawa masyarakat Islam mesti ada pakar dalam setiap bidang yang diperlukan — dari petani hingga falsafah — kerana semuanya adalah fardhu kifayah!"
+}

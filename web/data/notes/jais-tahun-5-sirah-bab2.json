@@ -1,0 +1,159 @@
+{
+  "id": "jais-tahun-5-sirah-bab2",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "sirah",
+  "chapter": 2,
+  "title": "Pertempuran di Zaman Nabi Muhammad ﷺ",
+  "emoji": "🏹",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "فُفُرْغَن دِزَمَن نَبِيِّ مُحَمَّدٍ ﷺ — Pelajaran Kedua",
+      "body": "Terdapat beberapa peperangan dan perjanjian penting yang berlaku di zaman Nabi Muhammad ﷺ — Perang Badr, Uhud, Khandak, serta perjanjian dengan Bani Nadhir dan Bani Quraizah."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "⚔️",
+          "title": "Unit 1: Perang Badr",
+          "body": {
+            "type": "list",
+            "intro": "Perang Badr berlaku pada 17 Ramadhan tahun 2 Hijriah (624 Masihi) di kawasan Badr, kira-kira 150 km dari Madinah.",
+            "items": [
+              "Sebab: Kaum kafir Quraisy Mekah tidak berpuas hati selepas hijrah Islam, Abu Jahl membawa 1000 tentera berhasrat menghancurkan Islam.",
+              "Tentera Islam: 313 orang (2 ekor kuda, 70 unta), dipimpin Nabi ﷺ.",
+              "Dimulai dengan tiga lawan tiga: 'Ubaidah bin al-Harith, Hamzah bin Abd al-Muttalib, Ali bin Abi Talib vs. Utbah bin Rabi'ah, Syaibah bin Rabi'ah, al-Walid bin Utbah.",
+              "Keputusan: Islam MENANG — 70 musyrikin mati (termasuk Abu Jahl), 70 ditawan. Islam hanya 14 syahid."
+            ]
+          }
+        },
+        {
+          "icon": "🏔️",
+          "title": "Unit 2: Perang Uhud",
+          "body": {
+            "type": "list",
+            "intro": "Perang Uhud berlaku pada 17 Syawal tahun 3 Hijriah (625 Masihi) di Bukit Uhud berhampiran Madinah.",
+            "items": [
+              "Sebab: Musyrikin Mekah ingin membalas kekalahan Badr. Abu Sufian memimpin 3000 tentera (200 berkuda, 700 berpelindung baju besi).",
+              "Tentera Islam: 1000 orang, tetapi Abdullah bin Ubayy (munafik) mengundurkan 300 orang, tersisa 700.",
+              "Nabi ﷺ menempatkan 50 pemanah di Bukit Uhud di bawah Abd Allah bin Jubayr dengan perintah JANGAN turun dalam keadaan apapun.",
+              "Apabila Islam hampir menang, para pemanah turun dari bukit untuk mengambil ghanimah (melanggar perintah). Khalid bin al-Walid menyerang dari belakang.",
+              "Keputusan: Islam KALAH — 70 syahid (termasuk Sayyidina Hamzah bin Abd al-Muttalib). 23 musyrikin mati.",
+              "Pengajaran: Melanggar perintah pemimpin membawa kekalahan."
+            ]
+          }
+        },
+        {
+          "icon": "🪖",
+          "title": "Unit 3: Perang Khandak (Ahzab)",
+          "body": {
+            "type": "list",
+            "intro": "Perang Khandak berlaku pada 5 Syawal tahun 5 Hijriah (627 Masihi).",
+            "items": [
+              "Sebab: Bani Nadhir (Yahudi yang diusir dari Madinah) memujuk kaum musyrikin Mekah untuk menyerang. Terbentuk 10,000 tentera gabungan (Ahzab) di bawah Abu Sufian bin Harb.",
+              "Strategi Islam: Salman al-Farisi mencadangkan menggali parit (khandak) di sekeliling Madinah. Nabi ﷺ bersetuju.",
+              "Tentera Islam: 3000 orang. Bendera dipegang Zaid bin al-Haritsah (Muhajirin) dan Sa'd bin 'Ubadah (Ansar).",
+              "Peristiwa: Allah ﷻ menghantar angin kencang memporak-perandakan khemah musyrikin, menyebabkan mereka berundur pulang ke Mekah.",
+              "Keputusan: Islam MENANG — 6 tentera Islam syahid."
+            ]
+          }
+        },
+        {
+          "icon": "📜",
+          "title": "Unit 4: Bani Nadhir — Pengkhianatan Kaum Yahudi",
+          "body": {
+            "type": "list",
+            "intro": "Berlaku pada bulan Rabi' al-Awwal tahun 4 Hijriah.",
+            "items": [
+              "Bani Nadhir adalah kaum Yahudi yang tinggal di Madinah dan telah membuat perjanjian dengan Nabi ﷺ.",
+              "Mereka merancang untuk membunuh Nabi ﷺ dengan menjatuhkan batu dari atas bangunan ketika baginda hadir ke rumah mereka.",
+              "Nabi ﷺ mengetahui rancangan ini dan menuntut mereka meninggalkan Madinah dalam 10 hari.",
+              "Mereka membangkang, dikepung 6 hari, akhirnya menyerah dan meninggalkan Madinah ke Khaibar dan Syam."
+            ]
+          }
+        },
+        {
+          "icon": "⚖️",
+          "title": "Unit 4: Bani Quraizah — Pengkhianatan Semasa Perang Khandak",
+          "body": {
+            "type": "list",
+            "intro": "Berlaku pada bulan Zulqa'idah tahun 5 Hijriah (627 Masihi).",
+            "items": [
+              "Semasa Perang Khandak, Bani Quraizah berhasad dengki dan bersekongkol dengan musuh Islam — mengkhianati perjanjian dengan Nabi ﷺ.",
+              "Nabi ﷺ menghantar Sa'd bin 'Ubadah dan sahabat untuk mengesahkan berita pengkhianatan.",
+              "Nabi ﷺ mengepung Bani Quraizah dengan 3000 tentera selama 25 hari.",
+              "Keputusan hukuman oleh Sa'd bin Mu'adz: lelaki Bani Quraizah dihukum bunuh, perempuan dan kanak-kanak dijadikan tawanan, harta dirampas.",
+              "Sebab hukuman berat: mereka pengkhianat yang menyerang Islam dari dalam semasa Islam diancam musuh."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Tahukah anda? Semua kaum Yahudi yang melakukan pengkhianatan terhadap Nabi ﷺ terdiri daripada tiga suku: Bani Qainuqa', Bani Nadhir, dan Bani Quraizah."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Pada tahun berapakah Hijriah berlakunya Perang Badr?",
+      "options": ["Tahun 1", "Tahun 2", "Tahun 3", "Tahun 5"],
+      "answer": 1
+    },
+    {
+      "q": "Apakah sebab utama tentera Islam kalah dalam Perang Uhud?",
+      "options": [
+        "Tentera Islam terlalu sedikit",
+        "Para pemanah turun dari bukit melanggar perintah Nabi ﷺ",
+        "Nabi ﷺ tidak hadir dalam perang",
+        "Abu Sufian terlalu kuat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Siapakah yang mencadangkan strategi menggali parit (khandak) dalam Perang Khandak?",
+      "options": [
+        "Sayyidina Ali bin Abi Talib",
+        "Abu Bakar al-Siddiq",
+        "Salman al-Farisi",
+        "Sa'd bin Mu'adz"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa lama Nabi ﷺ mengepung Bani Quraizah?",
+      "options": ["6 hari", "10 hari", "20 hari", "25 hari"],
+      "answer": 3
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Pertempuran Zaman Nabi ﷺ", "colour": "#FF6F00" },
+      { "id": "n2", "label": "Perang Badr (th. 2H)", "colour": "#4CAF50" },
+      { "id": "n3", "label": "Perang Uhud (th. 3H)", "colour": "#F44336" },
+      { "id": "n4", "label": "Perang Khandak (th. 5H)", "colour": "#4CAF50" },
+      { "id": "n5", "label": "Bani Nadhir (th. 4H)", "colour": "#FF8F00" },
+      { "id": "n6", "label": "Bani Quraizah (th. 5H)", "colour": "#FF8F00" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "unit 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "unit 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "unit 3" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "unit 4" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "unit 4" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْبَدْرُ", "meaning": "Badr — kawasan kira-kira 150 km dari Madinah, tempat berlakunya perang pertama Islam" },
+    { "word": "الْخَنْدَقُ", "meaning": "Khandak — parit yang digali mengelilingi Madinah sebagai strategi pertahanan" },
+    { "word": "الْأَحْزَابُ", "meaning": "Ahzab — nama lain Perang Khandak, bermaksud 'kumpulan' kerana musuh berkumpul dari pelbagai puak" },
+    { "word": "الشَّهِيدُ", "meaning": "Syahid — orang yang gugur/mati dalam perang fisabilillah" },
+    { "word": "الْغَنِيمَةُ", "meaning": "Ghanimah — harta rampasan perang" }
+  ],
+  "funFact": "Tahukah kamu bahawa Perang Badr dianggap sebagai perang yang paling bermakna dalam sejarah Islam? Tentera Islam hanya 313 orang melawan 1000 tentera musuh — namun mereka menang! Nabi ﷺ berdoa dengan penuh khusyuk semalaman sebelum perang, dan Allah ﷻ menghantar bantuan malaikat untuk memperkukuhkan semangat tentera Islam. Kemenangan Badr memberi keyakinan besar kepada orang Islam bahawa dengan keimanan yang teguh, kemenangan dari Allah ﷻ pasti ada!"
+}

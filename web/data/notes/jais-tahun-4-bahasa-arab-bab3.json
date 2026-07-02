@@ -1,0 +1,167 @@
+{
+  "id": "jais-tahun-4-bahasa-arab-bab3",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "bahasa-arab",
+  "chapter": 3,
+  "title": "Dars 3: Kata Tunjuk",
+  "emoji": "👉",
+  "colour": "#1565C0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "أَسْمَاءُ الْإِشَارَة — Kata Tunjuk",
+      "body": "Kata tunjuk digunakan untuk menunjukkan sesuatu benda atau orang. Dalam bahasa Arab, kata tunjuk berbeza mengikut jantina (lelaki/perempuan), jarak (dekat/jauh), dan bilangan (seorang/dua/ramai)."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "👆",
+          "title": "هَٰذَا / هَٰذِهِ — Ini (Dekat)",
+          "body": {
+            "type": "pairs",
+            "intro": "Kata tunjuk untuk benda DEKAT:",
+            "rows": [
+              { "label": "1 lelaki", "arabic": "هَٰذَا", "meaning": "ini (benda lelaki/tunggal)" },
+              { "label": "1 perempuan", "arabic": "هَٰذِهِ", "meaning": "ini (benda perempuan/tunggal)" },
+              { "label": "2 lelaki", "arabic": "هَٰذَانِ", "meaning": "ini (dua benda lelaki)" },
+              { "label": "2 perempuan", "arabic": "هَاتَانِ", "meaning": "ini (dua benda perempuan)" },
+              { "label": "ramai", "arabic": "هَٰؤُلَاءِ", "meaning": "ini (banyak / ramai)" }
+            ]
+          }
+        },
+        {
+          "icon": "👇",
+          "title": "ذَٰلِكَ / تِلْكَ — Itu (Jauh)",
+          "body": {
+            "type": "pairs",
+            "intro": "Kata tunjuk untuk benda JAUH:",
+            "rows": [
+              { "label": "1 lelaki", "arabic": "ذَٰلِكَ", "meaning": "itu (benda lelaki/tunggal)" },
+              { "label": "1 perempuan", "arabic": "تِلْكَ", "meaning": "itu (benda perempuan/tunggal)" },
+              { "label": "2 lelaki", "arabic": "ذَانِكَ", "meaning": "itu (dua benda lelaki)" },
+              { "label": "2 perempuan", "arabic": "تَانِكَ", "meaning": "itu (dua benda perempuan)" },
+              { "label": "ramai", "arabic": "أُولَٰئِكَ", "meaning": "itu (banyak / ramai)" }
+            ]
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "Contoh Ayat",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh penggunaan kata tunjuk dalam ayat:",
+            "arabic": "هَٰذَا مُسْلِمٌ صَالِح.\nهَٰذِهِ مُسْلِمَةٌ صَالِحَة.\nهَٰذَانِ مُسْلِمَانِ صَالِحَان.\nأُولَٰئِكَ مُسْلِمُونَ صَالِحُون.",
+            "translation": "Ini lelaki Muslim yang baik.\nIni perempuan Muslim yang baik.\nIni dua lelaki Muslim yang baik.\nMereka itu orang-orang Muslim yang baik."
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Tanya Jawab — Apa Ini?",
+          "body": {
+            "type": "arabic",
+            "instruction": "Perbualan menggunakan kata tunjuk:",
+            "arabic": "مَا هَٰذَا؟ — هَٰذَا كِتَابٌ.\nمَا هَٰذِهِ؟ — هَٰذِهِ سَيَّارَةٌ.\nمَنْ هَٰذَا؟ — هَٰذَا أَخِي عُمَر.\nمَنْ أُولَٰئِكَ؟ — أُولَٰئِكَ زُمَلَائِي.",
+            "translation": "Apa ini? — Ini buku.\nApa ini? — Ini kereta.\nSiapa ini? — Ini abang saya, Umar.\nSiapa mereka? — Mereka rakan-rakan saya."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "list",
+        "intro": "Cara mudah ingat kata tunjuk:",
+        "items": [
+          "هَٰذَا / هَٰذِهِ = ini (dekat) → 'ha-za / ha-zi-hi' — bunyi 'ha' = dekat seperti hembus nafas",
+          "ذَٰلِكَ / تِلْكَ = itu (jauh) → 'za-li-ka / til-ka' — bunyi lebih panjang = benda jauh",
+          "هَٰؤُلَاءِ / أُولَٰئِكَ = dekat/jauh (ramai) — untuk orang atau kumpulan",
+          "Benda lelaki: هَٰذَا / ذَٰلِكَ | Benda perempuan: هَٰذِهِ / تِلْكَ"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menggunakan Kata Tunjuk",
+      "items": [
+        "Tentukan: benda DEKAT atau JAUH?",
+        "Tentukan: benda LELAKI atau PEREMPUAN?",
+        "Tentukan: SEORANG, DUA ORANG, atau RAMAI?",
+        {
+          "type": "arabic",
+          "arabic": "هَٰذِهِ سَيَّارَةٌ جَدِيدَةٌ",
+          "translation": "Ini kereta baru (kereta = perempuan, dekat, satu)"
+        },
+        "Ingat: dalam bahasa Arab, setiap benda ada jantina — buku (كِتَاب) = lelaki, kereta (سَيَّارَة) = perempuan!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah kata tunjuk yang betul untuk satu benda lelaki yang JAUH?",
+      "options": [
+        "هَٰذَا",
+        "هَٰذِهِ",
+        "ذَٰلِكَ",
+        "تِلْكَ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah kata tunjuk untuk dua orang/benda perempuan yang DEKAT?",
+      "options": [
+        "هَٰذَانِ",
+        "هَاتَانِ",
+        "تَانِكَ",
+        "أُولَٰئِكَ"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Ayat manakah yang betul?",
+      "options": [
+        "هَٰذَا سَيَّارَةٌ",
+        "هَٰذِهِ سَيَّارَةٌ",
+        "ذَٰلِكَ سَيَّارَةٌ",
+        "هَٰذَانِ سَيَّارَةٌ"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah makna 'أُولَٰئِكَ مُعَلِّمُون'?",
+      "options": [
+        "Ini seorang guru",
+        "Itu dua orang guru",
+        "Mereka itu guru-guru",
+        "Ini guru-guru"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Kata Tunjuk", "colour": "#1565C0" },
+      { "id": "n2", "label": "Dekat (هَٰذَا)", "colour": "#1976D2" },
+      { "id": "n3", "label": "Jauh (ذَٰلِكَ)", "colour": "#1976D2" },
+      { "id": "n4", "label": "Lelaki / Perempuan", "colour": "#42A5F5" },
+      { "id": "n5", "label": "Tunggal / Dua / Ramai", "colour": "#42A5F5" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jarak dekat" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jarak jauh" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "dibezakan oleh" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "dibezakan oleh" }
+    ]
+  },
+  "vocab": [
+    { "word": "هَٰذَا", "meaning": "ini (lelaki, dekat, satu)" },
+    { "word": "هَٰذِهِ", "meaning": "ini (perempuan, dekat, satu)" },
+    { "word": "ذَٰلِكَ", "meaning": "itu (lelaki, jauh, satu)" },
+    { "word": "تِلْكَ", "meaning": "itu (perempuan, jauh, satu)" },
+    { "word": "أُولَٰئِكَ", "meaning": "mereka itu (ramai, jauh)" }
+  ],
+  "funFact": "Dalam bahasa Arab, setiap benda ada jantina — ada 'lelaki' (مُذَكَّر) dan 'perempuan' (مُؤَنَّث)! Cara mudah kenal benda perempuan: biasanya berakhir dengan 'ة' (ta marbuta) seperti سَيَّارَة (kereta), غَسَّالَة (mesin basuh), مَكْتَبَة (perpustakaan). Jadi kita tahu kena guna هَٰذِهِ atau تِلْكَ untuknya!"
+}

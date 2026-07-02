@@ -1,0 +1,176 @@
+{
+  "id": "jais-tahun-4-sirah-bab1",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "sirah",
+  "chapter": 1,
+  "title": "Bab 1: Tahun al-Huzn (Tahun Kesedihan)",
+  "emoji": "🕌",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "عَام الْحُزْن — Tahun al-Huzn",
+      "body": "Tahun al-Huzn (Tahun Kesedihan) berlaku pada tahun ke-10 kenabian, kira-kira tiga tahun sebelum Hijrah. Dalam masa singkat ini, Nabi Muhammad SAW kehilangan dua orang yang sangat penting dalam hidupnya — pakciknya Abu Talib dan isterinya yang tercinta, Siti Khadijah al-Kubra r.a."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "❤️",
+          "title": "Kewafatan Siti Khadijah r.a.",
+          "body": {
+            "type": "list",
+            "intro": "Kewafatan isteri tercinta Nabi SAW:",
+            "items": [
+              "Siti Khadijah r.a. wafat pada usia 65 tahun (kira-kira)",
+              "Beliau merupakan isteri pertama dan paling disayangi Nabi SAW",
+              "Siti Khadijah adalah orang PERTAMA memeluk Islam",
+              "Selama 25 tahun perkahwinan, Baginda SAW tidak berkahwin lain",
+              "Beliau adalah sandaran utama Nabi SAW dalam menghadapi tentangan dakwah",
+              "Nabi SAW sangat berduka dan sering mengingati Khadijah walaupun selepas wafatnya"
+            ]
+          }
+        },
+        {
+          "icon": "🛡️",
+          "title": "Kewafatan Abu Talib",
+          "body": {
+            "type": "list",
+            "intro": "Kehilangan pelindung utama Nabi SAW:",
+            "items": [
+              "Abu Talib adalah pakcik Nabi SAW yang membesarkan Baginda sejak umur 8 tahun",
+              "Beliau melindungi Nabi SAW dari ancaman kaum Quraisy selama puluhan tahun",
+              "Walaupun tidak memeluk Islam, beliau tetap setia mempertahankan anak saudaranya",
+              "Kewafatan Abu Talib menyebabkan Nabi SAW kehilangan perlindungan kabilah",
+              "Kaum Quraisy menjadi lebih berani mengganggu dan menyakiti Nabi SAW"
+            ]
+          }
+        },
+        {
+          "icon": "😔",
+          "title": "Kesan Tahun al-Huzn",
+          "body": {
+            "type": "list",
+            "intro": "Impak kehilangan dua orang penting:",
+            "items": [
+              "Nabi SAW menamakannya 'Tahun Kesedihan' kerana dua kehilangan besar",
+              "Orang kafir Mekah bertambah berani menganiaya Baginda",
+              "Percubaan dakwah ke Taif juga berakhir dengan kegagalan dan penghinaan",
+              "Dalam keadaan sedih ini, Allah memberikan hadiah Isra' Mi'raj kepada Baginda",
+              "Ini menunjukkan Allah sentiasa ada bersama hamba-Nya yang beriman"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dakwah ke Taif",
+          "body": {
+            "type": "list",
+            "intro": "Selepas Tahun al-Huzn — Nabi SAW pergi ke Taif:",
+            "items": [
+              "Nabi SAW pergi ke Taif (kota berdekatan Mekah) untuk berdakwah",
+              "Pemimpin Taif menolak dakwah dengan kejam",
+              "Mereka menghina dan menyuruh kanak-kanak melontarkan batu kepada Baginda",
+              "Kaki Nabi SAW berdarah akibat dilontarkan batu",
+              "Malaikat Jibril menawarkan untuk menghancurkan kota Taif — Nabi SAW MENOLAK",
+              "Baginda berdoa: 'Ya Allah, tunjukkan mereka jalan yang benar' — sungguh mulia!"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🤲",
+      "text": {
+        "type": "arabic",
+        "instruction": "Doa Nabi SAW di Taif selepas dianiaya:",
+        "arabic": "اللَّهُمَّ إِلَيْكَ أَشْكُو ضَعْفَ قُوَّتِي وَقِلَّةَ حِيلَتِي وَهَوَانِي عَلَى النَّاسِ",
+        "translation": "Ya Allah, kepada-Mu aku mengadu kelemahan kekuatanku, kekurangan akalku, dan kehinaanku di sisi manusia.",
+        "source": "Doa Nabi SAW di Taif"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Pengajaran Tahun al-Huzn",
+      "items": [
+        "Kesedihan adalah ujian dari Allah — Nabi SAW juga bersedih, itu manusiawi.",
+        "Dalam kesedihan paling dalam, Allah hadiahkan Isra' Mi'raj kepada Nabi SAW.",
+        "Jangan balas kejahatan dengan kejahatan — Nabi SAW menolak menghancurkan Taif.",
+        {
+          "type": "arabic",
+          "arabic": "لَعَلَّ اللَّهَ أَنْ يُخْرِجَ مِنْ أَصْلَابِهِمْ مَنْ يَعْبُدُ اللَّهَ",
+          "translation": "Semoga Allah mengeluarkan dari keturunan mereka orang yang menyembah Allah."
+        },
+        "Nabi SAW mendoakan kebaikan untuk musuh — inilah akhlak mulia yang kita contohi!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah nama tahun yang penuh kesedihan dalam kehidupan Nabi SAW?",
+      "options": [
+        "Tahun Kemenangan",
+        "Tahun al-Huzn (Tahun Kesedihan)",
+        "Tahun Hijrah",
+        "Tahun Badar"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Siapakah dua orang yang wafat dalam 'Tahun al-Huzn'?",
+      "options": [
+        "Abu Bakar dan Umar",
+        "Siti Fatimah dan Siti Aisyah",
+        "Abu Talib dan Siti Khadijah r.a.",
+        "Hamzah dan Ali"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang Nabi SAW lakukan apabila malaikat menawarkan untuk menghancurkan kota Taif?",
+      "options": [
+        "Nabi SAW bersetuju",
+        "Nabi SAW menolak dan mendoakan penduduk Taif",
+        "Nabi SAW berdiam diri",
+        "Nabi SAW lari dari Taif"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah hadiah Allah kepada Nabi SAW setelah Tahun al-Huzn?",
+      "options": [
+        "Kemenangan di Perang Badar",
+        "Pembukaan kota Mekah",
+        "Peristiwa Isra' Mi'raj",
+        "Hijrah ke Madinah"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Tahun al-Huzn", "colour": "#FF6F00" },
+      { "id": "n2", "label": "Wafat Khadijah", "colour": "#E65100" },
+      { "id": "n3", "label": "Wafat Abu Talib", "colour": "#E65100" },
+      { "id": "n4", "label": "Dakwah ke Taif", "colour": "#BF360C" },
+      { "id": "n5", "label": "Isra' Mi'raj (selepas)", "colour": "#FF8F00" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "kehilangan 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "kehilangan 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "selepasnya" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "hadiah Allah" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْحُزْن", "meaning": "kesedihan / dukacita" },
+    { "word": "وَفَاة", "meaning": "kematian / wafat" },
+    { "word": "حِمَايَة", "meaning": "perlindungan / pembelaan" },
+    { "word": "الطَّائِف", "meaning": "Taif — kota di barat daya Mekah" },
+    { "word": "صَبْر", "meaning": "sabar / ketabahan" }
+  ],
+  "funFact": "Tahukah kamu bahawa walaupun dibuang batu di Taif hingga berdarah, Nabi SAW tidak pernah menyerah? Nabi SAW kemudian bertemu sebuah kumpulan jin yang memeluk Islam setelah mendengar bacaan al-Quran Baginda dalam perjalanan pulang dari Taif. Peristiwa ini diabadikan dalam Surah al-Jin (surah ke-72)! Selepas ditolak manusia Taif, Allah hantar pula makhluk jin untuk menerima dakwah Baginda — setiap pintu yang tertutup, Allah buka pintu lain!"
+}

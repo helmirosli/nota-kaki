@@ -1,0 +1,158 @@
+{
+  "id": "jais-tahun-6-tajwid-bab5",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "tajwid",
+  "chapter": 5,
+  "title": "Tajwid 5: Qalqalah dan Hukum Lam Syamsiyyah-Qamariyyah",
+  "emoji": "🔤",
+  "colour": "#1A237E",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْقَلْقَلَة وَاللَّام الشَّمْسِيَّة وَالْقَمَرِيَّة",
+      "body": "Dua hukum tajwid penting di Tahun 6 ialah Qalqalah (getaran/pantulan) dan perbezaan antara Lam Syamsiyyah (الـ + lam hilang) dan Lam Qamariyyah (الـ + lam jelas). Kedua-dua hukum ini muncul sangat kerap dalam bacaan al-Quran harian."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📊",
+          "title": "Qalqalah — Getaran Huruf",
+          "body": {
+            "type": "pairs",
+            "intro": "Qalqalah adalah getaran/pantulan bunyi apabila 5 huruf tertentu berbaris mati (sukun):",
+            "rows": [
+              { "arabic": "حُرُوف الْقَلْقَلَة: ق ط ب ج د", "meaning": "Hafaz: 'قُطْبُ جَد' — lima huruf qalqalah" },
+              { "arabic": "الْقَلْقَلَة الصُّغْرَى", "meaning": "Qalqalah kecil: huruf qalqalah berbaris mati di TENGAH perkataan — getaran ringan: أَقْطَار، يَجْعَل" },
+              { "arabic": "الْقَلْقَلَة الْكُبْرَى", "meaning": "Qalqalah besar: huruf qalqalah di AKHIR ayat/waqaf — getaran lebih kuat: وَالْفَجْر، وَالطَّارِق" }
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Lam Syamsiyyah vs Lam Qamariyyah",
+          "body": {
+            "type": "pairs",
+            "intro": "Perbezaan cara baca 'ال' (alif lam):",
+            "rows": [
+              { "arabic": "اللَّام الشَّمْسِيَّة", "meaning": "Lam Syamsiyyah: lam dalam 'ال' HILANG (idgham), diganti dengan syaddah pada huruf seterusnya. Huruf: ت ث د ذ ر ز س ش ص ض ط ظ ل ن (14 huruf 'matahari')" },
+              { "arabic": "اللَّام الْقَمَرِيَّة", "meaning": "Lam Qamariyyah: lam dalam 'ال' JELAS dibaca. Huruf: ب ج ح خ ع غ ف ق ك م و ه ي ء (14 huruf 'bulan')" }
+            ]
+          }
+        },
+        {
+          "icon": "✏️",
+          "title": "Contoh Lam Syamsiyyah dan Qamariyyah",
+          "body": {
+            "type": "pairs",
+            "intro": "Contoh dalam al-Quran:",
+            "rows": [
+              { "arabic": "الشَّمْس", "meaning": "al-syams → 'asy-syams' (lam hilang, syaddah pada syin) — SYAMSIYYAH" },
+              { "arabic": "الْقَمَر", "meaning": "al-qamar → 'al-qamar' (lam jelas) — QAMARIYYAH" },
+              { "arabic": "الرَّحْمَن", "meaning": "al-rahman → 'ar-rahman' (lam hilang, syaddah pada ra') — SYAMSIYYAH" },
+              { "arabic": "الْحَمْد", "meaning": "al-hamd → 'al-hamd' (lam jelas) — QAMARIYYAH" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "⭐",
+      "text": {
+        "type": "list",
+        "intro": "Cara hafaz huruf Syamsiyyah dan Qamariyyah:",
+        "items": [
+          "SYAMSIYYAH (14 huruf): ت ث د ذ ر ز س ش ص ض ط ظ ل ن — 'Datang Zon Radio Sains Nasional'",
+          "QAMARIYYAH (14 huruf): ء ب غ ح ج ك و خ ف ع ق ي م ه — selebihnya",
+          "Cara mudah: lihat perkataan selepas 'ال' — ada syaddah? Kalau ada = SYAMSIYYAH",
+          "Dalam tulisan Arab pun sudah ada tanda: الشَّمْس (ada syaddah = syamsiyyah)"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Latihan Qalqalah dan Lam",
+      "items": [
+        "Baca Surah al-Falaq — cari semua huruf qalqalah dan tentukan kecil atau besar.",
+        "Baca al-Fatihah — tentukan setiap 'ال' yang ada: syamsiyyah atau qamariyyah.",
+        {
+          "type": "pairs",
+          "intro": "Latihan pantas:",
+          "rows": [
+            { "arabic": "الرَّحِيم", "meaning": "ال + ر = SYAMSIYYAH ('ar-Rahim')" },
+            { "arabic": "الْكِتَاب", "meaning": "ال + ك = QAMARIYYAH ('al-Kitab')" },
+            { "arabic": "أَقْطَار", "meaning": "ق berbaris mati di tengah = QALQALAH KECIL" }
+          ]
+        },
+        "Hafaz al-Fatihah dengan perhatian khusus pada setiap lam dan qalqalah.",
+        "Ingat: setiap hukum tajwid yang betul adalah satu cara menghormati al-Quran!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa huruf Qalqalah dalam ilmu tajwid?",
+      "options": [
+        "3 huruf",
+        "4 huruf",
+        "5 huruf",
+        "7 huruf"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang berlaku pada lam dalam 'الشَّمْس' (al-syams)?",
+      "options": [
+        "Lam dibaca jelas",
+        "Lam hilang dan digantikan syaddah — Lam Syamsiyyah",
+        "Lam dibaca panjang",
+        "Lam dibaca dengung"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Qalqalah kubra (besar) berlaku apabila:",
+      "options": [
+        "Huruf qalqalah di awal perkataan",
+        "Huruf qalqalah di tengah perkataan",
+        "Huruf qalqalah di akhir ayat semasa waqaf",
+        "Huruf qalqalah bertemu huruf mad"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Perkataan 'الْكِتَاب' menggunakan jenis lam yang mana?",
+      "options": [
+        "Lam Syamsiyyah",
+        "Lam Qamariyyah",
+        "Lam Tafkhim",
+        "Lam Tarqiq"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Qalqalah & Lam", "colour": "#1A237E" },
+      { "id": "n2", "label": "Qalqalah (5 huruf)", "colour": "#283593" },
+      { "id": "n3", "label": "Lam Syamsiyyah", "colour": "#283593" },
+      { "id": "n4", "label": "Lam Qamariyyah", "colour": "#283593" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "getaran" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "lam hilang" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "lam jelas" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْقَلْقَلَة", "meaning": "qalqalah (getaran/pantulan bunyi huruf)" },
+    { "word": "اللَّام الشَّمْسِيَّة", "meaning": "lam syamsiyyah (lam yang hilang kerana idgham ke huruf matahari)" },
+    { "word": "اللَّام الْقَمَرِيَّة", "meaning": "lam qamariyyah (lam yang jelas kerana huruf bulan)" },
+    { "word": "الشَّدَّة", "meaning": "syaddah (tanda penggandaan huruf — ـّ)" },
+    { "word": "السُّكُون", "meaning": "sukun (baris mati — ـْ)" }
+  ],
+  "funFact": "Tahukah kamu mengapa dinamakan 'Lam Syamsiyyah' (matahari) dan 'Lam Qamariyyah' (bulan)? Dalam bahasa Arab, 'الشَّمْس' (matahari) adalah contoh lam yang hilang — 'al-shams' jadi 'ash-shams'. Sedangkan 'الْقَمَر' (bulan) adalah contoh lam yang jelas — 'al-qamar' tetap 'al-qamar'. Para ulama tajwid memilih dua kata ini sebagai contoh terbaik kerana keduanya sangat kerap disebut dalam al-Quran dan diketahui semua orang. Setiap kali kamu sebut 'matahari' dalam bahasa Arab, kamu sebenarnya sedang mengamalkan hukum tajwid Lam Syamsiyyah — tanpa sedar!"
+}

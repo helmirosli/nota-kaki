@@ -1,0 +1,162 @@
+{
+  "id": "jais-tahun-5-hafazan-bab4",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "hafazan",
+  "chapter": 4,
+  "title": "Surah at-Takwir (81)",
+  "emoji": "☀️",
+  "colour": "#E91E63",
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "مَحْفُوظَات سُوْرَة التَّكْوِيْر — Pelajaran Hafazan 4",
+      "body": "Surah at-Takwir (التكوير) ialah surah ke-81 dalam al-Quran. Ia mengandungi 29 ayat dan termasuk surah Makkiyyah. Nama surah diambil dari perkataan 'كُوِّرَتْ' (digulung) pada ayat pertama. Surah ini menceritakan 12 peristiwa dahsyat yang akan berlaku pada hari Kiamat, disusuli oleh sumpah Allah ﷻ mengesahkan kebenaran al-Quran dan kerasulan Nabi Muhammad ﷺ."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "1. Baca Ayat — Surah at-Takwir (29 Ayat)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Guru membaca, murid mengikut (talaqqiy). Baca dengan betul dan fasih.",
+            "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ\nإِذَا الشَّمْسُ كُوِّرَتْ ① وَإِذَا النُّجُومُ انكَدَرَتْ ② وَإِذَا الْجِبَالُ سُيِّرَتْ ③ وَإِذَا الْعِشَارُ عُطِّلَتْ ④ وَإِذَا الْوُحُوشُ حُشِرَتْ ⑤ وَإِذَا الْبِحَارُ سُجِّرَتْ ⑥ وَإِذَا النُّفُوسُ زُوِّجَتْ ⑦ وَإِذَا الْمَوْءُودَةُ سُئِلَتْ ⑧ بِأَيِّ ذَنبٍ قُتِلَتْ ⑨ وَإِذَا الصُّحُفُ نُشِرَتْ ⑩ وَإِذَا السَّمَاءُ كُشِطَتْ ⑪ وَإِذَا الْجَحِيمُ سُعِّرَتْ ⑫ وَإِذَا الْجَنَّةُ أُزْلِفَتْ ⑬ عَلِمَتْ نَفْسٌ مَا أَحْضَرَتْ ⑭ فَلَا أُقْسِمُ بِالْخُنَّسِ ⑮ الْجَوَارِ الْكُنَّسِ ⑯ وَاللَّيْلِ إِذَا عَسْعَسَ ⑰ وَالصُّبْحِ إِذَا تَنَفَّسَ ⑱ إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ ⑲ ذِي قُوَّةٍ عِندَ ذِي الْعَرْشِ مَكِينٍ ⑳ مُطَاعٍ ثَمَّ أَمِينٍ ㉑ وَمَا صَاحِبُكُم بِمَجْنُونٍ ㉒ وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ ㉓ وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ ㉔ وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ ㉕ فَأَيْنَ تَذْهَبُونَ ㉖ إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ ㉗ لِمَن شَاءَ مِنكُمْ أَن يَسْتَقِيمَ ㉘ وَمَا تَشَاءُونَ إِلَّا أَن يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ ㉙",
+            "translation": "(Ayat 1–29)"
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "4. Baca Ayat dan Terjemahannya (Ayat 1–15)",
+          "body": {
+            "type": "pairs",
+            "intro": "Baca setiap ayat dan fahamkan terjemahannya:",
+            "rows": [
+              { "label": "Ayat 1", "arabic": "إِذَا الشَّمْسُ كُوِّرَتْ", "meaning": "Apabila matahari digulung (dan hilang cahayanya)." },
+              { "label": "Ayat 2", "arabic": "وَإِذَا النُّجُومُ انكَدَرَتْ", "meaning": "Dan apabila bintang-bintang berselerakan (jatuh dan padam)." },
+              { "label": "Ayat 3", "arabic": "وَإِذَا الْجِبَالُ سُيِّرَتْ", "meaning": "Dan apabila gunung-ganang digerakkan (berterbangan seperti kapas yang diterbangkan)." },
+              { "label": "Ayat 4", "arabic": "وَإِذَا الْعِشَارُ عُطِّلَتْ", "meaning": "Dan apabila unta-unta bunting (yang berharga) ditinggalkan (dibiar tanpa dijaga)." },
+              { "label": "Ayat 5", "arabic": "وَإِذَا الْوُحُوشُ حُشِرَتْ", "meaning": "Dan apabila binatang-binatang liar dikumpulkan/dihimpunkan." },
+              { "label": "Ayat 6", "arabic": "وَإِذَا الْبِحَارُ سُجِّرَتْ", "meaning": "Dan apabila lautan-lautan meluap-luap bercampur (menjadi api yang menyala)." },
+              { "label": "Ayat 7", "arabic": "وَإِذَا النُّفُوسُ زُوِّجَتْ", "meaning": "Dan apabila tiap-tiap jiwa dipasangkan (dikumpulkan bersama pasangan amalannya)." },
+              { "label": "Ayat 8", "arabic": "وَإِذَا الْمَوْءُودَةُ سُئِلَتْ", "meaning": "Dan apabila anak perempuan yang dikebumikan hidup-hidup ditanya." },
+              { "label": "Ayat 9", "arabic": "بِأَيِّ ذَنبٍ قُتِلَتْ", "meaning": "Dengan dosa apakah ia dibunuh?" },
+              { "label": "Ayat 10", "arabic": "وَإِذَا الصُّحُفُ نُشِرَتْ", "meaning": "Dan apabila surat-surat amalan dibentangkan (dibuka/diperlihatkan)." },
+              { "label": "Ayat 11", "arabic": "وَإِذَا السَّمَاءُ كُشِطَتْ", "meaning": "Dan apabila langit dilucutkan (ditanggalkan) dari tempatnya." },
+              { "label": "Ayat 12", "arabic": "وَإِذَا الْجَحِيمُ سُعِّرَتْ", "meaning": "Dan apabila neraka dinyalakan (dikobarkan menjadi marak)." },
+              { "label": "Ayat 13", "arabic": "وَإِذَا الْجَنَّةُ أُزْلِفَتْ", "meaning": "Dan apabila syurga didekatkan (kepada orang-orang yang bertakwa)." },
+              { "label": "Ayat 14", "arabic": "عَلِمَتْ نَفْسٌ مَا أَحْضَرَتْ", "meaning": "(Serta tiba itu), maka tiap-tiap seseorang akan mengetahui apa yang dihadirkan/dibawa olehnya (amalan yang disediakan)." },
+              { "label": "Ayat 15", "arabic": "فَلَا أُقْسِمُ بِالْخُنَّسِ", "meaning": "Oleh itu, aku bersumpah dengan bintang-bintang yang bersembunyi (surut ke belakang)." }
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Baca Ayat dan Terjemahannya (Ayat 16–29)",
+          "body": {
+            "type": "pairs",
+            "intro": "Sambungan terjemahan:",
+            "rows": [
+              { "label": "Ayat 16", "arabic": "الْجَوَارِ الْكُنَّسِ", "meaning": "Yang beredar (memotong garisan matahari), jokey yang tersembunyi." },
+              { "label": "Ayat 17", "arabic": "وَاللَّيْلِ إِذَا عَسْعَسَ", "meaning": "Dan malam, apabila ia hampir habis (menjadi gelap)." },
+              { "label": "Ayat 18", "arabic": "وَالصُّبْحِ إِذَا تَنَفَّسَ", "meaning": "Dan subuh, apabila ia mulai merekah (tumbuh)." },
+              { "label": "Ayat 19", "arabic": "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ", "meaning": "Sesungguhnya al-Quran ini adalah kalam Allah yang disampaikan oleh utusan yang mulia (Jibrail) yang amanah." },
+              { "label": "Ayat 20", "arabic": "ذِي قُوَّةٍ عِندَ ذِي الْعَرْشِ مَكِينٍ", "meaning": "Yang mempunyai kekuatan, yang mempunyai kedudukan tinggi di sisi Allah yang memiliki Arasy." },
+              { "label": "Ayat 21", "arabic": "مُطَاعٍ ثَمَّ أَمِينٍ", "meaning": "Yang ditaati (di kalangan malaikat), lagi amanah." },
+              { "label": "Ayat 22", "arabic": "وَمَا صَاحِبُكُم بِمَجْنُونٍ", "meaning": "Dan sahabat kamu (Nabi Muhammad ﷺ) itu bukanlah seorang yang gila." },
+              { "label": "Ayat 23", "arabic": "وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ", "meaning": "Dan (Nabi Muhammad ﷺ) sesungguhnya melihatnya (Jibrail) dengan yakin di ufuk yang nyata." },
+              { "label": "Ayat 24", "arabic": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ", "meaning": "Dan bukanlah Nabi Muhammad ﷺ itu bakhil dalam menyebarkan perkara-perkara ghaib (wahyu al-Quran) kepada orang ramai." },
+              { "label": "Ayat 25", "arabic": "وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ", "meaning": "Dan sesungguhnya al-Quran ini bukanlah perkataan syaitan yang direjam/diusir." },
+              { "label": "Ayat 26", "arabic": "فَأَيْنَ تَذْهَبُونَ", "meaning": "(Dengan yang demikian) maka ke manakah kamu hendak pergi (ke manakah kamu ingin mempaling diri dari al-Quran)?" },
+              { "label": "Ayat 27", "arabic": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ", "meaning": "Al-Quran ini tiada lain hanyalah peringatan bagi seluruh alam." },
+              { "label": "Ayat 28", "arabic": "لِمَن شَاءَ مِنكُمْ أَن يَسْتَقِيمَ", "meaning": "(Iaitu) bagi sesiapa di antara kamu yang mahu mengambilnya sebagai jalan hidupnya yang betul." },
+              { "label": "Ayat 29", "arabic": "وَمَا تَشَاءُونَ إِلَّا أَن يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ", "meaning": "Dan kamu tidak akan dapat berkehendak (mengikuti Islam) melainkan dengan kehendak Allah ﷻ, Tuhan Yang menguasai sekalian alam." }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "⭐",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ayat penting — al-Quran adalah peringatan bagi seluruh alam (Ayat 27-28):",
+        "arabic": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ ㉗ لِمَن شَاءَ مِنكُمْ أَن يَسْتَقِيمَ ㉘",
+        "translation": "Al-Quran ini tiada lain hanyalah peringatan bagi seluruh alam. Bagi sesiapa di antara kamu yang mahu mengambilnya sebagai jalan hidupnya yang betul.",
+        "source": "Surah at-Takwir: 27-28"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "3. Hafaz Surah — Surah at-Takwir (29 Ayat)",
+      "items": [
+        {
+          "type": "arabic",
+          "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ\nإِذَا الشَّمْسُ كُوِّرَتْ ① وَإِذَا النُّجُومُ انكَدَرَتْ ② وَإِذَا الْجِبَالُ سُيِّرَتْ ③ وَإِذَا الْعِشَارُ عُطِّلَتْ ④ وَإِذَا الْوُحُوشُ حُشِرَتْ ⑤ وَإِذَا الْبِحَارُ سُجِّرَتْ ⑥ وَإِذَا النُّفُوسُ زُوِّجَتْ ⑦ وَإِذَا الْمَوْءُودَةُ سُئِلَتْ ⑧ بِأَيِّ ذَنبٍ قُتِلَتْ ⑨ وَإِذَا الصُّحُفُ نُشِرَتْ ⑩ وَإِذَا السَّمَاءُ كُشِطَتْ ⑪ وَإِذَا الْجَحِيمُ سُعِّرَتْ ⑫ وَإِذَا الْجَنَّةُ أُزْلِفَتْ ⑬ عَلِمَتْ نَفْسٌ مَا أَحْضَرَتْ ⑭ فَلَا أُقْسِمُ بِالْخُنَّسِ ⑮ الْجَوَارِ الْكُنَّسِ ⑯ وَاللَّيْلِ إِذَا عَسْعَسَ ⑰ وَالصُّبْحِ إِذَا تَنَفَّسَ ⑱ إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ ⑲ ذِي قُوَّةٍ عِندَ ذِي الْعَرْشِ مَكِينٍ ⑳ مُطَاعٍ ثَمَّ أَمِينٍ ㉑ وَمَا صَاحِبُكُم بِمَجْنُونٍ ㉒ وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ ㉓ وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ ㉔ وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ ㉕ فَأَيْنَ تَذْهَبُونَ ㉖ إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ ㉗ لِمَن شَاءَ مِنكُمْ أَن يَسْتَقِيمَ ㉘ وَمَا تَشَاءُونَ إِلَّا أَن يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ ㉙",
+          "translation": "Hafaz keseluruhan surah dengan lancar"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Surah at-Takwir ialah surah ke berapa dalam al-Quran?",
+      "options": ["79", "80", "81", "82"],
+      "answer": 2
+    },
+    {
+      "q": "Berapa bilangan ayat dalam Surah at-Takwir?",
+      "options": ["27 ayat", "28 ayat", "29 ayat", "30 ayat"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah terjemahan 'إِذَا الشَّمْسُ كُوِّرَتْ'?",
+      "options": [
+        "Apabila bintang-bintang berhamburan",
+        "Apabila matahari digulung (dan hilang cahayanya)",
+        "Apabila langit terbelah",
+        "Apabila gunung-ganang digerakkan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah terjemahan 'إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ'?",
+      "options": [
+        "Al-Quran ini adalah peringatan hanya untuk orang Islam",
+        "Al-Quran ini tiada lain hanyalah peringatan bagi seluruh alam",
+        "Al-Quran ini diturunkan untuk Nabi Muhammad ﷺ sahaja",
+        "Al-Quran ini adalah sumpah Allah ﷻ"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Surah at-Takwir (81)", "colour": "#E91E63" },
+      { "id": "n2", "label": "12 Peristiwa Kiamat (1-13)", "colour": "#9C27B0" },
+      { "id": "n3", "label": "Tiap jiwa tahu amalannya (14)", "colour": "#FF9800" },
+      { "id": "n4", "label": "Sumpah Allah — kebenaran al-Quran (15-21)", "colour": "#2196F3" },
+      { "id": "n5", "label": "Kerasulan Nabi Muhammad ﷺ (22-25)", "colour": "#4CAF50" },
+      { "id": "n6", "label": "Al-Quran peringatan seluruh alam (26-29)", "colour": "#F44336" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "ayat 1-13" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "ayat 14" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "ayat 15-21" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "ayat 22-25" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "ayat 26-29" }
+    ]
+  },
+  "vocab": [
+    { "word": "كُوِّرَتْ", "meaning": "digulung — surah dinamakan 'at-Takwir' sempena perkataan ini (matahari digulung pada hari Kiamat)" },
+    { "word": "الْمَوْءُودَة", "meaning": "anak perempuan yang dikebumikan hidup-hidup — amalan jahiliyah Arab yang diharamkan Islam" },
+    { "word": "الْخُنَّس", "meaning": "bintang-bintang yang bersembunyi/surut ke belakang (planet-planet dalam sistem suria)" },
+    { "word": "الْجَوَارِ الْكُنَّس", "meaning": "yang beredar (planet) yang tersembunyi (di siang hari)" },
+    { "word": "رَسُولٍ كَرِيمٍ", "meaning": "utusan yang mulia — merujuk kepada Malaikat Jibrail a.s. yang menyampaikan wahyu" },
+    { "word": "يَسْتَقِيمَ", "meaning": "istiqamah/berjalan lurus — mengikuti jalan Islam yang betul dan lurus" }
+  ],
+  "funFact": "Tahukah kamu bahawa ayat 8-9 dalam surah ini ('وَإِذَا الْمَوْءُودَةُ سُئِلَتْ بِأَيِّ ذَنبٍ قُتِلَتْ') adalah salah satu ayat al-Quran yang terus-terang mengutuk amalan membunuh bayi perempuan dalam kalangan bangsa Arab Jahiliyah? Pada hari Kiamat, anak yang dikebumikan hidup-hidup itu akan ditanya 'Dengan dosa apakah kamu dibunuh?' — menunjukkan bahawa Allah ﷻ akan mendedahkan kezaliman pembunuhan ini dan menuntut keadilan untuknya!"
+}

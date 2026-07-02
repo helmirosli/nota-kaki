@@ -1,0 +1,174 @@
+{
+  "id": "jais-tahun-4-feqah-bab1",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "feqah",
+  "chapter": 1,
+  "title": "Bab 1: Solat Sunat",
+  "emoji": "🕌",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "صَلَاة السُّنَّة — Solat Sunat",
+      "body": "Solat sunat adalah solat yang dilakukan selain dari solat fardhu. Ia tidak wajib tetapi sangat digalakkan kerana mendapat pahala dan menambah kedekatan kita dengan Allah SWT. Orang yang mengerjakan solat sunat juga mendapat ganjaran besar di akhirat."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📚",
+          "title": "Maksud Solat Sunat",
+          "body": {
+            "type": "list",
+            "intro": "Pengertian dan hukum solat sunat:",
+            "items": [
+              "Solat sunat = solat yang dianjurkan (bukan wajib) oleh syariat Islam",
+              "Hukum: SUNAT — diberi pahala bila dikerjakan, tidak berdosa bila ditinggalkan",
+              "Solat sunat melengkapi kekurangan dalam solat fardhu kita",
+              "Ada dua jenis: Solat Sunat Muakkad (sangat dituntut) dan Ghair Muakkad (tidak terlalu dituntut)"
+            ]
+          }
+        },
+        {
+          "icon": "📿",
+          "title": "Jenis-jenis Solat Sunat",
+          "body": {
+            "type": "pairs",
+            "intro": "Solat sunat yang utama dalam Islam:",
+            "rows": [
+              { "label": "Rawatib", "arabic": "صلاة السنة الرواتب", "meaning": "Mengiringi solat fardhu (sebelum/selepas)" },
+              { "label": "Tahajjud", "arabic": "صلاة التهجد", "meaning": "Di akhir malam selepas tidur" },
+              { "label": "Dhuha", "arabic": "صلاة الضحى", "meaning": "Pagi selepas matahari naik" },
+              { "label": "Witir", "arabic": "صلاة الوتر", "meaning": "Bilangan rakaat ganjil, selepas Isyak" },
+              { "label": "Tahiyyatul Masjid", "arabic": "تحية المسجد", "meaning": "Apabila masuk masjid" },
+              { "label": "Istikharah", "arabic": "صلاة الاستخارة", "meaning": "Mohon petunjuk Allah dalam keputusan" }
+            ]
+          }
+        },
+        {
+          "icon": "⭐",
+          "title": "Faedah Solat Sunat",
+          "body": {
+            "type": "list",
+            "intro": "Mengapa solat sunat penting?",
+            "items": [
+              "Menutup kekurangan dan kecacatan dalam solat fardhu",
+              "Mendekatkan diri kepada Allah SWT",
+              "Mendapat pahala yang besar — setiap sujud ada ganjarannya",
+              "Melatih jiwa supaya sentiasa ingat Allah di luar waktu wajib"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Hadith tentang Solat Sunat",
+          "body": {
+            "type": "arabic",
+            "instruction": "Hadith Nabi SAW tentang solat sunat:",
+            "arabic": "إِنَّ أَوَّلَ مَا يُحَاسَبُ بِهِ الْعَبْدُ يَوْمَ الْقِيَامَةِ مِنْ عَمَلِهِ صَلَاتُهُ، فَإِنْ صَلُحَتْ فَقَدْ أَفْلَحَ وَأَنْجَحَ",
+            "translation": "Sesungguhnya amal pertama yang dihisab seorang hamba pada hari kiamat ialah solatnya. Jika solatnya baik, maka berjayalah dia.",
+            "source": "Riwayat al-Tirmidzi"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💜",
+      "text": {
+        "type": "list",
+        "intro": "Ingat perbezaan Solat Sunat Muakkad dan Ghair Muakkad:",
+        "items": [
+          "MUAKKAD (مؤكدة) = sangat dituntut, Rasulullah SAW sentiasa amalkan — contoh: Rawatib, Witir",
+          "GHAIR MUAKKAD (غير مؤكدة) = digalakkan tapi tidak sekerap Muakkad — contoh: Tahiyyatul Masjid",
+          "Kedua-duanya dapat pahala — jangan abaikan mana-mana!"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengerjakan Solat Sunat Am",
+      "items": [
+        "Buat niat dalam hati untuk solat sunat yang ingin dikerjakan.",
+        "Takbiratul Ihram: angkat tangan dan lafaz 'Allahu Akbar'.",
+        "Baca doa iftitah, al-Fatihah, surah pendek.",
+        "Ruku', iktidal, sujud (2 kali), duduk antara sujud.",
+        {
+          "type": "arabic",
+          "arabic": "أُصَلِّي سُنَّةَ الضُّحَى رَكْعَتَيْنِ لِلَّهِ تَعَالَى",
+          "translation": "Sahaja aku solat sunat Dhuha dua rakaat kerana Allah Taala"
+        },
+        "Salam ke kanan dan kiri. Solat sunat minimum 2 rakaat, boleh dilakukan sendiri."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah hukum mengerjakan solat sunat?",
+      "options": [
+        "Wajib",
+        "Haram",
+        "Sunat",
+        "Makruh"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Solat sunat manakah yang dilakukan di akhir malam selepas tidur?",
+      "options": [
+        "Solat Dhuha",
+        "Solat Tahajjud",
+        "Solat Rawatib",
+        "Solat Istikharah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah perbezaan antara Solat Sunat Muakkad dan Ghair Muakkad?",
+      "options": [
+        "Muakkad tidak boleh dikerjakan",
+        "Muakkad sangat dituntut, Ghair Muakkad kurang dituntut",
+        "Ghair Muakkad lebih penting",
+        "Tiada perbezaan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Solat sunat apakah yang dilakukan apabila memasuki masjid?",
+      "options": [
+        "Solat Witir",
+        "Solat Istikharah",
+        "Solat Tahiyyatul Masjid",
+        "Solat Dhuha"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Solat Sunat", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Muakkad", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "Ghair Muakkad", "colour": "#7B1FA2" },
+      { "id": "n4", "label": "Rawatib", "colour": "#AB47BC" },
+      { "id": "n5", "label": "Tahajjud", "colour": "#AB47BC" },
+      { "id": "n6", "label": "Dhuha", "colour": "#AB47BC" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis 2" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "contoh" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "contoh" },
+      { "id": "e5", "source": "n2", "target": "n6", "label": "contoh" }
+    ]
+  },
+  "vocab": [
+    { "word": "صَلَاة السُّنَّة", "meaning": "solat sunat / solat tambahan" },
+    { "word": "مُؤَكَّدَة", "meaning": "sangat dituntut / ditekankan" },
+    { "word": "غَيْر مُؤَكَّدَة", "meaning": "kurang ditekankan" },
+    { "word": "الضُّحَى", "meaning": "waktu pagi (selepas matahari naik)" },
+    { "word": "التَّهَجُّد", "meaning": "bangun malam untuk solat" }
+  ],
+  "funFact": "Tahukah kamu bahawa Solat Tahajjud adalah solat yang paling Allah suka selepas solat fardhu? Rasulullah SAW tidak pernah tinggalkan Solat Tahajjud walaupun dalam perjalanan atau sakit. Baginda biasa bangun jam 2-3 pagi untuk solat, kemudian balik tidur sebelum Subuh. Para sahabat pun mengikuti amalan Rasulullah SAW ini dengan penuh semangat!"
+}

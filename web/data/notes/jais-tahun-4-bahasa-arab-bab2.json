@@ -1,0 +1,170 @@
+{
+  "id": "jais-tahun-4-bahasa-arab-bab2",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "bahasa-arab",
+  "chapter": 2,
+  "title": "Dars 2: Kenderaan",
+  "emoji": "🚗",
+  "colour": "#1565C0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "وَسَائِلُ الْمُوَاصَلَات — Kenderaan dan Pengangkutan",
+      "body": "Dalam dars ini kita belajar nama-nama kenderaan dalam bahasa Arab. Di negara kita, terdapat banyak jenis kenderaan di darat, laut, dan udara!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🚗",
+          "title": "Kenderaan Darat",
+          "body": {
+            "type": "pairs",
+            "rows": [
+              { "arabic": "سَيَّارَة", "meaning": "kereta" },
+              { "arabic": "سَيَّارَةُ الْأُجْرَة", "meaning": "teksi" },
+              { "arabic": "دَرَّاجَة نَارِيَّة", "meaning": "motosikal" },
+              { "arabic": "دَرَّاجَة", "meaning": "basikal" },
+              { "arabic": "قِطَار", "meaning": "kereta api / LRT" },
+              { "arabic": "حَافِلَة", "meaning": "bas" },
+              { "arabic": "شَاحِنَة", "meaning": "lori" }
+            ]
+          }
+        },
+        {
+          "icon": "✈️",
+          "title": "Kenderaan Udara",
+          "body": {
+            "type": "pairs",
+            "rows": [
+              { "arabic": "طَائِرَة", "meaning": "kapal terbang" },
+              { "arabic": "طَائِرَة نَفَّاثَة", "meaning": "kapal terbang jet" },
+              { "arabic": "مِرْوَحِيَّة", "meaning": "helikopter" },
+              { "arabic": "مَرْكَبَة فَضَائِيَّة", "meaning": "kapal angkasa" }
+            ]
+          }
+        },
+        {
+          "icon": "⛵",
+          "title": "Kenderaan Laut",
+          "body": {
+            "type": "pairs",
+            "rows": [
+              { "arabic": "سَفِينَة", "meaning": "kapal laut" },
+              { "arabic": "قَارِب", "meaning": "bot kecil" },
+              { "arabic": "مَرَاكِب بَحْرِيَّة", "meaning": "kenderaan laut" }
+            ]
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Contoh Perbualan — Cara Pergi",
+          "body": {
+            "type": "arabic",
+            "instruction": "Bagaimana cara kamu pergi ke sekolah?",
+            "arabic": "كَيْفَ تَذْهَبُ إِلَى الْمَدْرَسَةِ؟\nأَذْهَبُ إِلَى الْمَدْرَسَةِ بِالسَّيَّارَةِ.\nوَكَيْفَ تَذْهَبُ إِلَى كُوَالَالُمْبُور؟\nأَذْهَبُ إِلَى كُوَالَالُمْبُور بِالْقِطَارِ.",
+            "translation": "Bagaimana kamu pergi ke sekolah?\nSaya pergi ke sekolah dengan kereta.\nBagaimana pula kamu pergi ke Kuala Lumpur?\nSaya pergi ke Kuala Lumpur dengan kereta api."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Doa menaiki kenderaan:",
+        "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ\nوَإِنَّا إِلَىٰ رَبِّنَا لَمُنْقَلِبُونَ",
+        "translation": "Maha Suci Allah yang telah menundukkan kenderaan ini untuk kami, sedangkan kami tidak mampu menguasainya. Dan sesungguhnya kami akan kembali kepada Tuhan kami.",
+        "source": "Surah al-Zukhruf: 13-14",
+        "outro": "Baca doa ini setiap kali naik kenderaan — ia perlindungan dari Allah SWT!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Bertanya dan Menjawab tentang Kenderaan",
+      "items": [
+        "Untuk bertanya: كَيْفَ تَذْهَبُ إِلَى ___؟ (Bagaimana kamu pergi ke ___?)",
+        "Untuk menjawab: أَذْهَبُ بِالـ + nama kenderaan (Saya pergi dengan ___)",
+        {
+          "type": "arabic",
+          "arabic": "أَذْهَبُ إِلَى سِنْغَافُورَة بِالطَّائِرَةِ",
+          "translation": "Saya pergi ke Singapura dengan kapal terbang"
+        },
+        "Nota tatabahasa: بِالـ bermaksud 'dengan' — letakkan depan nama kenderaan.",
+        "Latih dengan rakan: tanya dan jawab tentang destinasi yang berbeza!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah bahasa Arab untuk 'kapal terbang'?",
+      "options": [
+        "سَفِينَة",
+        "قِطَار",
+        "طَائِرَة",
+        "حَافِلَة"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah makna 'سَيَّارَةُ الْأُجْرَة'?",
+      "options": [
+        "Kereta api",
+        "Lori",
+        "Teksi",
+        "Bas"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bagaimana cara menjawab soalan 'كَيْفَ تَذْهَبُ إِلَى الْمَدْرَسَةِ'?",
+      "options": [
+        "أَذْهَبُ بِالسَّيَّارَةِ",
+        "أَنَا فِي الْمَدْرَسَةِ",
+        "الْمَدْرَسَةُ بَعِيدَة",
+        "أُحِبُّ الْمَدْرَسَة"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Doa menaiki kenderaan diambil dari surah manakah?",
+      "options": [
+        "Surah al-Baqarah",
+        "Surah al-Zukhruf",
+        "Surah al-Kahfi",
+        "Surah Yasin"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Kenderaan", "colour": "#1565C0" },
+      { "id": "n2", "label": "Darat", "colour": "#1976D2" },
+      { "id": "n3", "label": "Udara", "colour": "#1976D2" },
+      { "id": "n4", "label": "Laut", "colour": "#1976D2" },
+      { "id": "n5", "label": "سَيَّارَة / قِطَار", "colour": "#42A5F5" },
+      { "id": "n6", "label": "طَائِرَة", "colour": "#42A5F5" },
+      { "id": "n7", "label": "سَفِينَة", "colour": "#42A5F5" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "jenis" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "contoh" },
+      { "id": "e5", "source": "n3", "target": "n6", "label": "contoh" },
+      { "id": "e6", "source": "n4", "target": "n7", "label": "contoh" }
+    ]
+  },
+  "vocab": [
+    { "word": "سَيَّارَة", "meaning": "kereta" },
+    { "word": "طَائِرَة", "meaning": "kapal terbang" },
+    { "word": "سَفِينَة", "meaning": "kapal laut" },
+    { "word": "قِطَار", "meaning": "kereta api" },
+    { "word": "حَافِلَة", "meaning": "bas" }
+  ],
+  "funFact": "Tahukah kamu bahawa perkataan 'طَيَّار' (juruterbang) berasal dari kata 'طَيَرَان' yang bermaksud terbang? Dalam bahasa Arab, kebanyakan kata-kata dibentuk dari tiga huruf asas yang dipanggil 'akar kata' (الجذر). Contoh: ط-ي-ر = terbang → طَائِرَة (kapal terbang), طَيَّار (juruterbang), طَيَرَان (penerbangan)!"
+}

@@ -1,0 +1,149 @@
+{
+  "id": "jais-tahun-4-hafazan-bab5",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "hafazan",
+  "chapter": 5,
+  "title": "Hafazan 5: Surah al-Dhuha (93)",
+  "emoji": "📖",
+  "colour": "#E91E63",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "سُورَة الضُّحَى — Surah al-Dhuha",
+      "body": "Surah al-Dhuha adalah surah ke-93 dalam al-Quran. Ia mengandungi 11 ayat dan diturunkan di Mekah. Surah ini diturunkan sebagai penghibur hati Nabi SAW ketika wahyu terhenti seketika dan orang kafir mengejek Baginda. Allah SWT menegaskan kasih sayang-Nya kepada Nabi SAW."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📜",
+          "title": "Surah al-Dhuha (Ayat 1-6)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat 1-6:",
+            "arabic": "وَالضُّحَىٰ ﴿١﴾ وَاللَّيْلِ إِذَا سَجَىٰ ﴿٢﴾ مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ ﴿٣﴾ وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ ﴿٤﴾ وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ ﴿٥﴾ أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ ﴿٦﴾",
+            "translation": "Demi waktu Dhuha (1) Dan demi malam apabila sunyi sepi (2) Tuhanmu tidak meninggalkanmu (wahai Muhammad) dan Dia tidak membencimu (3) Dan sesungguhnya akhirat itu lebih baik bagimu daripada dunia (4) Dan kelak Tuhanmu pasti memberikan kepadamu lalu kamu akan redha (5) Bukankah Dia mendapatimu sebagai anak yatim lalu Dia melindungimu (6)"
+          }
+        },
+        {
+          "icon": "📜",
+          "title": "Surah al-Dhuha (Ayat 7-11)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat 7-11:",
+            "arabic": "وَوَجَدَكَ ضَالًّا فَهَدَىٰ ﴿٧﴾ وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ ﴿٨﴾ فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ ﴿٩﴾ وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ ﴿١٠﴾ وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ ﴿١١﴾",
+            "translation": "Dan Dia mendapatimu dalam kesesatan lalu Dia memberikan petunjuk (7) Dan Dia mendapatimu dalam keadaan kekurangan lalu Dia memberikan kecukupan (8) Maka terhadap anak yatim janganlah kamu berlaku sewenang-wenang (9) Dan terhadap orang yang meminta-minta, janganlah kamu mengherdik (10) Dan terhadap nikmat Tuhanmu, maka ceritakanlah (11)"
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "3 Nikmat yang Allah Ingatkan",
+          "body": {
+            "type": "pairs",
+            "intro": "Allah ingatkan Nabi SAW tentang 3 perkara (ayat 6-8):",
+            "rows": [
+              { "label": "Yatim → Dilindungi", "arabic": "يَتِيمًا فَآوَى", "meaning": "Nabi yatim piatu sejak kecil — Allah lindungi dan jaga" },
+              { "label": "Sesat → Diberi Petunjuk", "arabic": "ضَالًّا فَهَدَى", "meaning": "Sebelum wahyu — Allah beri petunjuk melalui wahyu" },
+              { "label": "Miskin → Dicukupi", "arabic": "عَائِلًا فَأَغْنَى", "meaning": "Nabi SAW pernah miskin — Allah cukupkan rezekinya" }
+            ],
+            "outro": "3 amalan balasan (ayat 9-11): Jangan aniaya yatim, jangan halau peminta, ceritakan nikmat Allah"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌅",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ayat penghibur hati yang paling terkenal:",
+        "arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+        "translation": "Tuhanmu tidak meninggalkanmu dan Dia tidak membencimu.",
+        "source": "Surah al-Dhuha: 3",
+        "outro": "Ayat ini turun untuk menghibur Nabi SAW — Allah tidak pernah tinggalkan hamba-Nya yang beriman!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Teknik Menghafaz Surah al-Dhuha",
+      "items": [
+        "Fahami konteks: surah ini turun untuk menghibur Nabi SAW — baca dengan penuh perasaan.",
+        "Hafaz ayat 1-3 (sumpah + jaminan Allah kepada Nabi).",
+        {
+          "type": "arabic",
+          "arabic": "وَالضُّحَى ﴿١﴾ وَاللَّيْلِ إِذَا سَجَى ﴿٢﴾ مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَى ﴿٣﴾",
+          "translation": "Demi Dhuha | Demi malam yang sunyi | Tuhanmu tidak tinggalkan kamu dan tidak benci"
+        },
+        "Hafaz ayat 4-5 (akhirat lebih baik + janji Allah), kemudian ayat 6-8 (3 nikmat).",
+        "Hafaz ayat 9-11 (3 arahan) — jangan aniaya yatim, jangan halau peminta, ceritakan nikmat."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Surah al-Dhuha adalah surah nombor ke berapa?",
+      "options": [
+        "Surah ke-91",
+        "Surah ke-92",
+        "Surah ke-93",
+        "Surah ke-94"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang dimaksudkan dengan 'al-Dhuha' dalam ayat pertama?",
+      "options": [
+        "Malam yang gelap",
+        "Waktu pagi selepas matahari naik",
+        "Waktu tengah hari",
+        "Waktu petang"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah mesej utama ayat 3 Surah al-Dhuha kepada Nabi SAW?",
+      "options": [
+        "Allah marah kepada Nabi SAW",
+        "Wahyu akan berhenti selama-lamanya",
+        "Allah tidak meninggalkan dan tidak membenci Nabi SAW",
+        "Nabi SAW perlu bersabar lebih lama"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah tiga arahan Allah kepada Nabi SAW dalam ayat 9-11?",
+      "options": [
+        "Solat, puasa, zakat",
+        "Jangan aniaya yatim, jangan halau peminta, ceritakan nikmat Allah",
+        "Berdakwah, bersabar, bertawakal",
+        "Berdoa, berusaha, bersyukur"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "al-Dhuha (93)", "colour": "#E91E63" },
+      { "id": "n2", "label": "Jaminan Allah (ayat 3)", "colour": "#C2185B" },
+      { "id": "n3", "label": "3 Nikmat (ayat 6-8)", "colour": "#C2185B" },
+      { "id": "n4", "label": "3 Arahan (ayat 9-11)", "colour": "#AD1457" },
+      { "id": "n5", "label": "Akhirat Lebih Baik (ayat 4)", "colour": "#AD1457" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "penghiburan" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "kenang nikmat" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "balas dengan" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "janji (ayat 4-5)" }
+    ]
+  },
+  "vocab": [
+    { "word": "الضُّحَى", "meaning": "waktu Dhuha / awal pagi" },
+    { "word": "سَجَى", "meaning": "sunyi sepi (tentang malam)" },
+    { "word": "وَدَّعَ", "meaning": "meninggalkan / mengucap selamat tinggal" },
+    { "word": "يَتِيم", "meaning": "anak yatim (tidak ada bapa)" },
+    { "word": "السَّائِل", "meaning": "orang yang meminta-minta / peminta" }
+  ],
+  "funFact": "Tahukah kamu mengapa Surah al-Dhuha diturunkan? Wahyu berhenti turun selama beberapa hari (ada riwayat kata 12-40 hari). Orang kafir mengejek Nabi SAW: 'Tuhanmu sudah tinggalkan kamu!' Nabi SAW sangat sedih. Kemudian turunlah Surah al-Dhuha sebagai penghiburan dari Allah. Surah ini mengajar kita bahawa apabila Allah 'diam' (ujian datang), itu bukan bererti Dia meninggalkan kita — itu ujian untuk menguatkan iman kita!"
+}

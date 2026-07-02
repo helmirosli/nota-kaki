@@ -1,0 +1,160 @@
+{
+  "id": "jais-tahun-6-bahasa-arab-bab6",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "bahasa-arab",
+  "chapter": 6,
+  "title": "Bahasa Arab 6: Cerita dan Pengajaran",
+  "emoji": "📚",
+  "colour": "#1565C0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْقِصَص وَالْعِبَر — Cerita dan Pengajaran",
+      "body": "Al-Quran mengandungi banyak kisah (قِصَص الْقُرْآن) yang mengandungi pengajaran berharga. Dalam Tahun 6, pelajar belajar menceritakan semula kisah-kisah ini dalam bahasa Arab yang mudah. Kemahiran bercerita dalam bahasa Arab adalah kemahiran tinggi yang sangat berguna."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📊",
+          "title": "Kata Kunci untuk Bercerita",
+          "body": {
+            "type": "pairs",
+            "intro": "Perkataan berguna untuk menceritakan kisah dalam bahasa Arab:",
+            "rows": [
+              { "arabic": "كَانَ يَا مَا كَان", "meaning": "'Alkisah' / pada suatu masa — pembuka cerita" },
+              { "arabic": "ثُمَّ / بَعْدَ ذَلِك", "meaning": "kemudian / selepas itu — meneruskan cerita" },
+              { "arabic": "فَجَأَة", "meaning": "tiba-tiba — kejadian mengejut" },
+              { "arabic": "فِي النِّهَايَة", "meaning": "pada akhirnya — kesimpulan cerita" },
+              { "arabic": "الدَّرْس الْمُسْتَفَاد", "meaning": "pengajaran yang diperolehi" },
+              { "arabic": "كَانَ نَبِيٌّ اسْمُهُ", "meaning": "Ada seorang Nabi bernama..." }
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Kisah Nabi Yusuf a.s. dalam Bahasa Arab Mudah",
+          "body": {
+            "type": "list",
+            "intro": "Ringkasan kisah Nabi Yusuf dalam bahasa Arab mudah:",
+            "items": [
+              "كَانَ نَبِيٌّ اسْمُهُ يُوسُف — Ada seorang Nabi bernama Yusuf",
+              "كَانَ يُوسُفُ جَمِيلًا وَصَالِحًا — Yusuf sangat kacak dan saleh",
+              "حَسَدَهُ إِخْوَتُه وَأَلْقَوْهُ فِي الْبِئْر — Abang-abangnya dengki dan mencampaknya ke dalam telaga",
+              "ثُمَّ ذَهَبَ إِلَى مِصْر — Kemudian dia pergi ke Mesir",
+              "فِي النِّهَايَة صَارَ عَزِيزَ مِصْر — Pada akhirnya dia menjadi menteri besar Mesir"
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Pengajaran dari Kisah al-Quran",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah tentang nilai kisah al-Quran:",
+            "arabic": "لَقَدْ كَانَ فِي قَصَصِهِمْ عِبْرَةٌ لِّأُولِي الْأَلْبَاب",
+            "translation": "Sesungguhnya pada kisah-kisah mereka itu terdapat pengajaran bagi orang-orang yang berakal.",
+            "source": "Surah Yusuf: 111"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📚",
+      "text": {
+        "type": "list",
+        "intro": "Pengajaran dari Kisah Nabi Yusuf (أَحْسَنُ الْقَصَص — kisah terbaik):",
+        "items": [
+          "Sabar menghadapi ujian — Yusuf sabar meskipun dianiaya oleh abang sendiri",
+          "Ikhlas dan amanah — Yusuf amanah dalam bertugas di istana Firaun",
+          "Maaf memaafkan — Yusuf memaafkan abang-abangnya apabila berkuasa",
+          "Allah tidak pernah tinggalkan hamba-Nya yang sabar — ujian adalah jalan ke kejayaan"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Bercerita dalam Bahasa Arab",
+      "items": [
+        "Mulakan dengan 'كَانَ' (dahulunya ada...) untuk membuka cerita.",
+        "Gunakan urutan masa: أَوَّلًا (pertama), ثُمَّ (kemudian), بَعْدَ ذَلِك (selepas itu), فِي النِّهَايَة (akhirnya).",
+        {
+          "type": "pairs",
+          "intro": "Latihan bina ayat cerita:",
+          "rows": [
+            { "arabic": "كَانَ رَجُلٌ اسْمُهُ ___", "meaning": "Ada seorang lelaki bernama ___" },
+            { "arabic": "فِي النِّهَايَة، تَعَلَّمَ ___", "meaning": "Pada akhirnya, dia belajar bahawa ___" }
+          ]
+        },
+        "Ceritakan kisah Nabi Yusuf a.s. kepada rakan dalam 5 ayat bahasa Arab.",
+        "Sentiasa akhiri cerita dengan pengajaran: الدَّرْس الْمُسْتَفَاد... (pengajaran yang diperolehi...)"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Surah Yusuf disebut 'أَحْسَنُ الْقَصَص' yang bermaksud:",
+      "options": [
+        "Kisah paling sedih",
+        "Kisah terpanjang",
+        "Kisah terbaik / paling indah",
+        "Kisah paling awal"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah pengajaran utama dari kisah Nabi Yusuf a.s.?",
+      "options": [
+        "Jangan percaya kepada keluarga",
+        "Kekayaan adalah tanda kejayaan",
+        "Sabar dan ikhlas akhirnya membawa kejayaan",
+        "Orang yang cantik selalu berjaya"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Cara memulakan cerita dalam bahasa Arab menggunakan perkataan:",
+      "options": [
+        "فِي النِّهَايَة",
+        "فَجَأَة",
+        "كَانَ يَا مَا كَان / كَانَ",
+        "الدَّرْس الْمُسْتَفَاد"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Menurut Surah Yusuf:111, apakah yang terdapat dalam kisah-kisah al-Quran?",
+      "options": [
+        "Hiburan untuk masa lapang",
+        "Pengajaran bagi orang yang berakal",
+        "Hukum-hukum syariat",
+        "Ilmu sains dan alam"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Cerita Bahasa Arab", "colour": "#1565C0" },
+      { "id": "n2", "label": "Kata Kunci Cerita", "colour": "#0D47A1" },
+      { "id": "n3", "label": "Kisah Nabi Yusuf", "colour": "#0D47A1" },
+      { "id": "n4", "label": "Yusuf:111 — Pengajaran", "colour": "#1A237E" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "alat bahasa" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "contoh" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "pengajaran" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْقِصَّة", "meaning": "kisah / cerita (jamak: قِصَص)" },
+    { "word": "الْعِبْرَة", "meaning": "ibrah (pengajaran / iktibar)" },
+    { "word": "فَجَأَة", "meaning": "tiba-tiba" },
+    { "word": "فِي النِّهَايَة", "meaning": "pada akhirnya" },
+    { "word": "الصَّبْر", "meaning": "kesabaran" }
+  ],
+  "funFact": "Tahukah kamu bahawa Surah Yusuf adalah satu-satunya surah dalam al-Quran yang menceritakan SATU kisah secara lengkap dari awal hingga akhir? Surah-surah lain biasanya menyebut kisah dalam potongan-potongan di pelbagai tempat. Surah Yusuf juga dipanggil 'أَحْسَنُ الْقَصَص' (kisah terbaik) oleh Allah sendiri dalam Surah Yusuf:3. Kisah ini sangat lengkap — ada unsur keluarga, pengkhianatan, godaan nafsu, penjara, kemudian kejayaan dan pengampunan. Para psikologi moden mengatakan bahawa kisah Yusuf adalah antara kisah pembangunan peribadi terbaik yang pernah ditulis!"
+}

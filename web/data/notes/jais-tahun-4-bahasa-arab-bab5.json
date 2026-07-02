@@ -1,0 +1,171 @@
+{
+  "id": "jais-tahun-4-bahasa-arab-bab5",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "bahasa-arab",
+  "chapter": 5,
+  "title": "Dars 5: Kata Kerja Lampau",
+  "emoji": "⏮️",
+  "colour": "#1565C0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْفِعْلُ الْمَاضِي — Kata Kerja Lampau",
+      "body": "Kata kerja lampau (الفعل الماضي) digunakan untuk menyatakan perbuatan yang SUDAH berlaku. Contoh: 'saya telah makan', 'dia telah pergi'. Dalam bahasa Arab, bentuk kata kerja berubah mengikut pelaku!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "👤",
+          "title": "Kata Kerja Lampau — كَتَبَ (menulis)",
+          "body": {
+            "type": "pairs",
+            "intro": "Perubahan kata kerja mengikut pelaku:",
+            "rows": [
+              { "label": "هُوَ (dia lelaki)", "arabic": "كَتَبَ", "meaning": "dia (lelaki) telah menulis" },
+              { "label": "هِيَ (dia perempuan)", "arabic": "كَتَبَتْ", "meaning": "dia (perempuan) telah menulis" },
+              { "label": "أَنْتَ (kamu lelaki)", "arabic": "كَتَبْتَ", "meaning": "kamu (lelaki) telah menulis" },
+              { "label": "أَنْتِ (kamu perempuan)", "arabic": "كَتَبْتِ", "meaning": "kamu (perempuan) telah menulis" },
+              { "label": "أَنَا (saya)", "arabic": "كَتَبْتُ", "meaning": "saya telah menulis" }
+            ]
+          }
+        },
+        {
+          "icon": "🏃",
+          "title": "Kata Kerja Lampau — ذَهَبَ (pergi)",
+          "body": {
+            "type": "pairs",
+            "intro": "Contoh lain dengan kata kerja pergi:",
+            "rows": [
+              { "label": "هُوَ", "arabic": "ذَهَبَ", "meaning": "dia (lelaki) telah pergi" },
+              { "label": "هِيَ", "arabic": "ذَهَبَتْ", "meaning": "dia (perempuan) telah pergi" },
+              { "label": "أَنْتَ", "arabic": "ذَهَبْتَ", "meaning": "kamu (lelaki) telah pergi" },
+              { "label": "أَنَا", "arabic": "ذَهَبْتُ", "meaning": "saya telah pergi" }
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Contoh Ayat Lampau",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat-ayat menggunakan kata kerja lampau:",
+            "arabic": "سَافَرَ فَرِيدٌ إِلَى تَايْلَاند فِي الْأُسْبُوعِ الْمَاضِي.\nكَتَبَ مُحَمَّدٌ الرِّسَالَةَ فِي غُرْفَتِهِ.\nفَتَحَ أَحْمَدُ بَابَ بَيْتِهِ.\nنَجَحَتْ أَمِينَةُ فِي الِامْتِحَان.",
+            "translation": "Farid telah bermusafir ke Thailand minggu lepas.\nMuhammad telah menulis surat di biliknya.\nAhmad telah membuka pintu rumahnya.\nAminah telah berjaya dalam peperiksaan."
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "Pola Kata Kerja Lampau",
+          "body": {
+            "type": "list",
+            "intro": "Cara mengenal kata kerja lampau:",
+            "items": [
+              "Kata kerja lelaki: tidak ada tambahan di hujung — كَتَبَ, ذَهَبَ, فَتَحَ",
+              "Kata kerja perempuan: tambah تْ di hujung — كَتَبَتْ, ذَهَبَتْ, فَتَحَتْ",
+              "Saya (أَنَا): tambah تُ — كَتَبْتُ, ذَهَبْتُ",
+              "Kamu lelaki (أَنْتَ): tambah تَ — كَتَبْتَ, ذَهَبْتَ",
+              "Kamu perempuan (أَنْتِ): tambah تِ — كَتَبْتِ, ذَهَبْتِ"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Firman Allah tentang perbuatan yang telah berlaku:",
+        "arabic": "وَأَوْحَيْنَا إِلَىٰ أُمِّ مُوسَىٰ أَنْ أَرْضِعِيهِ",
+        "translation": "Dan Kami telah mewahyukan kepada ibu Musa agar dia menyusukannya.",
+        "source": "Surah al-Qasas: 7",
+        "outro": "أَوْحَيْنَا = Kami telah mewahyukan — contoh kata kerja lampau dalam al-Quran!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Membina Ayat Kata Kerja Lampau",
+      "items": [
+        "Tentukan siapa pelaku: hُوَ, هِيَ, أَنَا, أَنْتَ, atau أَنْتِ?",
+        "Pilih kata kerja lampau yang sesuai.",
+        "Ubah akhiran kata kerja mengikut pelaku.",
+        {
+          "type": "arabic",
+          "arabic": "أَنَا + أَكَلَ → أَكَلْتُ الطَّعَامَ",
+          "translation": "Saya + makan → Saya telah makan makanan"
+        },
+        "Letakkan objek (benda yang kena buat) selepas kata kerja."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah bentuk kata kerja lampau 'كَتَبَ' untuk pelaku PEREMPUAN (هِيَ)?",
+      "options": [
+        "كَتَبَ",
+        "كَتَبْتَ",
+        "كَتَبَتْ",
+        "كَتَبْتُ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah maksud ayat 'ذَهَبْتُ إِلَى الْمَدْرَسَةِ'?",
+      "options": [
+        "Dia telah pergi ke sekolah",
+        "Saya telah pergi ke sekolah",
+        "Kamu telah pergi ke sekolah",
+        "Mereka telah pergi ke sekolah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Manakah yang BETUL untuk 'kamu (lelaki) telah membuka'?",
+      "options": [
+        "فَتَحَتْ",
+        "فَتَحَ",
+        "فَتَحْتُ",
+        "فَتَحْتَ"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Kata kerja lampau berbeza mengikut apa dalam bahasa Arab?",
+      "options": [
+        "Masa sahaja",
+        "Pelaku (jantina dan orang)",
+        "Bilangan huruf",
+        "Makna sahaja"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Kata Kerja Lampau", "colour": "#1565C0" },
+      { "id": "n2", "label": "هُوَ / هِيَ", "colour": "#1976D2" },
+      { "id": "n3", "label": "أَنَا", "colour": "#1976D2" },
+      { "id": "n4", "label": "أَنْتَ / أَنْتِ", "colour": "#1976D2" },
+      { "id": "n5", "label": "+تْ (perempuan)", "colour": "#42A5F5" },
+      { "id": "n6", "label": "+تُ / تَ / تِ", "colour": "#42A5F5" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "pelaku orang ke-3" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "pelaku orang ke-1" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "pelaku orang ke-2" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "tanda perempuan" },
+      { "id": "e5", "source": "n3", "target": "n6", "label": "akhiran ganti nama" }
+    ]
+  },
+  "vocab": [
+    { "word": "كَتَبَ", "meaning": "telah menulis" },
+    { "word": "ذَهَبَ", "meaning": "telah pergi" },
+    { "word": "فَتَحَ", "meaning": "telah membuka" },
+    { "word": "سَافَرَ", "meaning": "telah bermusafir" },
+    { "word": "نَجَحَ", "meaning": "telah berjaya / lulus" }
+  ],
+  "funFact": "Tahukah kamu bahawa al-Quran menggunakan kata kerja lampau untuk menceritakan peristiwa yang pasti berlaku pada masa depan? Ini dipanggil 'Madi Tahqiq' — sebutan lampau yang menunjukkan kepastian! Contoh: 'أَتَى أَمْرُ اللَّهِ' (Perintah Allah telah datang) bermaksud ia pasti akan datang. Allah menggunakan kata lampau untuk menunjukkan ia adalah kepastian mutlak!"
+}

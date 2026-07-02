@@ -1,0 +1,239 @@
+{
+  "id": "jais-tahun-5-tajwid-bab1",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "tajwid",
+  "chapter": 1,
+  "title": "Mad — Medd Asli dan Medd Far'i",
+  "emoji": "📖",
+  "colour": "#1565C0",
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "مَدْ دَان بَهَاكِيْنْ — Pelajaran Pertama",
+      "body": "Mad ialah memanjangkan bacaan suara pada huruf-huruf mad. Mad terbahagi kepada dua bahagian: Mad Asli dan Mad Far'i."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🔤",
+          "title": "Pengertian Mad",
+          "body": {
+            "type": "pairs",
+            "intro": "Dua pengertian Mad:",
+            "rows": [
+              { "arabic": "بَهَاسَ", "meaning": "Dari segi bahasa: memanjangkan suara" },
+              { "arabic": "اِصْطِلَاح", "meaning": "Dari segi istilah: memanjangkan suara pada huruf mad ataupun huruf yang sukun selepas huruf mad" }
+            ]
+          }
+        },
+        {
+          "icon": "🔡",
+          "title": "Huruf Mad (3 huruf)",
+          "body": {
+            "type": "list",
+            "intro": "Tiga huruf mad — syarat menjadi huruf mad asli iaitu huruf sebelumnya berbaris:",
+            "items": [
+              "ا (alif) — huruf alif mati, sebelumnya berbaris atas (fathah). Contoh: وَقَالَ",
+              "و (waw) — huruf waw mati, sebelumnya berbaris hadapan (dhammah). Contoh: سَيَقُولُ",
+              "ي (ya) — huruf ya mati, sebelumnya berbaris bawah (kasrah). Contoh: قِيلَ"
+            ]
+          }
+        },
+        {
+          "icon": "🌿",
+          "title": "Bahagian Mad — 2 Bahagian",
+          "body": {
+            "type": "pairs",
+            "intro": "Mad terbahagi kepada dua bahagian utama:",
+            "rows": [
+              { "arabic": "مَدُّ أَصْلِيّ", "meaning": "Mad Asli — tiada hamzah atau sukun selepas huruf mad. Kadar: 2 harakat." },
+              { "arabic": "مَدُّ فَرْعِيّ", "meaning": "Mad Far'i — terdapat hamzah atau sukun selepas huruf mad. Kadar: bergantung kepada jenis." }
+            ]
+          }
+        },
+        {
+          "icon": "1️⃣",
+          "title": "Mad Asli",
+          "body": {
+            "type": "list",
+            "intro": "Mad Asli (juga disebut Mad Tabi'i atau Mad Zati):",
+            "items": [
+              "Pengertian: Mad yang tiada disebabkan tiadanya huruf hamzah atau sukun selepas huruf mad.",
+              "Kadar: 2 harakat.",
+              "Bahagian: Mad Asli Kalimi dan Mad Asli Harfi."
+            ]
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Mad Asli Kalimi (Unit 1)",
+          "body": {
+            "type": "list",
+            "intro": "Mad Asli Kalimi — mad yang terdapat pada huruf mad dalam satu kalimat kata:",
+            "items": [
+              "Pengertian: Mad Asli Kalimi ialah mad yang terdapat pada huruf mad dalam satu kalimat, bukan huruf hamzah dan bukan huruf sukun.",
+              "Kadar: 2 harakat."
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Mad Asli Harfi (Unit 2)",
+          "body": {
+            "type": "list",
+            "intro": "Mad Asli Harfi — mad pada huruf-huruf awal surah yang dieja dua huruf:",
+            "items": [
+              "Pengertian: Mad Asli Harfi ialah mad pada huruf-huruf awal surah yang dieja dua huruf daripadanya.",
+              "Huruf mad tabi'i harfi terkumpul dalam kata: حَيٌّ طَهَرُ",
+              "Kadar: 2 harakat.",
+              "Contoh surah: ح → حمٓ; ي → يٓسٓ dan كٓهٰيعٓصٓ; ط → طٓسٓمٓ، طٓسٓ، طٰهٰ; ه → طٰهٰ، كٓهٰيعٓصٓ; ر → الٓرٰ"
+            ]
+          }
+        },
+        {
+          "icon": "2️⃣",
+          "title": "Mad Far'i — Pengenalan",
+          "body": {
+            "type": "list",
+            "intro": "Mad Far'i — mad yang disebabkan terdapatnya huruf hamzah atau sukun selepas huruf mad:",
+            "items": [
+              "Pengertian: Mad Far'i ialah mad yang terjadi disebabkan terdapatnya huruf hamzah atau huruf sukun selepas huruf mad.",
+              "Kadar bacaan Mad Far'i adalah mengikut jenis mad yang terpakai."
+            ]
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "Mad Wajib Muttasil (Unit 1 — Far'i)",
+          "body": {
+            "type": "list",
+            "intro": "Mad yang WAJIB dibaca panjang kerana hamzah dalam satu kalimat:",
+            "items": [
+              "Pengertian: Mad Wajib Muttasil ialah mad yang berlaku apabila huruf mad bertemu dengan hamzah dalam satu kalimat kata.",
+              "Kadar: empat atau lima harakat.",
+              "Contoh: ...وَيَسْتَحْيُونَ نِسَآءَكُمْ... (Surah Ibrahim: 6)",
+              "Contoh: قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِى ٱلسَّمَآءِ... (Surah Al-Baqarah: 144)"
+            ]
+          }
+        },
+        {
+          "icon": "⚖️",
+          "title": "Mad Ja'iz Munfasil (Unit 2 — Far'i)",
+          "body": {
+            "type": "list",
+            "intro": "Mad yang HARUS dibaca panjang kerana hamzah di kalimat berbeza:",
+            "items": [
+              "Pengertian: Mad Ja'iz Munfasil ialah mad yang berlaku apabila huruf mad di hujung kalimat bertemu dengan hamzah di awal kalimat berikutnya.",
+              "Kadar: empat atau lima harakat (riwayat Hafs). Boleh juga dua harakat.",
+              "Contoh ا+ء: مَآ أَصَابَهُمْ, إِنَّآ أَوْحَيْنَآ, إِلَّآ أَن يُؤْمِنُوا",
+              "Contoh و+ء: قُوٓاْ أَنفُسَكُمْ, كَفَرُوٓاْ إِلَىٰ",
+              "Contoh ي+ء: إِنِّيٓ أَعْلَمُ, فِيٓ أَمْرِي"
+            ]
+          }
+        },
+        {
+          "icon": "🔄",
+          "title": "Mad Badal (Unit 3 — Far'i)",
+          "body": {
+            "type": "list",
+            "intro": "Mad penggantian hamzah:",
+            "items": [
+              "Pengertian: Mad Badal ialah mad yang berlaku apabila dua huruf hamzah bertemu dalam satu kalimat — hamzah pertama berbaris, hamzah kedua digantikan dengan huruf mad.",
+              "Kadar: 2 harakat.",
+              "Contoh: عَادَمُ (asalnya ءَأْدَمُ), عَازَرَ (asalnya ءَأْزَرَ), عَامَنُوا (asalnya ءَأْمَنُوا)"
+            ]
+          }
+        },
+        {
+          "icon": "🔗",
+          "title": "Mad Sila Tawilah (Unit 4 — Far'i)",
+          "body": {
+            "type": "list",
+            "intro": "Mad pada ha' dhamir yang bertemu hamzah qat':",
+            "items": [
+              "Pengertian: Mad Sila Tawilah ialah mad pada ha' dhamir (ه) yang berbaris diikuti waw/ya mati, yang bertemu dengan huruf hamzah qat'.",
+              "Kadar: empat atau lima harakat."
+            ]
+          }
+        },
+        {
+          "icon": "🎯",
+          "title": "Mad Farq (Unit 5 — Far'i)",
+          "body": {
+            "type": "list",
+            "intro": "Mad pembeza antara hamzah istifham dan hamzah khabar:",
+            "items": [
+              "Pengertian: Mad Farq ialah mad pada alif sukun yang terdapat sebelumnya hamzah istifham (soalan) yang bertemu dengan hamzah wasal.",
+              "Kadar: enam harakat.",
+              "Tujuan: untuk membezakan (farq) antara hamzah soalan dan hamzah khabar.",
+              "Catatan: Mad Farq hanya terdapat dalam dua surah sahaja yang mengandungi hamzah istifham dengan hamzah wasal."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Tahukah anda? Mad Asli apabila bertemu dengan hamzah wasal terdapat bacaan lebih. Tanda sifr berlokasi pada ayat seperti: رَبَّنَا ٱغْفِرْ لَنَا, فِى ٱلْأَرْضِ, فِى ٱلنَّارِ."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapakah bilangan huruf mad?",
+      "options": ["2 huruf", "3 huruf", "4 huruf", "5 huruf"],
+      "answer": 1
+    },
+    {
+      "q": "Apakah kadar bacaan Mad Asli?",
+      "options": ["1 harakat", "2 harakat", "4 harakat", "6 harakat"],
+      "answer": 1
+    },
+    {
+      "q": "Mad Wajib Muttasil berlaku apabila huruf mad bertemu dengan hamzah dalam...",
+      "options": [
+        "Dua kalimat berbeza",
+        "Satu kalimat yang sama",
+        "Permulaan surah",
+        "Hujung ayat sahaja"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapakah kadar bacaan Mad Farq?",
+      "options": ["2 harakat", "4 harakat", "5 harakat", "6 harakat"],
+      "answer": 3
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Mad", "colour": "#1565C0" },
+      { "id": "n2", "label": "Mad Asli (2 hrkت)", "colour": "#1976D2" },
+      { "id": "n3", "label": "Mad Far'i", "colour": "#42A5F5" },
+      { "id": "n4", "label": "Mad Asli Kalimi", "colour": "#64B5F6" },
+      { "id": "n5", "label": "Mad Asli Harfi", "colour": "#64B5F6" },
+      { "id": "n6", "label": "Wajib Muttasil", "colour": "#0D47A1" },
+      { "id": "n7", "label": "Ja'iz Munfasil", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis 2" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "bahagian" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "bahagian" },
+      { "id": "e5", "source": "n3", "target": "n6", "label": "jenis" },
+      { "id": "e6", "source": "n3", "target": "n7", "label": "jenis" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْمَدُّ", "meaning": "Mad — memanjangkan bacaan suara pada huruf-huruf mad" },
+    { "word": "الْمَدُّ الْأَصْلِيُّ", "meaning": "Mad Asli — mad yang tiada disebabkan hamzah atau sukun selepas huruf mad" },
+    { "word": "الْمَدُّ الْفَرْعِيُّ", "meaning": "Mad Far'i — mad yang disebabkan terdapatnya hamzah atau sukun selepas huruf mad" },
+    { "word": "الْمَدُّ الْوَاجِبُ الْمُتَّصِلُ", "meaning": "Mad Wajib Muttasil — mad apabila huruf mad bertemu hamzah dalam satu kalimat. Kadar: 4-5 harakat" },
+    { "word": "الْمَدُّ الْجَائِزُ الْمُنْفَصِلُ", "meaning": "Mad Ja'iz Munfasil — mad apabila huruf mad bertemu hamzah di kalimat berbeza. Kadar: 4-5 harakat" },
+    { "word": "الْمَدُّ الْبَدَلُ", "meaning": "Mad Badal — mad penggantian hamzah. Kadar: 2 harakat" }
+  ],
+  "funFact": "Tahukah kamu bahawa kata 'Mad' bermaksud 'panjang' dalam bahasa Arab? Ilmu tajwid mengatur panjang-pendek bacaan al-Quran dengan sangat teliti. Huruf mad yang tiga (ا، و، ي) ada dalam satu ayat al-Quran yang bermaksud 'Dan ia (yakni wahyu al-Quran) dibacakan kepadamu.' Ilmu mad membantu kita membaca al-Quran dengan betul dan indah seperti yang diajarkan Rasulullah ﷺ!"
+}

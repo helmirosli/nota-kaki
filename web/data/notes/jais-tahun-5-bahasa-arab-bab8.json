@@ -1,0 +1,155 @@
+{
+  "id": "jais-tahun-5-bahasa-arab-bab8",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 8,
+  "title": "Dars 8: Perasaan dan Emosi (الْمَشَاعِر)",
+  "emoji": "😊",
+  "colour": "#1565C0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْمَشَاعِر وَالْأَحَاسِيس — Perasaan dan Emosi",
+      "body": "Dalam dars ini kita belajar cara meluahkan perasaan dalam bahasa Arab. Kemahiran meluahkan perasaan adalah penting dalam perbualan sehari-hari. Al-Quran juga banyak menyebut tentang perasaan manusia seperti sabar, syukur, harap, dan takut."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "😊",
+          "title": "Kata-kata Perasaan",
+          "body": {
+            "type": "pairs",
+            "intro": "Ekspresi perasaan dalam bahasa Arab:",
+            "rows": [
+              { "arabic": "أَنَا سَعِيد / سَعِيدَة", "meaning": "Saya gembira (lelaki / perempuan)" },
+              { "arabic": "أَنَا حَزِين / حَزِينَة", "meaning": "Saya sedih" },
+              { "arabic": "أَنَا خَائِف / خَائِفَة", "meaning": "Saya takut" },
+              { "arabic": "أَنَا غَاضِب / غَاضِبَة", "meaning": "Saya marah" },
+              { "arabic": "أَنَا مُتَعَب / مُتَعَبَة", "meaning": "Saya penat" },
+              { "arabic": "أَنَا مُتَحَمِّس / مُتَحَمِّسَة", "meaning": "Saya teruja / bersemangat" },
+              { "arabic": "أَنَا بِخَيْر", "meaning": "Saya baik-baik saja" },
+              { "arabic": "الْحَمْدُ لِلَّه", "meaning": "Alhamdulillah (ungkapan syukur)" }
+            ]
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Cara Bertanya dan Menjawab",
+          "body": {
+            "type": "arabic",
+            "instruction": "Perbualan tentang perasaan:",
+            "arabic": "كَيْفَ حَالُكَ؟\nأَنَا بِخَيْر، الْحَمْدُ لِلَّه\nكَيْفَ تَشْعُر؟\nأَشْعُرُ بِالسَّعَادَة / الْحُزْن / التَّعَب",
+            "translation": "Apa khabar kamu? | Saya baik-baik, Alhamdulillah | Bagaimana perasaan kamu? | Saya rasa gembira / sedih / penat"
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Perasaan dalam al-Quran",
+          "body": {
+            "type": "list",
+            "intro": "Nilai-nilai emosi yang diajar al-Quran:",
+            "items": [
+              "الصَّبْر (sabar) — nilai terpenting, disebut >90 kali dalam al-Quran",
+              "الشُّكْر (syukur) — bersyukur dengan nikmat Allah (Surah Ibrahim:7)",
+              "الرَّجَاء (harap) — sentiasa berharap kepada rahmat Allah",
+              "الْخَوْف (takut) — takutkan Allah sahaja, bukan makhluk",
+              "الْحُبّ (cinta) — cintakan Allah, Rasul, dan sesama Muslim"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💚",
+      "text": {
+        "type": "arabic",
+        "instruction": "Cara Islam tangani emosi:",
+        "arabic": "وَلَنَبْلُوَنَّكُم بِشَيْءٍ مِّنَ الْخَوْفِ وَالْجُوعِ... وَبَشِّرِ الصَّابِرِينَ",
+        "translation": "Dan sungguh Kami akan menguji kamu dengan sedikit rasa takut, lapar... dan berikanlah khabar gembira kepada orang-orang yang sabar.",
+        "source": "Surah al-Baqarah: 155"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Ekspres Perasaan dalam Arab",
+      "items": [
+        "Setiap pagi, sebut perasaan kamu dalam Arab: أَنَا سَعِيدٌ الْيَوْمَ (saya gembira hari ini).",
+        "Apabila sesuatu terjadi, ungkapkan dalam Arab: مَاشَاءَ اللَّه! / سُبْحَانَ اللَّه!",
+        {
+          "type": "arabic",
+          "arabic": "عِنْدَمَا أَشْعُرُ بِالْحُزْن، أَقْرَأُ الْقُرْآن\nوَعِنْدَمَا أَشْعُرُ بِالسَّعَادَة، أَقُول: الْحَمْدُ لِلَّه",
+          "translation": "Ketika saya rasa sedih, saya baca al-Quran | Dan ketika saya rasa gembira, saya cakap: Alhamdulillah"
+        },
+        "Ingat: dalam Islam, semua perasaan ada cara sihatnya — sabar ketika susah, syukur ketika senang.",
+        "Latih bagi respons dalam Arab: كَيْفَ حَالُكَ؟ (apa khabar?) → أَنَا بِخَيْر (saya baik)"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Bagaimana cara tanya 'apa khabar?' dalam bahasa Arab?",
+      "options": [
+        "مَا اسْمُكَ؟",
+        "كَيْفَ حَالُكَ؟",
+        "أَيْنَ أَنْتَ؟",
+        "مَتَى جِئْت؟"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah maksud أَنَا حَزِين؟",
+      "options": [
+        "Saya gembira",
+        "Saya marah",
+        "Saya sedih",
+        "Saya penat"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Perkataan الصَّبْر bermaksud:",
+      "options": [
+        "Gembira",
+        "Sabar",
+        "Syukur",
+        "Marah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah ungkapan yang digunakan untuk meluahkan syukur dalam bahasa Arab?",
+      "options": [
+        "سُبْحَانَ اللَّه",
+        "اللَّهُ أَكْبَر",
+        "الْحَمْدُ لِلَّه",
+        "إِنَّا لِلَّه"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Perasaan Arab", "colour": "#1565C0" },
+      { "id": "n2", "label": "Kata Sifat Emosi", "colour": "#1976D2" },
+      { "id": "n3", "label": "Nilai Islam", "colour": "#1976D2" },
+      { "id": "n4", "label": "Perbualan", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "vocab" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "sabar & syukur" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "amali" }
+    ]
+  },
+  "vocab": [
+    { "word": "سَعِيد", "meaning": "gembira" },
+    { "word": "حَزِين", "meaning": "sedih" },
+    { "word": "الصَّبْر", "meaning": "kesabaran" },
+    { "word": "الشُّكْر", "meaning": "rasa syukur" },
+    { "word": "بِخَيْر", "meaning": "baik-baik saja" }
+  ],
+  "funFact": "Tahukah kamu bahawa perkataan 'sabar' (الصَّبْر) disebut lebih dari 90 kali dalam al-Quran? Ini menjadikannya salah satu nilai yang PALING KERAP disebut dalam al-Quran! Nabi SAW pernah bersabda bahawa sabar adalah separuh daripada iman. Para saintis moden pun setuju — kajian psikologi menunjukkan bahawa orang yang sabar (dalam bahasa sains: 'delayed gratification') lebih berjaya dalam kehidupan, lebih sihat, dan lebih bahagia. 1,400 tahun lalu Islam sudah ajar apa yang sains baru tahu sekarang!"
+}

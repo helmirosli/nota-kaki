@@ -1,0 +1,173 @@
+{
+  "id": "jais-tahun-4-bahasa-arab-bab4",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "bahasa-arab",
+  "chapter": 4,
+  "title": "Dars 4: Kata Soal",
+  "emoji": "❓",
+  "colour": "#1565C0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "أَسْمَاءُ الِاسْتِفْهَام — Kata Soal",
+      "body": "Kata soal digunakan untuk menanya soalan. Dalam bahasa Arab, setiap kata soal mempunyai fungsi yang berbeza — sama seperti 'apa', 'siapa', 'bila', 'di mana' dalam bahasa Melayu!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "❓",
+          "title": "8 Kata Soal Utama",
+          "body": {
+            "type": "pairs",
+            "rows": [
+              { "arabic": "مَا / مَاذَا", "meaning": "apa" },
+              { "arabic": "مَنْ", "meaning": "siapa" },
+              { "arabic": "أَيْنَ", "meaning": "di mana" },
+              { "arabic": "مَتَى", "meaning": "bila / kapan" },
+              { "arabic": "كَيْفَ", "meaning": "bagaimana" },
+              { "arabic": "كَمْ", "meaning": "berapa" },
+              { "arabic": "هَلْ", "meaning": "adakah (ya/tidak)" },
+              { "arabic": "لِمَاذَا", "meaning": "mengapa / kenapa" }
+            ]
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Contoh Ayat Soalan",
+          "body": {
+            "type": "arabic",
+            "instruction": "Soalan dan jawapan menggunakan kata soal:",
+            "arabic": "مَنْ رَئِيسُ الْفَصْلِ؟ — لُقْمَان رَئِيسُ الْفَصْلِ.\nأَيْنَ تَسْكُنُ؟ — أَسْكُنُ فِي شَاه عَالَم.\nكَمْ عُمْرُكَ؟ — عُمْرِي عَشْرُ سَنَوَات.\nمَتَى جَاءَ الْأُسْتَاذ؟ — جَاءَ الصُّبْح.",
+            "translation": "Siapa ketua kelas? — Luqman ketua kelas.\nDi mana kamu tinggal? — Saya tinggal di Shah Alam.\nBerapa umur kamu? — Umur saya sepuluh tahun.\nBila guru datang? — Dia datang pagi tadi."
+          }
+        },
+        {
+          "icon": "🔍",
+          "title": "مَا vs مَاذَا",
+          "body": {
+            "type": "list",
+            "intro": "Dua cara tanya 'apa' dalam bahasa Arab:",
+            "items": [
+              "مَا digunakan sebelum KATA NAMA: مَا اسْمُكَ؟ (Apa nama kamu?)",
+              "مَاذَا digunakan sebelum KATA KERJA: مَاذَا تَفْعَل؟ (Apa yang kamu buat?)",
+              "هَلْ hanya untuk jawapan YA/TIDAK: هَلْ أَنْتَ طَالِب؟ — نَعَم (Adakah kamu pelajar? — Ya)"
+            ]
+          }
+        },
+        {
+          "icon": "🗣️",
+          "title": "Perbualan Lengkap",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh perbualan menggunakan pelbagai kata soal:",
+            "arabic": "السَّلَامُ عَلَيْكُمْ يَا نَوْفَل! كَيْفَ حَالُكَ الْيَوْم؟\nوَعَلَيْكُمُ السَّلَام! أَنَا بِخَيْر، الْحَمْدُ لِلَّه.\nمَاذَا تَفْعَلُ فِي الْمَكْتَبَة؟\nأَنَا أَقْرَأُ كِتَابًا عَنِ الْإِسْلَام.",
+            "translation": "Assalamualaikum Nawfal! Apa khabar hari ini?\nWaalaikumsalam! Saya baik, alhamdulillah.\nApa yang kamu buat di perpustakaan?\nSaya membaca buku tentang Islam."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "pairs",
+        "intro": "Ringkasan — Kata soal dan kegunaannya:",
+        "rows": [
+          { "arabic": "مَنْ", "meaning": "soal tentang ORANG" },
+          { "arabic": "مَا / مَاذَا", "meaning": "soal tentang BENDA / PERBUATAN" },
+          { "arabic": "أَيْنَ", "meaning": "soal tentang TEMPAT" },
+          { "arabic": "مَتَى", "meaning": "soal tentang MASA" },
+          { "arabic": "كَيْفَ", "meaning": "soal tentang CARA" },
+          { "arabic": "كَمْ", "meaning": "soal tentang BILANGAN/JUMLAH" },
+          { "arabic": "هَلْ", "meaning": "soal YA atau TIDAK" },
+          { "arabic": "لِمَاذَا", "meaning": "soal tentang SEBAB" }
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Membina Soalan dalam Bahasa Arab",
+      "items": [
+        "Tentukan apa yang ingin disoal: orang, benda, tempat, masa, cara, atau bilangan.",
+        "Pilih kata soal yang sesuai dari jadual di atas.",
+        "Letakkan kata soal di AWAL ayat.",
+        {
+          "type": "arabic",
+          "arabic": "أَيْنَ + تَسْكُنُ = أَيْنَ تَسْكُنُ؟",
+          "translation": "Di mana + tinggal = Di mana kamu tinggal?"
+        },
+        "Latih buat soalan sendiri dan tanya rakan kamu!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Kata soal manakah yang digunakan untuk bertanya tentang TEMPAT?",
+      "options": [
+        "مَنْ",
+        "مَتَى",
+        "أَيْنَ",
+        "كَيْفَ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah makna soalan 'كَمْ عُمْرُكَ؟'?",
+      "options": [
+        "Di mana rumah kamu?",
+        "Siapa nama kamu?",
+        "Bila kamu lahir?",
+        "Berapa umur kamu?"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Kata soal manakah HANYA untuk jawapan ya atau tidak?",
+      "options": [
+        "مَا",
+        "هَلْ",
+        "لِمَاذَا",
+        "كَيْفَ"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Ayat soal manakah yang betul untuk bertanya 'Apa yang kamu buat?'",
+      "options": [
+        "مَنْ تَفْعَل؟",
+        "أَيْنَ تَفْعَل؟",
+        "مَاذَا تَفْعَل؟",
+        "مَتَى تَفْعَل؟"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Kata Soal", "colour": "#1565C0" },
+      { "id": "n2", "label": "مَنْ (orang)", "colour": "#42A5F5" },
+      { "id": "n3", "label": "أَيْنَ (tempat)", "colour": "#42A5F5" },
+      { "id": "n4", "label": "مَتَى (masa)", "colour": "#42A5F5" },
+      { "id": "n5", "label": "كَمْ (bilangan)", "colour": "#42A5F5" },
+      { "id": "n6", "label": "كَيْفَ (cara)", "colour": "#42A5F5" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "fungsi" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "fungsi" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "fungsi" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "fungsi" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "fungsi" }
+    ]
+  },
+  "vocab": [
+    { "word": "مَنْ", "meaning": "siapa" },
+    { "word": "أَيْنَ", "meaning": "di mana" },
+    { "word": "مَتَى", "meaning": "bila" },
+    { "word": "كَيْفَ", "meaning": "bagaimana" },
+    { "word": "هَلْ", "meaning": "adakah (ya/tidak)" }
+  ],
+  "funFact": "Tahukah kamu bahawa perkataan 'siapa' dalam bahasa Arab — مَنْ — adalah perkataan yang sama digunakan dalam al-Quran lebih dari 300 kali! Contoh ayat yang kita semua tahu: 'بِسْمِ اللَّه' bermaksud 'dengan nama Allah' — ب adalah kata hubung yang selalu hadir bersama kata soal untuk membina makna yang lebih kaya dalam bahasa Arab."
+}

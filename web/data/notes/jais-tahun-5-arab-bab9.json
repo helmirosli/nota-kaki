@@ -1,0 +1,130 @@
+{
+  "id": "jais-tahun-5-arab-bab9",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 9,
+  "title": "الزِّيَارَةُ إِلَى الْمُسْتَشْفَى — Lawatan ke Hospital",
+  "emoji": "📖",
+  "colour": "#2196F3",
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الدرس التاسع — الزيارة إلى المستشفى",
+      "body": "Pada akhir pelajaran ini, murid dapat: (1) Mendengar cerita lawatan ke hospital dengan betul. (2) Menyebut cerita lawatan ke hospital dengan betul. (3) Membaca cerita lawatan ke hospital dengan jelas. (4) Membentuk jawapan soalan tentang cerita tersebut."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🏥",
+          "title": "القصة — الزيارة إلى المستشفى",
+          "body": {
+            "type": "arabic",
+            "instruction": "Baca dan dengar cerita lawatan ke hospital:",
+            "arabic": "ذَهَبَ أَشْرَفُ مَعَ وَالِدَيْهِ إِلَى الْمُسْتَشْفَى لِزِيَارَةِ جَدَّتِهِ الْمَرِيْضَةِ هُنَاكَ. بَعْدَ أَنْ وَصَلَ أَشْرَفُ إِلَى الْمُسْتَشْفَى، وَجَدَ كَثِيْرًا مِنَ الْمَرْضَى أُصِيْبُوا بِعِدَّةِ أَمْرَاضٍ. يَصْعَدُ الْمِصْعَدَ الْكَهْرَبَائِيَّ لِلْوُصُوْلِ إِلَى غُرْفَةِ جَدَّتِهِ فِيْ الطَّابِقِ الرَّابِعِ.",
+            "translation": "Ashraf pergi bersama ibu bapanya ke hospital untuk melawat neneknya yang sakit di sana. Setelah Ashraf tiba di hospital, dia mendapati ramai pesakit yang diserang pelbagai penyakit. Dia menaiki lif untuk sampai ke bilik neneknya di tingkat empat."
+          }
+        },
+        {
+          "icon": "👵",
+          "title": "Sambungan Cerita — Di Bilik Nenek",
+          "body": {
+            "type": "arabic",
+            "instruction": "Sambungan cerita di hospital:",
+            "arabic": "شَاهَدَ أَشْرَفُ الزَّائِرِيْنَ مِنَ الْأَفْرَادِ وَالْأُسْرَةِ حَوْلَ سَرِيْرِ جَدَّتِهِ وَأَخْبَرَتْهُمْ أَنَّهَا فِيْ هَذَا الْيَوْمِ سَتَخْرُجُ مِنَ الْمُسْتَشْفَى بَعْدَ أَنْ تَحَسَّنَتْ صِحَّتُهَا. لَاقَى الْأَبُ الْمُمَرِّضَاتِ وَالطَّبِيْبَةَ شَكَرَهُنَّ عَلَى عِنَايَتِهِنَّ وَمُسَاعَدَتِهِنَّ طَوَالَ مُكْثِ الْجَدَّةِ فِيْ الْمُسْتَشْفَى. فَأَمَّا الْأُمُّ رَتَّبَتِ الْمَلَابِسَ وَالْأَثَاثَ. أَعْطَتِ الْمُمَرِّضَةُ رِسَالَةَ الدَّوَاءِ إِلَى الْأَبِ وَأَخَذَهَا إِلَى الصَّيْدَلِيَّةِ الْمَخْصُوْصَةِ. وَبَعْدَ ذَلِكَ، رَجَعُوا إِلَى الْبَيْتِ بِسَيَّارَةِ الْأُسْرَةِ شَاكِرِيْنَ اللَّهَ عَلَى نِعْمَتِهِ الْعَظِيْمَةِ.",
+            "translation": "Ashraf melihat para pengunjung dari sanak saudara dan keluarga di sekeliling katil neneknya. Nenek memberitahu mereka bahawa hari ini dia akan keluar dari hospital setelah kesihatannya pulih. Ayah menemui para jururawat dan doktor, berterima kasih atas penjagaan dan bantuan mereka sepanjang nenek berada di hospital. Adapun ibu, dia mengemaskini pakaian dan barang-barang. Jururawat memberikan resit ubat kepada ayah dan dia mengambilnya ke farmasi yang ditetapkan. Selepas itu, mereka pulang ke rumah dengan kereta keluarga sambil bersyukur kepada Allah atas nikmat-Nya yang agung."
+          }
+        },
+        {
+          "icon": "🏷️",
+          "title": "Kosa Kata Hospital — مفردات المستشفى",
+          "body": {
+            "type": "pairs",
+            "intro": "Kosa kata penting berkaitan hospital:",
+            "rows": [
+              { "arabic": "الْمُسْتَشْفَى", "meaning": "Al-Mustashfa — hospital" },
+              { "arabic": "الطَّبِيْبَةُ", "meaning": "At-Tabiibah — doktor (perempuan)" },
+              { "arabic": "الْمُمَرِّضَةُ", "meaning": "Al-Mumarridhah — jururawat (perempuan)" },
+              { "arabic": "الصَّيْدَلِيَّةُ", "meaning": "As-Saydaliyyah — farmasi" },
+              { "arabic": "الدَّوَاءُ", "meaning": "Ad-Dawaa' — ubat" },
+              { "arabic": "الطَّابِقُ الرَّابِعُ", "meaning": "At-Taabiqur raabi' — tingkat empat" },
+              { "arabic": "الْمِصْعَدُ الْكَهْرَبَائِيُّ", "meaning": "Al-Mis'adul kahrabaa'iy — lif elektrik" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Cerita ini mengandungi nilai-nilai murni: berziarah orang sakit, berterima kasih kepada doktor dan jururawat, dan bersyukur kepada Allah. Perkataan kunci: الجدة (nenek)، المرضى (pesakit-pesakit)، تحسنت صحتها (kesihatannya pulih)، شاكرين الله (sambil bersyukur kepada Allah)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Siapakah yang dilawati Ashraf di hospital?",
+      "options": [
+        "Datuknya",
+        "Ibunya",
+        "Neneknya",
+        "Kawannya"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Di tingkat berapa bilik nenek Ashraf?",
+      "options": [
+        "Tingkat dua",
+        "Tingkat tiga",
+        "Tingkat empat",
+        "Tingkat lima"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Ke manakah ayah Ashraf pergi selepas menerima resit ubat?",
+      "options": [
+        "Ke bilik pesakit lain",
+        "Ke farmasi",
+        "Ke kantin hospital",
+        "Ke pejabat hospital"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah maksud 'شَاكِرِيْنَ اللَّهَ عَلَى نِعْمَتِهِ'?",
+      "options": [
+        "Berdoa kepada Allah",
+        "Memohon maaf kepada Allah",
+        "Bersyukur kepada Allah atas nikmat-Nya",
+        "Berterima kasih kepada doktor"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "الزيارة إلى المستشفى", "colour": "#2196F3" },
+      { "id": "n2", "label": "أشرف والوالدان", "colour": "#1976D2" },
+      { "id": "n3", "label": "الجدة المريضة", "colour": "#1565C0" },
+      { "id": "n4", "label": "الطبيبة والممرضات", "colour": "#0D47A1" },
+      { "id": "n5", "label": "الصيدلية", "colour": "#42A5F5" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n2", "target": "n3", "label": "ziarah" },
+      { "id": "e2", "source": "n2", "target": "n4", "label": "berterima kasih" },
+      { "id": "e3", "source": "n2", "target": "n5", "label": "ambil ubat" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْمُسْتَشْفَى", "meaning": "Al-Mustashfa — hospital" },
+    { "word": "الْجَدَّةُ", "meaning": "Al-Jaddah — nenek (ibu kepada ibu atau bapa)" },
+    { "word": "الْمَرِيْضُ / الْمَرِيْضَةُ", "meaning": "Al-Mariidhh — pesakit (lelaki/perempuan)" },
+    { "word": "الصِّحَّةُ", "meaning": "As-Sihhah — kesihatan" },
+    { "word": "تَحَسَّنَ", "meaning": "Tahassana — pulih/bertambah baik" },
+    { "word": "نِعْمَةٌ عَظِيْمَةٌ", "meaning": "Ni'matun 'azhiimah — nikmat yang agung" }
+  ],
+  "funFact": "Tahukah kamu bahawa perkataan 'المستشفى' dalam bahasa Arab berasal dari kata kerja 'شفا / يشفي' yang bermaksud 'menyembuhkan'? Jadi hospital dalam bahasa Arab secara harfiah bermaksud 'tempat penyembuhan'. Begitu juga perkataan 'الطبيب' (doktor) berasal dari 'طب' (perubatan). Ini menunjukkan bahawa bahasa Arab sering membentuk perkataan berdasarkan makna asal kata kerjanya — satu ciri yang menjadikan bahasa Arab sangat sistematik!"
+}

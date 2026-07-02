@@ -1,0 +1,191 @@
+{
+  "id": "jais-tahun-5-feqah-bab4",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "feqah",
+  "chapter": 4,
+  "title": "Pengurusan Jenazah",
+  "emoji": "🕌",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "فُغُوْرُوسَن جِنَازَه — Pelajaran Keempat",
+      "body": "Apabila seseorang Muslim meninggal dunia, terdapat 4 kewajipan yang perlu dilakukan oleh umat Islam: memandikan, mengafankan, menyembahyangkan, dan mengebumikan. Hukum menguruskan jenazah ialah fardhu kifayah."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "💧",
+          "title": "4 Kewajipan Terhadap Jenazah",
+          "body": {
+            "type": "pairs",
+            "intro": "4 perkara wajib (fardhu kifayah) ke atas jenazah Muslim:",
+            "rows": [
+              { "arabic": "الْغُسْلُ", "meaning": "Memandikan — membersihkan tubuh jenazah" },
+              { "arabic": "التَّكْفِينُ", "meaning": "Mengafankan — membungkus jenazah dengan kain kafan" },
+              { "arabic": "الصَّلَاةُ", "meaning": "Menyembahyangkan — mengerjakan solat jenazah" },
+              { "arabic": "الدَّفْنُ", "meaning": "Mengebumikan — mengkebumikan jenazah di tanah" }
+            ]
+          }
+        },
+        {
+          "icon": "🚿",
+          "title": "Unit 1: Memandikan Jenazah — Lafaz Niat",
+          "body": {
+            "type": "list",
+            "intro": "Lafaz niat memandikan jenazah:",
+            "items": [
+              "Jenazah lelaki: نَوَيْتُ أَنْ أُغَسِّلَ لِهَذَا الْمَيِّتِ لِلَّهِ تَعَالَى (Sahaja aku memandikan mayit ini [lelaki] kerana Allah ta'ala.)",
+              "Jenazah perempuan: نَوَيْتُ أَنْ أُغَسِّلَ لِهَذِهِ الْمَيِّتَةِ لِلَّهِ تَعَالَى (Sahaja aku memandikan mayit ini [perempuan] kerana Allah ta'ala.)"
+            ]
+          }
+        },
+        {
+          "icon": "📋",
+          "title": "Cara Memandikan Jenazah",
+          "body": {
+            "type": "list",
+            "intro": "Langkah-langkah memandikan jenazah:",
+            "items": [
+              "1. Letakkan jenazah di tempat yang tinggi dalam keadaan baring telentang.",
+              "2. Tutup auratnya dengan kain.",
+              "3. Bersihkan najis pada tubuh jenazah dan bersihkan semua lubang (hidung, mulut dll.).",
+              "4. Cuci qubul dan dubur.",
+              "5. Cuci anggota wudhu.",
+              "6. Siram dengan air bersabun terlebih dahulu.",
+              "7. Bilas dengan air bersih.",
+              "8. Siram terakhir dengan air bercampur kapur barus dari arah kepala hingga kaki."
+            ]
+          }
+        },
+        {
+          "icon": "🧣",
+          "title": "Unit 2: Mengafankan Jenazah",
+          "body": {
+            "type": "list",
+            "intro": "Cara mengafankan jenazah:",
+            "items": [
+              "Mengafankan jenazah dengan kain yang menutupi auratnya — satu atau dua lapisan kain.",
+              "Letakkan kain kafan terbentang dua lapisan.",
+              "Letakkan kapas di atasnya, tertatang dua.",
+              "Susun kain hingga meliputi seluruh badan.",
+              "Ikat dengan tali dari kaki, pergelangan kaki, lutut, paha, badan hingga hujung kepala."
+            ]
+          }
+        },
+        {
+          "icon": "🕌",
+          "title": "Unit 3: Solat Jenazah — Rukun",
+          "body": {
+            "type": "list",
+            "intro": "7 rukun solat jenazah:",
+            "items": [
+              "1. Niat.",
+              "2. Berdiri (jika berkemampuan).",
+              "3. Takbiratul Ihram dan membaca al-Fatihah.",
+              "4. Takbir kedua dan membaca selawat.",
+              "5. Takbir ketiga dan membaca doa untuk jenazah.",
+              "6. Takbir keempat dan membaca doa untuk orang Islam yang masih hidup.",
+              "7. Memberi salam."
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Niat Solat Jenazah (4 jenis)",
+          "body": {
+            "type": "list",
+            "intro": "Lafaz niat solat jenazah mengikut jenis jenazah:",
+            "items": [
+              "Jenazah lelaki: أُصَلِّي عَلَى هَذَا الْمَيِّتِ أَرْبَعَ تَكْبِيرَاتٍ لِلَّهِ تَعَالَى",
+              "Jenazah perempuan: أُصَلِّي عَلَى هَذِهِ الْمَيِّتَةِ أَرْبَعَ تَكْبِيرَاتٍ لِلَّهِ تَعَالَى",
+              "Jenazah kanak-kanak lelaki: أُصَلِّي عَلَى هَذَا الْمَيِّتِ الطِّفْلِ أَرْبَعَ تَكْبِيرَاتٍ لِلَّهِ تَعَالَى",
+              "Jenazah kanak-kanak perempuan: أُصَلِّي عَلَى هَذِهِ الْمَيِّتَةِ الطِّفْلَةِ أَرْبَعَ تَكْبِيرَاتٍ لِلَّهِ تَعَالَى"
+            ]
+          }
+        },
+        {
+          "icon": "🤲",
+          "title": "Doa Solat Jenazah (Takbir ke-3)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Doa untuk jenazah lelaki dewasa (dibaca selepas takbir ke-3):",
+            "arabic": "اللَّهُمَّ اغْفِرْلَهُ وَارْحَمْهُ وَعَافِهِ وَاعْفُ عَنْهُ وَأَكْرِمْ نُزُلَهُ وَوَسِّعْ مَدْخَلَهُ وَاغْسِلْهُ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ وَنَقِّهِ مِنَ الْخَطَايَا كَمَا يُنَقَّى الثَّوْبُ الْأَبْيَضُ مِنَ الدَّنَسِ",
+            "translation": "Ya Allah, ampunilah dia, rahmatilah dia, sejahterakanlah dia, maafkanlah dia, muliakanlah tempatnya, luaskan jalan masuknya, sucikanlah dia dengan air, salji dan sejuk, bersihkanlah dia dari dosa sebagaimana kain putih dibersihkan dari kotoran."
+          }
+        },
+        {
+          "icon": "⛏️",
+          "title": "Unit 4: Mengebumikan Jenazah",
+          "body": {
+            "type": "list",
+            "intro": "Cara mengebumikan jenazah:",
+            "items": [
+              "1. Kedalaman lubang kubur ialah kira-kira 2 kali tinggi orang dewasa (lebih kurang 1.8 meter) supaya tidak berbau.",
+              "2. Letakkan jenazah dalam kubur dengan menghadapkan kanannya ke arah qiblat.",
+              "3. Menimbun semula lubang kubur dengan tanah sempurna."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Tahukah anda? Sunat menziarahi kubur bagi orang yang meninggal dunia, membaca al-Quran, mendoakan mereka dan berdoa di tepi kubur."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapakah kewajipan (fardhu kifayah) ke atas jenazah Muslim?",
+      "options": ["2 kewajipan", "3 kewajipan", "4 kewajipan", "5 kewajipan"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah hukum menguruskan jenazah Muslim?",
+      "options": ["Fardhu ain", "Fardhu kifayah", "Sunnah mu'akkadah", "Harus"],
+      "answer": 1
+    },
+    {
+      "q": "Berapakah bilangan takbir dalam solat jenazah?",
+      "options": ["2 takbir", "3 takbir", "4 takbir", "5 takbir"],
+      "answer": 2
+    },
+    {
+      "q": "Di mana imam berdiri semasa solat jenazah untuk jenazah lelaki?",
+      "options": [
+        "Di bahagian kaki jenazah",
+        "Di bahagian kepala jenazah",
+        "Di bahagian pinggang jenazah",
+        "Di sebelah kiri jenazah"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Pengurusan Jenazah", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Memandikan", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "Mengafankan", "colour": "#7B1FA2" },
+      { "id": "n4", "label": "Solat Jenazah", "colour": "#7B1FA2" },
+      { "id": "n5", "label": "Mengebumikan", "colour": "#7B1FA2" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "3" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "4" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْجِنَازَةُ", "meaning": "Jenazah — mayat orang Islam yang meninggal dunia" },
+    { "word": "الْكَفَنُ", "meaning": "Kafan — kain putih yang digunakan untuk membungkus jenazah" },
+    { "word": "صَلَاةُ الْجِنَازَةِ", "meaning": "Solat jenazah — solat fardhu kifayah yang dikerjakan ke atas jenazah Muslim" },
+    { "word": "الدَّفْنُ", "meaning": "Pengebumian — proses mengkebumikan jenazah di dalam tanah" },
+    { "word": "فَرْضُ كِفَايَةٍ", "meaning": "Fardhu kifayah — kewajipan yang gugur jika sudah ada yang melaksanakannya" }
+  ],
+  "funFact": "Tahukah kamu bahawa Islam sangat menghormati jenazah? Rasulullah ﷺ pernah bangun berdiri apabila jenazah dibawa lalu di hadapannya. Baginda bersabda: 'Bukankah ia juga seorang manusia?' Ini menunjukkan bahawa setiap manusia berhak mendapat kehormatan, walaupun setelah meninggal dunia. Islam mengajar kita untuk memuliakan jenazah dengan mengurusnya dengan penuh hormat dan rasa tanggungjawab."
+}

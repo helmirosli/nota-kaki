@@ -1,0 +1,174 @@
+{
+  "id": "jais-tahun-5-akhlak-bab2",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "akhlak",
+  "chapter": 2,
+  "title": "Adab Dalam Majlis",
+  "emoji": "🪑",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "أَدَب الْمَجَالِس — Pelajaran Kedua",
+      "body": "Majlis ialah perhimpunan yang dihadiri oleh beberapa individu atau kumpulan dalam lapisan masyarakat dengan tujuan tertentu. Islam mengajar adab dalam menghadiri majlis supaya suasana harmoni dan mendapat berkat Allah ﷻ."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📋",
+          "title": "7 Adab Dalam Majlis",
+          "body": {
+            "type": "list",
+            "intro": "Adab yang perlu diamalkan semasa berada dalam majlis:",
+            "items": [
+              "1. Memberi salam dan berjabat tangan",
+              "2. Memakai pakaian sopan dan menutup aurat",
+              "3. Memenuhi tempat duduk dahulu dari hadapan",
+              "4. Berkenalan dengan satu sama lain",
+              "5. Memberi tempat duduk kepada orang yang baru semasa",
+              "6. Menjaga ketenangan dan memberi perhatian dalam majlis",
+              "7. Duduk dengan tertib dan sopan"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil Adab Dalam Majlis",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah ﷻ — Surah al-Mujadilah: 11:",
+            "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قِيلَ لَكُمْ تَفَسَّحُوا فِي الْمَجَالِسِ فَافْسَحُوا يَفْسَحِ اللَّهُ لَكُمْ وَإِذَا قِيلَ انشُزُوا فَانشُزُوا... ﴿١١﴾",
+            "translation": "Wahai orang-orang yang beriman! Apabila kamu diminta memberi kelapangan tempat duduk kepada orang lain maka lapangkanlah, supaya Allah melapangkan (kebaikan) untukmu. Dan apabila kamu diminta bangun maka bangunlah...",
+            "source": "Surah al-Mujadilah: 11"
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "4 Fadhilat Beradab Dalam Majlis",
+          "body": {
+            "type": "list",
+            "intro": "Kebaikan bagi yang beradab dalam majlis:",
+            "items": [
+              "1. Mendapat keredaan Allah ﷻ dan terlepas dari godaan syaitan",
+              "2. Mewujudkan suasana harmoni",
+              "3. Menimbulkan kemesraan dan memperkuatkan persaudaraan dan perpaduan",
+              "4. Menjadikan forum yang berfaedah dan saluran faham"
+            ]
+          }
+        },
+        {
+          "icon": "🚫",
+          "title": "4 Perkara yang Dilarang Dalam Majlis",
+          "body": {
+            "type": "list",
+            "intro": "Perkara-perkara berikut adalah dilarang semasa dalam majlis:",
+            "items": [
+              "1. Mengganggu kelancaran majlis",
+              "2. Mencela orang lain",
+              "3. Membuka keaiban orang",
+              "4. Mengganggu laluan orang lain"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "4 Akibat Tidak Beradab Dalam Majlis",
+          "body": {
+            "type": "list",
+            "intro": "Akibat buruk bagi yang tidak beradab dalam majlis:",
+            "items": [
+              "1. Dibenci Allah ﷻ dan Rasulullah ﷺ",
+              "2. Dipandang serong oleh masyarakat",
+              "3. Tidak mendapat kepercayaan masyarakat",
+              "4. Disisihkan oleh masyarakat"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ayat utama — Surah al-Mujadilah: 11 (wajib hafaz):",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قِيلَ لَكُمْ تَفَسَّحُوا فِي الْمَجَالِسِ فَافْسَحُوا يَفْسَحِ اللَّهُ لَكُمْ",
+        "translation": "Wahai orang-orang yang beriman! Apabila kamu diminta memberi kelapangan tempat duduk kepada orang lain maka lapangkanlah, supaya Allah melapangkan (kebaikan) untukmu.",
+        "source": "Surah al-Mujadilah: 11"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Amalkan Adab Dalam Majlis",
+      "items": [
+        "Apabila tiba di majlis — beri salam, cari tempat duduk dari hadapan, jangan terus duduk di belakang.",
+        "Semasa majlis berlangsung — dengar dengan penuh perhatian, jangan berbisik atau mengganggu orang lain.",
+        "Jika ada orang baru tiba — lapangkan tempat duduk atau tolong carikan tempat untuknya.",
+        "Ingat: Adab dalam majlis mencerminkan keperibadian dan keimanan seseorang."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah pengertian majlis menurut buku ini?",
+      "options": [
+        "Tempat orang bersolat berjemaah",
+        "Perhimpunan yang dihadiri oleh beberapa individu atau kumpulan dalam lapisan masyarakat dengan tujuan tertentu",
+        "Mesyuarat rasmi antara pemimpin",
+        "Perjumpaan antara keluarga sahaja"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa bilangan adab dalam majlis yang disebut dalam buku ini?",
+      "options": ["5 adab", "6 adab", "7 adab", "8 adab"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah dalil tentang adab dalam majlis yang digunakan dalam buku ini?",
+      "options": [
+        "Surah al-Hujurat: 12",
+        "Surah al-Mujadilah: 11",
+        "Surah al-Baqarah: 275",
+        "Surah al-Nisa': 59"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Antara berikut, manakah BUKAN fadhilat beradab dalam majlis?",
+      "options": [
+        "Mendapat keredaan Allah ﷻ",
+        "Mewujudkan suasana harmoni",
+        "Dipandang serong oleh masyarakat",
+        "Menjadikan forum yang berfaedah"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Adab Dalam Majlis", "colour": "#4CAF50" },
+      { "id": "n2", "label": "7 Adab", "colour": "#388E3C" },
+      { "id": "n3", "label": "4 Larangan", "colour": "#F44336" },
+      { "id": "n4", "label": "4 Fadhilat", "colour": "#2196F3" },
+      { "id": "n5", "label": "4 Akibat", "colour": "#FF9800" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "wajib amal" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "wajib jauhi" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "jika amal" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "jika langgar" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْمَجْلِس", "meaning": "majlis (perhimpunan individu atau kumpulan dengan tujuan tertentu)" },
+    { "word": "تَفَسَّحُوا", "meaning": "lapangkan/beri ruang (dalam majlis untuk orang lain)" },
+    { "word": "انشُزُوا", "meaning": "bangunlah (berdiri apabila diminta)" },
+    { "word": "الْوَحْدَة", "meaning": "perpaduan (menyatukan hati dalam majlis)" },
+    { "word": "الْأُخُوَّة", "meaning": "persaudaraan (hubungan kasih sayang antara orang beriman)" }
+  ],
+  "funFact": "Tahukah kamu bahawa Surah al-Mujadilah: 11 diturunkan berkaitan dengan satu peristiwa di majlis Nabi SAW? Sahabat-sahabat Badr (yang mengikut Perang Badr) tiba lewat dan tidak ada tempat duduk. Nabi SAW meminta orang lain memberi tempat kepada mereka. Sesetengah orang tidak mahu bergerak, lalu Allah turunkan ayat ini untuk mengajar bahawa memberi kelapangan kepada orang lain di majlis akan dibalas dengan kelapangan dari Allah. Adab kecil ini menyimpan pahala yang besar!"
+}

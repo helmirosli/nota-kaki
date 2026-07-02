@@ -1,0 +1,118 @@
+{
+  "id": "jais-tahun-5-arab-bab5",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 5,
+  "title": "الْأَدَوَاتُ الِاتِّصَالِيَّةُ الْحَدِيثَةُ — Alat Komunikasi Moden",
+  "emoji": "📖",
+  "colour": "#2196F3",
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الدرس الخامس — الأدوات الاتصالية الحديثة",
+      "body": "Pada akhir pelajaran ini, murid dapat: (1) Mendengar lafaz alat komunikasi moden dengan betul. (2) Menyebut lafaz alat komunikasi moden dengan betul. (3) Membaca lafaz alat komunikasi moden dengan jelas. (4) Menulis lafaz alat komunikasi moden dengan betul."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "💬",
+          "title": "الحوار — أمين وأبوه",
+          "body": {
+            "type": "arabic",
+            "instruction": "Baca dan dengar dialog antara Amin dan ayahnya:",
+            "arabic": "أَمِيْنُ: يَا أَبِيْ، إِلَى أَيْنَ سَنُسَافِرُ فِيْ الْعُطْلَةِ الْمَدْرَسِيَّةِ الْقَادِمَةِ؟\nالْأَبُ: فِيْ السَّنَةِ الْمَاضِيَةِ ذَهَبْنَا إِلَى «بُوْكِيْت فرِيزِر»، مَا رَأْيُكَ لَوْ ذَهَبْنَا إِلَى «فُولُو رِيدْغ» فِيْ تِرِنْجَانُو؟\nأَمِيْنُ: هَذِهِ فِكْرَةٌ جَيِّدَةٌ، أَنَا مُوَافِقٌ وَلَمْ نَذْهَبْ بَعْدُ هُنَاكَ.\nالْأَبُ: لَا بَأْسَ بِهِ، سَأَبْحَثُ عَنِ الْمَعْلُوْمَاتِ عَنْ «فُولُو رِيدْغ» فِيْ الْإِنْتِرْنِتْ. رُبَّمَا نَجِدُ الْمَعْلُوْمَاتِ الْمُهِمَّةَ قَبْلَ أَنْ نُسَافِرَ هُنَاكَ.\nأَمِيْنُ: أَحْسَنْتَ يَا أَبِيْ. إِذَنْ، الْأَمْرُ سَهْلٌ بِالْإِنْتِرْنِتْ!\nالْأَبُ: صَحِيْحٌ.",
+            "translation": "Amin: Wahai ayah, ke mana kita akan pergi semasa cuti sekolah yang akan datang?\nAyah: Tahun lepas kita pergi ke Bukit Fraser, apa pandangan kamu kalau kita pergi ke 'Pulau Redang' di Terengganu?\nAmin: Ini idea yang bagus, saya setuju dan kita belum pernah pergi ke sana.\nAyah: Tidak mengapa, saya akan mencari maklumat tentang 'Pulau Redang' di Internet. Mungkin kita akan mendapat maklumat penting sebelum kita pergi ke sana.\nAmin: Bagus, wahai ayah. Kalau begitu, perkara ini mudah dengan Internet!\nAyah: Benar."
+          }
+        },
+        {
+          "icon": "💻",
+          "title": "Alat Komunikasi Moden — أدوات اتصالية حديثة",
+          "body": {
+            "type": "pairs",
+            "intro": "Kosa kata alat komunikasi moden dalam bahasa Arab:",
+            "rows": [
+              { "arabic": "الْإِنْتِرْنِتْ", "meaning": "Al-Internet — internet" },
+              { "arabic": "الْحَاسُوْبُ", "meaning": "Al-Haasub — komputer" },
+              { "arabic": "الْهَاتِفُ", "meaning": "Al-Haatif — telefon" },
+              { "arabic": "الْهَاتِفُ الذَّكِيُّ", "meaning": "Al-Haatifuz Zakkiy — telefon pintar (smartphone)" },
+              { "arabic": "التِّلْفَازُ", "meaning": "At-Tilfaaz — televisyen" },
+              { "arabic": "الرَّادِيُوْ", "meaning": "Ar-Raadiyuu — radio" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Frasa penting dari dialog ini: هذه فكرة جيدة (ini idea yang bagus), أنا موافق (saya setuju), لا بأس به (tidak mengapa), سأبحث عن المعلومات (saya akan mencari maklumat), الأمر سهل بالإنترنت (perkara ini mudah dengan internet). Cerita ini menunjukkan manfaat internet untuk merancang perjalanan."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Ke mana keluarga Amin pergi dalam percutian tahun lepas?",
+      "options": [
+        "Pulau Redang, Terengganu",
+        "Bukit Fraser",
+        "Bagan Lalang, Selangor",
+        "Zoo Negara, KL"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah maksud 'أَنَا مُوَافِقٌ'?",
+      "options": [
+        "Saya tidak setuju",
+        "Saya tidak tahu",
+        "Saya setuju",
+        "Saya seronok"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Ayah Amin menggunakan apa untuk mencari maklumat tentang destinasi percutian?",
+      "options": [
+        "Buku panduan",
+        "Majalah",
+        "Internet",
+        "Telefon kepada kawan"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah maksud 'الْهَاتِفُ الذَّكِيُّ'?",
+      "options": [
+        "Komputer riba",
+        "Telefon pintar (smartphone)",
+        "Radio",
+        "Televisyen"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "أدوات اتصالية", "colour": "#2196F3" },
+      { "id": "n2", "label": "الإنترنت", "colour": "#1976D2" },
+      { "id": "n3", "label": "الحاسوب", "colour": "#1565C0" },
+      { "id": "n4", "label": "الهاتف الذكي", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "contoh" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "contoh" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "contoh" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْأَدَوَاتُ الِاتِّصَالِيَّةُ", "meaning": "Al-Adawaatul ittisaaliyyah — alat komunikasi" },
+    { "word": "الْإِنْتِرْنِتْ", "meaning": "Internet — digunakan untuk mencari maklumat" },
+    { "word": "فِكْرَةٌ جَيِّدَةٌ", "meaning": "Fikratun jayyidah — idea yang bagus" },
+    { "word": "مُوَافِقٌ", "meaning": "Muwaafiq — setuju/bersetuju" },
+    { "word": "الْمَعْلُوْمَاتُ", "meaning": "Al-Ma'luumaat — maklumat-maklumat" },
+    { "word": "سَأَبْحَثُ", "meaning": "Sa'abhathu — saya akan mencari (fi'l mudhaari' + sin mustaqbal)" }
+  ],
+  "funFact": "Tahukah kamu bahawa perkataan 'إنترنت' dalam bahasa Arab dipinjam terus dari bahasa Inggeris 'Internet'? Bahasa Arab mempunyai kemampuan menyerap kata pinjaman, tetapi kadang-kadang juga mencipta perkataan Arab tulen untuk teknologi — seperti الحاسوب (haasub) untuk komputer, dari kata kerja حَسَبَ yang bermaksud 'mengira'. Ini menunjukkan betapa kayanya bahasa Arab dalam membentuk perkataan baru dari akar kata yang sedia ada!"
+}

@@ -11,10 +11,14 @@
             "id": "a4ee8f7d3e0eae23",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Services/Knowledge Graph.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Knowledge Graph"
             }
           }
         ]
@@ -183,6 +187,17 @@
   },
   "active": "a4ee8f7d3e0eae23",
   "lastOpenFiles": [
+    "Services/Dashboard.md",
+    "Services/Knowledge Graph.md",
+    "Services/Note Schema.md",
+    "Services/Note Sections.md",
+    "Services/Notes Loader.md",
+    "Services/PDF Pipeline.md",
+    "Services/Progress Store.md",
+    "Services/UI Shell.md",
+    "Services/Note Reader.md",
+    "Architecture.md",
+    "Services/Quiz.md",
     "Welcome.md"
   ]
 }

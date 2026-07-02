@@ -1,0 +1,157 @@
+{
+  "id": "jais-tahun-6-imlak-bab1",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "imlak",
+  "chapter": 1,
+  "title": "Imlak 1: Kaedah Penulisan Hamzah Lanjut",
+  "emoji": "✍️",
+  "colour": "#009688",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "كِتَابَة الْهَمْزَة الْمُتَطَوِّرَة — Hamzah Peringkat Lanjut",
+      "body": "Pada peringkat Tahun 6, pelajar mendalami penulisan hamzah dalam pelbagai konteks yang lebih kompleks. Tiga aspek utama: hamzah di awal perkataan (Wasal dan Qat'), hamzah di tengah perkataan dengan harakat yang berbeza-beza, dan hamzah di hujung perkataan. Ketiga-tiga memiliki kaedah berbeza yang perlu dikuasai untuk menulis bahasa Arab dengan betul."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "✍️",
+          "title": "Hamzah di Awal Perkataan",
+          "body": {
+            "type": "pairs",
+            "intro": "Dua jenis hamzah di awal perkataan:",
+            "rows": [
+              { "arabic": "هَمْزَة الْوَصْل (ا)", "meaning": "Hamzah Wasal — berbaris ketika berdiri sendiri, TIDAK dibaca bila disambung. Contoh: اِسْمٌ ← dikebumikan bersama ال menjadi 'al-ism'" },
+              { "arabic": "هَمْزَة الْقَطْع (أ/إ)", "meaning": "Hamzah Qat' — SENTIASA dibaca walaupun disambung. Contoh: أَكَلَ → sentiasa bunyi 'a' di awal" },
+              { "arabic": "الْفَرْق", "meaning": "Cara mudah: kata nama (ism), kata kerja bentuk 'if'al/ista'ala → biasanya Wasal; kata ganti nama, kata kerja asas → biasanya Qat'" }
+            ]
+          }
+        },
+        {
+          "icon": "✍️",
+          "title": "Hamzah di Tengah Perkataan",
+          "body": {
+            "type": "list",
+            "intro": "Kaedah menulis hamzah di tengah berdasarkan harakat:",
+            "items": [
+              "Hamzah berbaris kasrah (ِ) → tulis di atas ya' tanpa titik (ئ): مَسْأَلَة → مَسْئَلَة",
+              "Hamzah berbaris dhammah → tulis di atas waw (ؤ): مُؤْمِن (Mukmin)",
+              "Hamzah berbaris fathah → tulis di atas alif (أ): سَأَلَ (bertanya)",
+              "Hamzah selepas huruf mad → tulis di atas baris (ء): جَاءَ (datang)",
+              "Peraturan: kasrah mengalahkan dhammah, dhammah mengalahkan fathah"
+            ]
+          }
+        },
+        {
+          "icon": "✍️",
+          "title": "Hamzah di Hujung Perkataan",
+          "body": {
+            "type": "pairs",
+            "intro": "Kaedah hamzah di akhir mengikut huruf sebelumnya:",
+            "rows": [
+              { "arabic": "بَعْدَ أَلِف (ء)", "meaning": "Selepas alif mad → hamzah di atas baris: مَاءٌ (air)" },
+              { "arabic": "بَعْدَ وَاو سَاكِنَة (ء)", "meaning": "Selepas waw sakin → hamzah di atas baris: دُفُوءٌ (kehangatan)" },
+              { "arabic": "بَعْدَ حَرَكَة (أ/ؤ/ئ)", "meaning": "Selepas harakat → ikut kaedah harakat hamzah: قَرَأَ, يَقْرَؤُ, قَارِئٌ" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "✍️",
+      "text": {
+        "type": "list",
+        "intro": "Contoh perkataan hamzah yang sering keliru — hafaz pasangan ini:",
+        "items": [
+          "سَأَلَ (bertanya) — hamzah Qat' fathah → atas alif (أ)",
+          "اِسْتَأْذَنَ (minta izin) — hamzah Wasal di awal + Qat' di tengah",
+          "مُؤَدِّب (sopan) — hamzah tengah dhammah → atas waw (ؤ)",
+          "قُرِئَ (dibaca) — hamzah hujung selepas kasrah → atas ya' (ئ)",
+          "شَيْءٌ (sesuatu) — hamzah hujung selepas ya' sakin → atas baris (ء)"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Strategi Kuasai Penulisan Hamzah",
+      "items": [
+        "Hafaz kaedah asas: Kasrah → ئ, Dhammah → ؤ, Fathah → أ, Sukun/mad → ء",
+        "Latih dengan kata-kata yang kerap dalam solat dan al-Quran.",
+        {
+          "type": "arabic",
+          "arabic": "تَدْرِيب: كَيْفَ تَكْتُب هَذِهِ الْكَلِمَات؟\nسَأَلَ، مُؤْمِن، جَاءَ، قَارِئ، بِئْر",
+          "translation": "Latihan: Bagaimana tulis perkataan-perkataan ini? سَأَلَ (hamzah tengah fathah → أ), مُؤْمِن (hamzah tengah dhammah → ؤ), جَاءَ (hamzah hujung selepas alif mad → ء), قَارِئ (hamzah hujung selepas kasrah → ئ), بِئْر (hamzah tengah kasrah → ئ)"
+        },
+        "Buat carta rujukan hamzah sendiri — paste di meja belajar.",
+        "Ingat: kesalahan hamzah dalam imlak adalah kesalahan paling biasa — latih setiap hari!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah perbezaan antara Hamzah Wasal dan Hamzah Qat'?",
+      "options": [
+        "Hamzah Wasal lebih kuat bunyinya",
+        "Hamzah Wasal tidak dibaca bila disambung; Hamzah Qat' sentiasa dibaca",
+        "Hamzah Qat' hanya ada di awal perkataan",
+        "Keduanya sama sahaja"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Hamzah di tengah perkataan yang berbaris KASRAH ditulis di atas huruf apa?",
+      "options": [
+        "Di atas waw (ؤ)",
+        "Di atas ya' tanpa titik (ئ)",
+        "Di atas alif (أ)",
+        "Di atas baris sahaja (ء)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan مُؤْمِن (Mukmin) — hamzah ditulis di atas waw (ؤ) kerana hamzah itu berbaris:",
+      "options": [
+        "Fathah",
+        "Kasrah",
+        "Dhammah",
+        "Sukun"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Perkataan جَاءَ (datang) — hamzah ditulis di atas baris (ء) kerana:",
+      "options": [
+        "Hamzah itu berbaris fathah",
+        "Hamzah itu selepas huruf mad (alif panjang)",
+        "Hamzah itu di awal perkataan",
+        "Kaedah khas untuk kata kerja"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Hamzah", "colour": "#009688" },
+      { "id": "n2", "label": "Awal: Wasal/Qat'", "colour": "#00796B" },
+      { "id": "n3", "label": "Tengah: Ikut Harakat", "colour": "#00796B" },
+      { "id": "n4", "label": "Hujung: Ikut Konteks", "colour": "#004D40" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "posisi awal" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "posisi tengah" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "posisi akhir" }
+    ]
+  },
+  "vocab": [
+    { "word": "هَمْزَة الْوَصْل", "meaning": "Hamzah Wasal (gugur bila disambung dengan perkataan sebelum)" },
+    { "word": "هَمْزَة الْقَطْع", "meaning": "Hamzah Qat' (sentiasa berbunyi walaupun disambung)" },
+    { "word": "الإِمْلَاء", "meaning": "imlak/imlaa' (penulisan Arab mengikut kaedah ejaan)" },
+    { "word": "الْحَرَكَة", "meaning": "harakat (baris — fathah, kasrah, dhammah, sukun)" },
+    { "word": "الْمَدّ", "meaning": "mad (pemanjangan bunyi — alif, waw, ya' panjang)" }
+  ],
+  "funFact": "Tahukah kamu bahawa sistem penulisan hamzah yang kita pelajari sekarang tidak wujud pada zaman Nabi SAW? Al-Quran pada awalnya ditulis tanpa harakat (baris) dan tanpa titik! Ulama bernama Abu al-Aswad al-Du'ali (abad ke-7) mula menambah sistem 'tanda titik harakat' untuk membantu orang bukan Arab membaca dengan betul. Kemudian al-Khalil bin Ahmad al-Farahidi (abad ke-8) memperbaiki sistem ini menjadi harakat yang kita kenali hari ini (fathah, kasrah, dhammah, sukun). Kaedah hamzah pula dikembangkan oleh para nahu Arab dalam tempoh beratus tahun. Jadi sistem ejaan Arab yang kita pelajari adalah hasil kerja ilmiah berabad-abad lamanya!"
+}

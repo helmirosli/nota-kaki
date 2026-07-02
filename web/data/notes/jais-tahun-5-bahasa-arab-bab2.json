@@ -1,0 +1,165 @@
+{
+  "id": "jais-tahun-5-bahasa-arab-bab2",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 2,
+  "title": "Dars 2: Anggota Badan (أَعْضَاء الْجِسْم)",
+  "emoji": "🧑",
+  "colour": "#1565C0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "أَعْضَاء الْجِسْم — Anggota Badan",
+      "body": "Dalam dars ini kita belajar nama-nama anggota badan dalam bahasa Arab. Mengetahui nama anggota badan penting untuk memahami al-Quran dan hadith yang banyak menyebut anggota badan, serta berguna dalam perbualan harian."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🧑",
+          "title": "Anggota Badan Bahagian Atas",
+          "body": {
+            "type": "pairs",
+            "intro": "Nama anggota badan bahagian atas:",
+            "rows": [
+              { "arabic": "الرَّأْس", "meaning": "kepala" },
+              { "arabic": "الشَّعَر", "meaning": "rambut" },
+              { "arabic": "الْجَبْهَة", "meaning": "dahi" },
+              { "arabic": "الْعَيْن (ج: الْعُيُون)", "meaning": "mata (jamak: mata-mata)" },
+              { "arabic": "الْأَنْف", "meaning": "hidung" },
+              { "arabic": "الْأُذُن (ج: الْآذَان)", "meaning": "telinga (jamak: telinga-telinga)" },
+              { "arabic": "الْفَم", "meaning": "mulut" },
+              { "arabic": "الشَّفَة (ج: الشِّفَاه)", "meaning": "bibir (jamak: bibir-bibir)" }
+            ]
+          }
+        },
+        {
+          "icon": "✋",
+          "title": "Anggota Badan Bahagian Tengah & Bawah",
+          "body": {
+            "type": "pairs",
+            "intro": "Anggota badan lain:",
+            "rows": [
+              { "arabic": "الْعُنُق / الرَّقَبَة", "meaning": "leher" },
+              { "arabic": "الصَّدْر", "meaning": "dada" },
+              { "arabic": "الْبَطْن", "meaning": "perut" },
+              { "arabic": "الْيَد (ج: الْأَيْدِي)", "meaning": "tangan (jamak: tangan-tangan)" },
+              { "arabic": "الْأَصَابِع", "meaning": "jari-jari" },
+              { "arabic": "الرِّجْل (ج: الْأَرْجُل)", "meaning": "kaki (jamak: kaki-kaki)" },
+              { "arabic": "الْقَلْب", "meaning": "hati / jantung" },
+              { "arabic": "الظَّهْر", "meaning": "belakang / belakang badan" }
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Anggota Badan dalam al-Quran",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat yang menyebut anggota badan:",
+            "arabic": "الْيَوْمَ نَخْتِمُ عَلَىٰ أَفْوَاهِهِمْ وَتُكَلِّمُنَا أَيْدِيهِمْ وَتَشْهَدُ أَرْجُلُهُم",
+            "translation": "Pada hari itu Kami kunci mulut mereka, dan tangan mereka akan berbicara kepada Kami, dan kaki mereka akan menjadi saksi.",
+            "source": "Surah Yasin: 65"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "list",
+        "intro": "Anggota badan dalam ibadah — penting untuk diketahui:",
+        "items": [
+          "الرَّأْس (kepala) — disapu semasa wuduk",
+          "الْيَدَان (dua tangan) — dibasuh tiga kali semasa wuduk",
+          "الرِّجْلَان (dua kaki) — dibasuh hingga buku lali",
+          "الْوَجْه (muka) — dibasuh tiga kali semasa wuduk",
+          "الْجَبْهَة (dahi) — tempat sujud menyentuh sejadah"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Hafaz Nama Anggota Badan",
+      "items": [
+        "Tunjuk anggota badan dan sebut nama Arabnya — buat sambil bercermin.",
+        "Gunakan dalam ayat: يَدِي كَبِيرَة (tangan saya besar), عَيْنِي صَغِيرَة (mata saya kecil).",
+        {
+          "type": "arabic",
+          "arabic": "هَذَا رَأْسِي، هَذِهِ يَدِي، هَذِهِ رِجْلِي",
+          "translation": "Ini kepala saya, ini tangan saya, ini kaki saya"
+        },
+        "Hafaz melalui wuduk — sebut nama anggota badan semasa membasuhnya.",
+        "Buat permainan 'sentuh dan sebut' dengan rakan — siapa yang paling cepat?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah bahasa Arab untuk 'hidung'?",
+      "options": [
+        "الْعَيْن",
+        "الْأُذُن",
+        "الْأَنْف",
+        "الشَّفَة"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Perkataan الْأَيْدِي adalah jamak kepada perkataan apa?",
+      "options": [
+        "الْأُذُن",
+        "الرِّجْل",
+        "الْيَد",
+        "الْعَيْن"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Dalam wuduk, anggota badan manakah yang DISAPU (bukan dibasuh)?",
+      "options": [
+        "Tangan",
+        "Muka",
+        "Kepala",
+        "Kaki"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah bahasa Arab untuk 'dahi'?",
+      "options": [
+        "الصَّدْر",
+        "الظَّهْر",
+        "الْبَطْن",
+        "الْجَبْهَة"
+      ],
+      "answer": 3
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Anggota Badan", "colour": "#1565C0" },
+      { "id": "n2", "label": "Bahagian Kepala", "colour": "#1976D2" },
+      { "id": "n3", "label": "Bahagian Badan", "colour": "#1976D2" },
+      { "id": "n4", "label": "Dalam Wuduk", "colour": "#0D47A1" },
+      { "id": "n5", "label": "Dalam al-Quran", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "bahagian atas" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "bahagian bawah" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "ibadah" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "dalil" }
+    ]
+  },
+  "vocab": [
+    { "word": "الرَّأْس", "meaning": "kepala" },
+    { "word": "الْيَد", "meaning": "tangan" },
+    { "word": "الرِّجْل", "meaning": "kaki" },
+    { "word": "الْعَيْن", "meaning": "mata" },
+    { "word": "الْقَلْب", "meaning": "hati / jantung" }
+  ],
+  "funFact": "Tahukah kamu bahawa perkataan 'jantung' dan 'hati' dalam bahasa Arab adalah SATU perkataan — الْقَلْب (al-qalb)? Ini kerana dalam pandangan Islam, hati yang disebutkan dalam al-Quran bukan sekadar organ fizikal tapi juga pusat perasaan, iman, dan akhlak. Nabi SAW bersabda: 'Ketahuilah, sesungguhnya dalam jasad ada segumpal daging — jika ia baik, maka seluruh jasad baik; jika ia rosak, maka seluruh jasad rosak. Ketahuilah, itulah hati (al-qalb).' Subhanallah — betapa pentingnya menjaga hati kita!"
+}

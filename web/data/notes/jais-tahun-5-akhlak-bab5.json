@@ -1,0 +1,364 @@
+{
+  "id": "jais-tahun-5-akhlak-bab5",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "akhlak",
+  "chapter": 5,
+  "title": "Sifat Mazmumah",
+  "emoji": "⚠️",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "صِفَات مَذْمُومَة — Pelajaran Kelima",
+      "body": "Sifat mazmumah ialah sifat keji yang mesti dijauhi oleh setiap Muslim. Dalam pelajaran ini kita belajar empat sifat mazmumah: Ghadab (marah), Hasad (dengki), Bakhil (kedekut), dan Hubbul Jah (cintakan pangkat)."
+    },
+    {
+      "type": "unit",
+      "heading": "😡 Unit 1: Ghadab",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Pengertian & Dalil",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ghadab ialah sifat mudah marah. Sabda Rasulullah ﷺ:",
+            "arabic": "أَشَدُّكُمْ مَنْ غَلَبَ نَفْسَهُ عِنْدَ الْغَضَبِ وَأَحْلَمُكُمْ مَن عَفَا عِنْدَ الْقُدْرَةِ",
+            "translation": "Orang yang paling kuat di antara kamu ialah orang yang dapat menahan dirinya daripada marah, dan orang yang paling penyabar di antara kamu ialah orang yang memaafkan dalam keadaan berkuasa.",
+            "source": "Riwayat al-Baihaqi"
+          }
+        },
+        {
+          "icon": "🛡️",
+          "title": "Cara Menghindari Ghadab",
+          "body": {
+            "type": "list",
+            "items": [
+              "Berzikir kepada Allah ﷻ",
+              "Sentiasa beristighfar",
+              "Bersifat sabar dalam semua keadaan",
+              "Berselawat ke atas Nabi ﷺ",
+              "Mengambil wuduk"
+            ]
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Fadhilat Menjauhkan Ghadab",
+          "body": {
+            "type": "list",
+            "items": [
+              "Mendapat kejayaan",
+              "Mewujudkan keharmonian",
+              "Mengeratkan hubungan silaturrahim",
+              "Mendidik diri bersifat sabar dan tabah",
+              "Terhindar dari perbuatan jenayah"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Akibat Bersifat Ghadab",
+          "body": {
+            "type": "list",
+            "items": [
+              "Tidak sabar",
+              "Mendapat dosa",
+              "Boleh membawa kejahatan dan fitnah",
+              "Memutuskan silaturrahim",
+              "Menjerumuskan perkelahian dan kemusuahan"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "unit",
+      "heading": "😒 Unit 2: Hasad",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Pengertian & Dalil",
+          "body": {
+            "type": "arabic",
+            "instruction": "Hasad ialah sikap tidak suka hati dengan nikmat yang diperoleh orang lain serta ingin mengambil nikmat itu dari mereka. Firman Allah ﷻ:",
+            "arabic": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴿٥﴾",
+            "translation": "Dan dari kejahatan orang yang dengki apabila ia dengki.",
+            "source": "Surah al-Falaq: 5"
+          }
+        },
+        {
+          "icon": "🔍",
+          "title": "Ciri-ciri Hasad",
+          "body": {
+            "type": "list",
+            "items": [
+              "Suka menyebarkan fitnah",
+              "Suka melihat orang lain susah dan menderita",
+              "Tidak suka melihat nikmat yang diperoleh orang lain",
+              "Berusaha menghapuskan nikmat yang diperoleh orang lain"
+            ]
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Fadhilat Tidak Bersifat Hasad",
+          "body": {
+            "type": "list",
+            "items": [
+              "Dikasihhi Allah ﷻ dan Rasulullah ﷺ",
+              "Disayangi ibu bapa, kawan dan masyarakat",
+              "Mengeratkan silaturrahim",
+              "Mendapat balasan baik di akhirat",
+              "Jiwa tenang dan tenteram",
+              "Terhindar dari perbuatan keji/jenayah"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Akibat Hasad",
+          "body": {
+            "type": "list",
+            "items": [
+              "Dimurkakan oleh Allah ﷻ dan Rasulullah ﷺ",
+              "Dibenci ibu bapa, kawan dan masyarakat",
+              "Boleh menjadikan kemusuahan dan kerosakan",
+              "Mendapat balasan azab di akhirat",
+              "Jiwa tidak tenteram"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "unit",
+      "heading": "🤑 Unit 3: Bakhil",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Pengertian & Dalil",
+          "body": {
+            "type": "arabic",
+            "instruction": "Bakhil ialah menahan hak daripada disumbangkan kepada jalan Allah ﷻ. Firman Allah ﷻ:",
+            "arabic": "وَلَا يَحْسَبَنَّ الَّذِينَ يَبْخَلُونَ بِمَا آتَاهُمُ اللَّهُ مِن فَضْلِهِ هُوَ خَيْرًا لَّهُمْ بَلْ هُوَ شَرٌّ لَّهُمْ سَيُطَوَّقُونَ مَا بَخِلُوا بِهِ يَوْمَ الْقِيَامَةِ ...الْآيَة ﴿١٨٠﴾",
+            "translation": "Dan jangan sekali-kali orang yang bakhil menyangka bahawa apa yang diberikan kepada mereka dari kurniaan Allah itu baik bagi mereka, bahkan ia adalah buruk bagi mereka. Mereka akan dikalungkan dengan apa yang mereka bakhilkan pada hari Kiamat...",
+            "source": "Surah Ali Imran: 180"
+          }
+        },
+        {
+          "icon": "🔍",
+          "title": "Ciri-ciri Bakhil",
+          "body": {
+            "type": "list",
+            "items": [
+              "Mencintakan harta",
+              "Takut miskin atau fakir",
+              "Meyakini harta hanya untuk dirinya",
+              "Meyakini harta akan kekal"
+            ]
+          }
+        },
+        {
+          "icon": "🛡️",
+          "title": "Cara Menjauhkan Bakhil",
+          "body": {
+            "type": "list",
+            "items": [
+              "Menghapuskan sifat tamak",
+              "Bersyukur serta memberi kepada orang yang kekurangan",
+              "Mempunyai perasaan simpati dan kasihan terhadap orang miskin",
+              "Bersyukur kepada Allah ﷻ atas nikmat rezeki yang dikurniakan"
+            ]
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Fadhilat Menjauhkan Bakhil",
+          "body": {
+            "type": "list",
+            "items": [
+              "Hartanya diberkati Allah ﷻ",
+              "Jiwa tenang dan tenteram",
+              "Mengeratkan silaturrahim",
+              "Dikasihhi Allah ﷻ dan Rasulullah ﷺ",
+              "Dikasihhi ibu bapa, rakan dan kawan",
+              "Saling membantu antara satu sama lain"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Akibat Bakhil",
+          "body": {
+            "type": "list",
+            "items": [
+              "Memecahkan keharmonian dan perpaduan",
+              "Mementingkan diri sendiri",
+              "Jiwa tidak tenang",
+              "Hartanya tidak berkat",
+              "Dibenci ibu bapa, rakan dan kawan",
+              "Dimurkakan Allah ﷻ dan Rasulullah ﷺ"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "unit",
+      "heading": "👑 Unit 4: Hubbul Jah",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Pengertian & Dalil",
+          "body": {
+            "type": "arabic",
+            "instruction": "Hubbul Jah ialah kasihkan kemewahan dan kebesaran serta pangkat yang diperoleh. Firman Allah ﷻ:",
+            "arabic": "تِلْكَ الدَّارُ الْآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوًّا فِي الْأَرْضِ وَلَا فَسَادًا وَالْعَاقِبَةُ لِلْمُتَّقِينَ ﴿٨٣﴾",
+            "translation": "Negeri akhirat itu Kami jadikan untuk orang yang tidak menginginkan kemuliaan (kesombongan) di bumi dan tidak (pula) kerosakan. Dan kesudahan yang baik itu adalah bagi orang yang bertakwa.",
+            "source": "Surah al-Qasas: 83"
+          }
+        },
+        {
+          "icon": "🔍",
+          "title": "Ciri-ciri Hubbul Jah",
+          "body": {
+            "type": "list",
+            "items": [
+              "Sentiasa memikirkan kemewahan dan keinginan hidup",
+              "Tidak ikhlas dalam amalan ibadah",
+              "Sentiasa bersifat tamak dan bermuka-muka",
+              "Suka dipuji"
+            ]
+          }
+        },
+        {
+          "icon": "🛡️",
+          "title": "Cara Menjauhkan Hubbul Jah",
+          "body": {
+            "type": "list",
+            "items": [
+              "Sentiasa menanamkan sifat ikhlas",
+              "Tidak lalai dalam kemewahan dunia",
+              "Sentiasa bersifat qana'ah",
+              "Menjauhkan diri dari orang yang bercita-cita akan dunia"
+            ]
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Fadhilat Menjauhkan Hubbul Jah",
+          "body": {
+            "type": "list",
+            "items": [
+              "Sentiasa bersyukur dengan nikmat yang diperoleh",
+              "Jiwa sentiasa tenang dan tenteram",
+              "Dikasihhi oleh Allah ﷻ dan Rasulullah ﷺ",
+              "Dikasihhi oleh ibu bapa, kawan dan masyarakat"
+            ]
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "Akibat Bersifat Hubbul Jah",
+          "body": {
+            "type": "list",
+            "items": [
+              "Menjadi hamba dunia",
+              "Hidup sentiasa lalai",
+              "Dimurkakan oleh Allah ﷻ dan Rasulullah ﷺ",
+              "Dibenci oleh ibu bapa, kawan dan masyarakat"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Dalil Hubbul Jah — wajib hafaz:",
+        "arabic": "تِلْكَ الدَّارُ الْآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوًّا فِي الْأَرْضِ وَلَا فَسَادًا وَالْعَاقِبَةُ لِلْمُتَّقِينَ",
+        "translation": "Negeri akhirat itu Kami jadikan untuk orang yang tidak menginginkan kemuliaan di bumi dan tidak kerosakan. Dan kesudahan yang baik itu adalah bagi orang yang bertakwa.",
+        "source": "Surah al-Qasas: 83"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Ringkasan 4 Sifat Mazmumah",
+      "items": [
+        "Ghadab (marah) — mudah marah; ubati dengan zikir, istighfar, wuduk.",
+        "Hasad (dengki) — tidak suka nikmat orang lain; ubati dengan qana'ah dan syukur.",
+        "Bakhil (kedekut) — tahan hak dari jalan Allah ﷻ; ubati dengan sedekah.",
+        "Hubbul Jah (cinta pangkat) — terlalu kasihkan kedudukan dunia; ubati dengan ikhlas."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah pengertian ghadab menurut buku ini?",
+      "options": [
+        "Sifat suka bergaduh",
+        "Sifat mudah marah",
+        "Sifat tidak suka orang lain",
+        "Sifat tamak"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah dalil untuk sifat hasad dalam buku ini?",
+      "options": [
+        "Surah al-Qasas: 83",
+        "Surah Ali Imran: 180",
+        "Surah al-Falaq: 5",
+        "Riwayat al-Baihaqi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah pengertian bakhil menurut buku ini?",
+      "options": [
+        "Tidak suka memberi salam kepada orang lain",
+        "Menahan hak daripada disumbangkan kepada jalan Allah ﷻ",
+        "Suka menyimpan makanan untuk diri sendiri",
+        "Tidak ikhlas dalam beribadah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah salah satu cara menghindari sifat ghadab menurut buku ini?",
+      "options": [
+        "Berehat dan tidur",
+        "Mengelak dari orang yang menyebabkan marah",
+        "Mengambil wuduk",
+        "Menangis"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Sifat Mazmumah", "colour": "#4CAF50" },
+      { "id": "n2", "label": "Ghadab (al-Baihaqi)", "colour": "#F44336" },
+      { "id": "n3", "label": "Hasad (al-Falaq:5)", "colour": "#F44336" },
+      { "id": "n4", "label": "Bakhil (Ali Imran:180)", "colour": "#F44336" },
+      { "id": "n5", "label": "Hubbul Jah (al-Qasas:83)", "colour": "#F44336" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "unit 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "unit 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "unit 3" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "unit 4" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْغَضَب", "meaning": "ghadab (sifat mudah marah)" },
+    { "word": "الْحَسَد", "meaning": "hasad (dengki — tidak suka nikmat orang lain)" },
+    { "word": "الْبُخْل", "meaning": "bakhil/kedekut (menahan hak dari jalan Allah ﷻ)" },
+    { "word": "حُبُّ الْجَاه", "meaning": "hubbul jah (cintakan pangkat, kedudukan dan kemewahan dunia)" },
+    { "word": "الْقَنَاعَة", "meaning": "qana'ah (rasa puas/cukup dengan apa yang ada — penawar hasad dan hubbul jah)" }
+  ],
+  "funFact": "Tahukah kamu bahawa Rasulullah ﷺ mengajarkan cara mudah untuk menghindari ghadab? Beliau bersabda: Apabila kamu marah dan sedang berdiri — duduklah. Jika masih marah — berbaringlah. Dan jika masih marah juga — ambillah wuduk! Air wuduk menyejukkan api marah, sama seperti air memadamkan api. Inilah kebijaksanaan Islam: solusi praktikal untuk emosi yang mencabar!"
+}

@@ -1,0 +1,132 @@
+{
+  "id": "jais-tahun-5-feqah-bab2",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "feqah",
+  "chapter": 2,
+  "title": "Solat Dalam Kenderaan",
+  "emoji": "✈️",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "صَلَاةٌ دَالَمْ كَنْدَرَاءَن — Pelajaran Kedua",
+      "body": "Setiap mukmin wajib menunaikan solat pada waktunya di mana jua pun berada — termasuk di dalam kenderaan seperti kapal terbang, kereta api, dan bas."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "✅",
+          "title": "1. Syarat Sah Solat Dalam Kenderaan",
+          "body": {
+            "type": "list",
+            "intro": "4 syarat sah solat dalam kenderaan:",
+            "items": [
+              "1. Suci dari hadas dan najis.",
+              "2. Mengetahui masuk waktu solat.",
+              "3. Menghadap qiblat.",
+              "4. Menutup aurat."
+            ]
+          }
+        },
+        {
+          "icon": "🔄",
+          "title": "2. Cara Solat Dalam Kenderaan",
+          "body": {
+            "type": "list",
+            "intro": "Cara mengerjakan solat semasa berada dalam kenderaan:",
+            "items": [
+              "1. Niat berserta takbiratul ihram.",
+              "2. Membaca surah al-Fatihah dan 2 surah.",
+              "3. Rukuk.",
+              "4. Iktidal.",
+              "5. Sujud.",
+              "6. Duduk antara dua sujud.",
+              "7. Membaca tasyahud akhir.",
+              "8. Memberi salam.",
+              "Catatan: Rukuk dan sujud dilakukan dengan menundukkan kepala mengikut kemampuan."
+            ]
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "3. Hikmah Solat Dalam Kenderaan",
+          "body": {
+            "type": "list",
+            "intro": "4 hikmah solat dalam kenderaan:",
+            "items": [
+              "1. Sentiasa mengingati Allah ﷻ dalam semua keadaan dan tempat.",
+              "2. Dapat melaksanakan kewajipan sebagai hamba Allah ﷻ mengikut kemampuan.",
+              "3. Hidup penuh dengan ketaatan dan keredaan Allah ﷻ.",
+              "4. Memperkuatkan keteguhan jiwa."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Tahukah anda? Nabi ﷺ pernah mengerjakan solat sunat ketika menunggang unta dalam perjalanan. Apabila masuk waktu solat fardhu, baginda turun dari kenderaan untuk mengerjakan solat."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapakah syarat sah solat dalam kenderaan?",
+      "options": ["3 syarat", "4 syarat", "5 syarat", "6 syarat"],
+      "answer": 1
+    },
+    {
+      "q": "Bagaimanakah cara melakukan rukuk dan sujud semasa solat dalam kenderaan?",
+      "options": [
+        "Berdiri dan membongkok penuh",
+        "Menundukkan kepala mengikut kemampuan",
+        "Berbaring terus",
+        "Tidak perlu rukuk dan sujud"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang Nabi ﷺ lakukan apabila tiba waktu solat fardhu semasa dalam perjalanan?",
+      "options": [
+        "Melewatkan solat sehingga sampai destinasi",
+        "Terus solat atas kenderaan",
+        "Turun dari kenderaan untuk solat",
+        "Menggabungkan solat"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah hikmah utama solat dalam kenderaan?",
+      "options": [
+        "Mendapat pahala berganda",
+        "Sentiasa mengingati Allah ﷻ dalam semua keadaan",
+        "Mengisi masa lapang",
+        "Menunjukkan kepada penumpang lain"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Solat Dalam Kenderaan", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Syarat Sah", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "Cara Solat", "colour": "#AB47BC" },
+      { "id": "n4", "label": "Hikmah", "colour": "#4CAF50" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "syarat" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "cara" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "hikmah" }
+    ]
+  },
+  "vocab": [
+    { "word": "الصَّلَاةُ فِي الْمَرْكَبَةِ", "meaning": "Solat dalam kenderaan — solat yang dikerjakan di atas kapal terbang, kereta api, bas dan sebagainya" },
+    { "word": "الرُّكُوعُ بِالْإِشَارَةِ", "meaning": "Rukuk dengan isyarat — menundukkan kepala sebagai gantian rukuk penuh semasa dalam kenderaan" },
+    { "word": "الْقِبْلَةُ", "meaning": "Qiblat — arah Ka'bah yang perlu dihadap ketika solat" },
+    { "word": "الطُّمَأْنِينَةُ", "meaning": "Tuma'ninah — tenang/khusyuk semasa mengerjakan solat" }
+  ],
+  "funFact": "Tahukah kamu bahawa Islam membenarkan kita solat dalam kapal terbang? Walaupun kapal terbang bergerak dan kadangkala arahnya berubah, kita tetap wajib solat menghadap qiblat sebaik mungkin. Syarikat penerbangan Malaysia seperti MAS menyediakan tanda arah qiblat di kapal terbang mereka! Ini menunjukkan bahawa solat adalah kewajipan yang tidak boleh ditinggalkan walau dalam perjalanan jauh sekalipun."
+}

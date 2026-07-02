@@ -1,0 +1,274 @@
+{
+  "id": "jais-tahun-5-feqah-bab5",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "feqah",
+  "chapter": 5,
+  "title": "Puasa",
+  "emoji": "🌙",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "ڤواسا — Pelajaran Kelima",
+      "body": "Puasa ialah menahan diri dari segala yang membatalkan puasa bermula dari terbit fajar hingga terbenam matahari. Puasa bulan Ramadhan hukumnya wajib bagi setiap Muslim yang memenuhi syarat."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Dalil Naqli — Surah al-Baqarah: 183",
+          "body": {
+            "type": "arabic",
+            "instruction": "Dalil kewajipan puasa Ramadhan:",
+            "arabic": "يَاأَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُم لَعَلَّكُمْ تَتَّقُونَ",
+            "translation": "Wahai orang-orang yang beriman! Kamu diwajibkan berpuasa sebagaimana diwajibkan ke atas orang-orang yang dahulu daripada kamu, supaya kamu bertaqwa.",
+            "source": "Surah al-Baqarah: 183"
+          }
+        },
+        {
+          "icon": "✅",
+          "title": "1. Syarat Wajib Puasa",
+          "body": {
+            "type": "list",
+            "intro": "6 syarat wajib puasa Ramadhan:",
+            "items": [
+              "1. Islam.",
+              "2. Berakal.",
+              "3. Baligh.",
+              "4. Bermukim (tidak musafir).",
+              "5. Mampu berpuasa.",
+              "6. Suci dari hadas (haid dan nifas)."
+            ]
+          }
+        },
+        {
+          "icon": "📋",
+          "title": "2. Syarat Sah Puasa",
+          "body": {
+            "type": "list",
+            "intro": "4 syarat sah puasa:",
+            "items": [
+              "1. Islam.",
+              "2. Berakal.",
+              "3. Suci dari haid dan nifas.",
+              "4. Mengetahui masuknya bulan Ramadhan."
+            ]
+          }
+        },
+        {
+          "icon": "🔄",
+          "title": "3. Rukun Puasa & Lafaz Niat",
+          "body": {
+            "type": "list",
+            "intro": "2 rukun puasa:",
+            "items": [
+              "1. Niat — pada waktu malam sebelum terbit fajar.",
+              "2. Menahan diri — dari makan, minum dan perkara-perkara yang membatalkan puasa."
+            ]
+          }
+        },
+        {
+          "icon": "🤲",
+          "title": "Lafaz Niat Puasa Ramadhan",
+          "body": {
+            "type": "arabic",
+            "instruction": "Lafaz niat puasa Ramadhan (dibaca pada malam hari sebelum terbit fajar):",
+            "arabic": "نَوَيْتُ صَوْمَ غَدٍ عَنْ أَدَاءِ فَرْضِ شَهْرِ رَمَضَانَ هَذِهِ السَّنَةِ لِلَّهِ تَعَالَى",
+            "translation": "Sahaja aku berpuasa esok hari menunaikan fardhu bulan Ramadhan tahun ini kerana Allah ta'ala."
+          }
+        },
+        {
+          "icon": "⭐",
+          "title": "4. Perkara Sunat Berpuasa",
+          "body": {
+            "type": "list",
+            "intro": "7 perkara sunat semasa berpuasa:",
+            "items": [
+              "1. Menyegerakan berbuka puasa.",
+              "2. Melambatkan makan sahur.",
+              "3. Berbuka puasa dengan tamar/kurma.",
+              "4. Membaca doa sebelum berbuka.",
+              "5. Memperbanyakkan membaca al-Quran, berzikir dan bersalawat.",
+              "6. Memperbanyakkan amal kebajikan.",
+              "7. Memperbanyakkan sedekah."
+            ]
+          }
+        },
+        {
+          "icon": "🤲",
+          "title": "Doa Sebelum Berbuka Puasa",
+          "body": {
+            "type": "arabic",
+            "instruction": "Doa yang dibaca sebelum berbuka puasa:",
+            "arabic": "اَللَّهُمَّ لَكَ صُمْتُ وَعَلَى رِزْقِكَ أَفْطَرْتُ",
+            "translation": "Ya Allah, aku berpuasa kerana-Mu dan aku berbuka dengan rezeki-Mu."
+          }
+        },
+        {
+          "icon": "⚠️",
+          "title": "5. Perkara Makruh Berpuasa",
+          "body": {
+            "type": "list",
+            "intro": "6 perkara makruh semasa berpuasa:",
+            "items": [
+              "1. Menggosok gigi selepas terbit matahari.",
+              "2. Berkumur-kumur berlebihan.",
+              "3. Mencium atau memeluk suami/isteri.",
+              "4. Berbekam atau mengeluarkan darah.",
+              "5. Merasa makanan atau minuman dengan lidah.",
+              "6. Mandi berlebihan."
+            ]
+          }
+        },
+        {
+          "icon": "❌",
+          "title": "6. Perkara yang Membatalkan Puasa",
+          "body": {
+            "type": "list",
+            "intro": "8 perkara yang membatalkan puasa:",
+            "items": [
+              "1. Murtad.",
+              "2. Gila walaupun seketika.",
+              "3. Keluar darah haid atau nifas.",
+              "4. Muntah dengan sengaja.",
+              "5. Keluar air mani dengan sengaja.",
+              "6. Mabuk atau pitam sepanjang hari.",
+              "7. Melahirkan anak.",
+              "8. Makan dan minum dengan sengaja."
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "7. Qadha, Fidyah dan Kaffarah",
+          "body": {
+            "type": "list",
+            "intro": "Hukum menggantikan puasa yang tertinggal:",
+            "items": [
+              "Wajib qadha: orang sakit; musafir (bukan kerana maksiat) melebihi 89 km; keluar darah haid atau nifas; pitam atau mabuk; orang yang sangat lapar atau dahaga tidak mampu berpuasa.",
+              "Wajib fidyah: orang sakit tidak ada harapan sembuh; orang tua tidak terdaya berpuasa; orang yang meninggal dunia sebelum sempat qadha puasa Ramadhan.",
+              "Wajib qadha dan fidyah: perempuan mengandung atau menyusukan anak kerana bimbang kesihatan anaknya, belum qadha hingga Ramadhan berikutnya.",
+              "Wajib qadha dan kaffarah: lelaki yang melakukan persetubuhan pada siang hari bulan Ramadhan."
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "8. Puasa Sunat",
+          "body": {
+            "type": "list",
+            "intro": "6 jenis puasa sunat yang dianjurkan:",
+            "items": [
+              "1. Enam hari dalam bulan Syawal.",
+              "2. Hari Isnin dan Khamis setiap minggu.",
+              "3. Hari Tasu'aah (9 Muharam) dan Asyura (10 Muharam).",
+              "4. Hari Arafah (9 Zulhijjah).",
+              "5. Hari tiga petengahan bulan/Ayyam al-Beedh (13, 14, 15) setiap bulan hijrah.",
+              "6. Bulan Rejab dan Syaaban."
+            ]
+          }
+        },
+        {
+          "icon": "🚫",
+          "title": "9. Hari yang Haram Berpuasa",
+          "body": {
+            "type": "list",
+            "intro": "5 hari yang haram berpuasa:",
+            "items": [
+              "1. 1 Syawal — hari raya Eid Fitri.",
+              "2. 10 Zulhijjah — hari raya Eid Adha.",
+              "3. Hari Tasyrik — 11, 12, 13 Zulhijjah."
+            ]
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "10. Hikmah Puasa",
+          "body": {
+            "type": "list",
+            "intro": "8 hikmah berpuasa:",
+            "items": [
+              "1. Diampunkan dosa-dosa yang lalu.",
+              "2. Doa dimakbulkan.",
+              "3. Bergembira ketika berbuka.",
+              "4. Bergembira menyambut hari raya.",
+              "5. Boleh menghindarkan penyakit.",
+              "6. Allah menentukan ketenangan jiwa.",
+              "7. Merasai kesusahan golongan fakir dan miskin.",
+              "8. Mulut orang berpuasa berbau wangi di sisi Allah ﷻ."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Tahukah anda? Puasa Ramadhan mula diwajibkan bagi orang Islam pada tahun kedua Hijrah. Perbuatan mungkar boleh mengurangkan pahala puasa."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapakah syarat wajib puasa Ramadhan?",
+      "options": ["4 syarat", "5 syarat", "6 syarat", "7 syarat"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah lafaz niat puasa Ramadhan yang betul?",
+      "options": [
+        "نَوَيْتُ صَوْمَ يَوْمٍ عَنْ أَدَاءِ فَرْضِ رَمَضَانَ",
+        "نَوَيْتُ صَوْمَ غَدٍ عَنْ أَدَاءِ فَرْضِ شَهْرِ رَمَضَانَ هَذِهِ السَّنَةِ لِلَّهِ تَعَالَى",
+        "نَوَيْتُ صَوْمَ شَهْرِ رَمَضَانَ لِلَّهِ",
+        "أُصَلِّي صَوْمَ رَمَضَانَ لِلَّهِ تَعَالَى"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Pada hari bilakah haram berpuasa?",
+      "options": [
+        "1 Muharam",
+        "9 Zulhijjah",
+        "1 Syawal (Eid Fitri)",
+        "15 Syaaban"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang wajib dilakukan jika seseorang sengaja makan pada siang hari Ramadhan?",
+      "options": [
+        "Wajib fidyah sahaja",
+        "Wajib qadha sahaja",
+        "Tidak perlu buat apa-apa",
+        "Wajib qadha dan fidyah"
+      ],
+      "answer": 3
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Puasa", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Syarat & Rukun", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "Sunat & Makruh", "colour": "#AB47BC" },
+      { "id": "n4", "label": "Membatalkan", "colour": "#E53935" },
+      { "id": "n5", "label": "Hikmah", "colour": "#4CAF50" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "syarat" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "amalan" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "batal" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "hikmah" }
+    ]
+  },
+  "vocab": [
+    { "word": "الصِّيَامُ", "meaning": "Puasa — menahan diri dari makan, minum dan perkara yang membatalkan puasa dari terbit fajar hingga terbenam matahari" },
+    { "word": "السَّحُورُ", "meaning": "Sahur — makan pada waktu dini hari sebelum terbit fajar untuk berpuasa" },
+    { "word": "الإِفْطَارُ", "meaning": "Iftar / berbuka — waktu menamatkan puasa apabila terbenam matahari" },
+    { "word": "الْقَضَاءُ", "meaning": "Qadha — menggantikan puasa yang tertinggal pada hari lain" },
+    { "word": "الْفِدْيَةُ", "meaning": "Fidyah — membayar makanan sebagai tebusan bagi mereka yang tidak mampu berpuasa" },
+    { "word": "الْكَفَّارَةُ", "meaning": "Kaffarah — denda yang lebih berat bagi mereka yang melanggar puasa dengan sengaja" }
+  ],
+  "funFact": "Tahukah kamu bahawa puasa bukan sahaja amalan umat Islam sahaja? Allah ﷻ berfirman dalam Surah al-Baqarah ayat 183 bahawa puasa telah diwajibkan juga ke atas umat-umat terdahulu sebelum kita. Ini menunjukkan bahawa puasa adalah satu ibadah sejagat yang telah difardhukan oleh Allah ﷻ sejak zaman dahulu kala!"
+}

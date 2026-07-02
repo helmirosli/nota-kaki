@@ -1,0 +1,160 @@
+{
+  "id": "jais-tahun-6-tajwid-bab1",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "tajwid",
+  "chapter": 1,
+  "title": "Tajwid 1: Makhraj Huruf — Tempat Keluarnya Huruf",
+  "emoji": "🔤",
+  "colour": "#1A237E",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "مَخَارِج الْحُرُوف — Tempat Keluarnya Huruf",
+      "body": "Makhraj (مَخْرَج) bermaksud tempat keluarnya bunyi huruf Arab dari mulut dan tekak. Mengetahui makhraj yang betul adalah kunci untuk membaca al-Quran dengan tajwid yang sahih. Di Tahun 6, pelajar mempelajari secara lebih mendalam tentang lima kawasan makhraj utama dan huruf-huruf yang keluar dari setiap kawasan."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📊",
+          "title": "Lima Kawasan Makhraj Utama",
+          "body": {
+            "type": "pairs",
+            "intro": "Lima kawasan (جَوْف — حَلْق — لِسَان — شَفَتَان — خَيْشُوم) dan hurufnya:",
+            "rows": [
+              { "arabic": "الْجَوْف (rongga mulut)", "meaning": "Huruf mad: ا (alif mad), و (waw mad), ي (ya' mad) — bunyi panjang tanpa sekatan" },
+              { "arabic": "الْحَلْق (tekak)", "meaning": "ء، ه، ع، غ، ح، خ — enam huruf halqi (tekak)" },
+              { "arabic": "اللِّسَان (lidah)", "meaning": "18 huruf — lidah menyentuh bahagian berbeza: gigi, lelangit, tepi lidah" },
+              { "arabic": "الشَّفَتَان (bibir)", "meaning": "ب، م، و (tidak mad)، ف — empat huruf syafawi" },
+              { "arabic": "الْخَيْشُوم (rongga hidung)", "meaning": "Ghunnah (dengung) — bunyi mim dan nun bersyaddah/sukun" }
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Huruf-huruf Halqi (Tekak)",
+          "body": {
+            "type": "pairs",
+            "intro": "Tiga bahagian tekak dan huruf masing-masing:",
+            "rows": [
+              { "arabic": "أَقْصَى الْحَلْق (tekak bawah)", "meaning": "ء (hamzah), ه (ha') — paling dalam" },
+              { "arabic": "وَسَط الْحَلْق (tekak tengah)", "meaning": "ع ('ain), ح (ha' kecil)" },
+              { "arabic": "أَدْنَى الْحَلْق (tekak atas)", "meaning": "غ (ghain), خ (kha') — hampir dengan lelangit" }
+            ]
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Ujian Makhraj yang Betul",
+          "body": {
+            "type": "list",
+            "intro": "Cara menguji makhraj huruf kamu:",
+            "items": [
+              "Baca huruf dengan saktah (waqaf/berhenti) di atas huruf tersebut untuk dengar bunyi asalnya",
+              "ع vs ا — bunyi 'ain yang betul keluar dari tekak tengah, bukan hidung",
+              "ذ vs ز — 'dhal' betul dengan lidah antara gigi, bukan seperti 'z'",
+              "ص vs س — 'sad' ada tekanan di bahagian bawah lidah, lebih berat dari 'sin'",
+              "ط vs ت — 'tha' lebih berat dan beresonansi dari 'ta'"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith tentang kewajipan membaca al-Quran dengan betul:",
+        "arabic": "وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا",
+        "translation": "Dan bacalah al-Quran dengan tartil (perlahan-lahan dan jelas).",
+        "source": "Surah al-Muzzammil: 4 — makhraj yang betul adalah asas tartil"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Latih Makhraj yang Betul",
+      "items": [
+        "Dengar bacaan syeikh yang muktabar — perhatikan bunyi setiap huruf.",
+        "Bacaan cermin — baca di hadapan cermin untuk lihat gerakan mulut dan lidah.",
+        {
+          "type": "pairs",
+          "intro": "Latihan huruf yang sering silap:",
+          "rows": [
+            { "arabic": "ع vs ا", "meaning": "'ain keluar dari tekak — bukan bunyi 'a' biasa" },
+            { "arabic": "ح vs ه", "meaning": "'ha' halqi lebih kuat dan dalam dari 'ha' biasa" }
+          ]
+        },
+        "Rekod bacaan kamu dan bandingkan dengan bacaan guru — ini cara terbaik untuk perbaiki.",
+        "Ingat: makhraj yang betul adalah hak huruf dalam al-Quran — ini ibadah!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah yang dimaksudkan dengan 'makhraj' dalam ilmu tajwid?",
+      "options": [
+        "Cara memanjangkan bunyi huruf",
+        "Tempat keluarnya bunyi huruf dari mulut atau tekak",
+        "Kaedah berhenti dalam bacaan",
+        "Cara menggabungkan dua huruf"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Huruf 'ع' ('ain) termasuk dalam kawasan makhraj yang mana?",
+      "options": [
+        "Bibir (syafawi)",
+        "Rongga hidung",
+        "Tekak (halqi)",
+        "Lidah"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa kawasan (makhraj utama) dalam ilmu tajwid?",
+      "options": [
+        "3 kawasan",
+        "4 kawasan",
+        "5 kawasan",
+        "7 kawasan"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Huruf-huruf syafawi (bibir) adalah:",
+      "options": [
+        "ء، ه، ع، غ",
+        "ب، م، و، ف",
+        "ن، م, ر، ل",
+        "ص، ض، ط، ظ"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Makhraj Huruf", "colour": "#1A237E" },
+      { "id": "n2", "label": "Al-Jawf (Rongga)", "colour": "#283593" },
+      { "id": "n3", "label": "Al-Halq (Tekak)", "colour": "#283593" },
+      { "id": "n4", "label": "Al-Lisan (Lidah)", "colour": "#283593" },
+      { "id": "n5", "label": "Syafatan (Bibir)", "colour": "#283593" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "kawasan 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "kawasan 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "kawasan 3" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "kawasan 4" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْمَخْرَج", "meaning": "makhraj (tempat keluarnya huruf — jamak: مَخَارِج)" },
+    { "word": "الْحَلْق", "meaning": "tekak / kerongkong" },
+    { "word": "الشَّفَتَان", "meaning": "dua bibir" },
+    { "word": "اللِّسَان", "meaning": "lidah" },
+    { "word": "الْخَيْشُوم", "meaning": "rongga hidung" }
+  ],
+  "funFact": "Tahukah kamu bahawa bahasa Arab mempunyai bunyi huruf yang tidak wujud dalam bahasa lain di dunia? Bunyi 'ع' ('ain) adalah 'voiced pharyngeal fricative' — bunyi geseran tekak bersuara — yang hanya wujud dalam bahasa Arab, Ibrani, dan beberapa bahasa Arab dialek. Para saintis linguistik menyebut bahawa kanak-kanak Arab adalah antara yang paling awal dalam dunia boleh mengeluarkan bunyi-bunyi kompleks ini kerana mereka mendengar dan belajarnya dari kecil. Apabila kamu berlatih makhraj 'ain dengan betul, kamu sedang menguasai kemahiran fonetik yang sangat unik dalam dunia bahasa manusia!"
+}

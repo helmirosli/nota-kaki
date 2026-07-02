@@ -1,0 +1,171 @@
+{
+  "id": "jais-tahun-4-feqah-bab3",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "feqah",
+  "chapter": 3,
+  "title": "Bab 3: Solat Jumaat",
+  "emoji": "🕌",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "صَلَاة الْجُمُعَة — Solat Jumaat",
+      "body": "Solat Jumaat adalah solat yang dikerjakan pada hari Jumaat sebagai ganti solat Zohor. Ia merupakan solat paling utama dalam seminggu. Allah SWT menyebut tentang Solat Jumaat dalam al-Quran dan memerintahkan orang mukmin segera menuju ke masjid apabila azan Jumaat dilaungkan."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Dalil Solat Jumaat",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah tentang Solat Jumaat:",
+            "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَى ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ",
+            "translation": "Wahai orang-orang yang beriman! Apabila diserukan azan untuk sembahyang pada hari Jumaat, maka segeralah kamu pergi ke tempat mengingati Allah, dan tinggalkanlah berjual-beli.",
+            "source": "Surah al-Jumu'ah: 9"
+          }
+        },
+        {
+          "icon": "📋",
+          "title": "Syarat Wajib Solat Jumaat",
+          "body": {
+            "type": "list",
+            "intro": "Siapa yang WAJIB solat Jumaat?",
+            "items": [
+              "Islam — bukan wajib atas orang bukan Islam",
+              "Lelaki — tidak wajib atas perempuan (tapi dibolehkan)",
+              "Baligh — tidak wajib atas kanak-kanak (tapi digalakkan)",
+              "Sihat — tidak wajib atas orang sakit yang sukar ke masjid",
+              "Mukim — tidak wajib atas musafir yang dalam perjalanan jauh"
+            ]
+          }
+        },
+        {
+          "icon": "🕌",
+          "title": "Rukun Solat Jumaat",
+          "body": {
+            "type": "list",
+            "intro": "Perkara yang mesti ada dalam Solat Jumaat:",
+            "items": [
+              "Dua khutbah sebelum solat (dengan rukun-rukun khutbah)",
+              "Dilakukan secara berjemaah — minimum 40 orang (pendapat majoriti ulama)",
+              "Dilakukan dalam waktu Zohor",
+              "Dikerjakan 2 rakaat sahaja (ganti 4 rakaat Zohor)"
+            ]
+          }
+        },
+        {
+          "icon": "📿",
+          "title": "Adab Hari Jumaat",
+          "body": {
+            "type": "list",
+            "intro": "Amalan sunat pada hari Jumaat:",
+            "items": [
+              "Mandi sunat Jumaat (mandi wajib bagi yang berpeluh/berbau)",
+              "Pakai pakaian bersih dan elok, memakai wangi-wangian",
+              "Awal ke masjid — semakin awal semakin besar pahala",
+              "Baca Surah al-Kahfi pada malam/pagi Jumaat",
+              "Banyak berselawat ke atas Nabi SAW",
+              "Diam dan dengar khutbah dengan penuh perhatian"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "⚡",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith tentang kelebihan hari Jumaat:",
+        "arabic": "خَيْرُ يَوْمٍ طَلَعَتْ عَلَيْهِ الشَّمْسُ يَوْمُ الْجُمُعَة، فِيهِ خُلِقَ آدَمُ، وَفِيهِ أُدْخِلَ الْجَنَّة",
+        "translation": "Sebaik-baik hari yang terbit matahari padanya ialah hari Jumaat. Pada hari itu Adam diciptakan dan pada hari itu beliau dimasukkan ke dalam syurga.",
+        "source": "Riwayat Muslim"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Tata Cara Solat Jumaat",
+      "items": [
+        "Pergi ke masjid awal dan dalam keadaan suci (berwuduk).",
+        "Solat Tahiyyatul Masjid (2 rakaat) apabila masuk masjid.",
+        "Dengar khutbah pertama dengan diam dan penuh tumpuan.",
+        "Dengar khutbah kedua — tidak boleh bercakap langsung semasa khutbah.",
+        {
+          "type": "arabic",
+          "arabic": "أُصَلِّي فَرْضَ الْجُمُعَةِ رَكْعَتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ مَأْمُومًا لِلَّهِ تَعَالَى",
+          "translation": "Sahaja aku solat fardhu Jumaat dua rakaat menghadap kiblat sebagai makmum kerana Allah Taala"
+        },
+        "Solat 2 rakaat berjemaah — salam. Kemudian boleh solat sunat Rawatib Ba'diyah Jumaat (4 rakaat)."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa rakaat Solat Jumaat?",
+      "options": [
+        "4 rakaat",
+        "3 rakaat",
+        "2 rakaat",
+        "1 rakaat"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Siapakah yang WAJIB mengerjakan Solat Jumaat?",
+      "options": [
+        "Semua orang Islam tanpa pengecualian",
+        "Lelaki Islam yang baligh, sihat, dan mukim",
+        "Perempuan Islam sahaja",
+        "Kanak-kanak sahaja"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang TIDAK boleh dilakukan semasa imam berkhutbah?",
+      "options": [
+        "Mendengar dengan penuh perhatian",
+        "Berdoa dalam hati",
+        "Bercakap walaupun sepatah",
+        "Membaca al-Quran"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Surah manakah yang disunatkan dibaca pada hari Jumaat?",
+      "options": [
+        "Surah Yasin",
+        "Surah al-Mulk",
+        "Surah al-Kahfi",
+        "Surah al-Waqi'ah"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Solat Jumaat", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Khutbah (2)", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "2 Rakaat Fardhu", "colour": "#7B1FA2" },
+      { "id": "n4", "label": "Syarat Wajib", "colour": "#AB47BC" },
+      { "id": "n5", "label": "Adab Jumaat", "colour": "#AB47BC" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "sebelum solat" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "solat" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "siapa wajib" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "amalan" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْجُمُعَة", "meaning": "hari Jumaat / solat Jumaat" },
+    { "word": "خُطْبَة", "meaning": "ucapan/ceramah (khutbah)" },
+    { "word": "جَمَاعَة", "meaning": "berjemaah (ramai bersama)" },
+    { "word": "مُقِيم", "meaning": "mukim (menetap, bukan musafir)" },
+    { "word": "مُسَافِر", "meaning": "musafir (orang yang sedang bermusafir)" }
+  ],
+  "funFact": "Tahukah kamu bahawa ada 'saat mustajab' (waktu doa dikabulkan) pada hari Jumaat? Rasulullah SAW bersabda ada waktu tertentu pada hari Jumaat di mana doa pasti diterima Allah. Para ulama berbeza pendapat tentang waktu pastinya — ada yang kata semasa imam berkhutbah, ada yang kata waktu antara Asar dan Maghrib. Oleh itu, perbanyakkan doa sepanjang hari Jumaat!"
+}

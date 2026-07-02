@@ -1,0 +1,161 @@
+{
+  "id": "jais-tahun-5-hafazan-bab1",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "hafazan",
+  "chapter": 1,
+  "title": "Surah al-Inshiqaq (84)",
+  "emoji": "🌙",
+  "colour": "#E91E63",
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "مَحْفُوظَات سُوْرَة الْإِنشِقَاق — Pelajaran Hafazan 1",
+      "body": "Surah al-Inshiqaq (الانشقاق) ialah surah ke-84 dalam al-Quran. Ia mengandungi 25 ayat dan termasuk surah Makkiyyah. Nama surah diambil dari perkataan 'انشقت' (terbelah) pada ayat pertama yang menggambarkan langit terbelah pada Hari Kiamat. Surah ini menceritakan dua golongan manusia di akhirat — yang menerima kitab amalannya dari kanan (orang beriman) dan dari belakang (orang kafir)."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "1. Baca Ayat — Ayat 1-15",
+          "body": {
+            "type": "arabic",
+            "instruction": "Guru membaca, murid mengikut (talaqqiy). Baca dengan betul dan fasih.",
+            "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ\nإِذَا السَّمَاءُ انشَقَّتْ ① وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ ② وَإِذَا الأَرْضُ مُدَّتْ ③ وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ ④ وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ ⑤ يَا أَيُّهَا الإِنسَانُ إِنَّكَ كَادِحٌ إِلَى رَبِّكَ كَدْحًا فَمُلَاقِيهِ ⑥ فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ ⑦ فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا ⑧ وَيَنقَلِبُ إِلَى أَهْلِهِ مَسْرُورًا ⑨ وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاءَ ظَهْرِهِ ⑩ فَسَوْفَ يَدْعُو ثُبُورًا ⑪ وَيَصْلَى سَعِيرًا ⑫ إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا ⑬ إِنَّهُ ظَنَّ أَن لَّن يَحُورَ ⑭ بَلَى إِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا ⑮",
+            "translation": "(Ayat 1–15)"
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Baca Ayat — Ayat 16-25",
+          "body": {
+            "type": "arabic",
+            "instruction": "Sambungan — baca dengan betul dan fasih.",
+            "arabic": "فَلَا أُقْسِمُ بِالشَّفَقِ ⑯ وَاللَّيْلِ وَمَا وَسَقَ ⑰ وَالْقَمَرِ إِذَا اتَّسَقَ ⑱ لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ ⑲ فَمَا لَهُمْ لَا يُؤْمِنُونَ ⑳ وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ ㉑ بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ ㉒ وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ ㉓ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ ㉔ إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ ㉕",
+            "translation": "(Ayat 16–25)"
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "4. Baca Ayat dan Terjemahannya (Ayat 1–13)",
+          "body": {
+            "type": "pairs",
+            "intro": "Baca setiap ayat dan fahamkan terjemahannya:",
+            "rows": [
+              { "label": "Ayat 1", "arabic": "إِذَا السَّمَاءُ انشَقَّتْ", "meaning": "Apabila langit terbelah" },
+              { "label": "Ayat 2", "arabic": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ", "meaning": "Serta mematuhi perintah Tuhannya, dan sudah semestinya ia patuh" },
+              { "label": "Ayat 3", "arabic": "وَإِذَا الأَرْضُ مُدَّتْ", "meaning": "Dan apabila bumi diratakan" },
+              { "label": "Ayat 4", "arabic": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ", "meaning": "Serta mengeluarkan apa yang di dalamnya, dan menjadi kosong" },
+              { "label": "Ayat 5", "arabic": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ", "meaning": "Serta mematuhi perintah Tuhannya dan sudah semestinya ia patuh (maka pada saat itu tiap-tiap seseorang akan mengetahui apa yang telah dilakukannya)" },
+              { "label": "Ayat 6", "arabic": "يَا أَيُّهَا الإِنسَانُ إِنَّكَ كَادِحٌ إِلَى رَبِّكَ كَدْحًا فَمُلَاقِيهِ", "meaning": "Wahai manusia! Sesungguhnya engkau sentiasa berupaya menjalankan kehidupanmu dengan sebaik-baiknya hingga engkau kembali kepada Tuhanmu, kemudian engkau tetap menemui balasan apa yang engkau telah usahakan" },
+              { "label": "Ayat 7", "arabic": "فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ", "meaning": "Kemudian sesiapalah yang diberi menerima surat amalan dengan tangan kanannya" },
+              { "label": "Ayat 8", "arabic": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا", "meaning": "Maka ia akan dihisab dengan cara hisab yang mudah dan ringan" },
+              { "label": "Ayat 9", "arabic": "وَيَنقَلِبُ إِلَى أَهْلِهِ مَسْرُورًا", "meaning": "Dan ia akan pergi kepada keluarganya (yang beriman) dengan sukacita" },
+              { "label": "Ayat 10", "arabic": "وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاءَ ظَهْرِهِ", "meaning": "Dan sesiapalah yang diberi menerima surat amalan dengan tangan kiri dari sebelah belakangnya" },
+              { "label": "Ayat 11", "arabic": "فَسَوْفَ يَدْعُو ثُبُورًا", "meaning": "Maka ia akan meraung, menyebut-nyebut kebinasaannya" },
+              { "label": "Ayat 12", "arabic": "وَيَصْلَى سَعِيرًا", "meaning": "Dan ia akan menderita bakaran neraka yang marak menjolak" },
+              { "label": "Ayat 13", "arabic": "إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا", "meaning": "Sesungguhnya ia semasa di dunia dahulu bersuka ria dalam kalangan keluarganya (yang juga kafir ingkar)" }
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Baca Ayat dan Terjemahannya (Ayat 14–25)",
+          "body": {
+            "type": "pairs",
+            "intro": "Sambungan terjemahan:",
+            "rows": [
+              { "label": "Ayat 14", "arabic": "إِنَّهُ ظَنَّ أَن لَّن يَحُورَ", "meaning": "Sesungguhnya ia menyangka bahawa ia tidak sekali-kali akan kembali (kepada Allah untuk menerima balasan)" },
+              { "label": "Ayat 15", "arabic": "بَلَى إِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا", "meaning": "Sangkaan itu tidak! Bahkan ia tetap kembali! Sesungguhnya Tuhannya sentiasa melihat dan mengetahui keadaannya" },
+              { "label": "Ayat 16", "arabic": "فَلَا أُقْسِمُ بِالشَّفَقِ", "meaning": "Maka aku bersumpah, demi mega merah" },
+              { "label": "Ayat 17", "arabic": "وَاللَّيْلِ وَمَا وَسَقَ", "meaning": "Dan malam serta segala yang dihimpunkannya" },
+              { "label": "Ayat 18", "arabic": "وَالْقَمَرِ إِذَا اتَّسَقَ", "meaning": "Dan bulan apabila (penuh cahayanya) menjadi purnama" },
+              { "label": "Ayat 19", "arabic": "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ", "meaning": "Sesungguhnya kamu wahai manusia tetap melalui berbagai-bagai keadaan yang bertingkat-tingkat sehingga kamu menemui Tuhan — menerima masanya kesusahan dan kebalikannya" },
+              { "label": "Ayat 20", "arabic": "فَمَا لَهُمْ لَا يُؤْمِنُونَ", "meaning": "Maka apakah sebabnya mereka tidak beriman?" },
+              { "label": "Ayat 21", "arabic": "وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ", "meaning": "Dan apabila al-Quran dibacakan kepada mereka, mereka tidak mahu taat dan sujud?" },
+              { "label": "Ayat 22", "arabic": "بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ", "meaning": "Bahkan orang-orang yang kafir itu mendustakannya" },
+              { "label": "Ayat 23", "arabic": "وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ", "meaning": "Sedang Allah mengetahui apa yang mereka rahsiakan dalam hati mereka" },
+              { "label": "Ayat 24", "arabic": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ", "meaning": "Maka gembirakanlah mereka dengan azab siksa yang pedih" },
+              { "label": "Ayat 25", "arabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ", "meaning": "Tetapi orang-orang yang beriman dan beramal saleh, mereka beroleh pahala yang tidak putus-putus" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "⭐",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ayat penting — tentang perjalanan manusia kepada Allah (Ayat 6):",
+        "arabic": "يَا أَيُّهَا الإِنسَانُ إِنَّكَ كَادِحٌ إِلَى رَبِّكَ كَدْحًا فَمُلَاقِيهِ",
+        "translation": "Wahai manusia! Sesungguhnya engkau sentiasa berupaya menjalankan kehidupanmu dengan sebaik-baiknya hingga engkau kembali kepada Tuhanmu, kemudian engkau tetap menemui balasan apa yang engkau telah usahakan.",
+        "source": "Surah al-Inshiqaq: 6"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "3. Hafaz Surah — Surah al-Inshiqaq (25 Ayat)",
+      "items": [
+        {
+          "type": "arabic",
+          "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ\nإِذَا السَّمَاءُ انشَقَّتْ ① وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ ② وَإِذَا الأَرْضُ مُدَّتْ ③ وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ ④ وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ ⑤ يَا أَيُّهَا الإِنسَانُ إِنَّكَ كَادِحٌ إِلَى رَبِّكَ كَدْحًا فَمُلَاقِيهِ ⑥ فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ ⑦ فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا ⑧ وَيَنقَلِبُ إِلَى أَهْلِهِ مَسْرُورًا ⑨ وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاءَ ظَهْرِهِ ⑩ فَسَوْفَ يَدْعُو ثُبُورًا ⑪ وَيَصْلَى سَعِيرًا ⑫ إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا ⑬ إِنَّهُ ظَنَّ أَن لَّن يَحُورَ ⑭ بَلَى إِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا ⑮ فَلَا أُقْسِمُ بِالشَّفَقِ ⑯ وَاللَّيْلِ وَمَا وَسَقَ ⑰ وَالْقَمَرِ إِذَا اتَّسَقَ ⑱ لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ ⑲ فَمَا لَهُمْ لَا يُؤْمِنُونَ ⑳ وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ ㉑ بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ ㉒ وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ ㉓ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ ㉔ إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ ㉕",
+          "translation": "Hafaz keseluruhan surah dengan lancar"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Surah al-Inshiqaq ialah surah ke berapa dalam al-Quran?",
+      "options": ["82", "83", "84", "85"],
+      "answer": 2
+    },
+    {
+      "q": "Berapa bilangan ayat dalam Surah al-Inshiqaq?",
+      "options": ["20 ayat", "21 ayat", "24 ayat", "25 ayat"],
+      "answer": 3
+    },
+    {
+      "q": "Apakah terjemahan 'إِذَا السَّمَاءُ انشَقَّتْ'?",
+      "options": ["Apabila bumi diratakan", "Apabila langit terbelah", "Apabila malam tiba", "Apabila matahari terbenam"],
+      "answer": 1
+    },
+    {
+      "q": "Orang yang menerima kitab amalannya dari sebelah kanannya akan bagaimana?",
+      "options": [
+        "Dihisab dengan berat dan dimasukkan neraka",
+        "Dihisab dengan mudah dan ringan, kembali kepada keluarganya dengan sukacita",
+        "Tidak dihisab langsung",
+        "Terus masuk syurga tanpa hisab"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Surah al-Inshiqaq (84)", "colour": "#E91E63" },
+      { "id": "n2", "label": "Langit & Bumi terbelah (1-5)", "colour": "#C2185B" },
+      { "id": "n3", "label": "Terima kitab dari kanan (7-9)", "colour": "#4CAF50" },
+      { "id": "n4", "label": "Terima kitab dari belakang (10-15)", "colour": "#F44336" },
+      { "id": "n5", "label": "Orang beriman — pahala kekal (25)", "colour": "#E91E63" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "ayat 1-5" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "ayat 7-9" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "ayat 10-15" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "ayat 25" }
+    ]
+  },
+  "vocab": [
+    { "word": "انشَقَّتْ", "meaning": "terbelah (surah dinamakan sempena perkataan ini)" },
+    { "word": "كَادِحٌ", "meaning": "sentiasa berupaya/berusaha bersungguh-sungguh" },
+    { "word": "ثُبُورًا", "meaning": "kebinasaan (orang jahat meraung meminta kebinasaannya)" },
+    { "word": "سَعِيرًا", "meaning": "api neraka yang marak menjolak" },
+    { "word": "الشَّفَقِ", "meaning": "mega merah (cahaya merah langit selepas matahari terbenam)" },
+    { "word": "مَمْنُونٍ", "meaning": "putus-putus — غَيْرُ مَمْنُونٍ bermaksud pahala yang tidak putus-putus" }
+  ],
+  "funFact": "Tahukah kamu mengapa ada ayat sujud tilawah dalam Surah al-Inshiqaq? Ayat 21 menyebut tentang orang kafir yang enggan sujud ketika al-Quran dibacakan. Maka ulama menetapkan bahawa apabila kita membaca atau mendengar ayat 21 ini, kita patut melakukan sujud tilawah — supaya kita berbeza daripada orang kafir yang disebutkan dalam ayat itu sendiri!"
+}

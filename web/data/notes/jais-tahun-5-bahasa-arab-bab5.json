@@ -1,0 +1,160 @@
+{
+  "id": "jais-tahun-5-bahasa-arab-bab5",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 5,
+  "title": "Dars 5: Tempat-tempat Penting (الْأَمَاكِن الْمُهِمَّة)",
+  "emoji": "🕌",
+  "colour": "#1565C0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْأَمَاكِن — Tempat-tempat dalam Bahasa Arab",
+      "body": "Dalam dars ini kita belajar nama-nama tempat penting dalam bahasa Arab, terutamanya tempat-tempat yang berkaitan dengan Islam. Mengetahui nama-nama ini membantu kita memahami teks Arab tentang sejarah Islam dan ibadah."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🕌",
+          "title": "Tempat-tempat Ibadah dan Islam",
+          "body": {
+            "type": "pairs",
+            "intro": "Tempat penting dalam Islam:",
+            "rows": [
+              { "arabic": "الْمَسْجِد (ج: الْمَسَاجِد)", "meaning": "masjid (jamak: masjid-masjid)" },
+              { "arabic": "الْمَسْجِدُ الْحَرَام", "meaning": "Masjidil Haram (Mekah)" },
+              { "arabic": "الْمَسْجِدُ النَّبَوِيّ", "meaning": "Masjid Nabawi (Madinah)" },
+              { "arabic": "الْمَسْجِدُ الْأَقْصَى", "meaning": "Masjidil Aqsa (Jerusalem/Baitulmaqdis)" },
+              { "arabic": "الْكَعْبَة", "meaning": "Kaabah" },
+              { "arabic": "مَكَّة الْمُكَرَّمَة", "meaning": "Kota Mekah yang Mulia" },
+              { "arabic": "الْمَدِينَة الْمُنَوَّرَة", "meaning": "Kota Madinah yang Bercahaya" }
+            ]
+          }
+        },
+        {
+          "icon": "🏙️",
+          "title": "Tempat-tempat Awam",
+          "body": {
+            "type": "pairs",
+            "intro": "Tempat awam dalam bahasa Arab:",
+            "rows": [
+              { "arabic": "الْمَدْرَسَة", "meaning": "sekolah" },
+              { "arabic": "الْمُسْتَشْفَى", "meaning": "hospital" },
+              { "arabic": "السُّوق", "meaning": "pasar / pasaraya" },
+              { "arabic": "الْمَكْتَبَة", "meaning": "perpustakaan / kedai buku" },
+              { "arabic": "الْمَطَار", "meaning": "lapangan terbang" },
+              { "arabic": "الْمَحَطَّة", "meaning": "stesen" },
+              { "arabic": "الْمَلْعَب", "meaning": "padang permainan" }
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "3 Masjid Utama dalam Islam",
+          "body": {
+            "type": "arabic",
+            "instruction": "Hadith tentang 3 masjid paling mulia:",
+            "arabic": "لَا تُشَدُّ الرِّحَالُ إِلَّا إِلَى ثَلَاثَةِ مَسَاجِد:\nالْمَسْجِدِ الْحَرَامِ، وَمَسْجِدِي هَذَا، وَالْمَسْجِدِ الْأَقْصَى",
+            "translation": "Tidak perlu musafir jauh-jauh (untuk mencari keberkatan masjid) kecuali ke 3 masjid: Masjidil Haram, masjidku ini (Masjid Nabawi), dan Masjidil Aqsa.",
+            "source": "Riwayat al-Bukhari dan Muslim"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🕌",
+      "text": {
+        "type": "list",
+        "intro": "Kelebihan 3 masjid utama:",
+        "items": [
+          "الْمَسْجِدُ الْحَرَام — solat 1 kali = pahala 100,000 kali ganda",
+          "الْمَسْجِدُ النَّبَوِيّ — solat 1 kali = pahala 1,000 kali ganda",
+          "الْمَسْجِدُ الْأَقْصَى — solat 1 kali = pahala 500 kali ganda",
+          "Ketiga-tiga masjid ini adalah destinasi hati setiap Muslim di dunia"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Soal Jawab tentang Tempat",
+      "items": [
+        "Cara tanya tempat: أَيْنَ الْمَسْجِد؟ (Di mana masjid?)",
+        "Cara jawab: الْمَسْجِدُ قَرِيبٌ / بَعِيدٌ (Masjid itu dekat / jauh).",
+        {
+          "type": "arabic",
+          "arabic": "أَيْنَ الْمَدْرَسَة؟\nالْمَدْرَسَةُ أَمَامَ الْمَسْجِد",
+          "translation": "Di mana sekolah? | Sekolah itu di hadapan masjid"
+        },
+        "Kata arah: أَمَام (depan), خَلْف (belakang), يَمِين (kanan), يَسَار (kiri).",
+        "Latih tanya-jawab lokasi tempat di sekolah dan kawasan sekitar."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah bahasa Arab untuk 'hospital'?",
+      "options": [
+        "الْمَدْرَسَة",
+        "الْمَكْتَبَة",
+        "الْمُسْتَشْفَى",
+        "الْمَطَار"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Menurut hadith, berapa buah masjid yang amat istimewa dalam Islam?",
+      "options": [
+        "Satu",
+        "Dua",
+        "Tiga",
+        "Lima"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah nama masjid di kota Madinah?",
+      "options": [
+        "الْمَسْجِدُ الْحَرَام",
+        "الْمَسْجِدُ النَّبَوِيّ",
+        "الْمَسْجِدُ الْأَقْصَى",
+        "الْمَسْجِدُ الْكَبِير"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Cara bertanya 'di mana?' dalam bahasa Arab ialah:",
+      "options": [
+        "مَتَى",
+        "كَيْفَ",
+        "مَاذَا",
+        "أَيْنَ"
+      ],
+      "answer": 3
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Tempat dalam Arab", "colour": "#1565C0" },
+      { "id": "n2", "label": "3 Masjid Utama", "colour": "#1976D2" },
+      { "id": "n3", "label": "Tempat Awam", "colour": "#1976D2" },
+      { "id": "n4", "label": "Soal Jawab Lokasi", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "Islam" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "harian" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "perbualan" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْمَسْجِد", "meaning": "masjid" },
+    { "word": "الْمَدْرَسَة", "meaning": "sekolah" },
+    { "word": "الْمُسْتَشْفَى", "meaning": "hospital" },
+    { "word": "أَيْنَ", "meaning": "di mana?" },
+    { "word": "قَرِيب / بَعِيد", "meaning": "dekat / jauh" }
+  ],
+  "funFact": "Tahukah kamu bahawa Masjidil Aqsa di Jerusalem adalah masjid ketiga yang dibina di muka bumi? Menurut hadith, Masjidil Haram (Kaabah) adalah masjid pertama, kemudian Masjid Nabawi. Tetapi Masjidil Aqsa (Baitulmaqdis) sangat istimewa kerana ia adalah kiblat pertama umat Islam sebelum bertukar ke Mekah, dan dari situlah Nabi Muhammad SAW mi'raj ke langit. Nabi Sulaiman a.s. juga pernah membina masjid di tapak yang sama. Maka Masjidil Aqsa mempunyai sejarah lebih dari 3,000 tahun!"
+}

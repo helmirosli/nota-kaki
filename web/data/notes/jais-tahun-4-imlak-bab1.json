@@ -1,0 +1,161 @@
+{
+  "id": "jais-tahun-4-imlak-bab1",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "imlak",
+  "chapter": 1,
+  "title": "Huruf Hamzah di Awal, Tengah dan Akhir Kalimat",
+  "emoji": "✍️",
+  "colour": "#009688",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "حُرُوف الْهَمْزَة — Pelajaran Pertama",
+      "body": "Dalam pelajaran ini kita belajar tiga kedudukan huruf hamzah (ء): di awal kalimat, di tengah kalimat, dan di akhir kalimat. Dalam ketiga-tiga kedudukan ini, huruf hamzah ditulis di atas huruf alif (أ atau إ), di tengah (أ), atau di akhir (ء/أ) — bergantung kepada harakatnya."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "1️⃣",
+          "title": "Unit 1: Hamzah di Awal Kalimat",
+          "body": {
+            "type": "pairs",
+            "intro": "Huruf hamzah 'ء' di awal adalah huruf hamzah di awal kalimat, ditulis di atas huruf alif 'ا'. Contoh kata dalam ayat:",
+            "rows": [
+              { "arabic": "أَمَرَنِي رَبِّي بِالصَّلَاةِ", "meaning": "Tuhanku memerintahkanku dengan solat — (أَمَرَ)" },
+              { "arabic": "أَمَلِي مُعَلِّمٌ", "meaning": "Cita-citaku adalah guru — (أَمَلَ)" },
+              { "arabic": "عَبْدُ اللَّهِ بنِ أَبِي أَوْفِي", "meaning": "Abdullah bin Abi Aufa — (أَبٌّ)" },
+              { "arabic": "دَمٌّ يَخْرُجُ مِنْ أَنْفِي", "meaning": "Darah yang keluar dari hidungku — (أَنْفٌ)" },
+              { "arabic": "أَمِيرُ الْمُؤْمِنِينَ", "meaning": "Amir orang-orang beriman — (أَمِيرٌ)" }
+            ]
+          }
+        },
+        {
+          "icon": "2️⃣",
+          "title": "Unit 2: Hamzah di Tengah Kalimat",
+          "body": {
+            "type": "pairs",
+            "intro": "Huruf 'ء' di tengah adalah huruf hamzah di tengah kalimat, ditulis di atas huruf alif 'ا'. Contoh kata dalam ayat:",
+            "rows": [
+              { "arabic": "فَتَحَتْ مَرْأَةٌ نَافِذَةً", "meaning": "Seorang perempuan membuka tingkap — (مَرْأَةٌ)" },
+              { "arabic": "رَأَفَ الْأَبُ ابْنَهُ", "meaning": "Bapa mengasihi anaknya — (رَأَفَ)" },
+              { "arabic": "دَأَبَ التِّلْمِيذُ مُطِيعٌ", "meaning": "Murid itu rajin dan taat — (دَأَبَ)" },
+              { "arabic": "سَأَلَ الْأُسْتَاذُ التَّلَامِيذَ", "meaning": "Guru bertanya kepada murid-murid — (سَأَلَ)" },
+              { "arabic": "الْخَمْرُ رَأْسُ كُلِّ خَطِيئَةٍ", "meaning": "Arak adalah punca segala dosa — (رَأْسٌ)" }
+            ]
+          }
+        },
+        {
+          "icon": "3️⃣",
+          "title": "Unit 3: Hamzah di Akhir Kalimat",
+          "body": {
+            "type": "list",
+            "intro": "Huruf 'ء' di akhir kalimat adalah huruf hamzah yang berada di akhir kalimat. Contoh ayat mengandungi hamzah di akhir kalimat:",
+            "items": [
+              "وَعَلَّمَ آدَمَ الْأَسْمَاءَ — Dan Dia mengajar Adam nama-nama (al-Baqarah: 31)",
+              "إِنْ شَاءَ اللَّهُ — Jika Allah menghendaki",
+              "وَأَنزَلَ مِنَ السَّمَاءِ — Dan Dia turunkan dari langit",
+              "وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ — Dan Dia berkuasa atas segala sesuatu",
+              "إِلَيِّهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ — perjalanan musim sejuk dan panas (Quraisy: 2)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ayat imlak Unit 2 — Doa sebelum tidur (riwayat Ibnu Sunni), mengandungi hamzah di tengah (hlm 11):",
+        "arabic": "اللَّهُمَّ قَدْ غَارَتِ النُّجُومُ وَهَدَأَتِ الْعُيُونُ وَأَنْتَ حَيٌّ قَيُّومٌ لَا تَأْخُذُكَ سِنَةٌ وَلَا نَوْمٌ يَا حَيُّ يَا قَيُّومُ أَهْدِئُ لَيْلِي وَأَنِمْ عَيْنَيْ",
+        "translation": "Ya Allah, bintang-bintang telah terbenam, mata-mata telah terpejam, dan Engkau Maha Hidup lagi Maha Berdiri sendiri, tidak mengantuk dan tidak tidur. Wahai Yang Maha Hidup, wahai Yang Maha Berdiri sendiri, sederhanakanlah malamku dan tidurkanlah mataku.",
+        "source": "Riwayat Ibnu Sunni — mengandungi hamzah di tengah: هَدَأَتِ، تَأْخُذُكَ، أَهْدِئُ"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Doa Penting dalam Pelajaran Ini",
+      "items": [
+        "Doa mengunjungi orang sakit — mengandungi hamzah di awal (riwayat al-Bukhari dan Muslim):",
+        {
+          "type": "arabic",
+          "arabic": "اللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَأْسَ، وَاشْفِهِ وَأَنْتَ الشَّافِي لَا شِفَاءَ إِلَّا شِفَاؤُكَ شِفَاءً لَا يُغَادِرُ سَقَمًا",
+          "translation": "Ya Allah, Tuhan sekalian manusia, hilangkanlah penyakit dan sembuhkanlah dia, Engkaulah Yang Maha Menyembuhkan, tiada kesembuhan melainkan kesembuhan-Mu, kesembuhan yang tidak meninggalkan kesakitan."
+        },
+        "Dalil keutamaan ilmu — mengandungi hamzah di akhir (Surah al-Baqarah: 284):",
+        {
+          "type": "arabic",
+          "arabic": "لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَإِن تُبْدُوا مَا فِي أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ اللَّهُ فَيَغْفِرُ لِمَن يَشَاءُ وَيُعَذِّبُ مَن يَشَاءُ وَاللَّهُ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+          "translation": "Kepunyaan Allah segala yang ada di langit dan yang ada di bumi. Dan jika kamu melahirkan apa yang ada di dalam hatimu atau kamu menyembunyikannya, nescaya Allah akan membuat perhitungan dengan kamu tentang perbuatan itu. (Surah al-Baqarah: 284)"
+        },
+        "Amalkan sifat malu — الْحَيَاءُ مِنَ الْإِيمَانِ (Malu itu sebahagian dari iman — riwayat al-Bukhari dan Muslim)"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Huruf hamzah 'ء' di awal kalimat ditulis di atas huruf apa?",
+      "options": [
+        "Huruf ya (ي)",
+        "Huruf wau (و)",
+        "Huruf alif (ا)",
+        "Huruf ba (ب)"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Dalam kata 'سَأَلَ' (bertanya), hamzah berada di kedudukan mana?",
+      "options": [
+        "Di awal kalimat",
+        "Di tengah kalimat",
+        "Di akhir kalimat",
+        "Tiada hamzah dalam kata ini"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Siapakah yang mencipta tanda baris (harakat) dalam tulisan Arab, sebagaimana yang dinyatakan dalam buku imlak ini?",
+      "options": [
+        "Imam al-Khalil bin Ahmad",
+        "Abu al-Aswad al-Du'ali semasa pemerintahan Khalifah Mu'awiyah bin Abi Sufyan",
+        "Imam Syafi'i",
+        "Sayyidina Umar al-Khattab"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dalam ayat 'الْخَمْرُ رَأْسُ كُلِّ خَطِيئَةٍ', kata 'رَأْسُ' mengandungi hamzah di kedudukan mana?",
+      "options": [
+        "Di awal kalimat",
+        "Di akhir kalimat",
+        "Di tengah kalimat",
+        "Tiada hamzah dalam kata ini"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Huruf Hamzah (ء)", "colour": "#009688" },
+      { "id": "n2", "label": "Di Awal Kalimat", "colour": "#00796B" },
+      { "id": "n3", "label": "Di Tengah Kalimat", "colour": "#00796B" },
+      { "id": "n4", "label": "Di Akhir Kalimat", "colour": "#004D40" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "Unit 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "Unit 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "Unit 3" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْهَمْزَة", "meaning": "hamzah (huruf Arab 'ء' — huruf pertama dalam susunan huruf Arab)" },
+    { "word": "أَوَّل الْكَلِمَة", "meaning": "awal kalimat (permulaan perkataan — hamzah di sini ditulis di atas alif)" },
+    { "word": "وَسَط الْكَلِمَة", "meaning": "tengah kalimat (pertengahan perkataan — hamzah di sini juga ditulis di atas alif)" },
+    { "word": "آخِر الْكَلِمَة", "meaning": "akhir kalimat (hujung perkataan — hamzah di sini berasingan atau di atas alif/wau/ya)" },
+    { "word": "الْحَرَكَات", "meaning": "harakat (tanda baris dalam tulisan Arab — dicipta oleh Abu al-Aswad al-Du'ali)" }
+  ],
+  "funFact": "Tahukah kamu bahawa hamzah adalah nama yang diberi untuk kerjanya 'هَمَزَ' yang bermaksud mencocok, mendorong atau menekan — merujuk kepada cara bunyi hamzah dihasilkan di dalam rongga tekak (halqum)? Huruf hamzah adalah huruf paling unik dalam bahasa Arab kerana ia boleh berada di tiga tempat berbeza — di awal, di tengah, dan di akhir kalimat — dan cara penulisannya berbeza-beza bergantung kedudukan dan harakatnya!"
+}

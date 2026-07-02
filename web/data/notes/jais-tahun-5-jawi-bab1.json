@@ -1,0 +1,178 @@
+{
+  "id": "jais-tahun-5-jawi-bab1",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "jawi",
+  "chapter": 1,
+  "title": "Kata Mengkomakan Imbuhan 'an-'",
+  "emoji": "🖊️",
+  "colour": "#FF9800",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "كات يغ مڠكوناكن ايمبوهن 'an-' — Pelajaran Pertama",
+      "body": "Pelajaran ini menerangkan cara menulis dalam tulisan Jawi kata-kata Melayu yang menggunakan imbuhan akhiran '-an'. Cara penulisan '-an' dalam Jawi berbeza mengikut huruf akhir kata dasar."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "1️⃣",
+          "title": "Unit 1 — Imbuhan 'an-' Ditulis Dengan Huruf 'ن'",
+          "body": {
+            "type": "list",
+            "intro": "Imbuhan '-an' ditulis dengan huruf '-ن' (nun sahaja) apabila:",
+            "items": [
+              "Kata dasar berakhir dengan huruf '-ي' (ya).",
+              "Kata dasar berakhir dengan suku kata tertutup (konsonan).",
+              "Contoh perkataan (sudut jawi): تارين (tarian), بواين (buaian), ماسقن (masakan), راوتن (rawatan), توليسن (tulisan), راقمن (rakaman)"
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Contoh Kata — Imbuhan '-ن'",
+          "body": {
+            "type": "pairs",
+            "intro": "Kata dengan imbuhan 'an-' ditulis '-ن' dalam Jawi:",
+            "rows": [
+              { "arabic": "تارين", "meaning": "tarian (kata dasar: tari + an)" },
+              { "arabic": "بواين", "meaning": "buaian (kata dasar: buai + an)" },
+              { "arabic": "ماسقن", "meaning": "masakan (kata dasar: masak + an)" },
+              { "arabic": "راوتن", "meaning": "rawatan (kata dasar: rawat + an)" },
+              { "arabic": "توليسن", "meaning": "tulisan (kata dasar: tulis + an)" },
+              { "arabic": "راقمن", "meaning": "rakaman (kata dasar: rakam + an)" }
+            ]
+          }
+        },
+        {
+          "icon": "2️⃣",
+          "title": "Unit 2 — Imbuhan 'an-' Ditulis Dengan Huruf 'ان'",
+          "body": {
+            "type": "list",
+            "intro": "Imbuhan '-an' ditulis dengan huruf '-ان' (alef+nun) apabila:",
+            "items": [
+              "Kata dasar berakhir dengan huruf 'و' (waw).",
+              "Kata dasar berakhir dengan diftong 'au'.",
+              "Contoh perkataan: قالوان (galuan), دروان (deruan), فرغوروان (perguruan), كسيلاوان (kesilauan), كسيلاوان (kesilauan)"
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Contoh Kata — Imbuhan 'ان'",
+          "body": {
+            "type": "pairs",
+            "intro": "Kata dengan imbuhan 'an-' ditulis '-ان' dalam Jawi:",
+            "rows": [
+              { "arabic": "قالوان", "meaning": "galuan (kata dasar: galau + an → diftong 'au')" },
+              { "arabic": "دروان", "meaning": "deruan (kata dasar: derau + an → diftong 'au')" },
+              { "arabic": "فرغوروان", "meaning": "perguruan (kata dasar: guru + an → berakhir 'u')" },
+              { "arabic": "كسيلاوان", "meaning": "kesilauan (kata dasar: silau + an → diftong 'au')" },
+              { "arabic": "كموراوان", "meaning": "kemurawanan (kata dasar: murah + wan + an)" }
+            ]
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Contoh Ayat — Imbuhan 'ان'",
+          "body": {
+            "type": "list",
+            "intro": "Contoh penggunaan dalam ayat:",
+            "items": [
+              "كتيباءن فراسمي مجليس انوكره موريد چمرلغ دسمبوت دغن قالوان كومفغ دان صلوات. (Ketibaan rasmi majlis anugerah murid cemerlang disambut dengan galuan kompang dan selawat.)",
+              "دروان اومبق دتڤي قنتاي موريب سوغكوه مغاشيقكن. (Deruan ombak di tepi pantai memang sungguh mengasyikkan.)",
+              "فروفيشن فركّوروان مروڤاكن فكرجاءن يغ قنتيغ دالم فروسيس فمباغونن ماءنسي، مشاركت دان نكارا. (Profesion perguruan merupakan pekerjaan yang penting dalam proses pembangunan manusia, masyarakat dan negara.)"
+            ]
+          }
+        },
+        {
+          "icon": "3️⃣",
+          "title": "Unit 3 — Imbuhan 'an-' Ditulis Dengan Huruf 'ءن'",
+          "body": {
+            "type": "list",
+            "intro": "Imbuhan '-an' ditulis dengan huruf '-ءن' (hamzah+nun) apabila:",
+            "items": [
+              "Kata dasar berakhir dengan huruf 'ا' (alef) atau vokal 'a'.",
+              "Contoh perkataan: فراياءن (perayaan), كبغساءن (kebangsaan)"
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Contoh Kata — Imbuhan 'ءن'",
+          "body": {
+            "type": "pairs",
+            "intro": "Kata dengan imbuhan 'an-' ditulis '-ءن' dalam Jawi:",
+            "rows": [
+              { "arabic": "فراياءن", "meaning": "perayaan (kata dasar: raya + an → berakhir 'a')" },
+              { "arabic": "كبغساءن", "meaning": "kebangsaan (kata dasar: bangsa + an → berakhir 'a')" },
+              { "arabic": "فرتاندينڠاءن", "meaning": "pertandingan (kata dasar: tanding + an)" },
+              { "arabic": "اومفاماءن", "meaning": "umpamaan (kata dasar: umpama + an → berakhir 'a')" }
+            ]
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Contoh Ayat — Imbuhan 'ءن'",
+          "body": {
+            "type": "list",
+            "intro": "Contoh ayat menggunakan imbuhan '-ءن':",
+            "items": [
+              "فراياءن اولغ تاهون هاري كبغساءن ديرايكن فد 31 اوكوس سيتيف تاهون. (Perayaan orang ramai sempena Hari Kebangsaan diraikan pada 31 Ogos setiap tahun.)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Ringkasan: Imbuhan '-an' dalam Jawi → '-ن' (kata dasar berakhir konsonan/ya), '-ان' (berakhir 'waw' atau diftong 'au'), '-ءن' (berakhir 'alef' atau vokal 'a')."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Perkataan 'tulisan' dalam Jawi ditulis sebagai...",
+      "options": ["تولisان", "توليسان", "توليسن", "توليسءن"],
+      "answer": 2
+    },
+    {
+      "q": "Imbuhan '-an' bagi kata dasar yang berakhir dengan diftong 'au' ditulis dalam Jawi dengan huruf...",
+      "options": ["-ن", "-ءن", "-ان", "-ين"],
+      "answer": 2
+    },
+    {
+      "q": "Perkataan 'perayaan' (raya+an) dalam Jawi ditulis sebagai...",
+      "options": ["فرايان", "فراياءن", "فراياان", "فرايون"],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan 'perguruan' (guru+an) dalam Jawi, imbuhan '-an' ditulis...",
+      "options": ["-ن", "-ءن", "-ان", "-يان"],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Imbuhan '-an'", "colour": "#FF9800" },
+      { "id": "n2", "label": "Jawi: '-ن'", "colour": "#F57C00" },
+      { "id": "n3", "label": "Jawi: '-ان'", "colour": "#EF6C00" },
+      { "id": "n4", "label": "Jawi: '-ءن'", "colour": "#E65100" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "konsonan/ya" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "waw/diftong au" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "vokal a/alef" }
+    ]
+  },
+  "vocab": [
+    { "word": "ايمبوهن", "meaning": "Imbuhan — unsur yang ditambah pada kata dasar untuk membentuk kata baru" },
+    { "word": "تارين", "meaning": "Tarian (Jawi: تارين) — kata dasar: tari; imbuhan '-an' ditulis '-ن'" },
+    { "word": "فرغوروان", "meaning": "Perguruan (Jawi: فرغوروان) — kata dasar: guru; imbuhan '-an' ditulis '-ان'" },
+    { "word": "فراياءن", "meaning": "Perayaan (Jawi: فراياءن) — kata dasar: raya; imbuhan '-an' ditulis '-ءن'" },
+    { "word": "كبغساءن", "meaning": "Kebangsaan (Jawi: كبغساءن) — kata dasar: bangsa; imbuhan '-an' ditulis '-ءن'" }
+  ],
+  "funFact": "Tahukah kamu bahawa tulisan Jawi telah digunakan di Alam Melayu sejak lebih 700 tahun dahulu? Batu Bersurat Terengganu yang dijumpai bertarikh 1303 Masihi adalah antara dokumen Jawi tertua di Malaysia. Tulisan Jawi berasal dari tulisan Arab yang diubahsuai untuk menyesuaikannya dengan bunyi bahasa Melayu!"
+}

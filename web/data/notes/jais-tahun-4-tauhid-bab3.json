@@ -1,0 +1,172 @@
+{
+  "id": "jais-tahun-4-tauhid-bab3",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "tauhid",
+  "chapter": 3,
+  "title": "Bab 3: Iman kepada Kitab-kitab Allah",
+  "emoji": "✨",
+  "colour": "#FFB300",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْإِيمَان بِالْكُتُب — Iman kepada Kitab-kitab Allah",
+      "body": "Iman kepada kitab-kitab Allah adalah rukun iman yang ketiga. Kita mesti percaya bahawa Allah SWT telah menurunkan kitab-kitab-Nya kepada para nabi dan rasul sebagai petunjuk hidup bagi manusia. Kita beriman kepada semua kitab, tapi hanya al-Quran yang masih terpelihara sepenuhnya."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📚",
+          "title": "4 Kitab Utama yang Diturunkan",
+          "body": {
+            "type": "pairs",
+            "intro": "Kitab-kitab suci yang Allah turunkan:",
+            "rows": [
+              { "label": "التَّوْرَاة", "arabic": "نَبِيّ مُوسَى", "meaning": "Taurat — diturunkan kepada Nabi Musa a.s." },
+              { "label": "الزَّبُور", "arabic": "نَبِيّ دَاوُد", "meaning": "Zabur — diturunkan kepada Nabi Daud a.s." },
+              { "label": "الْإِنْجِيل", "arabic": "نَبِيّ عِيسَى", "meaning": "Injil — diturunkan kepada Nabi Isa a.s." },
+              { "label": "الْقُرْآن", "arabic": "نَبِيّ مُحَمَّد ﷺ", "meaning": "al-Quran — diturunkan kepada Nabi Muhammad SAW" }
+            ],
+            "outro": "Hafaz: Taurat → Musa | Zabur → Daud | Injil → Isa | al-Quran → Muhammad SAW"
+          }
+        },
+        {
+          "icon": "📜",
+          "title": "Suhuf (Lembaran-lembaran Wahyu)",
+          "body": {
+            "type": "list",
+            "intro": "Selain 4 kitab, ada juga suhuf:",
+            "items": [
+              "Suhuf Ibrahim a.s. — lembaran wahyu kepada Nabi Ibrahim a.s.",
+              "Suhuf Musa a.s. — selain Taurat, Nabi Musa juga terima suhuf",
+              "Suhuf berbeza dari kitab — lebih ringkas, berupa lembaran wahyu",
+              "Al-Quran menyebut suhuf Ibrahim dan Musa dalam Surah al-A'la: 18-19"
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Keistimewaan al-Quran",
+          "body": {
+            "type": "list",
+            "intro": "Mengapa al-Quran berbeza dari kitab-kitab terdahulu?",
+            "items": [
+              "Al-Quran adalah kitab TERAKHIR — tiada kitab suci lain selepasnya",
+              "Al-Quran TERPELIHARA — Allah sendiri menjaga dari sebarang perubahan",
+              "Kitab terdahulu (Taurat, Injil) sudah diubah/ditambah oleh manusia",
+              "Al-Quran adalah panduan untuk semua manusia — bukan untuk satu kaum sahaja",
+              "Membaca al-Quran adalah ibadah — setiap huruf dapat pahala"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil Pemeliharaan al-Quran",
+          "body": {
+            "type": "arabic",
+            "instruction": "Janji Allah memelihara al-Quran:",
+            "arabic": "إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ",
+            "translation": "Sesungguhnya Kami yang menurunkan al-Quran, dan sesungguhnya Kami yang memeliharanya.",
+            "source": "Surah al-Hijr: 9"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "list",
+        "intro": "Cara kita beriman kepada kitab-kitab Allah:",
+        "items": [
+          "Percaya SEMUA kitab Allah adalah benar ketika diturunkan",
+          "Tapi al-Quran mengandungi hukum dan ajaran yang TERBARU dan menggantikan yang lama",
+          "Kita tidak boleh mengamalkan Taurat atau Injil yang ada sekarang — ia sudah diubah",
+          "Tugas kita: baca, hafaz, fahami, dan amalkan al-Quran dalam kehidupan!"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menghayati Iman kepada Kitab Allah",
+      "items": [
+        "Hafaz 4 kitab dan nabi masing-masing: Taurat-Musa, Zabur-Daud, Injil-Isa, al-Quran-Muhammad SAW.",
+        "Baca al-Quran setiap hari — walaupun satu ayat.",
+        {
+          "type": "arabic",
+          "arabic": "مَنْ قَرَأَ حَرْفًا مِنْ كِتَابِ اللَّهِ فَلَهُ بِهِ حَسَنَة وَالْحَسَنَةُ بِعَشْرِ أَمْثَالِهَا",
+          "translation": "Sesiapa membaca satu huruf dari kitab Allah, maka baginya satu kebaikan. Satu kebaikan digandakan 10 kali."
+        },
+        "Pelajari tafsir al-Quran — bukan sekadar baca tapi fahami maksud.",
+        "Amalkan ajaran al-Quran — itu tanda sebenar beriman kepada Kitab Allah."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Kitab Taurat diturunkan kepada Nabi siapa?",
+      "options": [
+        "Nabi Isa a.s.",
+        "Nabi Musa a.s.",
+        "Nabi Daud a.s.",
+        "Nabi Ibrahim a.s."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah nama kitab yang diturunkan kepada Nabi Daud a.s.?",
+      "options": [
+        "Taurat",
+        "Injil",
+        "Zabur",
+        "al-Quran"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Mengapa al-Quran berbeza dari kitab-kitab terdahulu?",
+      "options": [
+        "Ia diturunkan lebih lama",
+        "Ia terpelihara oleh Allah dan tidak berubah",
+        "Ia mengandungi lebih banyak mukjizat",
+        "Ia diturunkan kepada lebih ramai nabi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Iman kepada kitab-kitab Allah adalah rukun iman yang ke berapa?",
+      "options": [
+        "Kedua",
+        "Ketiga",
+        "Keempat",
+        "Kelima"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Kitab Allah", "colour": "#FFB300" },
+      { "id": "n2", "label": "Taurat (Musa)", "colour": "#FF8F00" },
+      { "id": "n3", "label": "Zabur (Daud)", "colour": "#FF8F00" },
+      { "id": "n4", "label": "Injil (Isa)", "colour": "#FF8F00" },
+      { "id": "n5", "label": "al-Quran (Muhammad)", "colour": "#FFB300" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "kitab 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "kitab 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "kitab 3" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "kitab terakhir" }
+    ]
+  },
+  "vocab": [
+    { "word": "التَّوْرَاة", "meaning": "Taurat — kitab Nabi Musa a.s." },
+    { "word": "الزَّبُور", "meaning": "Zabur — kitab Nabi Daud a.s." },
+    { "word": "الْإِنْجِيل", "meaning": "Injil — kitab Nabi Isa a.s." },
+    { "word": "صُحُف", "meaning": "lembaran-lembaran wahyu" },
+    { "word": "مُحَافَظَة", "meaning": "pemeliharaan / penjagaan" }
+  ],
+  "funFact": "Tahukah kamu bahawa al-Quran adalah satu-satunya kitab suci di dunia yang TIDAK PERNAH berubah sejak diturunkan lebih 1,400 tahun yang lalu? Jutaan orang menghafaz al-Quran — jika semua mushaf (kitab al-Quran bercetak) di dunia dibakar, al-Quran masih boleh disusun kembali dengan tepat dari ingatan para huffaz (penghafaz). Ini adalah mukjizat besar — bukti Allah benar-benar menjaga al-Quran seperti yang dijanjikan dalam Surah al-Hijr!"
+}

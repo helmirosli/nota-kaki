@@ -1,0 +1,138 @@
+{
+  "id": "jais-tahun-5-arab-bab1",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 1,
+  "title": "الأعداد والأرقام — Nombor 401–500",
+  "emoji": "📖",
+  "colour": "#2196F3",
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الدرس الأول — الأعداد والأرقام (من ٤٠١ إلى ٥٠٠)",
+      "body": "Pada akhir pelajaran ini, murid dapat: (1) Mendengar lafaz nombor 401–500 dengan betul. (2) Menyebut nombor 401–500 dengan betul. (3) Membaca nombor 401–500 dengan jelas. (4) Menulis nombor 401–500 dengan betul."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🔢",
+          "title": "Pola Asas — Nombor 400-an",
+          "body": {
+            "type": "list",
+            "intro": "Nombor 400 dalam bahasa Arab ialah أَرْبَعُمِائَةٍ. Nombor 401–499 dibentuk dengan menambah 'وَ' + nombor selebihnya:",
+            "items": [
+              "٤٠٠ = أَرْبَعُمِائَةٍ (empat ratus)",
+              "٤٠١ = أَرْبَعُمِائَةٍ وَوَاحِدٌ (empat ratus satu)",
+              "٤١٠ = أَرْبَعُمِائَةٍ وَعَشَرَةٌ (empat ratus sepuluh)",
+              "٤٢٠ = أَرْبَعُمِائَةٍ وَعِشْرُوْنَ (empat ratus dua puluh)",
+              "٤٣٠ = أَرْبَعُمِائَةٍ وَثَلَاثُوْنَ (empat ratus tiga puluh)",
+              "٥٠٠ = خَمْسُمِائَةٍ (lima ratus)"
+            ]
+          }
+        },
+        {
+          "icon": "🗣️",
+          "title": "Contoh Nombor Campuran (401–430)",
+          "body": {
+            "type": "pairs",
+            "intro": "Contoh nombor campuran dalam bahasa Arab:",
+            "rows": [
+              { "arabic": "٤٠١", "meaning": "أَرْبَعُمِائَةٍ وَوَاحِدٌ — empat ratus satu" },
+              { "arabic": "٤١٠", "meaning": "أَرْبَعُمِائَةٍ وَعَشَرَةٌ — empat ratus sepuluh" },
+              { "arabic": "٤١٢", "meaning": "أَرْبَعُمِائَةٍ وَاثْنَا عَشَرَ — empat ratus dua belas" },
+              { "arabic": "٤٢٠", "meaning": "أَرْبَعُمِائَةٍ وَعِشْرُوْنَ — empat ratus dua puluh" },
+              { "arabic": "٤٢٣", "meaning": "أَرْبَعُمِائَةٍ وَثَلَاثَةٌ وَعِشْرُوْنَ — empat ratus dua puluh tiga" },
+              { "arabic": "٤٣٠", "meaning": "أَرْبَعُمِائَةٍ وَثَلَاثُوْنَ — empat ratus tiga puluh" }
+            ]
+          }
+        },
+        {
+          "icon": "✏️",
+          "title": "Pola Penulisan Nombor Arab",
+          "body": {
+            "type": "pairs",
+            "intro": "Ratusan dalam bahasa Arab — pola mائَة:",
+            "rows": [
+              { "arabic": "مِائَةٌ", "meaning": "100 — seratus (mi'ah)" },
+              { "arabic": "مِائَتَانِ", "meaning": "200 — dua ratus (mi'ataani)" },
+              { "arabic": "ثَلَاثُمِائَةٍ", "meaning": "300 — tiga ratus" },
+              { "arabic": "أَرْبَعُمِائَةٍ", "meaning": "400 — empat ratus" },
+              { "arabic": "خَمْسُمِائَةٍ", "meaning": "500 — lima ratus" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Ingat: Nombor Arab dibaca dari kanan ke kiri dalam tulisan, tetapi nilai bilangan sama seperti Rumi. ٤٠١ = أربعمائة ووحد. Pola asas: أربعمائة + وَ + [nombor 1-99]. Lima ratus = خمسمائة."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Bagaimana cara menyebut nombor ٤٢٠ dalam bahasa Arab?",
+      "options": [
+        "أربعمائة وعشرون",
+        "أربعمائة واثنان",
+        "خمسمائة وعشرون",
+        "أربعون ومائتان"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Apakah nombor Arab untuk 'empat ratus dua belas' (٤١٢)?",
+      "options": [
+        "أربعمائة وعشرة",
+        "أربعمائة واثنا عشر",
+        "أربعمائة واثنان",
+        "أربعون ومائة"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Nombor ٥٠٠ dalam bahasa Arab ialah...",
+      "options": [
+        "أربعمائة وخمسون",
+        "أربعمائة",
+        "خمسمائة",
+        "خمسة وأربعمائة"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah nilai nombor 'أَرْبَعُمِائَةٍ وَوَاحِدٌ'?",
+      "options": [
+        "٤١٠",
+        "٤٠١",
+        "١٤٠",
+        "٤١٢"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "الأعداد ٤٠١-٥٠٠", "colour": "#2196F3" },
+      { "id": "n2", "label": "أربعمائة (400)", "colour": "#1976D2" },
+      { "id": "n3", "label": "خمسمائة (500)", "colour": "#1565C0" },
+      { "id": "n4", "label": "أرقام مركبة", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "mula dari" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "sehingga" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "ditambah وَ +" }
+    ]
+  },
+  "vocab": [
+    { "word": "الأعداد", "meaning": "Al-A'dad — nombor (bilangan)" },
+    { "word": "الأرقام", "meaning": "Al-Arqam — angka (digit)" },
+    { "word": "مِائَةٌ", "meaning": "Mi'ah — seratus (100)" },
+    { "word": "أَرْبَعُمِائَةٍ", "meaning": "Arba'umi'ah — empat ratus (400)" },
+    { "word": "خَمْسُمِائَةٍ", "meaning": "Khamsumi'ah — lima ratus (500)" }
+  ],
+  "funFact": "Tahukah kamu bahawa angka Arab (١، ٢، ٣...) yang kita lihat dalam buku teks agama sebenarnya berasal dari India? Orang Arab memperkenalkan sistem nombor ini kepada dunia, itulah sebabnya ia dinamakan 'angka Arab'. Angka yang kita gunakan dalam matematik hari ini (1, 2, 3...) pun dikenali sebagai 'Hindu-Arabic numerals' kerana asalnya dari India dan disebarkan oleh orang Arab!"
+}

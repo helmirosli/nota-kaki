@@ -1,0 +1,172 @@
+{
+  "id": "jais-tahun-4-tajwid-bab2",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "tajwid",
+  "chapter": 2,
+  "title": "Pelajaran 1: Idgham, Iqlab dan Ikhfa Haqiqi",
+  "emoji": "📿",
+  "colour": "#1A237E",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "إِدْغَام، إِقْلَاب، إِخْفَاء — Tiga Hukum Nun Sakinah",
+      "body": "Kita telah belajar Izhar Halqi. Sekarang kita pelajari tiga hukum Nun Sakinah dan Tanwin yang lain: Idgham (masukkan), Iqlab (tukar), dan Ikhfa Haqiqi (sembunyi)."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🔀",
+          "title": "Idgham — Masukkan (إِدْغَام)",
+          "body": {
+            "type": "list",
+            "intro": "Idgham = memasukkan Nun Sakinah/Tanwin ke dalam huruf berikutnya:",
+            "items": [
+              "Berlaku apabila Nun Sakinah/Tanwin bertemu huruf: ي ر و م ل ن (يَرْمَلُون — ingat!)",
+              "Idgham BIGHUNNAH (dengan dengung): ي و م ن → baca lebur dengan dengung 2 harakat",
+              "Idgham BILA GHUNNAH (tanpa dengung): ل ر → baca lebur tanpa dengung",
+              "Syarat: mesti dua perkataan berbeza — bukan dalam satu perkataan"
+            ]
+          }
+        },
+        {
+          "icon": "🔄",
+          "title": "Iqlab — Tukar (إِقْلَاب)",
+          "body": {
+            "type": "list",
+            "intro": "Iqlab = menukar Nun Sakinah/Tanwin menjadi Mim:",
+            "items": [
+              "Berlaku apabila Nun Sakinah/Tanwin bertemu huruf ب (Ba') sahaja",
+              "Cara baca: tukar Nun kepada Mim, kemudian rapatkan bibir dengan dengung 2 harakat",
+              "Tanda dalam al-Quran: huruf ميم kecil (ۢ) di atas Nun Sakinah",
+              "Contoh: مِنْ بَعْدِ → dibaca seperti 'mim-ba'di' (dengan dengung)"
+            ]
+          }
+        },
+        {
+          "icon": "🫥",
+          "title": "Ikhfa Haqiqi — Sembunyi (إِخْفَاء حَقِيقِي)",
+          "body": {
+            "type": "list",
+            "intro": "Ikhfa = menyembunyikan Nun dengan dengung separuh:",
+            "items": [
+              "Berlaku apabila Nun Sakinah/Tanwin bertemu 15 huruf Ikhfa selain dari huruf Izhar, Idgham, dan Ba'",
+              "15 huruf Ikhfa: ت ث ج ذ ز س ش ص ض ط ظ ف ق ك د",
+              "Cara baca: dengung separuh, lidah tidak sentuh langit-langit sepenuhnya",
+              "Panjang dengung: 2 harakat (seperti Idgham Bighunnah)"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Contoh dalam Al-Quran",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh ketiga-tiga hukum:",
+            "arabic": "مَنْ يَعْمَلْ سُوءًا (إِدْغَام بغنة — نْ + ي)\nمِنْ بَعْدِ (إِقْلَاب — نْ + ب)\nإِنَّ اللَّهَ كَانَ سَمِيعًا بَصِيرًا (تَنْوِين + ب = إِقْلَاب)\nمَنْ كَفَرَ (إِخْفَاء — نْ + ك)",
+            "translation": "Sesiapa yang melakukan kejahatan | selepas | Sesungguhnya Allah Maha Mendengar lagi Maha Melihat | sesiapa yang kafir"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": {
+        "type": "pairs",
+        "intro": "Ringkasan 4 Hukum Nun Sakinah dan Tanwin:",
+        "rows": [
+          { "label": "Izhar", "arabic": "ء ه ع ح غ خ", "meaning": "Jelas — tiada dengung" },
+          { "label": "Idgham", "arabic": "ي ر و م ل ن", "meaning": "Lebur — dengan/tanpa dengung" },
+          { "label": "Iqlab", "arabic": "ب", "meaning": "Tukar ke Mim — dengan dengung" },
+          { "label": "Ikhfa", "arabic": "15 huruf lain", "meaning": "Sembunyi — dengung separuh" }
+        ],
+        "outro": "Hafaz urutan: Izhar → Idgham → Iqlab → Ikhfa"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menentukan Hukum Nun Sakinah/Tanwin",
+      "items": [
+        "Jumpa Nun Sakinah (نْ) atau Tanwin (ً ٍ ٌ) dalam ayat.",
+        "Lihat huruf SELEPASNYA dengan teliti.",
+        "Bandingkan dengan 4 hukum: Izhar (ء ه ع ح غ خ), Idgham (ي ر و م ل ن), Iqlab (ب), Ikhfa (yang lain).",
+        {
+          "type": "arabic",
+          "arabic": "مَنْ + بَعْدَ → إِقْلَاب (نْ bertemu ب)",
+          "translation": "نْ bertemu ب → Iqlab → tukar Nun jadi Mim dengan dengung"
+        },
+        "Latih dengan membaca surah-surah pendek dan kenal pasti hukumnya."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah hukum apabila Nun Sakinah bertemu huruf ب (Ba')?",
+      "options": [
+        "Izhar Halqi",
+        "Idgham Bighunnah",
+        "Iqlab",
+        "Ikhfa Haqiqi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa panjang dengung dalam hukum Ikhfa Haqiqi?",
+      "options": [
+        "1 harakat",
+        "2 harakat",
+        "3 harakat",
+        "Tiada dengung"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Huruf-huruf Idgham Bighunnah adalah:",
+      "options": [
+        "ل ر",
+        "ء ه ع ح",
+        "ي و م ن",
+        "ت ث ج ذ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Dalam Iqlab, Nun Sakinah/Tanwin ditukar kepada huruf apa?",
+      "options": [
+        "ب",
+        "م",
+        "ن",
+        "و"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "4 Hukum Nun", "colour": "#1A237E" },
+      { "id": "n2", "label": "Izhar", "colour": "#283593" },
+      { "id": "n3", "label": "Idgham", "colour": "#283593" },
+      { "id": "n4", "label": "Iqlab", "colour": "#283593" },
+      { "id": "n5", "label": "Ikhfa", "colour": "#283593" },
+      { "id": "n6", "label": "Bighunnah / BilaGhunnah", "colour": "#3F51B5" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "hukum 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "hukum 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "hukum 3" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "hukum 4" },
+      { "id": "e5", "source": "n3", "target": "n6", "label": "dua jenis" }
+    ]
+  },
+  "vocab": [
+    { "word": "إِدْغَام", "meaning": "memasukkan (satu huruf ke huruf lain)" },
+    { "word": "إِقْلَاب", "meaning": "menukar (Nun jadi Mim)" },
+    { "word": "إِخْفَاء", "meaning": "menyembunyikan" },
+    { "word": "غُنَّة", "meaning": "dengung dari hidung" },
+    { "word": "حَرَكَة", "meaning": "satu ketukan (unit panjang bacaan)" }
+  ],
+  "funFact": "Tahukah kamu mengapa ada tanda kecil ميم (م) dalam al-Quran pada sesetengah tempat? Itu adalah tanda Iqlab! Para ulama al-Quran meletakkan tanda-tanda ini untuk membantu pembaca tahu cara sebutan yang betul. Al-Quran yang kita baca hari ini menggunakan tanda-tanda baris (harakat) yang mula diperkenalkan oleh Al-Hajjaj bin Yusuf sekitar tahun 694 Masihi — lebih 1300 tahun dahulu!"
+}

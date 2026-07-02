@@ -1,0 +1,152 @@
+{
+  "id": "jais-tahun-5-sirah-bab5",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "sirah",
+  "chapter": 5,
+  "title": "Peristiwa Kewafatan Nabi Muhammad ﷺ",
+  "emoji": "🕊️",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "فَرِيسْتِيوَا كُوفَاتَن نَبِيِّ مُحَمَّدٍ ﷺ — Pelajaran Kelima",
+      "body": "Bab ini membincangkan dua peristiwa penting di hujung hayat Nabi Muhammad ﷺ — Haji Wada' pada tahun 10 Hijriah, dan kewafatan baginda pada 12 Rabi'ul-Awwal tahun 11 Hijriah."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🕋",
+          "title": "Unit 1: Haji Wada'",
+          "body": {
+            "type": "list",
+            "intro": "Haji Wada' berlaku pada tahun 10 Hijriah — haji terakhir Nabi Muhammad ﷺ:",
+            "items": [
+              "Nabi ﷺ menunaikan haji bersama para sahabat pada tahun 10 Hijriah.",
+              "Dinamakan 'Haji Wada'' (Haji Perpisahan) kerana Nabi ﷺ tidak lagi menunaikan haji selepas itu. Ia juga disebut 'حَجُّ الْفَضِيلَةِ' (Haji Kelebihan).",
+              "Semasa haji, Nabi ﷺ menyampaikan Khutbah Wada' di hadapan lebih 100,000 jemaah.",
+              "Selepas menunaikan haji, Nabi ﷺ pulang ke Madinah."
+            ]
+          }
+        },
+        {
+          "icon": "📢",
+          "title": "Khutbah Wada' — 6 Perkara Penting",
+          "body": {
+            "type": "list",
+            "intro": "Isi penting Khutbah Wada' yang disampaikan Nabi ﷺ:",
+            "items": [
+              "1. Jaga dan serahkan diri kepada masyarakat dalam Islam.",
+              "2. Jangan melakukan kezaliman terhadap sesama manusia.",
+              "3. Jangan melakukan riba.",
+              "4. Berhati-hati daripada godaan syaitan.",
+              "5. Berpegang teguh kepada ajaran yang baik.",
+              "6. Berpegang kepada al-Quran dan al-Sunnah."
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil Haji Wada' — Surah al-Ma'idah: 3",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat ini diturunkan semasa Haji Wada' (wajib hafaz):",
+            "arabic": "الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا",
+            "translation": "Pada hari ini, Aku telah sempurnakan bagimu agamamu, dan Aku telah cukupkan nikmat-Ku ke atasmu, dan Aku telah redhai Islam sebagai agamamu.",
+            "source": "Surah al-Ma'idah: 3"
+          }
+        },
+        {
+          "icon": "🌙",
+          "title": "Unit 2: Peristiwa Kewafatan Nabi Muhammad ﷺ",
+          "body": {
+            "type": "list",
+            "intro": "Kronologi peristiwa kewafatan Nabi ﷺ:",
+            "items": [
+              "Pada 29 Safar tahun 11 Hijriah, hari Isnin — Nabi Muhammad ﷺ ditimpa sakit.",
+              "Semasa sakit, baginda tinggal di rumah Aisyah r.a. Aisyah membantu merawat baginda dengan membacakan Surah al-Falaq dan Surah an-Nas serta meniupkannya ke tubuh baginda.",
+              "Semasa baginda sakit, Abu Bakar al-Siddiq dilantik mengimami solat para sahabat.",
+              "Pada hari terakhir, Nabi ﷺ membuka tirai dan melihat para sahabat sedang solat Subuh diimami Abu Bakar. Abu Bakar tersenyum melihat Nabi ﷺ masih hidup.",
+              "Sebelum wafat, Nabi ﷺ berwasiat khusus kepada sahabat mengenai kaum Ansar.",
+              "Nabi Muhammad ﷺ wafat pada 12 Rabi'ul-Awwal tahun 11 Hijriah."
+            ]
+          }
+        },
+        {
+          "icon": "📊",
+          "title": "Fakta Kewafatan Nabi ﷺ",
+          "body": {
+            "type": "pairs",
+            "intro": "Maklumat penting tentang kewafatan Nabi ﷺ:",
+            "rows": [
+              { "label": "Tarikh wafat", "arabic": "١٢ رَبِيعُ الْأَوَّلِ", "meaning": "12 Rabi'ul-Awwal tahun 11 Hijriah" },
+              { "label": "Hari", "arabic": "يَوْمُ الِاثْنَيْنِ", "meaning": "Hari Isnin (Isnin)" },
+              { "label": "Usia baginda", "arabic": "٦٣ سَنَةً", "meaning": "63 tahun" },
+              { "label": "Tempat wafat", "arabic": "بَيْتُ عَائِشَة", "meaning": "Rumah Aisyah r.a. di Madinah" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Tahukah anda? Nabi Muhammad ﷺ berdakwah selama 23 tahun — 13 tahun di Mekah dan 10 tahun di Madinah."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah nama lain bagi Haji Wada'?",
+      "options": [
+        "Haji Akbar",
+        "Haji Farewell sahaja",
+        "حَجُّ الْفَضِيلَةِ (Haji Kelebihan)",
+        "Haji Mabrur"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa ramai jemaah yang hadir semasa Haji Wada'?",
+      "options": ["10,000 orang", "50,000 orang", "100,000 orang", "1,000,000 orang"],
+      "answer": 2
+    },
+    {
+      "q": "Pada tarikh berapakah Nabi Muhammad ﷺ wafat?",
+      "options": [
+        "12 Ramadhan tahun 11H",
+        "12 Rabi'ul-Awwal tahun 11H",
+        "29 Safar tahun 11H",
+        "10 Zulhijjah tahun 10H"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapakah usia Nabi Muhammad ﷺ ketika wafat?",
+      "options": ["53 tahun", "60 tahun", "63 tahun", "70 tahun"],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Kewafatan Nabi ﷺ", "colour": "#FF6F00" },
+      { "id": "n2", "label": "Haji Wada' (th. 10H)", "colour": "#E65100" },
+      { "id": "n3", "label": "Khutbah Wada'", "colour": "#FF8F00" },
+      { "id": "n4", "label": "Wafat 12 Rabi'ul-Awwal", "colour": "#4CAF50" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "unit 1" },
+      { "id": "e2", "source": "n2", "target": "n3", "label": "semasa haji" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "unit 2" }
+    ]
+  },
+  "vocab": [
+    { "word": "حَجَّةُ الْوَدَاعِ", "meaning": "Haji Wada' — haji terakhir Nabi ﷺ pada tahun 10 Hijriah" },
+    { "word": "الْخُطْبَةُ", "meaning": "Khutbah — ucapan/ceramah penting yang disampaikan Nabi ﷺ semasa Haji Wada'" },
+    { "word": "الرِّبَا", "meaning": "Riba — faedah/bunga yang haram dalam Islam, dilarang dalam Khutbah Wada'" },
+    { "word": "الْوَفَاةُ", "meaning": "Wafat — kematian Nabi ﷺ pada 12 Rabi'ul-Awwal tahun 11 Hijriah" },
+    { "word": "الْوَصِيَّةُ", "meaning": "Wasiat — pesanan terakhir Nabi ﷺ kepada para sahabat sebelum wafat" }
+  ],
+  "funFact": "Tahukah kamu bahawa ayat al-Quran yang terakhir diturunkan kepada Nabi ﷺ ialah ayat daripada Surah al-Ma'idah: 3 — 'Pada hari ini Aku telah sempurnakan bagimu agamamu...' — yang turun semasa Haji Wada'? Ini bermakna Islam telah lengkap dan sempurna sebelum Nabi ﷺ wafat. Para sahabat menangis apabila mendengarnya kerana mereka faham bahawa kewafatan baginda sudah hampir. Nabi ﷺ telah menyempurnakan tugasnya sebagai Rasul terakhir dengan penuh dedikasi!"
+}

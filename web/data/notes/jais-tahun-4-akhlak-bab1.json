@@ -1,0 +1,157 @@
+{
+  "id": "jais-tahun-4-akhlak-bab1",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "akhlak",
+  "chapter": 1,
+  "title": "Bab 1: Adab dengan Allah SWT",
+  "emoji": "🌱",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْأَدَب مَعَ اللَّه — Adab dengan Allah SWT",
+      "body": "Adab dengan Allah SWT adalah asas utama dalam pembentukan akhlak seorang Muslim. Kita perlu menghormati, memuliakan, dan taat kepada Allah dalam setiap aspek kehidupan. Tanpa adab yang betul dengan Allah, akhlak kita dengan manusia pun tidak akan sempurna."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🤲",
+          "title": "Cara Beradab dengan Allah",
+          "body": {
+            "type": "list",
+            "intro": "Adab-adab yang wajib kita jaga terhadap Allah SWT:",
+            "items": [
+              "Mendirikan solat 5 waktu dengan khusyuk dan tepat waktu",
+              "Membaca al-Quran dengan tartil dan penuh penghayatan",
+              "Berdoa hanya kepada Allah — tidak meminta kepada selain-Nya",
+              "Berzikir mengingati Allah di setiap keadaan",
+              "Menerima dengan redha setiap ujian dan nikmat dari Allah",
+              "Bertaubat segera apabila melakukan dosa — tidak berputus asa dari rahmat Allah"
+            ]
+          }
+        },
+        {
+          "icon": "🙏",
+          "title": "Ikhlas — Syarat Utama Beradab dengan Allah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah tentang keikhlasan:",
+            "arabic": "وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ",
+            "translation": "Dan tidaklah mereka diperintahkan kecuali supaya menyembah Allah dengan ikhlas dalam menjalankan agama.",
+            "source": "Surah al-Bayyinah: 5",
+            "outro": "Ikhlas = buat semua kerana Allah, bukan untuk dipuji manusia"
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "Tanda-tanda Adab dengan Allah",
+          "body": {
+            "type": "list",
+            "intro": "Bagaimana tahu kita telah beradab dengan Allah?",
+            "items": [
+              "Solat dengan khusyuk — bukan sekadar gerak badan",
+              "Takut melakukan dosa walaupun tiada siapa melihat",
+              "Bersyukur dalam nikmat dan bersabar dalam ujian",
+              "Menyebut nama Allah (basmallah) sebelum memulakan sesuatu",
+              "Mengucapkan 'Alhamdulillah' setelah sesuatu selesai"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💚",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith tentang menjaga adab dengan Allah:",
+        "arabic": "احْفَظِ اللَّهَ يَحْفَظْكَ، احْفَظِ اللَّهَ تَجِدْهُ تُجَاهَكَ",
+        "translation": "Jagalah Allah (perintah-Nya), nescaya Allah akan menjagamu. Jagalah Allah, nescaya kamu akan mendapati-Nya di hadapanmu.",
+        "source": "Riwayat al-Tirmidzi"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Memperbaiki Adab dengan Allah",
+      "items": [
+        "Mulakan setiap perbuatan dengan Bismillah dan akhiri dengan Alhamdulillah.",
+        "Solat tepat waktu — jangan tangguh-tangguh kerana kerja lain.",
+        {
+          "type": "arabic",
+          "arabic": "حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَى وَقُومُوا لِلَّهِ قَانِتِينَ",
+          "translation": "Peliharalah semua solat kamu, dan (terutama) solat Wusta (Asar). Dan berdirilah untuk Allah dengan penuh ketaatan."
+        },
+        "Berzikir pagi dan petang — sekurang-kurangnya SubhanAllah, Alhamdulillah, Allahu Akbar.",
+        "Apabila terlanjur buat dosa, segera bertaubat — jangan biarkan dosa menumpuk."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah adab PALING asas dengan Allah SWT?",
+      "options": [
+        "Membantu orang miskin",
+        "Mendirikan solat 5 waktu dengan khusyuk",
+        "Berkata benar kepada manusia",
+        "Menghormati ibu bapa"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah maksud 'ikhlas' dalam ibadah?",
+      "options": [
+        "Melakukan ibadah supaya dipuji orang",
+        "Melakukan ibadah kerana Allah sahaja",
+        "Melakukan ibadah kerana takut dosa",
+        "Melakukan ibadah yang mudah sahaja"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang perlu diucapkan SEBELUM memulakan sesuatu perbuatan?",
+      "options": [
+        "Alhamdulillah",
+        "SubhanAllah",
+        "Bismillah",
+        "Allahu Akbar"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Menurut hadith, apa yang akan Allah lakukan jika kita menjaga perintah-Nya?",
+      "options": [
+        "Allah akan memberikan kekayaan",
+        "Allah akan menjaga kita",
+        "Allah akan memberikan kesihatan",
+        "Allah akan mengampun semua dosa"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Adab dengan Allah", "colour": "#4CAF50" },
+      { "id": "n2", "label": "Solat", "colour": "#388E3C" },
+      { "id": "n3", "label": "Ikhlas", "colour": "#388E3C" },
+      { "id": "n4", "label": "Zikir & Doa", "colour": "#388E3C" },
+      { "id": "n5", "label": "Taubat", "colour": "#388E3C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "cara utama" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "syarat" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "amalan" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "apabila silap" }
+    ]
+  },
+  "vocab": [
+    { "word": "أَدَب", "meaning": "adab / tata krama yang baik" },
+    { "word": "إِخْلَاص", "meaning": "keikhlasan (semata-mata kerana Allah)" },
+    { "word": "خُشُوع", "meaning": "khusyuk (penuh tumpuan dalam ibadah)" },
+    { "word": "تَوْبَة", "meaning": "taubat (kembali kepada Allah selepas berdosa)" },
+    { "word": "شُكْر", "meaning": "syukur (berterima kasih atas nikmat)" }
+  ],
+  "funFact": "Tahukah kamu bahawa zikir 'SubhanAllah, Alhamdulillah, Allahu Akbar' yang diulang 33 kali setiap selepas solat adalah amalan yang diajar terus oleh Nabi SAW? Ketika Saidatina Fatimah r.a. mengadu penat kerana banyak kerja rumah, Nabi SAW mengajar beliau zikir ini sebagai ganti pembantu rumah. Nabi SAW bersabda zikir ini lebih baik dari apa yang kamu minta! Zikir murah, mudah, tapi pahalanya sangat besar."
+}

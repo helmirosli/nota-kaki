@@ -1,0 +1,175 @@
+{
+  "id": "jais-tahun-4-tauhid-bab5",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "tauhid",
+  "chapter": 5,
+  "title": "Bab 5: Iman kepada Hari Akhirat",
+  "emoji": "✨",
+  "colour": "#FFB300",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْإِيمَان بِالْيَوْم الْآخِر — Iman kepada Hari Akhirat",
+      "body": "Iman kepada Hari Akhirat adalah rukun iman yang kelima. Kita mesti percaya bahawa dunia ini akan berakhir dan ada kehidupan lain selepasnya — iaitu alam akhirat. Di sana setiap amalan kita akan dihisab dan kita akan mendapat balasan yang adil dari Allah SWT."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📊",
+          "title": "Peringkat-peringkat Alam Akhirat",
+          "body": {
+            "type": "pairs",
+            "intro": "Peringkat-peringkat yang akan dilalui selepas mati:",
+            "rows": [
+              { "label": "1. Alam Barzakh", "arabic": "عَالَم الْبَرْزَخ", "meaning": "Alam kubur — dari mati hingga hari kiamat" },
+              { "label": "2. Hari Kiamat", "arabic": "يَوْم الْقِيَامَة", "meaning": "Hari kebangkitan — semua manusia dibangkitkan" },
+              { "label": "3. Mahsyar", "arabic": "الْمَحْشَر", "meaning": "Padang mahsyar — semua dikumpulkan untuk dihisab" },
+              { "label": "4. Mizan", "arabic": "الْمِيزَان", "meaning": "Timbangan amalan — ditimbang amal baik dan buruk" },
+              { "label": "5. Sirat", "arabic": "الصِّرَاط", "meaning": "Jambatan yang merentasi neraka" },
+              { "label": "6. Syurga/Neraka", "arabic": "الْجَنَّة / النَّار", "meaning": "Tempat kediaman kekal — mengikut amalan" }
+            ]
+          }
+        },
+        {
+          "icon": "⚖️",
+          "title": "Hisab — Penghitungan Amalan",
+          "body": {
+            "type": "list",
+            "intro": "Proses hisab pada Hari Kiamat:",
+            "items": [
+              "Setiap manusia akan dihisab seorang demi seorang",
+              "Amalan dicatat oleh Raqib dan Atid — tidak ada yang tertinggal",
+              "Anggota badan akan menjadi saksi: tangan, kaki, dan kulit berbicara",
+              "Tidak ada yang boleh berdusta di hadapan Allah",
+              "Orang yang amalan baiknya lebih berat — masuk syurga",
+              "Orang yang amalan buruknya lebih berat — masuk neraka"
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Syurga — Ganjaran Orang Beriman",
+          "body": {
+            "type": "list",
+            "intro": "Nikmat syurga yang dijanjikan Allah:",
+            "items": [
+              "Syurga mempunyai 8 pintu — setiap pintu untuk amalan yang berbeza",
+              "Di dalamnya ada sungai susu, madu, arak yang halal, dan air",
+              "Tiada penat, tiada sakit, tiada kesedihan — kebahagiaan abadi",
+              "Nikmat terbesar: melihat wajah Allah SWT",
+              "Syurga yang paling tinggi: Firdaus — disediakan untuk para nabi, syuhada, dan orang soleh"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil Hari Akhirat",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah tentang Hari Kiamat:",
+            "arabic": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ ۝ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+            "translation": "Maka sesiapa yang melakukan kebaikan seberat zarah, dia akan melihatnya. Dan sesiapa yang melakukan kejahatan seberat zarah, dia akan melihatnya.",
+            "source": "Surah al-Zalzalah: 7-8"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "⚡",
+      "text": {
+        "type": "list",
+        "intro": "Pengajaran Iman kepada Hari Akhirat:",
+        "items": [
+          "Dunia hanya sementara — akhirat adalah kehidupan yang KEKAL",
+          "Setiap amalan sekecil zarah pun akan diperhitung — jangan remehkan amalan kecil",
+          "Iman kepada akhirat mendorong kita buat baik walaupun tiada siapa melihat",
+          "Persiapkan bekalan akhirat dari sekarang — iman, amal soleh, dan ilmu"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menghayati Iman kepada Hari Akhirat",
+      "items": [
+        "Hafaz 6 peringkat alam akhirat: Barzakh → Kiamat → Mahsyar → Mizan → Sirat → Syurga/Neraka.",
+        "Renungkan: 'Apa yang aku akan bawa menghadap Allah?'",
+        {
+          "type": "arabic",
+          "arabic": "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْت وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ الْقِيَامَة",
+          "translation": "Setiap jiwa pasti merasai mati, dan sesungguhnya kamu akan diberi balasanmu pada hari kiamat."
+        },
+        "Banyakkan amalan yang mendekatkan diri ke syurga: solat, sedekah, membaca al-Quran.",
+        "Ingat akhirat bukan untuk menakutkan tapi untuk mendorong kita jadi lebih baik!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah Alam Barzakh?",
+      "options": [
+        "Padang mahsyar",
+        "Alam kubur dari kematian hingga hari kiamat",
+        "Jambatan sirat",
+        "Pintu syurga"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Iman kepada Hari Akhirat adalah rukun iman yang ke berapa?",
+      "options": [
+        "Ketiga",
+        "Keempat",
+        "Kelima",
+        "Keenam"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah nikmat syurga yang TERBESAR menurut ulama?",
+      "options": [
+        "Sungai susu dan madu",
+        "Hidup kekal selama-lamanya",
+        "Melihat wajah Allah SWT",
+        "Tidak ada penat dan sakit"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Menurut Surah al-Zalzalah, apakah yang akan dilihat oleh seseorang yang berbuat jahat sebesar zarah?",
+      "options": [
+        "Ia tidak akan dilihat kerana terlalu kecil",
+        "Ia akan dilihat dan diperhitungkan",
+        "Ia diampunkan secara automatik",
+        "Ia hanya dilihat jika orang itu kafir"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Hari Akhirat", "colour": "#FFB300" },
+      { "id": "n2", "label": "Barzakh", "colour": "#FF8F00" },
+      { "id": "n3", "label": "Mahsyar & Hisab", "colour": "#FF8F00" },
+      { "id": "n4", "label": "Mizan & Sirat", "colour": "#FF8F00" },
+      { "id": "n5", "label": "Syurga / Neraka", "colour": "#FFB300" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "selepas mati" },
+      { "id": "e2", "source": "n2", "target": "n3", "label": "selepas kiamat" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "proses hisab" },
+      { "id": "e4", "source": "n4", "target": "n5", "label": "destinasi akhir" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْبَرْزَخ", "meaning": "alam kubur (antara dunia dan akhirat)" },
+    { "word": "الْمَحْشَر", "meaning": "padang tempat berkumpul pada hari kiamat" },
+    { "word": "الْمِيزَان", "meaning": "timbangan amalan" },
+    { "word": "الصِّرَاط", "meaning": "jambatan yang merentasi neraka" },
+    { "word": "ذَرَّة", "meaning": "zarah (perkara sangat kecil)" }
+  ],
+  "funFact": "Tahukah kamu bahawa Sirat al-Mustaqim (jambatan yang merentasi neraka) digambarkan dalam hadith sebagai lebih tipis dari rambut dan lebih tajam dari pedang? Orang yang melintas bergantung kepada amalan mereka — ada yang laju seperti kilat, ada yang berjalan, ada yang merangkak, dan ada yang jatuh. Ini mengajar kita betapa pentingnya setiap amalan dalam kehidupan kita sekarang — bukan untuk ditakuti, tapi untuk mendorong kita bersiap sedia!"
+}

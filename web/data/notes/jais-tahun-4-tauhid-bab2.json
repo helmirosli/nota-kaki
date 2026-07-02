@@ -1,0 +1,162 @@
+{
+  "id": "jais-tahun-4-tauhid-bab2",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "tauhid",
+  "chapter": 2,
+  "title": "Bab 2: Iman kepada Malaikat",
+  "emoji": "✨",
+  "colour": "#FFB300",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْإِيمَان بِالْمَلَائِكَة — Iman kepada Malaikat",
+      "body": "Iman kepada malaikat adalah rukun iman yang kedua. Kita mesti percaya bahawa malaikat wujud walaupun kita tidak dapat melihatnya. Malaikat adalah makhluk Allah yang diciptakan dari cahaya (nur), tidak makan, tidak minum, dan sentiasa taat kepada perintah Allah SWT."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Dalil Wujudnya Malaikat",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah tentang malaikat:",
+            "arabic": "آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ",
+            "translation": "Rasul beriman kepada apa yang diturunkan kepadanya dari Tuhannya, dan orang-orang yang beriman. Semuanya beriman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya, dan rasul-rasul-Nya.",
+            "source": "Surah al-Baqarah: 285"
+          }
+        },
+        {
+          "icon": "✨",
+          "title": "Sifat-sifat Malaikat",
+          "body": {
+            "type": "list",
+            "intro": "Ciri-ciri makhluk malaikat:",
+            "items": [
+              "Diciptakan dari NUR (cahaya) — berbeza dari manusia (tanah) dan jin (api)",
+              "Tidak makan, tidak minum, tidak tidur",
+              "Sentiasa taat kepada Allah — tidak pernah berdosa",
+              "Boleh bertukar rupa — datang dalam bentuk manusia kepada para nabi",
+              "Jumlahnya sangat banyak — hanya Allah yang tahu bilangan sebenar",
+              "Tidak berjantina (bukan lelaki bukan perempuan)"
+            ]
+          }
+        },
+        {
+          "icon": "📊",
+          "title": "10 Malaikat Utama dan Tugasnya",
+          "body": {
+            "type": "pairs",
+            "intro": "Malaikat yang wajib kita ketahui:",
+            "rows": [
+              { "arabic": "جِبْرِيل", "meaning": "Jibril — menyampaikan wahyu kepada para nabi" },
+              { "arabic": "مِيكَائِيل", "meaning": "Mikail — mengurus hujan dan rezeki" },
+              { "arabic": "إِسْرَافِيل", "meaning": "Israfil — meniup sangkakala pada hari kiamat" },
+              { "arabic": "عِزْرَائِيل", "meaning": "Izrail — mencabut nyawa (Malaikat Maut)" },
+              { "arabic": "مُنْكَر", "meaning": "Munkar — menyoal di alam kubur" },
+              { "arabic": "نَكِير", "meaning": "Nakir — menyoal di alam kubur bersama Munkar" },
+              { "arabic": "رَقِيب", "meaning": "Raqib — mencatat amalan baik" },
+              { "arabic": "عَتِيد", "meaning": "Atid — mencatat amalan buruk" },
+              { "arabic": "مَالِك", "meaning": "Malik — penjaga neraka" },
+              { "arabic": "رِضْوَان", "meaning": "Ridwan — penjaga syurga" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📝",
+      "text": {
+        "type": "arabic",
+        "instruction": "Firman Allah tentang malaikat pencatat amalan:",
+        "arabic": "مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ",
+        "translation": "Tiada suatu kata pun yang diucapkan melainkan ada di sisinya malaikat pengawas yang selalu hadir.",
+        "source": "Surah Qaf: 18",
+        "outro": "Raqib dan Atid sentiasa menemani kita — jaga setiap perkataan dan perbuatan!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menghayati Iman kepada Malaikat",
+      "items": [
+        "Ingat bahawa malaikat Raqib dan Atid sentiasa merekodkan setiap amalan kita.",
+        "Bila hendak berbuat jahat — ingat malaikat Atid sedang merekod!",
+        "Bila berbuat baik — ingat malaikat Raqib mencatatnya untuk diperlihatkan pada hari kiamat.",
+        {
+          "type": "arabic",
+          "arabic": "وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ ۝ كِرَامًا كَاتِبِينَ",
+          "translation": "Sesungguhnya ada malaikat-malaikat yang mengawasi kamu, yang mulia (di sisi Allah), yang mencatat (amalan kamu)."
+        },
+        "Hormati malaikat — mereka makhluk mulia Allah yang membantu kita."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Malaikat diciptakan dari apakah?",
+      "options": [
+        "Tanah",
+        "Api",
+        "Cahaya (nur)",
+        "Air"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah tugas Malaikat Jibril a.s.?",
+      "options": [
+        "Mencabut nyawa",
+        "Meniup sangkakala",
+        "Menyampaikan wahyu kepada para nabi",
+        "Menjaga pintu syurga"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Malaikat manakah yang menyoal mayat di dalam kubur?",
+      "options": [
+        "Raqib dan Atid",
+        "Munkar dan Nakir",
+        "Malik dan Ridwan",
+        "Jibril dan Mikail"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Rukun iman yang ke berapa adalah iman kepada malaikat?",
+      "options": [
+        "Pertama",
+        "Kedua",
+        "Ketiga",
+        "Keempat"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Malaikat", "colour": "#FFB300" },
+      { "id": "n2", "label": "Diciptakan dari Nur", "colour": "#FF8F00" },
+      { "id": "n3", "label": "10 Malaikat Utama", "colour": "#FF8F00" },
+      { "id": "n4", "label": "Raqib & Atid", "colour": "#FFCA28" },
+      { "id": "n5", "label": "Munkar & Nakir", "colour": "#FFCA28" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "dicipta dari" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "yang terkenal" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "pencatat amalan" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "penyoal kubur" }
+    ]
+  },
+  "vocab": [
+    { "word": "مَلَائِكَة", "meaning": "malaikat-malaikat" },
+    { "word": "نُور", "meaning": "cahaya" },
+    { "word": "وَحْي", "meaning": "wahyu (pesan Allah kepada nabi)" },
+    { "word": "رَقِيب وَعَتِيد", "meaning": "dua malaikat pencatat amalan" },
+    { "word": "مُنْكَر وَنَكِير", "meaning": "dua malaikat penyoal kubur" }
+  ],
+  "funFact": "Tahukah kamu bahawa Malaikat Jibril a.s. pernah menjelma dalam wujud manusia kepada para sahabat Nabi SAW? Dalam satu hadith terkenal (hadith Jibril), Jibril datang berjumpa Nabi SAW dalam bentuk seorang lelaki berpakaian sangat putih, rambut sangat hitam. Dia bertanya tentang Islam, Iman, Ihsan, dan Hari Kiamat. Setelah pergi, Nabi SAW memberitahu sahabat: 'Itu adalah Jibril — dia datang mengajar kamu agama kamu!' Hadith ini adalah asas kepada semua ilmu Islam!"
+}

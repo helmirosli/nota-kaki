@@ -1,0 +1,156 @@
+{
+  "id": "jais-tahun-6-bahasa-arab-bab9",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "bahasa-arab",
+  "chapter": 9,
+  "title": "Bahasa Arab 9: Perpaduan Umat Islam",
+  "emoji": "🤲",
+  "colour": "#1565C0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "وَحْدَة الْأُمَّة الْإِسْلَامِيَّة — Perpaduan Umat Islam",
+      "body": "Sebagai penutup bahasa Arab Tahun 6, topik ini merangkumi konsep perpaduan umat Islam seluruh dunia. Umat Islam dari seluruh penjuru dunia adalah satu ummah yang bersaudara. Bahasa Arab adalah bahasa perpaduan yang menyatukan lebih 1.8 bilion Muslim dari Maroko hingga Indonesia."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🌍",
+          "title": "Kosa Kata Perpaduan dan Umat",
+          "body": {
+            "type": "pairs",
+            "intro": "Perkataan berkaitan perpaduan umat Islam:",
+            "rows": [
+              { "arabic": "الْأُمَّة", "meaning": "al-ummah — umat / komuniti" },
+              { "arabic": "الْوَحْدَة", "meaning": "al-wahdah — perpaduan / kesatuan" },
+              { "arabic": "الْأُخُوَّة", "meaning": "al-ukhuwwah — persaudaraan" },
+              { "arabic": "الْمُسَاوَاة", "meaning": "al-musawah — persamaan / kesaksamaan" },
+              { "arabic": "الْمُسْلِمُون", "meaning": "al-muslimun — orang-orang Islam" },
+              { "arabic": "الْعَالَم الْإِسْلَامِي", "meaning": "al-'alam al-Islami — dunia Islam" }
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil Perpaduan Umat Islam",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah tentang persaudaraan Islam:",
+            "arabic": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَة\nفَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ\nوَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُرْحَمُون",
+            "translation": "Sesungguhnya orang-orang Mukmin itu bersaudara. Maka damaikanlah antara kedua saudaramu dan bertaqwalah kepada Allah supaya kamu mendapat rahmat.",
+            "source": "Surah al-Hujurat: 10"
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Perbualan tentang Umat Islam Dunia",
+          "body": {
+            "type": "pairs",
+            "intro": "Perbualan dalam bahasa Arab tentang umat Islam:",
+            "rows": [
+              { "arabic": "كَمِ الْمُسْلِمُونَ فِي الْعَالَم؟", "meaning": "Berapa ramai Muslim di dunia?" },
+              { "arabic": "يَبْلُغُ عَدَدُهُمْ مِلْيَارًا وَثَمَانِمِائَة مِلْيَون", "meaning": "Jumlah mereka mencapai 1.8 bilion" },
+              { "arabic": "الْمُسْلِمُونَ إِخْوَة فِي الدِّين", "meaning": "Orang-orang Islam adalah saudara dalam agama" },
+              { "arabic": "اللُّغَة الْعَرَبِيَّة تَجْمَعُنَا", "meaning": "Bahasa Arab menyatukan kita" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌍",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith Wada' tentang persamaan manusia dalam Islam:",
+        "arabic": "لَا فَرْقَ بَيْنَ عَرَبِيٍّ وَأَعْجَمِي\nإِلَّا بِالتَّقْوَى",
+        "translation": "Tidak ada perbezaan antara orang Arab dan bukan Arab (Ajam) kecuali dengan taqwa.",
+        "source": "Ringkasan dari Khutbah Wada' Nabi SAW — lihat juga al-Hujurat:13"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Latihan Akhir Bahasa Arab Tahun 6",
+      "items": [
+        "Hafaz ayat إِنَّمَا الْمُؤْمِنُونَ إِخْوَة (al-Hujurat:10) dan jelaskan maknanya.",
+        "Bina ayat tentang perpaduan: الْمُسْلِمُون يَجِبُ أَنْ يَتَّحِدُوا (Orang Islam mesti bersatu).",
+        {
+          "type": "pairs",
+          "intro": "Ulangkaji kosa kata penting Tahun 6:",
+          "rows": [
+            { "arabic": "الْأُخُوَّة الْإِسْلَامِيَّة", "meaning": "Persaudaraan Islam" },
+            { "arabic": "لَا فَرْقَ إِلَّا بِالتَّقْوَى", "meaning": "Tidak ada perbezaan kecuali taqwa" }
+          ]
+        },
+        "Tulis 5 ayat dalam bahasa Arab tentang apa yang kamu pelajari selama 6 tahun.",
+        "Ucapkan: جَزَاكَ اللَّهُ خَيْرًا (semoga Allah memberi kebaikan kepadamu) kepada guru-gurumu!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Menurut Surah al-Hujurat:10, apa yang harus dilakukan jika terdapat pertelingkahan antara orang Islam?",
+      "options": [
+        "Tinggalkan mereka untuk selesaikan sendiri",
+        "Damaikanlah antara mereka",
+        "Berpihak kepada yang lebih kuat",
+        "Lapor kepada pihak berkuasa"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah maksud 'الْأُخُوَّة' dalam bahasa Arab?",
+      "options": [
+        "Perpaduan",
+        "Persaudaraan",
+        "Kesaksamaan",
+        "Kebebasan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Menurut hadith Nabi SAW, apakah satu-satunya perbezaan antara manusia dalam Islam?",
+      "options": [
+        "Bangsa dan keturunan",
+        "Kekayaan dan harta",
+        "Taqwa (ketaqwaan kepada Allah)",
+        "Ilmu pengetahuan"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa anggaran jumlah umat Islam di seluruh dunia?",
+      "options": [
+        "500 juta",
+        "1 bilion",
+        "1.8 bilion",
+        "3 bilion"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Perpaduan Umat Islam", "colour": "#1565C0" },
+      { "id": "n2", "label": "al-Hujurat:10", "colour": "#0D47A1" },
+      { "id": "n3", "label": "1.8 Bilion Muslim", "colour": "#0D47A1" },
+      { "id": "n4", "label": "Taqwa = Ukuran Mulia", "colour": "#1A237E" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "dalil" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "realiti" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "prinsip" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْأُمَّة", "meaning": "ummah (komuniti / umat)" },
+    { "word": "الْأُخُوَّة", "meaning": "persaudaraan (ukhuwwah)" },
+    { "word": "الْوَحْدَة", "meaning": "perpaduan / kesatuan" },
+    { "word": "الْمُسَاوَاة", "meaning": "kesaksamaan / persamaan" },
+    { "word": "جَزَاكَ اللَّهُ خَيْرًا", "meaning": "semoga Allah membalasmu dengan kebaikan (ucapan terima kasih Islami)" }
+  ],
+  "funFact": "Tahukah kamu bahawa solat Jumaat adalah 'sidang parlimen mingguan' umat Islam? Setiap Jumaat, lebih dari 1.8 bilion Muslim di seluruh dunia pada masa yang sama (mengikut zon waktu masing-masing) berkumpul di masjid mendengar khutbah dalam bahasa Arab. Imam al-Ghazali pernah menulis: 'Apabila kamu bersolat Jumaat, ingatlah bahawa pada saat itu, saudara-saudaramu dari Morocco, Turkey, Pakistan, China, dan Indonesia juga sedang melakukan perkara yang sama.' Ini adalah persaudaraan global yang paling luar biasa dalam sejarah manusia — disatukan oleh bahasa Arab dan ketaatan kepada Allah!"
+}

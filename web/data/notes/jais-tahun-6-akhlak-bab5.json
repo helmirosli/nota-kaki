@@ -1,0 +1,149 @@
+{
+  "id": "jais-tahun-6-akhlak-bab5",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "akhlak",
+  "chapter": 5,
+  "title": "Akhlak 5: Adab terhadap Alam Sekitar",
+  "emoji": "🌿",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "حِفَاظَة الْبِيئَة — Islam dan Alam Sekitar",
+      "body": "Islam adalah agama yang sangat menitikberatkan pemeliharaan alam sekitar. Allah menjadikan manusia sebagai khalifah (pemimpin/penjaga) di muka bumi — bukan untuk memusnahkan tetapi untuk membangun dan memelihara. Menjaga alam adalah ibadah! Rosak dan cemar alam adalah fasad (kerosakan) yang dilarang keras oleh al-Quran."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🌿",
+          "title": "Manusia sebagai Khalifah di Bumi",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah tentang peranan manusia di bumi:",
+            "arabic": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَة",
+            "translation": "Dan (ingatlah) ketika Tuhanmu berfirman kepada para malaikat: 'Sesungguhnya Aku akan menjadikan seorang khalifah di muka bumi.'",
+            "source": "Surah al-Baqarah: 30 — manusia diamanahkan sebagai penjaga bumi, bukan perosak"
+          }
+        },
+        {
+          "icon": "🚫",
+          "title": "Larangan Merosakkan Alam",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah tentang larangan merosak muka bumi:",
+            "arabic": "وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا",
+            "translation": "Dan janganlah kamu membuat kerosakan di muka bumi sesudah Allah memperbaikinya.",
+            "source": "Surah al-A'raf: 56 — larangan Allah daripada merosak alam yang sudah baik"
+          }
+        },
+        {
+          "icon": "🌱",
+          "title": "Amalan Islam untuk Jaga Alam",
+          "body": {
+            "type": "list",
+            "intro": "Cara Islam mengajar kita menjaga alam sekitar:",
+            "items": [
+              "Menanam pokok adalah sedekah jariah: 'Siapa menanam pokok, lalu dimakan orang atau binatang, itu adalah sedekah' (Bukhari)",
+              "Tidak membuang sampah merata-rata — termasuk buang sampah ke sungai",
+              "Jimat air walaupun untuk wudhu' — Nabi SAW berwudhu' dengan air sedikit sahaja",
+              "Tidak membunuh binatang tanpa sebab — walaupun binatang berbahaya, dibunuh cara yang betul",
+              "Larangan mencemarkan air dan tanah — sumber untuk semua makhluk"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌱",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith Nabi SAW tentang menanam pokok sebagai amalan mulia:",
+        "arabic": "مَا مِنْ مُسْلِمٍ يَغْرِسُ غَرْسًا أَوْ يَزْرَعُ زَرْعًا\nفَيَأْكُلُ مِنْهُ طَيْرٌ أَوْ إِنْسَانٌ أَوْ بَهِيمَةٌ\nإِلَّا كَانَ لَهُ بِهِ صَدَقَة",
+        "translation": "Tidak ada seorang Muslim pun yang menanam pokok atau tanaman, lalu dimakan darinya burung, manusia, atau binatang, melainkan itu menjadi sedekah baginya.",
+        "source": "Riwayat Bukhari — menanam satu pokok pun adalah ibadah!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Amalan Hijau — Muslim Peduli Alam",
+      "items": [
+        "Tanam sekurang-kurangnya satu pokok atau tumbuhan — ini sedekah jariah yang mudah!",
+        "Jangan buang sampah merata — buang di tempat yang betul.",
+        {
+          "type": "arabic",
+          "arabic": "قَالَ النَّبِيُّ ﷺ: إِنَّ قِيَامَةَ السَّاعَةِ حَتَّى لَوْ كَانَ بِيَدِ أَحَدِكُمْ فَسِيلَةٌ\nفَإِنِ اسْتَطَاعَ أَنْ لَا تَقُومَ حَتَّى يَغْرِسَهَا فَلْيَغْرِسْهَا",
+          "translation": "Nabi SAW bersabda: 'Sekiranya hampir berlaku kiamat dan di tangan salah seorang dari kamu ada anak pokok — jika dia mampu, jangan berlangsung kiamat sebelum dia menanamnya!' (Riwayat Bukhari)"
+        },
+        "Jimat penggunaan air dan elektrik — ini mengurangkan pembaziran dan pencemaran.",
+        "Ingat: alam ini bukan warisan dari nenek moyang — ia pinjaman dari anak cucu kita!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Dalam al-Baqarah ayat 30, Allah menjadikan manusia sebagai 'khalifah' di bumi. Apa tanggungjawab khalifah?",
+      "options": [
+        "Memerintah dan menguasai semua makhluk",
+        "Membangun dan memelihara bumi sebagai amanah Allah",
+        "Mengambil hasil bumi sebanyak mungkin",
+        "Menjaga manusia sahaja, bukan alam"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Menurut hadith Bukhari, menanam pokok yang kemudian dimakan binatang atau manusia adalah:",
+      "options": [
+        "Perkara biasa tanpa pahala",
+        "Sedekah yang mendapat pahala",
+        "Hanya terpuji jika niatkan untuk manusia",
+        "Pahala kecil yang tidak penting"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Surah al-A'raf ayat 56 melarang kita dari:",
+      "options": [
+        "Membina bangunan tinggi",
+        "Membuat kerosakan di muka bumi selepas Allah memperbaikinya",
+        "Menggunakan sumber alam untuk kegunaan sendiri",
+        "Berpindah dari satu tempat ke tempat lain"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Nabi SAW menggalakkan kita menanam pokok walaupun dalam keadaan apa?",
+      "options": [
+        "Hanya bila ada ruang yang luas",
+        "Hanya bila musim hujan",
+        "Walaupun hampir berlangsung kiamat — jika mampu, tanam dulu!",
+        "Hanya bila ada orang yang akan memanfaatkannya"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Islam & Alam Sekitar", "colour": "#4CAF50" },
+      { "id": "n2", "label": "Khalifah = Penjaga", "colour": "#388E3C" },
+      { "id": "n3", "label": "Larangan Fasad", "colour": "#388E3C" },
+      { "id": "n4", "label": "Menanam = Sedekah", "colour": "#1B5E20" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "peranan manusia" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "larangan" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "amalan" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْخَلِيفَة", "meaning": "khalifah (pemimpin/penjaga yang diamanahkan Allah di bumi)" },
+    { "word": "الْفَسَاد", "meaning": "fasad (kerosakan/pencemaran — dilarang keras dalam Islam)" },
+    { "word": "الْبِيئَة", "meaning": "bi'ah (alam sekitar / persekitaran)" },
+    { "word": "الإِصْلَاح", "meaning": "islah (pembaikan/pemulihan — tanggungjawab khalifah)" },
+    { "word": "الْغَرْس", "meaning": "ghars (menanam pokok — amalan yang mendapat pahala sedekah)" }
+  ],
+  "funFact": "Tahukah kamu bahawa dalam Islam, kawasan hutan yang dilindungi (hima) sudah wujud sejak zaman Nabi SAW — lebih 1,400 tahun sebelum idea 'kawasan perlindungan alam semula jadi' moden? Nabi SAW menetapkan kawasan hima di Madinah — kawasan di mana tiada siapa boleh menebang pokok atau memburu binatang. Khalifah Umar r.a. kemudian memperluas sistem ini ke seluruh wilayah Islam. Pakar alam sekitar moden menyebutnya sebagai 'sistem pengurusan alam semula jadi yang paling awal dalam sejarah manusia'. Bayangkan — sementara tamadun lain merambah hutan tanpa kawalan, Islam sudah ada undang-undang alam sekitar yang lengkap. Menjaga alam bukan idea baru — ia adalah Islam!"
+}

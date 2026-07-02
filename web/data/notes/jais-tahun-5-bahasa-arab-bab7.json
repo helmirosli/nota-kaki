@@ -1,0 +1,172 @@
+{
+  "id": "jais-tahun-5-bahasa-arab-bab7",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 7,
+  "title": "Dars 7: Makanan dan Minuman (الطَّعَام وَالشَّرَاب)",
+  "emoji": "🍽️",
+  "colour": "#1565C0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الطَّعَام وَالشَّرَاب — Makanan dan Minuman",
+      "body": "Dalam dars ini kita belajar nama-nama makanan dan minuman dalam bahasa Arab, serta adab makan dan minum dalam Islam. Ini penting kerana al-Quran dan hadith banyak menyebut tentang makanan — apa yang halal, apa yang haram, dan adab ketika makan."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🍽️",
+          "title": "Makanan dalam Bahasa Arab",
+          "body": {
+            "type": "pairs",
+            "intro": "Nama-nama makanan:",
+            "rows": [
+              { "arabic": "الطَّعَام / الْأَكْل", "meaning": "makanan" },
+              { "arabic": "الْخُبْز", "meaning": "roti" },
+              { "arabic": "الْأَرُزّ", "meaning": "nasi" },
+              { "arabic": "اللَّحْم", "meaning": "daging" },
+              { "arabic": "السَّمَك", "meaning": "ikan" },
+              { "arabic": "الدَّجَاج", "meaning": "ayam" },
+              { "arabic": "الْخُضَرَوَات", "meaning": "sayur-sayuran" },
+              { "arabic": "الْفَوَاكِه", "meaning": "buah-buahan" },
+              { "arabic": "الْحَلِيب / اللَّبَن", "meaning": "susu" }
+            ]
+          }
+        },
+        {
+          "icon": "🥤",
+          "title": "Minuman dalam Bahasa Arab",
+          "body": {
+            "type": "pairs",
+            "intro": "Nama-nama minuman:",
+            "rows": [
+              { "arabic": "الشَّرَاب", "meaning": "minuman (umum)" },
+              { "arabic": "الْمَاء", "meaning": "air" },
+              { "arabic": "الْعَصِير", "meaning": "jus buah-buahan" },
+              { "arabic": "الشَّاي", "meaning": "teh" },
+              { "arabic": "الْقَهْوَة", "meaning": "kopi" }
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Adab Makan dan Minum dalam Islam",
+          "body": {
+            "type": "list",
+            "intro": "Sunnah Nabi SAW ketika makan dan minum:",
+            "items": [
+              "Baca Bismillah sebelum makan: بِسْمِ اللَّهِ",
+              "Makan dengan tangan kanan",
+              "Makan dari bahagian yang paling dekat dengan kita",
+              "Minum dalam 3 tegukan (tidak sekaligus)",
+              "Jangan minum berdiri — lebih baik duduk",
+              "Baca doa selepas makan: الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا"
+            ]
+          }
+        },
+        {
+          "icon": "🍽️",
+          "title": "Perbualan ketika Makan",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat berguna ketika makan:",
+            "arabic": "بِسْمِ اللَّه\nهَلْ تُرِيدُ أَكْثَر؟ — لَا شُكْرًا، اكْتَفَيْت\nالطَّعَامُ لَذِيذٌ — شُكْرًا جَزِيلًا\nالْحَمْدُ لِلَّهِ",
+            "translation": "Dengan nama Allah | Adakah kamu mahu lebih? — Tidak, terima kasih, saya sudah cukup | Makanan ini sedap — terima kasih banyak-banyak | Segala puji bagi Allah"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌿",
+      "text": {
+        "type": "arabic",
+        "instruction": "Doa sebelum makan:",
+        "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِيمَا رَزَقْتَنَا وَقِنَا عَذَابَ النَّار",
+        "translation": "Ya Allah, berkatilah kami pada rezeki yang Engkau berikan dan jauhkanlah kami dari azab neraka.",
+        "source": "Doa makan yang masyhur"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Hafaz Vocab Makanan",
+      "items": [
+        "Setiap kali makan, sebut nama makanan itu dalam bahasa Arab.",
+        "Buat label Arab pada barang-barang di dapur: الأرز (nasi), الملح (garam), السكر (gula).",
+        {
+          "type": "arabic",
+          "arabic": "أَنَا آكُلُ الْأَرُزَّ وَالدَّجَاجَ كُلَّ يَوْم",
+          "translation": "Saya makan nasi dan ayam setiap hari"
+        },
+        "Tanya dalam Arab: مَاذَا تُحِبُّ أَنْ تَأْكُل؟ (Apa yang kamu suka makan?)",
+        "Jawab: أُحِبُّ أَنْ آكُلَ ... (Saya suka makan ...)"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah bahasa Arab untuk 'nasi'?",
+      "options": [
+        "الْخُبْز",
+        "الْأَرُزّ",
+        "اللَّحْم",
+        "الدَّجَاج"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Menurut sunnah, bagaimana cara yang betul untuk minum?",
+      "options": [
+        "Minum berdiri dengan cepat",
+        "Minum sekaligus dalam satu tegukan",
+        "Minum sambil berjalan",
+        "Minum duduk dalam 3 tegukan"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Apa yang perlu dibaca sebelum makan?",
+      "options": [
+        "Alhamdulillah",
+        "Bismillah",
+        "Subhanallah",
+        "Allahu Akbar"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah bahasa Arab untuk 'buah-buahan' (jamak)?",
+      "options": [
+        "الْخُضَرَوَات",
+        "الْأَرُزّ",
+        "الْفَوَاكِه",
+        "اللَّحْم"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Makanan & Minuman", "colour": "#1565C0" },
+      { "id": "n2", "label": "Nama Makanan", "colour": "#1976D2" },
+      { "id": "n3", "label": "Adab Makan Islam", "colour": "#1976D2" },
+      { "id": "n4", "label": "Doa Makan", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "vocab" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "sunnah" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "amalan" }
+    ]
+  },
+  "vocab": [
+    { "word": "الطَّعَام", "meaning": "makanan" },
+    { "word": "الشَّرَاب", "meaning": "minuman" },
+    { "word": "الْأَرُزّ", "meaning": "nasi" },
+    { "word": "الدَّجَاج", "meaning": "ayam" },
+    { "word": "الْمَاء", "meaning": "air" }
+  ],
+  "funFact": "Tahukah kamu bahawa kurma (التَّمْر) adalah makanan kegemaran Nabi Muhammad SAW? Baginda sering berbuka puasa dengan kurma dan air. Kurma disebut berkali-kali dalam al-Quran — ada satu surah tentang pokok kurma (Surah Maryam menceritakan Maryam a.s. makan kurma semasa melahirkan Nabi Isa a.s.). Kajian sains moden menunjukkan bahawa kurma memang sangat berkhasiat — mengandungi gula semulajadi, serat, potasium, dan magnesium. Sungguh hebat! Sunnah Nabi yang diamalkan 1,400 tahun lalu kini disahkan oleh sains moden!"
+}

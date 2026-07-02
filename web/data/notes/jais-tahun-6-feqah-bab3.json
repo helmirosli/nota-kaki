@@ -1,0 +1,151 @@
+{
+  "id": "jais-tahun-6-feqah-bab3",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "feqah",
+  "chapter": 3,
+  "title": "Feqah 3: Puasa — Hukum, Rukun, dan Keistimewaan",
+  "emoji": "🌙",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الصِّيَام — Puasa Ramadan dan Sunat",
+      "body": "Puasa Ramadan adalah Rukun Islam Keempat yang wajib dilaksanakan oleh setiap Muslim yang baligh dan mampu. Ramadan bukan sekadar menahan lapar dan dahaga — ia adalah bulan latihan jiwa, bulan al-Quran, bulan Lailatul Qadr, dan bulan yang membentuk semula keperibadian seorang Muslim."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📊",
+          "title": "Syarat Wajib Puasa dan Rukun Puasa",
+          "body": {
+            "type": "pairs",
+            "intro": "Syarat dan rukun puasa Ramadan:",
+            "rows": [
+              { "arabic": "شُرُوط وُجُوب الصَّوْم", "meaning": "Syarat wajib: Islam, baligh, berakal, sihat, mukim (tidak musafir), suci (perempuan)" },
+              { "arabic": "رُكْن الصِّيَام: النِّيَّة", "meaning": "Rukun 1: Niat — berniat puasa pada malam hari (dari Maghrib hingga Subuh)" },
+              { "arabic": "رُكْن الصِّيَام: الْإِمْسَاك", "meaning": "Rukun 2: Menahan (imsak) — dari masuk Subuh hingga Maghrib; menahan makan, minum, jima'" }
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Kelebihan Ramadan",
+          "body": {
+            "type": "list",
+            "intro": "Kelebihan-kelebihan istimewa bulan Ramadan:",
+            "items": [
+              "Bulan al-Quran diturunkan — Surah al-Baqarah:185",
+              "Pintu syurga dibuka, pintu neraka ditutup, syaitan dibelenggu",
+              "Terdapat Lailatul Qadr — malam lebih baik dari 1,000 bulan (al-Qadr:3)",
+              "Pahala amalan digandakan — para ulama kata: fardu dilipatkan 70 kali",
+              "Puasa adalah amalan yang Allah sendiri beri ganjaran tanpa batas: 'Aku sendiri yang akan membalasnya' (Hadith Qudsi)"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil Kewajipan Puasa",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah tentang kewajipan puasa Ramadan:",
+            "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ\nكَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ\nلَعَلَّكُمْ تَتَّقُون",
+            "translation": "Wahai orang-orang yang beriman! Diwajibkan ke atas kamu berpuasa sebagaimana diwajibkan ke atas orang-orang yang sebelum kamu, mudah-mudahan kamu bertaqwa.",
+            "source": "Surah al-Baqarah: 183"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌙",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith Qudsi tentang ganjaran puasa yang tiada batas:",
+        "arabic": "كُلُّ عَمَلِ ابْنِ آدَمَ لَهُ إِلَّا الصِّيَام\nفَإِنَّهُ لِي وَأَنَا أَجْزِي بِهِ",
+        "translation": "Semua amalan anak Adam adalah untuknya KECUALI puasa — kerana ia adalah untuk-Ku dan Aku sendiri yang akan membalasnya.",
+        "source": "Hadith Qudsi — Riwayat al-Bukhari dan Muslim"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Maksimakan Ramadan",
+      "items": [
+        "Buat jadual harian Ramadan: Sahur, Subuh berjemaah, baca al-Quran (1 juz/hari), Dhuha, Tarawih.",
+        "Puasa Ramadan bukan cuma lapar — jaga lisan, pandangan, dan perasaan dari perkara sia-sia.",
+        {
+          "type": "arabic",
+          "arabic": "مَن صَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا\nغُفِرَ لَهُ مَا تَقَدَّمَ مِن ذَنْبِه",
+          "translation": "Sesiapa yang berpuasa Ramadan dengan iman dan mengharap pahala, diampunkan dosanya yang telah lalu. (Riwayat al-Bukhari)"
+        },
+        "Cari Lailatul Qadr di 10 malam terakhir Ramadan — banyakkan ibadah, doa, dan iktikaf.",
+        "Jaga puasa 6 hari Syawal selepas Ramadan — pahalanya seperti puasa setahun penuh!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah tujuan utama kewajipan puasa menurut Surah al-Baqarah:183?",
+      "options": [
+        "Supaya sihat jasmani",
+        "Supaya bertaqwa",
+        "Supaya mengenali Allah",
+        "Supaya bersyukur"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Menurut Hadith Qudsi, mengapa puasa sangat istimewa?",
+      "options": [
+        "Kerana ia paling susah dilakukan",
+        "Kerana Allah sendiri yang membalas ganjaran puasa tanpa batas",
+        "Kerana ia Rukun Islam Keempat",
+        "Kerana ia melatih disiplin"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Lailatul Qadr bermaksud malam yang lebih baik dari:",
+      "options": [
+        "100 malam",
+        "500 malam",
+        "1,000 bulan",
+        "1,000 tahun"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bila berniat puasa Ramadan?",
+      "options": [
+        "Selepas solat Subuh",
+        "Pada waktu sahur",
+        "Pada malam hari (dari Maghrib hingga sebelum Subuh)",
+        "Sebelum azan Subuh"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Puasa Ramadan", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Syarat Wajib", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "2 Rukun Puasa", "colour": "#7B1FA2" },
+      { "id": "n4", "label": "Lailatul Qadr", "colour": "#4A148C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "syarat" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "rukun" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "puncak" }
+    ]
+  },
+  "vocab": [
+    { "word": "الصِّيَام", "meaning": "puasa / as-siyam" },
+    { "word": "الْإِمْسَاك", "meaning": "menahan (dari makan, minum, jima')" },
+    { "word": "السَّحُور", "meaning": "sahur (makan sebelum Subuh)" },
+    { "word": "الْإِفْطَار", "meaning": "berbuka puasa" },
+    { "word": "لَيْلَة الْقَدْر", "meaning": "Lailatul Qadr (malam lebih baik dari 1,000 bulan)" }
+  ],
+  "funFact": "Tahukah kamu bahawa sains moden membuktikan bahawa puasa sangat baik untuk kesihatan? Kajian oleh Nobel Prize 2016 (Dr. Yoshinori Ohsumi) membuktikan bahawa semasa berpuasa, sel-sel badan membuat proses 'autophagy' — iaitu membersihkan dan mendaur semula bahagian-bahagian sel yang rosak. Ini bermaksud badan kita 'memperbaiki dirinya sendiri' semasa kita berpuasa! Kajian lain membuktikan bahawa berpuasa memperlahankan proses penuaan, mengurangkan risiko kanser dan diabetes, dan meningkatkan fungsi otak. 1,400 tahun sebelum sains menemui ini, Allah sudah mewajibkan puasa kepada umat Islam — subhanallah!"
+}

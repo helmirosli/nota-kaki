@@ -1,0 +1,131 @@
+{
+  "id": "jais-tahun-5-sirah-bab6",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "sirah",
+  "chapter": 6,
+  "title": "Pemerintahan Khalifah dalam Kerajaan Islam",
+  "emoji": "👑",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "فُمْرِنْتَاهَن خَلِيفَة دَالَم كَرَاجَاءَن إِسْلَام — Pelajaran Keenam",
+      "body": "Selepas kewafatan Nabi Muhammad ﷺ, para sahabat bermusyuarat untuk memilih pengganti (Khalifah) bagi meneruskan kepimpinan umat Islam. Proses ini dikenali sebagai sistem Khilafah."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🤝",
+          "title": "Unit 1: Perlantikan Khalifah Pertama — Abu Bakar al-Siddiq",
+          "body": {
+            "type": "list",
+            "intro": "Peristiwa perlantikan Khalifah selepas kewafatan Nabi ﷺ:",
+            "items": [
+              "Ketika Nabi Muhammad ﷺ wafat, baginda tidak melantik sesiapa secara khusus sebagai penggantinya.",
+              "Umat Islam bimbang dan berbincang tentang siapa yang akan memimpin mereka. Para sahabat mengadakan musyuarat (syura) untuk memilih pemimpin baru.",
+              "Abu Ubaidah bin al-Jarrah mencadangkan Abu Bakar al-Siddiq sebagai calon yang paling layak.",
+              "Sahabat-sahabat dari kalangan Muhajirin dan Ansar sebulat suara bersetuju melantik Abu Bakar al-Siddiq sebagai Khalifah pertama."
+            ]
+          }
+        },
+        {
+          "icon": "⭐",
+          "title": "Sebab Abu Bakar al-Siddiq Dipilih",
+          "body": {
+            "type": "list",
+            "intro": "Abu Bakar al-Siddiq dipilih kerana kelebihan-kelebihan berikut:",
+            "items": [
+              "Pernah mengimami solat para sahabat ketika Nabi ﷺ sakit — menunjukkan kepimpinan yang telah diiktiraf Nabi ﷺ sendiri.",
+              "Menemani Rasulullah ﷺ dalam peristiwa hijrah dan bersama baginda di Gua Thaur — sahabat paling dekat dan dipercayai.",
+              "Orang yang paling mulia dan berpengaruh dalam kalangan sahabat, diiktiraf oleh seluruh Muhajirin dan Ansar."
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Makna Khalifah dan Khilafah",
+          "body": {
+            "type": "pairs",
+            "intro": "Istilah penting dalam sistem pemerintahan Islam:",
+            "rows": [
+              { "arabic": "الْخَلِيفَةُ", "meaning": "Khalifah — pengganti/penerus kepimpinan Rasulullah ﷺ dalam memimpin umat Islam" },
+              { "arabic": "الْخِلَافَةُ", "meaning": "Khilafah — sistem pemerintahan Islam yang diterajui oleh para Khalifah" },
+              { "arabic": "الشُّورَى", "meaning": "Syura — musyuarat/perbincangan bersama dalam membuat keputusan penting" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Tahukah anda? Pemerintahan para Khalifah yang meneruskan tugas Rasulullah ﷺ disebut خِلَافَة (Khilafah)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Siapakah Khalifah pertama Islam selepas kewafatan Nabi Muhammad ﷺ?",
+      "options": [
+        "Sayyidina Umar al-Khattab",
+        "Abu Bakar al-Siddiq",
+        "Sayyidina Uthman bin Affan",
+        "Sayyidina Ali bin Abi Talib"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah cara yang digunakan para sahabat untuk memilih Khalifah pertama?",
+      "options": [
+        "Undian undi kertas",
+        "Perlantikan oleh Nabi ﷺ sebelum wafat",
+        "Musyuarat (syura) para sahabat",
+        "Pemilihan keturunan"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah satu sebab utama Abu Bakar dipilih menjadi Khalifah?",
+      "options": [
+        "Baginda anak Nabi ﷺ",
+        "Baginda pernah mengimami solat ketika Nabi ﷺ sakit",
+        "Baginda panglima terkuat dalam Islam",
+        "Baginda yang paling kaya"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah makna istilah 'Khilafah'?",
+      "options": [
+        "Perang suci dalam Islam",
+        "Sistem pemerintahan Islam yang diterajui para Khalifah",
+        "Nama salah sebuah kerajaan Arab",
+        "Perjanjian antara umat Islam"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Pemerintahan Khalifah", "colour": "#FF6F00" },
+      { "id": "n2", "label": "Kewafatan Nabi ﷺ", "colour": "#E65100" },
+      { "id": "n3", "label": "Musyuarat Sahabat", "colour": "#FF8F00" },
+      { "id": "n4", "label": "Abu Bakar al-Siddiq", "colour": "#4CAF50" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "selepas" },
+      { "id": "e2", "source": "n2", "target": "n3", "label": "berlaku" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "memilih" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْخَلِيفَةُ", "meaning": "Khalifah — pengganti Rasulullah ﷺ dalam kepimpinan umat Islam" },
+    { "word": "الْخِلَافَةُ", "meaning": "Khilafah — sistem pemerintahan yang dipimpin Khalifah selepas Nabi ﷺ" },
+    { "word": "الشُّورَى", "meaning": "Syura — musyuarat bersama dalam membuat keputusan, dasar pemilihan Khalifah" },
+    { "word": "الصِّدِّيقُ", "meaning": "al-Siddiq — gelaran Abu Bakar bermaksud 'Yang Amat Membenarkan'" },
+    { "word": "الْمُهَاجِرُونَ وَالْأَنْصَارُ", "meaning": "Muhajirin dan Ansar — dua kumpulan sahabat utama yang bersetuju melantik Abu Bakar" }
+  ],
+  "funFact": "Tahukah kamu bahawa Abu Bakar al-Siddiq hanya menjadi Khalifah selama lebih kurang 2 tahun sahaja (11H-13H), tetapi dalam tempoh singkat itu, baginda berjaya mengumpulkan al-Quran dalam satu mushaf, memerangi golongan yang menolak membayar zakat, dan menghantar tentera Islam ke Syam dan Iraq? Ini membuktikan kepimpinan yang teguh dan bijaksana beliau sebagai Khalifah pertama Islam!"
+}

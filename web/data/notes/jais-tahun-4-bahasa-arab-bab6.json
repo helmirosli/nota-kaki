@@ -1,0 +1,170 @@
+{
+  "id": "jais-tahun-4-bahasa-arab-bab6",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "bahasa-arab",
+  "chapter": 6,
+  "title": "Dars 6: Kata Kerja Sekarang",
+  "emoji": "▶️",
+  "colour": "#1565C0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْفِعْلُ الْمُضَارِع — Kata Kerja Sekarang",
+      "body": "Kata kerja sekarang (الفعل المضارع) digunakan untuk perbuatan yang sedang berlaku SEKARANG atau yang akan berlaku. Ia bermula dengan huruf-huruf: أ، ن، ي، ت yang dipanggil حروف المضارعة."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "✍️",
+          "title": "Kata Kerja Sekarang — يَكْتُبُ (menulis)",
+          "body": {
+            "type": "pairs",
+            "intro": "Perubahan kata kerja sekarang mengikut pelaku:",
+            "rows": [
+              { "label": "هُوَ (dia lelaki)", "arabic": "يَكْتُبُ", "meaning": "dia (lelaki) sedang/akan menulis" },
+              { "label": "هِيَ (dia perempuan)", "arabic": "تَكْتُبُ", "meaning": "dia (perempuan) sedang/akan menulis" },
+              { "label": "أَنْتَ (kamu lelaki)", "arabic": "تَكْتُبُ", "meaning": "kamu (lelaki) sedang/akan menulis" },
+              { "label": "أَنْتِ (kamu perempuan)", "arabic": "تَكْتُبِينَ", "meaning": "kamu (perempuan) sedang/akan menulis" },
+              { "label": "أَنَا (saya)", "arabic": "أَكْتُبُ", "meaning": "saya sedang/akan menulis" },
+              { "label": "نَحْنُ (kami/kita)", "arabic": "نَكْتُبُ", "meaning": "kami/kita sedang/akan menulis" }
+            ]
+          }
+        },
+        {
+          "icon": "🏃",
+          "title": "Kata Kerja Sekarang — يَجْلِسُ (duduk)",
+          "body": {
+            "type": "pairs",
+            "intro": "Contoh dengan kata kerja duduk:",
+            "rows": [
+              { "label": "هُوَ", "arabic": "يَجْلِسُ", "meaning": "dia (lelaki) sedang duduk" },
+              { "label": "هِيَ", "arabic": "تَجْلِسُ", "meaning": "dia (perempuan) sedang duduk" },
+              { "label": "أَنَا", "arabic": "أَجْلِسُ", "meaning": "saya sedang duduk" }
+            ],
+            "outro": "Huruf permulaan: ي (lelaki), ت (perempuan/kamu), أ (saya), ن (kami)"
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Contoh Ayat Sekarang",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat-ayat menggunakan kata kerja sekarang:",
+            "arabic": "مُحَمَّدٌ يَجْلِسُ بِهُدُوءٍ عَلَى الْكُرْسِيِّ.\nأَمِينَةُ تَجْلِسُ بِهُدُوءٍ أَيْضًا.\nالطِّفْلَانِ يَجْلِسَانِ مَعًا.\nالْأُسْتَاذَةُ تَقْرَأُ الْقُرْآنَ الْكَرِيمَ.",
+            "translation": "Muhammad duduk dengan tenang di atas kerusi.\nAminah juga duduk dengan tenang.\nKedua-dua kanak-kanak duduk bersama.\nGuru perempuan membaca al-Quran al-Karim."
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "4 Huruf Permulaan Kata Kerja Sekarang",
+          "body": {
+            "type": "pairs",
+            "intro": "Hafaz 4 huruf ini — أَنَيْتُ (anaytu):",
+            "rows": [
+              { "label": "أ", "arabic": "أَفْعَلُ", "meaning": "saya (أَنَا)" },
+              { "label": "ن", "arabic": "نَفْعَلُ", "meaning": "kami / kita (نَحْنُ)" },
+              { "label": "ي", "arabic": "يَفْعَلُ", "meaning": "dia lelaki (هُوَ)" },
+              { "label": "ت", "arabic": "تَفْعَلُ", "meaning": "dia perempuan / kamu (هِيَ / أَنْتَ)" }
+            ],
+            "outro": "Hafaz أَنَيْتُ — ini kunci mengenal kata kerja sekarang!"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Firman Allah menggunakan kata kerja sekarang:",
+        "arabic": "يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ",
+        "translation": "Segala yang ada di langit dan di bumi sentiasa bertasbih kepada Allah.",
+        "source": "Surah al-Hasyr: 1",
+        "outro": "يُسَبِّحُ = sedang/sentiasa bertasbih — kata kerja sekarang menunjukkan perbuatan berterusan!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Perbezaan Kata Kerja Lampau vs Sekarang",
+      "items": [
+        "Kata kerja LAMPAU: tiada huruf tambahan di depan — كَتَبَ, ذَهَبَ, فَتَحَ",
+        "Kata kerja SEKARANG: ada huruf أ/ن/ي/ت di depan — يَكْتُبُ, تَذْهَبُ, يَفْتَحُ",
+        {
+          "type": "arabic",
+          "arabic": "كَتَبَ (lampau) ←→ يَكْتُبُ (sekarang)",
+          "translation": "Telah menulis ←→ sedang/akan menulis"
+        },
+        "Kata kerja sekarang boleh bermaksud SEKARANG (sedang berlaku) atau AKAN DATANG (akan berlaku).",
+        "Konteks ayat yang menentukan sama ada sekarang atau akan datang."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Kata kerja sekarang bermula dengan huruf apa untuk pelaku هِيَ (dia perempuan)?",
+      "options": [
+        "يَ",
+        "أَ",
+        "تَ",
+        "نَ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah bentuk kata kerja sekarang 'يَكْتُبُ' untuk pelaku أَنَا (saya)?",
+      "options": [
+        "يَكْتُبُ",
+        "تَكْتُبُ",
+        "أَكْتُبُ",
+        "نَكْتُبُ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah makna 'الْأُسْتَاذَةُ تَقْرَأُ'?",
+      "options": [
+        "Guru perempuan telah membaca",
+        "Guru perempuan sedang membaca",
+        "Guru lelaki sedang membaca",
+        "Murid membaca"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah perbezaan utama antara كَتَبَ dan يَكْتُبُ?",
+      "options": [
+        "Tidak ada perbezaan",
+        "كَتَبَ = lampau, يَكْتُبُ = sekarang/akan datang",
+        "كَتَبَ = sekarang, يَكْتُبُ = lampau",
+        "Keduanya bermaksud masa depan"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Kata Kerja Arab", "colour": "#1565C0" },
+      { "id": "n2", "label": "Lampau (كَتَبَ)", "colour": "#1976D2" },
+      { "id": "n3", "label": "Sekarang (يَكْتُبُ)", "colour": "#1976D2" },
+      { "id": "n4", "label": "أ ن ي ت", "colour": "#42A5F5" },
+      { "id": "n5", "label": "Perubahan pelaku", "colour": "#42A5F5" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "ciri khas" },
+      { "id": "e4", "source": "n3", "target": "n5", "label": "bergantung pada" }
+    ]
+  },
+  "vocab": [
+    { "word": "يَكْتُبُ", "meaning": "sedang/akan menulis" },
+    { "word": "يَجْلِسُ", "meaning": "sedang duduk" },
+    { "word": "يَقْرَأُ", "meaning": "sedang/akan membaca" },
+    { "word": "يُسَبِّحُ", "meaning": "sedang bertasbih" },
+    { "word": "يَذْهَبُ", "meaning": "sedang/akan pergi" }
+  ],
+  "funFact": "Tahukah kamu bahawa dalam bahasa Arab, kata kerja sekarang juga boleh bermaksud masa depan? Ini sangat unik! Untuk menjadikannya khusus masa depan, kita tambah سَـ atau سَوْفَ di depan: سَيَذْهَبُ = dia akan pergi. Ini seperti tambah 'akan' dalam bahasa Melayu. Bahasa Arab sangat sistematik dan logik!"
+}

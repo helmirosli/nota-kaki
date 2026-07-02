@@ -1,0 +1,167 @@
+{
+  "id": "jais-tahun-4-bahasa-arab-bab9",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "bahasa-arab",
+  "chapter": 9,
+  "title": "Dars 9: Sukan dan Riadah",
+  "emoji": "⚽",
+  "colour": "#1565C0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الرِّيَاضَة — Sukan dan Riadah",
+      "body": "Dalam dars ini kita belajar nama-nama sukan dalam bahasa Arab. Sukan adalah penting untuk kesihatan tubuh badan kita. Rasulullah SAW sendiri menggalakkan umat Islam supaya aktif bersukan!"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "⚽",
+          "title": "Nama-nama Sukan",
+          "body": {
+            "type": "pairs",
+            "rows": [
+              { "arabic": "كُرَةُ الْقَدَم", "meaning": "bola sepak" },
+              { "arabic": "كُرَةُ السَّلَّة", "meaning": "bola keranjang (basketball)" },
+              { "arabic": "كُرَةُ الطَّائِرَة", "meaning": "bola tampar (volleyball)" },
+              { "arabic": "تَنِسُ الطَّاوِلَة", "meaning": "ping pong / tenis meja" },
+              { "arabic": "السِّبَاحَة", "meaning": "berenang" },
+              { "arabic": "الْجَرْي", "meaning": "berlari" },
+              { "arabic": "رَمْيُ الْقُرْص", "meaning": "balingan cakera" },
+              { "arabic": "رُكُوبُ الْخَيْل", "meaning": "menunggang kuda" }
+            ]
+          }
+        },
+        {
+          "icon": "🏃",
+          "title": "Faedah Bersukan",
+          "body": {
+            "type": "list",
+            "intro": "Faedah riadah dalam bahasa Arab:",
+            "items": [
+              "تُنْشِطُ الدَّوْرَةَ الدَّمَوِيَّة — melancarkan peredaran darah",
+              "تُقَوِّي الْقَلْب — menguatkan jantung",
+              "تُوَطِّدُ صِلَةَ الرَّحِم — mempererat hubungan kekeluargaan",
+              "تُحَافِظُ عَلَى الصِّحَّة — menjaga kesihatan"
+            ]
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Perbualan tentang Sukan",
+          "body": {
+            "type": "arabic",
+            "instruction": "Perbualan antara dua kawan tentang sukan:",
+            "arabic": "صَبَاحُ النُّور يَا سَعِيد! مَا الرِّيَاضَة الَّتِي تُحِبُّهَا؟\nأُحِبُّ كُرَةَ الْقَدَم كَثِيرًا.\nوَمَا الرِّيَاضَة الَّتِي يُحِبُّهَا الرَّسُول؟\nالرَّسُول يُحِبُّ رُكُوبَ الْخَيْل وَالسِّبَاحَةَ وَالرَّمْي.",
+            "translation": "Selamat pagi Saeid! Sukan apa yang kamu suka?\nSaya sangat suka bola sepak.\nSukan apa pula yang disukai Rasulullah?\nRasulullah suka menunggang kuda, berenang, dan memanah."
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Ayat Sukan — Latihan Pembinaan",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat-ayat tentang sukan untuk latihan:",
+            "arabic": "أَنَا أُحِبُّ السِّبَاحَة فِي النَّهَر.\nيُمَارِسُ أَصْدِقَائِي الرِّيَاضَة كُلَّ صَبَاح.\nالرِّيَاضَة تُنَشِّطُ الْجِسْم وَالْعَقْل.",
+            "translation": "Saya suka berenang di sungai.\nRakan-rakan saya bersenam setiap pagi.\nSukan menyihatkan badan dan fikiran."
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Firman Allah tentang menjaga kesihatan:",
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا",
+        "translation": "Wahai orang-orang yang beriman! Bersabarlah kamu, dan kuatkanlah kesabaran kamu, dan bersiap-siagalah.",
+        "source": "Surah Ali Imran: 200",
+        "outro": "رَابِطُوا bermaksud bersiap-siaga termasuk menjaga kekuatan fizikal!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Sukan yang Disyorkan dalam Islam",
+      "items": [
+        "Rasulullah SAW menganjurkan tiga sukan utama: رُكُوبُ الْخَيْل (menunggang kuda), السِّبَاحَة (berenang), الرَّمْي (memanah).",
+        {
+          "type": "arabic",
+          "arabic": "عَلِّمُوا أَوْلَادَكُمُ السِّبَاحَةَ وَالرِّمَايَةَ وَرُكُوبَ الْخَيْل",
+          "translation": "Ajarlah anak-anak kamu berenang, memanah, dan menunggang kuda.",
+          "source": "Athar Saidina Umar al-Khattab"
+        },
+        "Sukan hari ini seperti bola sepak, badminton, dan renang semuanya baik untuk kesihatan.",
+        "Jaga adab semasa bersukan: jangan sombong menang, jangan marah kalah.",
+        "Luangkan masa setiap hari untuk bersenam — badan sihat, ibadah pun semangat!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah bahasa Arab untuk 'berenang'?",
+      "options": [
+        "الْجَرْي",
+        "السِّبَاحَة",
+        "كُرَةُ الْقَدَم",
+        "رُكُوبُ الْخَيْل"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Antara sukan berikut, manakah yang DIANJURKAN oleh Rasulullah SAW?",
+      "options": [
+        "Tenis dan badminton",
+        "Bola keranjang dan volleyball",
+        "Menunggang kuda, berenang, dan memanah",
+        "Bola sepak dan ping pong"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah makna 'تُقَوِّي الْقَلْب' dalam konteks sukan?",
+      "options": [
+        "Menghilangi tekanan",
+        "Menguatkan jantung",
+        "Melancarkan peredaran darah",
+        "Mempererat hubungan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah bahasa Arab untuk 'bola sepak'?",
+      "options": [
+        "كُرَةُ السَّلَّة",
+        "كُرَةُ الطَّائِرَة",
+        "كُرَةُ الْقَدَم",
+        "تَنِسُ الطَّاوِلَة"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Sukan", "colour": "#1565C0" },
+      { "id": "n2", "label": "Bola", "colour": "#1976D2" },
+      { "id": "n3", "label": "Air", "colour": "#1976D2" },
+      { "id": "n4", "label": "Sunnah Rasul", "colour": "#1976D2" },
+      { "id": "n5", "label": "Kesihatan", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "jenis" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "faedah" }
+    ]
+  },
+  "vocab": [
+    { "word": "رِيَاضَة", "meaning": "sukan / riadah" },
+    { "word": "السِّبَاحَة", "meaning": "berenang" },
+    { "word": "كُرَةُ الْقَدَم", "meaning": "bola sepak" },
+    { "word": "الرَّمْي", "meaning": "memanah / balingan" },
+    { "word": "صِحَّة", "meaning": "kesihatan" }
+  ],
+  "funFact": "Tahukah kamu bahawa Nabi Muhammad SAW pernah berlumba lari dengan isterinya, Siti Aisyah r.a.? Pada kali pertama, Siti Aisyah menang. Pada kali kedua, Rasulullah yang menang dan berkata: 'Ini membalas kekalahan yang dulu!' Ini menunjukkan Rasulullah SAW seorang yang peramah, suka bergurau, dan aktif bersukan bersama keluarga!"
+}

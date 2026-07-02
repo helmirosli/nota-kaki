@@ -1,0 +1,173 @@
+{
+  "id": "jais-tahun-5-bahasa-arab-bab1",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 1,
+  "title": "Dars 1: Nombor 1001 ke Atas dan Bilangan Besar",
+  "emoji": "🔢",
+  "colour": "#1565C0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْأَعْدَاد الْكَبِيرَة — Nombor Besar dalam Bahasa Arab",
+      "body": "Dalam Tahun 5, kita pelajari cara menyebut dan menulis nombor yang lebih besar dalam bahasa Arab. Ini penting untuk memahami sebutan dalam al-Quran, hadith, dan teks Arab yang menyebut nombor tahun, bilangan, dan sebagainya."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🔢",
+          "title": "Nombor Asas Besar",
+          "body": {
+            "type": "pairs",
+            "intro": "Nombor-nombor penting yang perlu diketahui:",
+            "rows": [
+              { "arabic": "مِئَة (١٠٠)", "meaning": "seratus" },
+              { "arabic": "مِئَتَان (٢٠٠)", "meaning": "dua ratus" },
+              { "arabic": "ثَلَاثُ مِئَة (٣٠٠)", "meaning": "tiga ratus" },
+              { "arabic": "أَلْف (١٠٠٠)", "meaning": "seribu" },
+              { "arabic": "أَلْفَان (٢٠٠٠)", "meaning": "dua ribu" },
+              { "arabic": "عَشَرَة آلَاف (١٠٠٠٠)", "meaning": "sepuluh ribu" },
+              { "arabic": "مِئَة أَلْف (١٠٠٠٠٠)", "meaning": "seratus ribu" },
+              { "arabic": "مِلْيُون (١٠٠٠٠٠٠)", "meaning": "satu juta" }
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Cara Sebutan Nombor Besar",
+          "body": {
+            "type": "list",
+            "intro": "Peraturan menyebut nombor gabungan dalam Arab:",
+            "items": [
+              "Nombor besar disebut dahulu: أَلْف وَمِئَة = 1,100 (seribu dan seratus)",
+              "Sambungkan dengan وَ (dan): أَلْفَان وَخَمْسُ مِئَة = 2,500",
+              "Angka satuan disebut terakhir: أَلْفٌ وَتِسْعُ مِئَة وَتِسْعَة = 1,909",
+              "Dalam al-Quran — '950 tahun': تِسْعَ مِئَةٍ سَنَةٍ وَازْدَادُوا تِسْعِينَ (Nuh a.s. berdakwah)"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Nombor dalam al-Quran",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh penggunaan nombor besar dalam al-Quran:",
+            "arabic": "فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا",
+            "translation": "Maka Nuh tinggal di kalangan mereka selama 1,000 tahun kurang 50 tahun (= 950 tahun)",
+            "source": "Surah al-Ankabut: 14"
+          }
+        },
+        {
+          "icon": "🧮",
+          "title": "Latihan Nombor",
+          "body": {
+            "type": "pairs",
+            "intro": "Baca dan faham nombor-nombor berikut:",
+            "rows": [
+              { "arabic": "١٤٤٥", "meaning": "أَلْفٌ وَأَرْبَعُ مِئَةٍ وَخَمْسَةٌ وَأَرْبَعُونَ — 1,445 H (tahun Hijriah)" },
+              { "arabic": "٣١٣", "meaning": "ثَلَاثُ مِئَةٍ وَثَلَاثَةَ عَشَرَ — 313 (tentera Badar)" },
+              { "arabic": "٩٥٠", "meaning": "تِسْعُ مِئَةٍ وَخَمْسُونَ — 950 tahun Nabi Nuh berdakwah" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "list",
+        "intro": "Tips menghafaz nombor Arab besar:",
+        "items": [
+          "Hafaz dahulu: مِئَة (100), أَلْف (1,000), مِلْيُون (1,000,000)",
+          "Nombor dual: مِئَتَان (200), أَلْفَان (2,000) — tambah ان",
+          "Nombor 3-10 ratus: ثَلَاثُ مِئَة، أَرْبَعُ مِئَة... dan seterusnya",
+          "Nombor 3-10 ribu: ثَلَاثَة آلَاف، أَرْبَعَة آلَاف..."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Membaca Nombor Besar dalam Arab",
+      "items": [
+        "Kenalpasti bahagian-bahagian nombor: ribu, ratus, puluh, satuan.",
+        "Sebut dari yang terbesar: ribu → ratus → puluh → satuan.",
+        {
+          "type": "arabic",
+          "arabic": "١٤٤٥ = أَلْفٌ (١٠٠٠) + أَرْبَعُ مِئَةٍ (٤٠٠) + خَمْسَةٌ وَأَرْبَعُونَ (٤٥)",
+          "translation": "1,445 = seribu + empat ratus + empat puluh lima"
+        },
+        "Sambungkan dengan وَ (dan) antara setiap bahagian.",
+        "Latih membaca tahun Hijriah semasa — ini amalan nyata!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Bagaimana cara sebut nombor 2,000 dalam bahasa Arab?",
+      "options": [
+        "أَلْفَان",
+        "أَلْفَيْن",
+        "أَلْفٌ وَأَلْفٌ",
+        "عَشَرَةُ آلَاف"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Perkataan Arab untuk 'satu juta' ialah:",
+      "options": [
+        "مِئَة أَلْف",
+        "مِلْيَار",
+        "مِلْيُون",
+        "أَلْفُ أَلْف"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Nombor 950 dalam bahasa Arab ialah:",
+      "options": [
+        "تِسْعُ مِئَةٍ وَخَمْسُونَ",
+        "تِسْعَة وَخَمْسُون",
+        "خَمْسُ مِئَةٍ وَتِسْعُون",
+        "تِسْعَة آلَاف وَخَمْسُمِئَة"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Dalam Surah al-Ankabut, berapa tahun Nabi Nuh a.s. berdakwah kepada kaumnya?",
+      "options": [
+        "900 tahun",
+        "950 tahun",
+        "1,000 tahun",
+        "100 tahun"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Nombor Besar Arab", "colour": "#1565C0" },
+      { "id": "n2", "label": "مِئَة (100)", "colour": "#1976D2" },
+      { "id": "n3", "label": "أَلْف (1000)", "colour": "#1976D2" },
+      { "id": "n4", "label": "مِلْيُون (1M)", "colour": "#1976D2" },
+      { "id": "n5", "label": "Nombor dalam al-Quran", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "asas" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "asas" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "besar" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "contoh nyata" }
+    ]
+  },
+  "vocab": [
+    { "word": "مِئَة", "meaning": "seratus (100)" },
+    { "word": "أَلْف", "meaning": "seribu (1,000)" },
+    { "word": "مِلْيُون", "meaning": "satu juta (1,000,000)" },
+    { "word": "أَلْفَان", "meaning": "dua ribu (2,000)" },
+    { "word": "مِئَتَان", "meaning": "dua ratus (200)" }
+  ],
+  "funFact": "Tahukah kamu bahawa angka-angka yang kita gunakan sekarang (0, 1, 2, 3, ...) sebenarnya dikenali sebagai 'angka Arab' di Eropah? Ia berasal dari peradaban Arab dan India. Orang Arab memperkenalkan sistem angka ini kepada Eropah melalui Sepanyol dan Sicily pada abad ke-10 Masihi. Sebelum itu, orang Eropah menggunakan angka Rumi yang rumit seperti XIV (14) dan MCMXCIX (1999). Bayangkan cuba darab nombor besar dengan angka Rumi!"
+}

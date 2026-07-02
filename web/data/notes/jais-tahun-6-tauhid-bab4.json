@@ -1,0 +1,154 @@
+{
+  "id": "jais-tahun-6-tauhid-bab4",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "tauhid",
+  "chapter": 4,
+  "title": "Tauhid 4: Iman kepada Rasul-rasul Allah",
+  "emoji": "🌙",
+  "colour": "#FFB300",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الإِيمَان بِالرُّسُل — Rukun Iman Keempat",
+      "body": "Iman kepada Rasul Allah adalah rukun iman keempat. Allah mengutus para Rasul sebagai contoh teladan hidup manusia — mereka membuktikan bahawa hidup mengikut perintah Allah adalah mungkin dilakukan. Kita wajib beriman dengan 25 Nabi dan Rasul yang disebutkan dalam al-Quran, walaupun jumlah sebenar Nabi dan Rasul yang diutus jauh lebih ramai."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🌙",
+          "title": "Perbezaan Nabi dan Rasul",
+          "body": {
+            "type": "pairs",
+            "intro": "Perbezaan antara Nabi dan Rasul:",
+            "rows": [
+              { "arabic": "النَّبِيّ", "meaning": "Nabi — menerima wahyu untuk dirinya sendiri, tidak wajib menyampaikan kepada orang ramai" },
+              { "arabic": "الرَّسُول", "meaning": "Rasul — menerima wahyu dan WAJIB menyampaikannya (membawa risalah) kepada kaum" },
+              { "arabic": "الْفَرْق", "meaning": "Setiap Rasul adalah Nabi, tetapi tidak semua Nabi adalah Rasul" }
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Sifat Wajib Para Rasul (4 Sifat)",
+          "body": {
+            "type": "pairs",
+            "intro": "Empat sifat yang wajib ada pada setiap Rasul:",
+            "rows": [
+              { "arabic": "الصِّدْق", "meaning": "Siddiq — jujur, tidak pernah berbohong dalam apa jua perkara" },
+              { "arabic": "الأَمَانَة", "meaning": "Amanah — dipercayai, menunaikan tanggungjawab sepenuhnya" },
+              { "arabic": "التَّبْلِيغ", "meaning": "Tabligh — menyampaikan semua wahyu, tidak menyembunyikan satu pun" },
+              { "arabic": "الْفِطَانَة", "meaning": "Fatanah — cerdas/bijak dalam berhujah dan menyelesaikan masalah" }
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Nabi Muhammad SAW — Penutup Para Nabi",
+          "body": {
+            "type": "list",
+            "intro": "Keistimewaan Nabi Muhammad SAW berbanding Nabi-nabi lain:",
+            "items": [
+              "Nabi dan Rasul terakhir — tiada Nabi atau Rasul selepasnya",
+              "Diutus untuk semua manusia dan jin (bukan untuk satu kaum sahaja)",
+              "Mukjizat al-Quran kekal hingga Hari Kiamat (mukjizat Nabi lain bersifat sementara)",
+              "Akhlaknya adalah contoh terbaik: 'وَإِنَّكَ لَعَلَى خُلُقٍ عَظِيم' (al-Qalam:4)",
+              "Syafaat — satu-satunya Nabi yang diberi izin memberi syafaat pada Hari Kiamat"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌙",
+      "text": {
+        "type": "arabic",
+        "instruction": "Allah memuji akhlak Nabi Muhammad SAW dalam al-Quran:",
+        "arabic": "وَإِنَّكَ لَعَلَى خُلُقٍ عَظِيم",
+        "translation": "Dan sesungguhnya engkau (Muhammad) benar-benar berbudi pekerti yang agung.",
+        "source": "Surah al-Qalam: 4 — pujian Allah terus kepada Nabi SAW"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengingat Sifat-sifat Rasul",
+      "items": [
+        "Sifat wajib 4: SATF — Siddiq, Amanah, Tabligh, Fatanah.",
+        "Sifat mustahil 4: lawannya — Kizib (bohong), Khianah (khianat), Kitman (sembunyi wahyu), Baladah (bodoh).",
+        {
+          "type": "arabic",
+          "arabic": "مَا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ اللَّهِ وَخَاتَمَ النَّبِيِّين",
+          "translation": "Muhammad bukanlah bapa seorang pun di antara lelaki kamu, tetapi dia adalah Rasulullah dan Penutup Para Nabi. (al-Ahzab:40)"
+        },
+        "25 Nabi yang wajib diketahui bermula dengan Adam a.s. dan berakhir dengan Muhammad SAW.",
+        "Ingat: mencintai Nabi SAW adalah kewajipan — mencintai lebih dari diri sendiri!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah perbezaan utama antara Nabi dan Rasul?",
+      "options": [
+        "Nabi lebih mulia dari Rasul",
+        "Rasul wajib menyampaikan wahyu kepada kaum; Nabi tidak semestinya",
+        "Nabi menerima al-Quran; Rasul menerima kitab lain",
+        "Tiada perbezaan — kedua-duanya sama"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sifat wajib para Rasul yang bermaksud 'menyampaikan semua wahyu tanpa menyembunyikan' adalah:",
+      "options": [
+        "Siddiq",
+        "Amanah",
+        "Tabligh",
+        "Fatanah"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah keistimewaan Nabi Muhammad SAW yang tiada pada Nabi-nabi lain?",
+      "options": [
+        "Nabi pertama yang menerima wahyu",
+        "Penutup para Nabi, diutus untuk semua manusia, mukjizat al-Quran kekal",
+        "Nabi yang paling lama hidup",
+        "Nabi yang paling ramai pengikut pada zamannya"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Surah al-Qalam ayat 4 'وَإِنَّكَ لَعَلَى خُلُقٍ عَظِيم' memuji Nabi SAW dalam perkara:",
+      "options": [
+        "Ilmu pengetahuan yang luas",
+        "Akhlak/budi pekerti yang agung",
+        "Keberanian dalam perang",
+        "Kemiskinan yang zahid"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Rasul-rasul Allah", "colour": "#FFB300" },
+      { "id": "n2", "label": "4 Sifat Wajib", "colour": "#FF8F00" },
+      { "id": "n3", "label": "25 Nabi dalam Quran", "colour": "#FF8F00" },
+      { "id": "n4", "label": "Nabi Muhammad SAW", "colour": "#E65100" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "sifat" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "bilangan" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "penutup" }
+    ]
+  },
+  "vocab": [
+    { "word": "الرَّسُول", "meaning": "Rasul (utusan Allah yang membawa risalah/wahyu)" },
+    { "word": "الصِّدْق", "meaning": "Siddiq (jujur — sifat wajib Rasul)" },
+    { "word": "التَّبْلِيغ", "meaning": "Tabligh (menyampaikan wahyu — kewajipan Rasul)" },
+    { "word": "خَاتَم النَّبِيِّين", "meaning": "Khatam al-Nabiyyin (Penutup Para Nabi — gelaran Nabi SAW)" },
+    { "word": "الشَّفَاعَة", "meaning": "syafaat (pertolongan Nabi SAW pada Hari Kiamat)" }
+  ],
+  "funFact": "Tahukah kamu bahawa Nabi Muhammad SAW ada menggambarkan kedudukan beliau berbanding Nabi-nabi lain dengan analogi yang sangat indah? Baginda bersabda: 'Perumpamaanku dengan para Nabi sebelumku seperti seseorang yang membina sebuah rumah yang indah dan sempurna, kecuali tinggal satu batu bata di sudutnya. Orang-orang mengelilingi rumah itu dan kagum: Alangkah indahnya jika batu bata ini ada! Maka akulah batu bata itu — dan aku adalah penutup para Nabi.' (Riwayat Bukhari). Analogi yang sempurna — Nabi SAW adalah 'bata terakhir' yang melengkapkan bangunan kenabian yang indah yang dibina oleh semua Nabi sebelumnya dari Adam a.s. hingga Isa a.s.!"
+}

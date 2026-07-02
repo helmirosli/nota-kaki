@@ -1,0 +1,153 @@
+{
+  "id": "jais-tahun-6-akhlak-bab4",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "akhlak",
+  "chapter": 4,
+  "title": "Akhlak 4: Dermawan dan Menghindari Bakhil",
+  "emoji": "💰",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْكَرَم وَالْبُخْل — Dermawan versus Bakhil",
+      "body": "Dermawan (الْكَرَم) adalah sifat mulia yang sangat dituntut dalam Islam — memberi dengan ikhlas tanpa mengharap balasan kecuali dari Allah. Sebaliknya, bakhil (الْبُخْل) adalah sifat tercela — memiliki harta tetapi tidak mahu membelanjakannya di jalan Allah walaupun mampu. Nabi SAW bersabda bahawa sifat paling buruk yang boleh ada pada seseorang adalah bakhil yang nyata dan perangai yang buruk."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "💰",
+          "title": "Kelebihan Sifat Dermawan",
+          "body": {
+            "type": "list",
+            "intro": "Faedah-faedah menjadi orang yang dermawan:",
+            "items": [
+              "Mendapat kecintaan Allah dan manusia",
+              "Harta tidak berkurang — malah bertambah berkat: 'Allah menambah rezeki orang yang bersedekah'",
+              "Dihindarkan dari bala dan musibah — sedekah adalah perisai dari bencana",
+              "Mendapat pahala yang berlipat ganda: al-Baqarah:261 — satu biji dijadikan 700",
+              "Sedekah jariah — terus mengalir pahalanya walaupun selepas mati"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Bahaya Sifat Bakhil",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat al-Quran tentang balasan buruk orang bakhil:",
+            "arabic": "وَلَا يَحْسَبَنَّ الَّذِينَ يَبْخَلُونَ بِمَا آتَاهُمُ اللَّهُ مِن فَضْلِهِ هُوَ خَيْرًا لَّهُم\nبَلْ هُوَ شَرٌّ لَّهُمْ\nسَيُطَوَّقُونَ مَا بَخِلُوا بِهِ يَوْمَ الْقِيَامَة",
+            "translation": "Janganlah orang-orang yang bakhil dengan apa yang Allah berikan kepada mereka dari kurniaanNya menyangka bahawa kekikiran itu baik bagi mereka. Bahkan kekikiran itu buruk bagi mereka. Harta yang mereka bakhilkan itu akan dikalungkan (dililit) di leher mereka pada Hari Kiamat.",
+            "source": "Surah Ali Imran: 180 — amaran keras kepada orang bakhil"
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Cara-cara Bersedekah yang Diajar Islam",
+          "body": {
+            "type": "list",
+            "intro": "Pelbagai bentuk sedekah yang disyorkan:",
+            "items": [
+              "Sedekah wang — langsung kepada fakir miskin atau melalui tabung masjid",
+              "Sedekah makanan — bawa makanan ke rumah jiran yang susah",
+              "Sedekah ilmu — ajar adik, jiran, atau kawan yang tidak tahu",
+              "Sedekah senyuman: 'Senyumanmu kepada saudaramu adalah sedekah' (Tirmidzi)",
+              "Sedekah jariah: wakaf, derma untuk masjid, perigi, atau buku agama"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💰",
+      "text": {
+        "type": "arabic",
+        "instruction": "Analogi Nabi SAW tentang perbandingan orang dermawan dan bakhil:",
+        "arabic": "مَثَلُ الْبَخِيلِ وَالْمُتَصَدِّقِ كَمَثَلِ رَجُلَيْنِ عَلَيْهِمَا جُبَّتَانِ مِنْ حَدِيدٍ\nمِنْ ثُدِيِّهِمَا إِلَى تَرَاقِيهِمَا\nفَأَمَّا الْمُتَصَدِّقُ فَلَا يَتَصَدَّقُ بِصَدَقَةٍ إِلَّا اتَّسَعَتْ وَانْبَسَطَتْ عَلَيْهِ",
+        "translation": "Perumpamaan orang bakhil dan orang yang bersedekah seperti dua orang yang memakai baju besi dari dada hingga leher. Orang yang bersedekah — setiap kali bersedekah, baju itu melebar dan mengendur (memudahkan)...",
+        "source": "Riwayat Bukhari — menggambarkan bagaimana sedekah 'melapangkan' seseorang"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Latihan Menjadi Lebih Dermawan",
+      "items": [
+        "Mulakan kecil — sedekah sekurang-kurangnya RM1 setiap hari Jumaat.",
+        "Jadikan sedekah sebagai tabiat — bukan hanya bila ada lebihan.",
+        {
+          "type": "arabic",
+          "arabic": "قَالَ النَّبِيُّ ﷺ: مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ",
+          "translation": "Nabi SAW bersabda: 'Sedekah tidak pernah mengurangkan harta.' (Riwayat Muslim) — ini janji Allah melalui lisan Nabi SAW!"
+        },
+        "Sedekah rahsia lebih utama — bagi dengan tangan kanan, tangan kiri tidak perlu tahu.",
+        "Ingat: harta kita sebenarnya 'pinjaman' dari Allah — kita hanya 'pengurus' yang amanah!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Surah Ali Imran ayat 180 memberi amaran bahawa harta yang dibakhilkan akan:",
+      "options": [
+        "Terbakar di akhirat",
+        "Dikalungkan/dililitkan di leher orang bakhil pada Hari Kiamat",
+        "Dibahagi kepada orang miskin secara paksa",
+        "Hilang sebelum pemiliknya mati"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Menurut hadith Nabi SAW, sedekah itu:",
+      "options": [
+        "Mengurangkan harta tapi menambah pahala",
+        "Tidak pernah mengurangkan harta",
+        "Hanya wajib bagi orang kaya",
+        "Cukup dibuat sekali setahun"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Antara berikut, manakah yang termasuk sedekah dalam Islam?",
+      "options": [
+        "Wang sahaja",
+        "Wang dan makanan sahaja",
+        "Wang, makanan, ilmu, senyuman, dan amal jariah",
+        "Wakaf dan zakat sahaja"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah maksud 'sedekah jariah'?",
+      "options": [
+        "Sedekah yang dibuat secara terbuka",
+        "Sedekah yang pahalanya terus mengalir walaupun selepas orang itu meninggal",
+        "Sedekah yang dibuat pada bulan Ramadan sahaja",
+        "Sedekah dalam bentuk zakat"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Dermawan vs Bakhil", "colour": "#4CAF50" },
+      { "id": "n2", "label": "Kelebihan Dermawan", "colour": "#388E3C" },
+      { "id": "n3", "label": "Bahaya Bakhil", "colour": "#388E3C" },
+      { "id": "n4", "label": "Bentuk-bentuk Sedekah", "colour": "#1B5E20" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "terpuji" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "tercela" },
+      { "id": "e3", "source": "n2", "target": "n4", "label": "cara amal" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْكَرَم", "meaning": "karam (dermawan — sifat mulia memberi dengan ikhlas)" },
+    { "word": "الْبُخْل", "meaning": "bukhl (bakhil/kedekut — sifat tercela tidak mahu memberi)" },
+    { "word": "الصَّدَقَة الْجَارِيَة", "meaning": "sedekah jariah (pahala yang terus mengalir selepas mati)" },
+    { "word": "الْوَقْف", "meaning": "wakaf (harta yang diwaqafkan untuk kepentingan umum Islam)" },
+    { "word": "الإِنْفَاق", "meaning": "infaq (membelanjakan harta di jalan Allah)" }
+  ],
+  "funFact": "Tahukah kamu bahawa Abu Bakar al-Siddiq r.a. pernah menginfakkan SEMUA hartanya untuk Islam? Ketika Nabi SAW minta sahabat bersedekah untuk Perang Tabuk, Abu Bakar membawa semua hartanya — setiap dirham dan dinar yang dia miliki. Nabi SAW bertanya: 'Apa yang kamu tinggalkan untuk keluargamu?' Abu Bakar menjawab: 'Allah dan Rasulnya.' Umar al-Khattab r.a. pula membawa separuh hartanya. Selepas itu Umar berkata: 'Hari ini aku tahu aku tidak akan dapat mengatasi Abu Bakar!' Kisah ini membuktikan bahawa infaq yang tuluskan bukan sekadar memberi lebihan — tetapi memberi sesuatu yang kita sayangi!"
+}

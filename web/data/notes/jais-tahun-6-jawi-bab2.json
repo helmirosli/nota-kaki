@@ -1,0 +1,156 @@
+{
+  "id": "jais-tahun-6-jawi-bab2",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "jawi",
+  "chapter": 2,
+  "title": "Jawi 2: Membaca Teks Jawi Klasik",
+  "emoji": "📜",
+  "colour": "#FF9800",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "قِرَاءَة النُّصُوص الْجَاوِيَّة الْقَدِيمَة — Membaca Teks Jawi Klasik",
+      "body": "Teks Jawi klasik — dari kitab-kitab lama, manuskrip, atau karya sastera Melayu klasik — mempunyai gaya penulisan yang berbeza dari Jawi moden. Biasanya tiada harakat (baris), singkatan berbeza, dan perkataan lama yang sudah tidak digunakan. Kemahiran membaca teks Jawi klasik membuka pintu kepada khazanah ilmu Islam dalam bahasa Melayu yang tersimpan selama beratus tahun."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📜",
+          "title": "Ciri-ciri Teks Jawi Klasik",
+          "body": {
+            "type": "list",
+            "intro": "Perbezaan teks Jawi klasik dengan Jawi moden:",
+            "items": [
+              "Biasanya tiada baris (harakat) — pembaca perlu tahu dari konteks",
+              "Penggunaan perkataan Melayu lama: 'hamba' (saya), 'tuan' (awak), 'sahaja' (saja)",
+              "Pengaruh bahasa Arab lebih kuat: banyak pinjaman terus dari Arab",
+              "Saiz huruf dan bentuk mungkin sedikit berbeza dari Jawi standard sekarang",
+              "Sering menggunakan 'بهوا' (bahawa) sebagai kata penghubung ayat panjang"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Petikan dari Kitab Jawi Klasik",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh teks dari kitab 'Hidayatus Salikin' (Syeikh Abd al-Samad al-Falimbani):",
+            "arabic": "مک كتاهويله اولهمو بهاوا أصل اڬام اسلام ايت تيڬ بندر:\nڤرتام: علم. ك-٢: عمل. ك-٣: إخلاص",
+            "translation": "Maka ketahuilah olehmu bahawa asal agama Islam itu tiga perkara: Pertama: Ilmu. Kedua: Amal. Ketiga: Ikhlas.",
+            "source": "Hidayatus Salikin — kitab Jawi klasik abad ke-18 oleh ulama Melayu"
+          }
+        },
+        {
+          "icon": "🔑",
+          "title": "Kitab-kitab Jawi Terkenal",
+          "body": {
+            "type": "pairs",
+            "intro": "Kitab-kitab Jawi berpengaruh dalam sejarah Islam Melayu:",
+            "rows": [
+              { "arabic": "هداية السالكين", "meaning": "Hidayatus Salikin — Syeikh Abd al-Samad al-Falimbani (abad ke-18), tasawuf" },
+              { "arabic": "سيرالسالكين", "meaning": "Sirrus Salikin — Syeikh Abd al-Samad al-Falimbani, terjemahan Ihya Ulum al-Din" },
+              { "arabic": "أم البراهين", "meaning": "Umm al-Barahin — teks akidah Asy'ariyah yang digunakan di pondok-pondok Melayu" },
+              { "arabic": "مطالع البدرين", "meaning": "Matla' al-Badrain — Syeikh Muhammad Zain al-Fathani, fiqh Jawi terkenal" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📜",
+      "text": {
+        "type": "list",
+        "intro": "Strategi membaca teks Jawi tanpa baris:",
+        "items": [
+          "Baca perlahan — perhatikan huruf dan bentuk perkataan keseluruhan",
+          "Gunakan konteks ayat — perkataan sebelum dan selepas membantu tahu bunyi",
+          "Kenali pola perkataan biasa — awalan me-, ke-, per-, pem- dalam Jawi",
+          "Semak kamus atau glosari di hujung kitab jika ada perkataan lama",
+          "Latihan: baca hadith Melayu Jawi atau surah terjemahan Jawi klasik"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Langkah Membaca Teks Jawi Klasik",
+      "items": [
+        "Baca judul dan pendahuluan dahulu — ini memberi gambaran keseluruhan teks.",
+        "Cari perkataan Arab yang dikenal — ini 'jangkar' untuk memahami konteks.",
+        {
+          "type": "arabic",
+          "arabic": "مثال تکس جاوي کلاسيک:\nبسم الله الرحمن الرحيم\nإني أحمد الله على نعمه وأشكره على كرمه\nوأصلي على سيدنا محمد",
+          "translation": "Contoh teks Jawi klasik (bahagian pembuka kitab): Dengan nama Allah Yang Maha Pemurah lagi Maha Mengasihani. Aku memuji Allah atas nikmat-Nya dan bersyukur atas kemurahan-Nya. Dan aku berselawat ke atas junjungan kami Muhammad."
+        },
+        "Buat latihan transkripsi: salin teks Jawi klasik dan tulis padanannya dalam Rumi.",
+        "Ingat: membaca kitab Jawi klasik menghubungkan kita dengan ulama-ulama besar Nusantara!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah ciri utama teks Jawi klasik berbeza dengan Jawi moden?",
+      "options": [
+        "Menggunakan huruf yang berbeza sepenuhnya",
+        "Biasanya tiada baris (harakat) dan menggunakan perkataan Melayu lama",
+        "Ditulis dari kiri ke kanan",
+        "Menggunakan nombor Arab bukan nombor Jawi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "'Hidayatus Salikin' adalah kitab Jawi klasik dalam bidang apa?",
+      "options": [
+        "Sejarah Islam Melayu",
+        "Tasawuf (kerohanian Islam)",
+        "Fiqh (hukum Islam)",
+        "Nahu bahasa Arab"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Strategi terbaik membaca teks Jawi tanpa baris adalah:",
+      "options": [
+        "Teka sahaja bunyi perkataan",
+        "Guna konteks ayat untuk meneka bunyi; kenali pola perkataan biasa",
+        "Tanya guru setiap perkataan",
+        "Tidak perlu baca — teks lama tidak relevan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Ulama Melayu yang terkenal dengan kitab 'Matla' al-Badrain' (fiqh Jawi) adalah:",
+      "options": [
+        "Syeikh Abd al-Samad al-Falimbani",
+        "Syeikh Muhammad Zain al-Fathani",
+        "Hamzah Fansuri",
+        "Nuruddin al-Raniri"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Teks Jawi Klasik", "colour": "#FF9800" },
+      { "id": "n2", "label": "Ciri Khas", "colour": "#F57C00" },
+      { "id": "n3", "label": "Kitab-kitab Terkenal", "colour": "#F57C00" },
+      { "id": "n4", "label": "Strategi Membaca", "colour": "#E65100" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "keistimewaan" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "contoh" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "kemahiran" }
+    ]
+  },
+  "vocab": [
+    { "word": "هداية السالكين", "meaning": "Hidayatus Salikin (Petunjuk bagi Orang yang Menempuh Jalan)" },
+    { "word": "سير السالكين", "meaning": "Sirrus Salikin (Perjalanan Orang yang Menempuh Jalan)" },
+    { "word": "بهوا", "meaning": "bahawa (kata penghubung formal Jawi lama — 'bahawa')" },
+    { "word": "هامبا", "meaning": "hamba (kata ganti diri pertama lama = saya)" },
+    { "word": "مختصر", "meaning": "mukhtasar (ringkasan — banyak kitab Jawi adalah mukhtasar kitab Arab)" }
+  ],
+  "funFact": "Tahukah kamu bahawa Kepulauan Melayu pernah menjadi pusat penulisan Islam yang paling aktif di dunia selepas Timur Tengah? Pada abad ke-17 dan 18, Acheh (di utara Sumatera) digelar 'Serambi Mekah' kerana terdapat begitu ramai ulama dan penghasilan kitab Jawi di sana. Syeikh Nuruddin al-Raniri (ulama dari India yang bertugas di Acheh) menghasilkan lebih 30 buah kitab Jawi dalam pelbagai bidang — dari tasawuf hingga sejarah Islam. Kitab-kitab ini kemudian disalin oleh para tukang salin dan disebarkan ke seluruh Nusantara — Jawa, Melayu, Sulawesi, Mindanao. Bayangkan: ilmu Islam bergerak ke seluruh Asia Tenggara melalui tulisan Jawi, sebelum percetakan wujud!"
+}

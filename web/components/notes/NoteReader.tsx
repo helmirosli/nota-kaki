@@ -4,7 +4,6 @@ import { motion } from "framer-motion"
 import Link from "next/link"
 import { Note, SubjectMeta } from "@/lib/types"
 import { NoteSection } from "./NoteSection"
-import { CalloutContent } from "./NoteSection"
 import { QuizSection } from "../quiz/QuizSection"
 import { KnowledgeGraph } from "../graph/KnowledgeGraph"
 import { ReadAloudButton } from "./ReadAloudButton"
@@ -202,7 +201,7 @@ export function NoteReader({
           <span className="text-3xl shrink-0">🌟</span>
           <div className="flex-1 min-w-0">
             <div className="font-black text-gray-800 mb-1">Tahukah Kamu?</div>
-            <CalloutContent text={note.funFact} colour={meta.colour} />
+            <p className="font-bold text-gray-800 text-base leading-relaxed">{note.funFact}</p>
           </div>
         </motion.div>
       )}

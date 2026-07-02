@@ -1,0 +1,161 @@
+{
+  "id": "jais-tahun-6-jawi-bab3",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "jawi",
+  "chapter": 3,
+  "title": "Jawi 3: Karangan Jawi — Isu Semasa Agama",
+  "emoji": "✍️",
+  "colour": "#FF9800",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "إِنْشَاء الْجَاوِي — Karangan Jawi Peringkat Lanjut",
+      "body": "Pada peringkat Tahun 6, pelajar menulis karangan Jawi tentang isu-isu semasa yang berkaitan agama Islam — seperti kepentingan ilmu, akhlak pelajar, tanggungjawab Muslim dalam masyarakat. Karangan yang baik mempunyai perenggan pembuka yang menarik, isi yang padat dengan hujah, dan penutup yang berkesan."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "✍️",
+          "title": "Struktur Karangan Jawi yang Baik",
+          "body": {
+            "type": "list",
+            "intro": "Format karangan Jawi standard (4-5 perenggan):",
+            "items": [
+              "Perenggan 1 — Pendahuluan: Perkenalkan topik, ayat atau hadith berkaitan, kepentingan isu",
+              "Perenggan 2 — Isi 1: Hujah pertama + contoh / dalil",
+              "Perenggan 3 — Isi 2: Hujah kedua + contoh / dalil",
+              "Perenggan 4 — Isi 3 (jika perlu): Hujah ketiga atau pandangan berbeza",
+              "Perenggan 5 — Penutup: Rumusan, harapan, seruan kepada pembaca"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Contoh Karangan: Kepentingan Ilmu",
+          "body": {
+            "type": "list",
+            "intro": "Rangka karangan Jawi tentang 'Kepentingan Menuntut Ilmu':",
+            "items": [
+              "P1: Islam perintah tuntut ilmu — hadith 'طَلَبُ الْعِلْمِ فَرِيضَةٌ' — ilmu asas kemajuan",
+              "P2: Ilmu membentuk akhlak — ulama lebih mulia dari ahli ibadat — contoh Imam Syafi'i",
+              "P3: Ilmu bermanfaat di dunia dan akhirat — sedekah jariah: ilmu yang diajar terus mengalir pahalanya",
+              "P4: Tanggungjawab pelajar: hadir kelas, hormat guru, buat kerja rumah, belajar dari al-Quran",
+              "P5: Kesimpulan — tuntut ilmu seumur hidup; Imam Syafi'i belajar hingga hari kematiannya"
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Frasa-frasa Berguna dalam Karangan Jawi",
+          "body": {
+            "type": "pairs",
+            "intro": "Frasa yang meningkatkan kualiti karangan Jawi:",
+            "rows": [
+              { "arabic": "سبڬايمان يڠ ديماقلومي", "meaning": "sebagaimana yang dimaklumi — pembuka hujah" },
+              { "arabic": "سلاين ايتو", "meaning": "selain itu — untuk menambah hujah baru" },
+              { "arabic": "دالم هال يڠ دميکين", "meaning": "dalam hal yang demikian — menghubungkan hujah" },
+              { "arabic": "اولهڽ ايتو", "meaning": "oleh yang demikian — pembuka kesimpulan" },
+              { "arabic": "کستيمڤولنڽ", "meaning": "kesimpulannya — kata pembuka rumusan akhir" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "✍️",
+      "text": {
+        "type": "list",
+        "intro": "Contoh perenggan pembuka karangan Jawi (Kepentingan Menuntut Ilmu):",
+        "items": [
+          "بسم الله الرحمن الرحيم",
+          "إلم مروڤاكن اسيت يڠ ڤاليڠ برهرڬ بڬي سئوراڠ مسلم.",
+          "(Ilmu merupakan aset yang paling berharga bagi seorang Muslim.)",
+          "رسول الله ﷺ تله برسبدا: 'طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِم'",
+          "(Rasulullah SAW telah bersabda: Menuntut ilmu adalah kewajipan ke atas setiap Muslim)"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Teknik Menulis Karangan Jawi yang Baik",
+      "items": [
+        "Rancang dahulu — buat rangka (outline) dalam Rumi sebelum tulis dalam Jawi.",
+        "Gunakan dalil al-Quran atau hadith dalam setiap isi — ini menguatkan hujah.",
+        {
+          "type": "arabic",
+          "arabic": "فراسا ڤمبوکا يڠ برسن:\nبسم الله الرحمن الرحيم\nالحمد لله رب العالمين\nوالصلاة والسلام على سيدنا محمد",
+          "translation": "Frasa pembuka yang berkesan untuk karangan Jawi agama: Dengan nama Allah Yang Maha Pemurah... Segala puji bagi Allah... Selawat dan salam ke atas junjungan kami Muhammad."
+        },
+        "Elak ayat terlalu panjang — satu hujah, satu ayat atau dua ayat.",
+        "Semak ejaan Jawi terutama: perkataan pinjaman Arab, awalan Melayu, kata hubung!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Struktur karangan Jawi yang baik terdiri dari:",
+      "options": [
+        "Pendahuluan sahaja — panjang dan terperinci",
+        "Pendahuluan, isi-isi, dan penutup (4-5 perenggan)",
+        "Hanya ayat al-Quran dan hadith sahaja",
+        "Tidak perlu struktur — tulis sahaja apa yang tahu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Mengapa penting menyertakan dalil al-Quran atau hadith dalam karangan Jawi agama?",
+      "options": [
+        "Untuk tunjukkan kita pandai berbahasa Arab",
+        "Dalil menguatkan hujah dan menunjukkan hujah bersandarkan wahyu",
+        "Ia wajib untuk mendapat markah penuh sahaja",
+        "Guru suka teks Arab dalam karangan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Frasa Jawi 'أولهڽ ايتو' digunakan untuk:",
+      "options": [
+        "Membuka perenggan isi",
+        "Memulakan kesimpulan atau rumusan",
+        "Memberi contoh",
+        "Menolak pandangan lain"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Langkah pertama yang betul sebelum menulis karangan Jawi adalah:",
+      "options": [
+        "Terus tulis dalam Jawi",
+        "Tanya kawan topik karangan",
+        "Rancang rangka (outline) dahulu dalam Rumi",
+        "Cari hadith yang panjang untuk dimasukkan"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Karangan Jawi", "colour": "#FF9800" },
+      { "id": "n2", "label": "Struktur 5 Perenggan", "colour": "#F57C00" },
+      { "id": "n3", "label": "Dalil & Contoh", "colour": "#F57C00" },
+      { "id": "n4", "label": "Frasa Berguna", "colour": "#E65100" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "format" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "kandungan" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "bahasa" }
+    ]
+  },
+  "vocab": [
+    { "word": "إنشاء", "meaning": "insya'/karangan (penulisan kreatif/huraian dalam Jawi)" },
+    { "word": "سبڬايمان يڠ ديماقلومي", "meaning": "sebagaimana yang dimaklumi (frasa pembuka hujah formal)" },
+    { "word": "اولهڽ ايتو", "meaning": "oleh yang demikian (frasa pembuka kesimpulan)" },
+    { "word": "رنڬک", "meaning": "rangka (outline/kerangka karangan sebelum menulis)" },
+    { "word": "هوجه", "meaning": "hujah (argumen/dalil yang menyokong pendapat dalam karangan)" }
+  ],
+  "funFact": "Tahukah kamu bahawa surat-menyurat rasmi antara Raja Melayu dan pihak British pada abad ke-19 semuanya ditulis dalam Jawi? Apabila Francis Light (British) mendapat Pulau Pinang dari Sultan Kedah pada 1786, perjanjian asal ditulis dalam Jawi Arab. Apabila terjadi salah faham antara kedua pihak kemudian, perbezaan terjemahan antara versi Jawi (Melayu) dan versi Inggeris menjadi punca pertikaian — membuktikan betapa pentingnya ketepatan bahasa dan tulisan dalam urusan rasmi. Para Penghulu dan pegawai yang mahir Jawi ketika itu adalah 'diplomat' penting yang menjaga kepentingan Melayu dalam rundingan. Tulisan Jawi bukan sekadar budaya — ia adalah kuasa!"
+}

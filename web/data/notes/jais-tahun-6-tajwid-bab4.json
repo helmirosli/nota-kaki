@@ -1,0 +1,158 @@
+{
+  "id": "jais-tahun-6-tajwid-bab4",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "tajwid",
+  "chapter": 4,
+  "title": "Tajwid 4: Hukum Lam dalam Lafaz Allah dan Tafkhim-Tarqiq",
+  "emoji": "🔤",
+  "colour": "#1A237E",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "لَام لَفْظ الْجَلَالَة وَالتَّفْخِيم وَالتَّرْقِيق",
+      "body": "Dalam Tahun 6, dua topik tajwid yang dipelajari adalah: (1) Hukum Lam dalam lafaz 'الله' yang boleh dibaca tebal (tafkhim) atau nipis (tarqiq), dan (2) Konsep tafkhim dan tarqiq secara umum. Memahami ini penting untuk membaca lafaz 'الله' dengan betul dalam semua keadaan."
+    },
+    {
+      "type": "concept-cards",
+        "items": [
+        {
+          "icon": "📊",
+          "title": "Hukum Lam Lafaz Jalal (الله)",
+          "body": {
+            "type": "pairs",
+            "intro": "Bila Lam dalam 'الله' dibaca tebal atau nipis:",
+            "rows": [
+              { "arabic": "التَّفْخِيم (tebal)", "meaning": "Apabila huruf sebelum لفظ الله berbaris FATHAH atau DHAMMAH: قَالَ اللَّهُ، رَسُولُ اللَّهِ — baca 'ALLAH' dengan lam tebal" },
+              { "arabic": "التَّرْقِيق (nipis)", "meaning": "Apabila huruf sebelum لفظ الله berbaris KASRAH: بِاللَّهِ، لِلَّهِ، فِي اللَّه — baca 'illahi/lillahi' dengan lam nipis" }
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Tafkhim — Huruf yang Dibaca Tebal",
+          "body": {
+            "type": "list",
+            "intro": "Huruf-huruf yang SENTIASA dibaca tebal (huruf isti'la' — 7 huruf):",
+            "items": [
+              "خ ص ض غ ط ق ظ — hafaz dengan: خُصَّ ضَغْطٍ قِظ",
+              "Huruf-huruf ini sentiasa tebal, walaupun berbaris kasrah",
+              "Contoh: قَالَ, صَلَاة, طَرِيق, ظَلَمَ — semua tebal",
+              "Tebal bermaksud bunyi resonansi di belakang mulut (seperti 'o' dalam mulut)"
+            ]
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Tarqiq — Huruf yang Dibaca Nipis",
+          "body": {
+            "type": "list",
+            "intro": "Huruf-huruf yang SENTIASA dibaca nipis:",
+            "items": [
+              "Semua huruf selain 7 huruf isti'la' = sentiasa nipis",
+              "Termasuk: ب، ت، ث، ج، ح، د، ذ، ر، ز، س، ش، ع، ف، ك، ل، م، ن، ه، و، ي",
+              "Huruf Raa' (ر) boleh tebal atau nipis bergantung pada baris",
+              "Nipis bermaksud bunyi di bahagian hadapan mulut (bunyi 'e' lebih ke hadapan)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "⭐",
+      "text": {
+        "type": "pairs",
+        "intro": "Latihan hukum lam lafaz jalal — tebal atau nipis?",
+        "rows": [
+          { "arabic": "قُلِ اللَّهُمَّ", "meaning": "lam sebelumnya kasrah (قُلِ) → NIPIS/TARQIQ" },
+          { "arabic": "قَالَ اللَّه", "meaning": "sebelumnya fathah (قَالَ) → TEBAL/TAFKHIM" },
+          { "arabic": "رَسُولُ اللَّه", "meaning": "sebelumnya dhammah (رَسُولُ) → TEBAL/TAFKHIM" },
+          { "arabic": "بِسْمِ اللَّه", "meaning": "sebelumnya kasrah (بِسْمِ) → NIPIS/TARQIQ" }
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Latih Tafkhim dan Tarqiq",
+      "items": [
+        "Baca 'Bismillah' — dengar betul-betul bunyi lam 'Allah' — ia nipis (kasrah sebelumnya).",
+        "Baca 'Alhamdulillah' — lam Allah juga nipis (dhammah sebelumnya... tunggu, ini kasrah 'lillah').",
+        {
+          "type": "pairs",
+          "intro": "Latihan huruf tebal vs nipis:",
+          "rows": [
+            { "arabic": "الصَّلَاة", "meaning": "sad + lam + alif — sad TEBAL (isti'la'), lam NIPIS" },
+            { "arabic": "طَرِيق", "meaning": "tha' TEBAL (isti'la') sepanjang perkataan" }
+          ]
+        },
+        "Latih dengan al-Fatihah — kenal pasti mana huruf tebal dan mana nipis dalam setiap ayat.",
+        "Ingat: Tafkhim dan Tarqiq bukan sekadar teknik — ia mencerminkan keindahan dan kekayaan bahasa al-Quran!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Dalam 'بِسْمِ اللَّه' (Bismillah), lam dalam lafaz Allah dibaca:",
+      "options": [
+        "Tebal (tafkhim) kerana ia huruf mulia",
+        "Nipis (tarqiq) kerana huruf sebelumnya berbaris kasrah",
+        "Sederhana (antara tebal dan nipis)",
+        "Bergantung pada penutur"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa huruf isti'la' yang sentiasa dibaca tebal?",
+      "options": [
+        "5 huruf",
+        "6 huruf",
+        "7 huruf",
+        "9 huruf"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Dalam 'قَالَ اللَّه', lam lafaz Allah dibaca tebal kerana:",
+      "options": [
+        "Ia di awal ayat",
+        "Huruf sebelumnya berbaris fathah",
+        "Lam sentiasa dibaca tebal",
+        "Ia perkataan Allah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Manakah antara berikut BUKAN huruf isti'la'?",
+      "options": [
+        "خ (kha')",
+        "ص (sad)",
+        "ن (nun)",
+        "ط (tha')"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Tafkhim vs Tarqiq", "colour": "#1A237E" },
+      { "id": "n2", "label": "Huruf Isti'la' (7)", "colour": "#283593" },
+      { "id": "n3", "label": "Lam Lafaz Allah", "colour": "#283593" },
+      { "id": "n4", "label": "Tebal jika Fathah/Dhammah", "colour": "#1A237E" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "tebal sentiasa" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "bergantung baris" },
+      { "id": "e3", "source": "n3", "target": "n4", "label": "syarat tebal" }
+    ]
+  },
+  "vocab": [
+    { "word": "التَّفْخِيم", "meaning": "tafkhim (tebalkan bacaan huruf)" },
+    { "word": "التَّرْقِيق", "meaning": "tarqiq (nipiskan bacaan huruf)" },
+    { "word": "الِاسْتِعْلَاء", "meaning": "isti'la' (tinggi — sifat 7 huruf yang sentiasa tebal)" },
+    { "word": "الِاسْتِفَال", "meaning": "istifal (rendah — sifat huruf yang nipis)" },
+    { "word": "لَفْظُ الْجَلَالَة", "meaning": "lafaz jalal (nama Allah — الله)" }
+  ],
+  "funFact": "Tahukah kamu bahawa bunyi 'Allah' yang betul memerlukan perubahan tebal-nipis yang sangat halus bergantung pada konteks? Para peneliti fonetik moden yang mengkaji bacaan Qurra' (pakar bacaan al-Quran) mendapati bahawa perubahan dari tafkhim ke tarqiq dan sebaliknya berlaku dalam masa kurang dari 0.1 saat! Otak dan lidah manusia boleh membuat peralihan bunyi yang sangat halus ini dengan lancar apabila cukup latihan. Ini adalah bukti bahawa otak manusia sangat hebat — dan mengapa pelajaran tajwid perlu diamalkan berulang-ulang sehingga menjadi refleks automatik, bukan sekadar dihafaz teorinya sahaja!"
+}

@@ -28,6 +28,7 @@ export const SUBJECTS: SubjectMeta[] = [
 export type SectionType =
   | IntroSection
   | ConceptCardsSection
+  | UnitSection
   | CalloutSection
   | StepsSection
 
@@ -39,6 +40,12 @@ export interface IntroSection {
 
 export interface ConceptCardsSection {
   type: "concept-cards"
+  items: ConceptCard[]
+}
+
+export interface UnitSection {
+  type: "unit"
+  heading: string
   items: ConceptCard[]
 }
 

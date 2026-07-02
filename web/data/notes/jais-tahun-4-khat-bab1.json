@@ -1,0 +1,166 @@
+{
+  "id": "jais-tahun-4-khat-bab1",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "khat",
+  "chapter": 1,
+  "title": "Khat 1: Khat Nasakh — Huruf Asas",
+  "emoji": "🖊️",
+  "colour": "#795548",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْخَطُّ النَّسْخِي — Khat Nasakh",
+      "body": "Khat Nasakh adalah jenis tulisan Arab yang paling popular dan mudah dibaca. Ia digunakan dalam percetakan al-Quran, buku agama, dan dokumen rasmi di seluruh dunia. Dalam Tahun 4, kita pelajari asas-asas khat Nasakh dan melatih penulisan huruf dengan indah."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🖊️",
+          "title": "Ciri-ciri Khat Nasakh",
+          "body": {
+            "type": "list",
+            "intro": "Kenali ciri utama khat Nasakh:",
+            "items": [
+              "Huruf-huruf yang jelas, tidak terlalu tersepit atau terlalu lebar",
+              "Banyak garis melengkung dan bulat — berbeza dari khat Kufi yang tegak-lurus",
+              "Mudah dibaca — sebab itulah digunakan untuk mencetak al-Quran",
+              "Saiz huruf seragam dan seimbang",
+              "Boleh ditulis dengan kelajuan sederhana — sesuai untuk tulisan harian"
+            ]
+          }
+        },
+        {
+          "icon": "📊",
+          "title": "Alat-alat Khat",
+          "body": {
+            "type": "pairs",
+            "intro": "Peralatan untuk latihan khat:",
+            "rows": [
+              { "arabic": "قَلَم الرِّيشَة", "meaning": "Qalam rishah — pen buluh khas khat" },
+              { "arabic": "الدَّوَاة", "meaning": "Dawat — dakwat/tinta hitam" },
+              { "arabic": "وَرَق التَّمَرُّن", "meaning": "Kertas latihan bergaris" },
+              { "arabic": "الْمَنْهَج", "meaning": "Contoh tulisan khat untuk diikut" }
+            ],
+            "outro": "Untuk latihan di sekolah, gunakan pen khat atau pensil"
+          }
+        },
+        {
+          "icon": "✍️",
+          "title": "Latihan Huruf Nasakh",
+          "body": {
+            "type": "arabic",
+            "instruction": "Latihan menulis huruf dalam Khat Nasakh — perhatikan bentuk setiap huruf:",
+            "arabic": "ا ب ت ث ج ح خ د ذ ر ز\nس ش ص ض ط ظ ع غ ف ق\nك ل م ن و ه ء ي",
+            "translation": "28 huruf Arab dalam bentuk Khat Nasakh — salin setiap satu 5 kali"
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Latihan Perkataan",
+          "body": {
+            "type": "arabic",
+            "instruction": "Salin perkataan-perkataan ini dalam Khat Nasakh:",
+            "arabic": "اللَّه\nمُحَمَّد\nالْإِسْلَام\nالْقُرْآن",
+            "translation": "Allah | Muhammad | Islam | al-Quran",
+            "outro": "Latihan: salin setiap perkataan 5 kali dengan kemas dan seragam"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🖊️",
+      "text": {
+        "type": "list",
+        "intro": "Prinsip asas khat yang indah:",
+        "items": [
+          "KONSISTEN — ukuran huruf yang sama dari awal hingga akhir",
+          "SEIMBANG — jarak antara huruf dan perkataan yang sama",
+          "BERSIH — tiada coretan atau tulisan yang terlalu tebal di satu bahagian",
+          "SABAR — khat yang cantik memerlukan banyak latihan dan kesabaran"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Langkah Belajar Khat Nasakh",
+      "items": [
+        "Amati contoh tulisan khat guru atau buku — perhatikan bentuk setiap huruf.",
+        "Mulakan dengan huruf yang mudah: ا، و، ر، ز.",
+        "Salin secara perlahan — khat tidak boleh tergesa-gesa.",
+        {
+          "type": "arabic",
+          "arabic": "Prinsip: 'Perlahan tapi sempurna > Cepat tapi hodoh'",
+          "translation": "Lebih baik tulis satu huruf cantik dari sepuluh huruf yang hodoh"
+        },
+        "Latih setiap hari — 15-20 minit latihan berterusan lebih baik dari 2 jam sekali seminggu."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah ciri utama Khat Nasakh berbanding khat lain?",
+      "options": [
+        "Garis lurus dan tegak",
+        "Jelas dan mudah dibaca, banyak lengkung bulat",
+        "Sangat kecil dan padat",
+        "Hanya digunakan untuk batu nisan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Mengapa Khat Nasakh digunakan untuk mencetak al-Quran?",
+      "options": [
+        "Kerana ia yang paling lama wujud",
+        "Kerana ia mudah dibaca dan hurufnya jelas",
+        "Kerana ia paling murah untuk dicetak",
+        "Kerana ia diajar di sekolah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah prinsip paling penting dalam latihan khat?",
+      "options": [
+        "Menulis dengan cepat",
+        "Menggunakan pen yang mahal",
+        "Konsisten dan sabar dalam latihan",
+        "Menulis dalam banyak warna"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa huruf Arab yang perlu dikuasai dalam Khat Nasakh?",
+      "options": [
+        "24 huruf",
+        "26 huruf",
+        "28 huruf",
+        "30 huruf"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Khat Nasakh", "colour": "#795548" },
+      { "id": "n2", "label": "Huruf Asas 28", "colour": "#5D4037" },
+      { "id": "n3", "label": "Prinsip Khat", "colour": "#5D4037" },
+      { "id": "n4", "label": "Latihan Harian", "colour": "#4E342E" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "belajar" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "prinsip" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "cara kuasai" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْخَطّ", "meaning": "khat / seni tulisan Arab" },
+    { "word": "النَّسْخ", "meaning": "nasakh (salah satu jenis khat)" },
+    { "word": "قَلَم", "meaning": "pen / alat tulis" },
+    { "word": "تَدْرِيب", "meaning": "latihan / berlatih" },
+    { "word": "جَمَال", "meaning": "keindahan" }
+  ],
+  "funFact": "Tahukah kamu bahawa seni khat Islam pernah menjadi pekerjaan yang sangat bergaji tinggi? Pada zaman Abbasiyyah (750-1258 Masihi), seorang khattat (penulis khat) boleh mendapat bayaran yang setara dengan upah seorang doktor! Ini kerana semua buku, al-Quran, dan dokumen perlu ditulis tangan — tiada mesin cetak. Seorang khattat yang mahir boleh menghasilkan tulisan yang begitu indah hingga dipamerkan di dinding masjid sebagai hiasan. Kini seni khat masih dipelajari dan dihargai di seluruh dunia!"
+}

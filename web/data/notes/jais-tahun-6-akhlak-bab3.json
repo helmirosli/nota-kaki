@@ -1,0 +1,150 @@
+{
+  "id": "jais-tahun-6-akhlak-bab3",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "akhlak",
+  "chapter": 3,
+  "title": "Akhlak 3: Menghindari Sifat Hasad dan Dengki",
+  "emoji": "💚",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْحَسَد — Penyakit Hati yang Paling Bahaya",
+      "body": "Hasad (حَسَد) atau dengki bermaksud tidak suka melihat orang lain mendapat nikmat, dan berharap nikmat itu hilang dari mereka. Ini adalah antara penyakit hati yang paling bahaya dalam Islam. Nabi SAW menamakan hasad sebagai 'pemakan kebaikan' — ia boleh menghapuskan pahala amalan seperti api membakar kayu kering. Sebaliknya, rasa gembira dengan nikmat orang lain (ghibtah) adalah sifat mulia."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "⚠️",
+          "title": "Bahaya Hasad dalam Islam",
+          "body": {
+            "type": "arabic",
+            "instruction": "Hadith Nabi SAW tentang bahaya hasad:",
+            "arabic": "إِيَّاكُمْ وَالْحَسَدَ فَإِنَّ الْحَسَدَ يَأْكُلُ الْحَسَنَاتِ\nكَمَا تَأْكُلُ النَّارُ الْحَطَبَ",
+            "translation": "Jauhilah hasad kerana sesungguhnya hasad itu memakan (menghapus) kebaikan-kebaikan seperti api memakan kayu bakar.",
+            "source": "Riwayat Abu Dawud — amaran keras Nabi SAW tentang bahaya hasad"
+          }
+        },
+        {
+          "icon": "🔍",
+          "title": "Perbezaan Hasad dan Ghibtah",
+          "body": {
+            "type": "pairs",
+            "intro": "Dua reaksi berbeza melihat nikmat orang lain:",
+            "rows": [
+              { "arabic": "الْحَسَد", "meaning": "Hasad (dengki) — tidak suka orang dapat nikmat, harap nikmat hilang darinya — HARAM" },
+              { "arabic": "الْغِبْطَة", "meaning": "Ghibtah (kagum positif) — ingin mendapat nikmat yang sama tanpa berharap orang lain hilang nikmatnya — HARUS/TERPUJI" }
+            ]
+          }
+        },
+        {
+          "icon": "💊",
+          "title": "Ubat Penyakit Hasad",
+          "body": {
+            "type": "list",
+            "intro": "Cara mengubati sifat hasad dalam diri:",
+            "items": [
+              "Sedar bahawa rezeki semua orang sudah Allah tetapkan — bukan berkurangan bila orang lain dapat",
+              "Doakan kebaikan untuk orang yang kita dengki — ini paling mujarab!",
+              "Ingat: nikmat orang lain tidak mengurangkan nikmat kita",
+              "Banyak bersyukur dengan apa yang kita ada",
+              "Baca doa perlindungan dari hasad: 'Aku berlindung dari hasad orang yang dengki bila mereka dengki' (al-Falaq:5)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💚",
+      "text": {
+        "type": "arabic",
+        "instruction": "Perlindungan dari hasad dalam surah al-Falaq:",
+        "arabic": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَد",
+        "translation": "Dan dari kejahatan orang yang dengki apabila dia mendengki.",
+        "source": "Surah al-Falaq: 5 — Allah sendiri mengajar kita berlindung dari hasad orang lain"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Latihan Membuang Hasad",
+      "items": [
+        "Bila terasa dengki kepada kawan yang berjaya — ucap 'MasyaAllah Tabarakallah' dengan ikhlas.",
+        "Berdoa untuk kawan yang dapat nikmat itu: 'Ya Allah, berkatilah dia dalam nikmat ini.'",
+        {
+          "type": "arabic",
+          "arabic": "قَالَ النَّبِيُّ ﷺ: لَا حَسَدَ إِلَّا فِي اثْنَتَيْن:\nرَجُلٌ آتَاهُ اللَّهُ مَالًا فَسَلَّطَهُ عَلَى هَلَكَتِهِ فِي الْحَقّ\nوَرَجُلٌ آتَاهُ اللَّهُ حِكْمَةً فَهُوَ يَقْضِي بِهَا وَيُعَلِّمُهَا",
+          "translation": "Tidak boleh ada hasad kecuali dalam dua perkara: orang yang diberi harta lalu digunakannya di jalan yang benar; dan orang yang diberi hikmah (ilmu) lalu menggunakannya untuk menghukum dan mengajar. (Riwayat Bukhari) — Ini adalah 'ghibtah' yang halal!"
+        },
+        "Fokus pada diri sendiri — 'Apa yang aku boleh lakukan untuk memperbaiki diri?'",
+        "Ingat: orang yang hasad sebenarnya sedang menyeksa dirinya sendiri!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud 'hasad' dalam Islam?",
+      "options": [
+        "Rasa kagum dengan kejayaan orang lain",
+        "Tidak suka orang mendapat nikmat dan berharap nikmat itu hilang dari mereka",
+        "Bersaing secara sihat untuk mencapai kebaikan",
+        "Ingin mendapat nikmat yang sama seperti orang lain"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Hasad diumpamakan oleh Nabi SAW seperti api yang memakan kayu. Apa yang dibakar oleh hasad?",
+      "options": [
+        "Kesihatan badan",
+        "Kebaikan-kebaikan (pahala amalan)",
+        "Harta dan kekayaan",
+        "Hubungan persahabatan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah perbezaan antara 'hasad' dan 'ghibtah'?",
+      "options": [
+        "Hasad lebih kuat dari ghibtah",
+        "Ghibtah mengharap nikmat sama TANPA ingin orang lain hilang nikmatnya; hasad ingin orang lain hilang nikmat",
+        "Keduanya adalah sifat yang sama tetapi darjat berbeza",
+        "Ghibtah untuk nikmat dunia; hasad untuk nikmat akhirat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Antara cara paling mujarab untuk mengubati hasad adalah:",
+      "options": [
+        "Elak berjumpa orang yang kita dengki",
+        "Doakan kebaikan untuk orang yang kita dengki",
+        "Fokus pada kelemahan orang yang kita dengki",
+        "Beritahu orang lain tentang perasaan kita"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Hasad Dengki", "colour": "#4CAF50" },
+      { "id": "n2", "label": "Memakan Pahala", "colour": "#388E3C" },
+      { "id": "n3", "label": "Ghibtah (Terpuji)", "colour": "#388E3C" },
+      { "id": "n4", "label": "Ubat: Doa + Syukur", "colour": "#1B5E20" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "bahaya" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "lawan terpuji" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "rawatan" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْحَسَد", "meaning": "hasad (dengki — tidak suka orang dapat nikmat, harap nikmat hilang)" },
+    { "word": "الْغِبْطَة", "meaning": "ghibtah (ingin mendapat nikmat yang sama tanpa berharap orang lain rugi)" },
+    { "word": "الشُّكْر", "meaning": "syukur (berterima kasih — ubat terbaik untuk hasad)" },
+    { "word": "الدُّعَاء", "meaning": "doa (meminta kepada Allah — berdoa untuk yang didengki mengubati hasad)" },
+    { "word": "الرِّضَا", "meaning": "redha (menerima dengan hati lapang — lawan kepada hasad)" }
+  ],
+  "funFact": "Tahukah kamu bahawa kajian psikologi moden membuktikan bahawa orang yang sering iri hati (hasad) sebenarnya mengalami lebih banyak stress, kemurungan, dan masalah kesihatan? Kajian di University of California mendapati bahawa rasa iri hati mengaktifkan bahagian otak yang sama seperti rasa kesakitan fizikal! Sebaliknya, orang yang bersyukur dan gembira dengan kejayaan orang lain (ghibtah) mempunyai tahap hormon cortisol (hormon stress) yang lebih rendah. Jadi Nabi SAW yang bersabda 'hasad memakan kebaikan' bukan sahaja benar dari sudut spiritual — tetapi sains kini membuktikan ia juga memakan kesihatan mental dan fizikal kita!"
+}

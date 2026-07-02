@@ -1,0 +1,163 @@
+{
+  "id": "jais-tahun-4-hafazan-bab3",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "hafazan",
+  "chapter": 3,
+  "title": "Hafazan 3: Surah al-Tin (95)",
+  "emoji": "📖",
+  "colour": "#E91E63",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "سُورَة التِّين — Surah al-Tin",
+      "body": "Surah al-Tin adalah surah ke-95 dalam al-Quran. Ia mengandungi 8 ayat dan termasuk surah Makkiyyah (diturunkan di Mekah). Nama al-Tin bermaksud 'buah ara/tin'. Surah ini membicarakan tentang penciptaan manusia dalam keadaan yang paling sempurna dan peringatan tentang hari pembalasan."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📜",
+          "title": "Surah al-Tin (Ayat 1-5)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat 1-5:",
+            "arabic": "وَالتِّينِ وَالزَّيْتُونِ ﴿١﴾ وَطُورِ سِينِينَ ﴿٢﴾ وَهَٰذَا الْبَلَدِ الْأَمِينِ ﴿٣﴾ لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ ﴿٤﴾ ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ ﴿٥﴾",
+            "translation": "Demi buah tin dan zaitun (1) Dan demi Bukit Sinai (2) Dan demi kota (Mekah) yang aman ini (3) Sesungguhnya Kami telah menciptakan manusia dalam sebaik-baik kejadian (4) Kemudian Kami kembalikan dia ke tempat yang serendah-rendahnya (5)"
+          }
+        },
+        {
+          "icon": "📜",
+          "title": "Surah al-Tin (Ayat 6-8)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat 6-8:",
+            "arabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ ﴿٦﴾ فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ ﴿٧﴾ أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ ﴿٨﴾",
+            "translation": "Kecuali orang-orang yang beriman dan beramal soleh, maka bagi mereka pahala yang tidak putus-putus (6) Maka apakah yang menyebabkan kamu mendustakan (hari) pembalasan sesudah (adanya keterangan-keterangan) itu? (7) Bukankah Allah adalah hakim yang paling adil? (8)"
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Makna Sumpah dalam Surah al-Tin",
+          "body": {
+            "type": "pairs",
+            "intro": "Allah bersumpah dengan tiga perkara dalam ayat 1-3:",
+            "rows": [
+              { "label": "التِّين (Tin)", "arabic": "بُقْعَة نَبِيّ عِيسَى", "meaning": "Tanah Syam (Baitul Maqdis) — tempat Nabi Isa a.s." },
+              { "label": "الزَّيْتُون (Zaitun)", "arabic": "بُقْعَة نَبِيّ إِبْرَاهِيم", "meaning": "Tanah Palestin/Syam — pokok zaitun di sana" },
+              { "label": "طُور سِينِين", "arabic": "الجبل الذي كلّم الله موسى", "meaning": "Bukit Sinai — tempat Allah berbicara dengan Nabi Musa a.s." }
+            ],
+            "outro": "Kemudian 'al-Balad al-Amin' = Mekah al-Mukarramah"
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "Pengajaran Utama",
+          "body": {
+            "type": "list",
+            "intro": "Pengajaran Surah al-Tin:",
+            "items": [
+              "Ayat 4: Manusia dicipta 'ahsan taqwim' — sebaik-baik kejadian (rupa, akal, potensi)",
+              "Ayat 5: Tanpa iman dan amal, manusia turun ke darjat paling rendah",
+              "Ayat 6: Orang beriman + beramal soleh mendapat pahala yang tidak putus",
+              "Ayat 8: Allah adalah 'Ahkam al-Hakimin' — Hakim yang paling adil dan bijaksana"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ayat paling penting dalam Surah al-Tin:",
+        "arabic": "لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ",
+        "translation": "Sesungguhnya Kami telah menciptakan manusia dalam sebaik-baik kejadian.",
+        "source": "Surah al-Tin: 4",
+        "outro": "Kita adalah makhluk terbaik ciptaan Allah — gunakan potensi ini untuk beriman dan beramal!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Teknik Menghafaz Surah al-Tin",
+      "items": [
+        "Surah ini pendek (8 ayat) — boleh hafaz dalam satu sesi.",
+        "Mulakan dengan memahami 3 sumpah Allah (ayat 1-3) — tin, zaitun, Tur Sinai.",
+        {
+          "type": "arabic",
+          "arabic": "وَالتِّينِ وَالزَّيْتُونِ — وَطُورِ سِينِينَ — وَهَٰذَا الْبَلَدِ الْأَمِينِ",
+          "translation": "Demi tin dan zaitun — Demi Tur Sinai — Demi kota yang aman ini (Mekah)"
+        },
+        "Hafaz ayat 4-5 bersama — ini isi utama (manusia sempurna → jatuh rendah).",
+        "Hafaz ayat 6-8 — penutup dengan pertanyaan retorik yang kuat."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Surah al-Tin adalah surah nombor ke berapa?",
+      "options": [
+        "Surah ke-93",
+        "Surah ke-94",
+        "Surah ke-95",
+        "Surah ke-96"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah maksud 'ahsan taqwim' dalam ayat 4?",
+      "options": [
+        "Manusia sering berdosa",
+        "Manusia dicipta dalam sebaik-baik kejadian",
+        "Manusia adalah lemah",
+        "Manusia perlu banyak ujian"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dalam Surah al-Tin, apakah yang Allah sumpah selain buah tin?",
+      "options": [
+        "Anggur dan kurma",
+        "Zaitun, Tur Sinai, dan Kota Mekah",
+        "Malam dan siang",
+        "Bulan dan bintang"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah pengajaran ayat 5 Surah al-Tin?",
+      "options": [
+        "Manusia selalu beriman",
+        "Manusia yang tidak beriman turun ke darjat paling rendah",
+        "Manusia lebih mulia dari malaikat",
+        "Manusia boleh memilih agama sendiri"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "al-Tin (95)", "colour": "#E91E63" },
+      { "id": "n2", "label": "Ahsan Taqwim", "colour": "#C2185B" },
+      { "id": "n3", "label": "3 Sumpah Allah", "colour": "#C2185B" },
+      { "id": "n4", "label": "Iman + Amal", "colour": "#AD1457" },
+      { "id": "n5", "label": "Ahkam al-Hakimin", "colour": "#AD1457" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "ayat 4" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "ayat 1-3" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "ayat 6 — selamat" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "ayat 8 — Allah Maha Adil" }
+    ]
+  },
+  "vocab": [
+    { "word": "التِّين", "meaning": "buah ara (tin)" },
+    { "word": "الزَّيْتُون", "meaning": "buah zaitun" },
+    { "word": "أَحْسَن تَقْوِيم", "meaning": "sebaik-baik kejadian/bentuk" },
+    { "word": "أَسْفَل سَافِلِين", "meaning": "serendah-rendah tempat" },
+    { "word": "أَحْكَم الحَاكِمِين", "meaning": "Hakim yang paling adil/bijaksana" }
+  ],
+  "funFact": "Tahukah kamu bahawa buah tin (ara) dan zaitun disebutkan dalam al-Quran kerana nilainya yang sangat tinggi dalam peradaban Timur Tengah? Pokok tin adalah salah satu pokok tertua ditanam manusia — lebih 11,000 tahun dahulu! Minyak zaitun pula digunakan sebagai makanan, ubat, dan bahan bakar lampu. Allah bersumpah dengan buah-buahan ini untuk menunjukkan nilai kebermaknaan tempat-tempat suci para nabi terdahulu!"
+}

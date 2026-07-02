@@ -1,0 +1,170 @@
+{
+  "id": "jais-tahun-4-bahasa-arab-bab7",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "bahasa-arab",
+  "chapter": 7,
+  "title": "Dars 7: Kata Perintah",
+  "emoji": "📢",
+  "colour": "#1565C0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "فِعْلُ الْأَمْر — Kata Perintah",
+      "body": "Kata perintah (فعل الأمر) digunakan untuk menyuruh seseorang melakukan sesuatu. Ia selalu ditujukan kepada KAMU (أَنْتَ). Contoh: 'duduk!', 'baca!', 'tulis!'. Kata perintah juga boleh berupa arahan baik seperti nasihat ibu bapa dan guru."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📢",
+          "title": "Kata Perintah Asas",
+          "body": {
+            "type": "pairs",
+            "intro": "Kata perintah biasa dalam kehidupan seharian:",
+            "rows": [
+              { "arabic": "اِكْتُبْ", "meaning": "tulis! (kepada lelaki)" },
+              { "arabic": "اِكْتُبِي", "meaning": "tulis! (kepada perempuan)" },
+              { "arabic": "اِقْرَأْ", "meaning": "baca! (kepada lelaki)" },
+              { "arabic": "اِقْرَئِي", "meaning": "baca! (kepada perempuan)" },
+              { "arabic": "اِجْلِسْ", "meaning": "duduk! (kepada lelaki)" },
+              { "arabic": "اِجْلِسِي", "meaning": "duduk! (kepada perempuan)" },
+              { "arabic": "اِفْتَحْ", "meaning": "buka! (kepada lelaki)" },
+              { "arabic": "نَظِّفْ", "meaning": "bersihkan! (kepada lelaki)" }
+            ]
+          }
+        },
+        {
+          "icon": "👨‍👩‍👦",
+          "title": "Arahan Ibu Bapa",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh arahan dan nasihat:",
+            "arabic": "يَا بُنَيَّ! نَظِّفِ الْحِذَاءَ.\nيَا بُنَيَّتِي! أَعِدِّي الشَّايَ.\nيَا أَخِي! رَتِّبِ الْغُرْفَة.\nيَا تِلْمِيذُ! اُكْتُبِ الرِّسَالَةَ إِلَى صَدِيقِكَ.",
+            "translation": "Wahai anakku (lelaki)! Bersihkan kasut.\nWahai anakku (perempuan)! Sediakan teh.\nWahai abangku! Kemas bilik.\nWahai murid! Tuliskan surat kepada kawanmu."
+          }
+        },
+        {
+          "icon": "📚",
+          "title": "Kata Perintah dalam Al-Quran",
+          "body": {
+            "type": "arabic",
+            "instruction": "Allah SWT memberi arahan kepada Maryam dalam al-Quran:",
+            "arabic": "يَا مَرْيَمُ اقْنُتِي لِرَبِّكِ وَاسْجُدِي وَارْكَعِي مَعَ الرَّاكِعِينَ",
+            "translation": "Wahai Maryam! Sujudlah kamu kepada Tuhanmu, dan sujudlah, serta rukuklah bersama orang-orang yang rukuk.",
+            "source": "Surah Ali Imran: 43"
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "Cara Membina Kata Perintah",
+          "body": {
+            "type": "list",
+            "intro": "Cara mudah bina kata perintah:",
+            "items": [
+              "Ambil kata kerja sekarang: يَكْتُبُ (dia menulis)",
+              "Buang huruf يَ di depan: كْتُبُ",
+              "Tambah اِ di depan dan buang baris di hujung: اُكْتُبْ!",
+              "Untuk perempuan: tambah ي di hujung — اُكْتُبِي!"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Perintah Rasulullah SAW kepada umat Islam:",
+        "arabic": "تَعَلَّمُوا الْعَرَبِيَّةَ كَمَا تَتَعَلَّمُونَ الْفَرَائِضَ",
+        "translation": "Pelajarilah bahasa Arab sebagaimana kamu mempelajari perkara-perkara fardhu.",
+        "source": "Athar Saidina Umar al-Khattab",
+        "outro": "تَعَلَّمُوا = pelajarilah! — kata perintah untuk ramai orang"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Perbezaan Kata Perintah Lelaki dan Perempuan",
+      "items": [
+        "Kata perintah lelaki (أَنْتَ): biasanya berakhir dengan سُكُون (ْ) — اُكْتُبْ, اِجْلِسْ, اِقْرَأْ",
+        "Kata perintah perempuan (أَنْتِ): tambah ي di hujung — اُكْتُبِي, اِجْلِسِي, اِقْرَئِي",
+        {
+          "type": "arabic",
+          "arabic": "اُكْتُبْ (lelaki) ←→ اُكْتُبِي (perempuan)",
+          "translation": "Tulis! (kepada lelaki) ←→ Tulis! (kepada perempuan)"
+        },
+        "Untuk ramai orang: tambah وا — اُكْتُبُوا (tulislah kamu semua!)",
+        "Gunakan kata perintah dengan sopan — selalu tambah يَا + nama: يَا أَحْمَد، اُكْتُبْ!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah kata perintah untuk 'baca!' kepada PEREMPUAN?",
+      "options": [
+        "اِقْرَأْ",
+        "اِقْرَئِي",
+        "يَقْرَأُ",
+        "تَقْرَأُ"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kata perintah dibina dari kata kerja jenis apa?",
+      "options": [
+        "Kata kerja lampau",
+        "Kata kerja sekarang",
+        "Kata nama",
+        "Kata sifat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah makna 'نَظِّفِ الْحِذَاءَ'?",
+      "options": [
+        "Pakai kasut",
+        "Cari kasut",
+        "Bersihkan kasut",
+        "Beli kasut"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Untuk memberi perintah kepada RAMAI orang, apa yang ditambah?",
+      "options": [
+        "ي",
+        "تْ",
+        "وا",
+        "نَ"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Kata Perintah", "colour": "#1565C0" },
+      { "id": "n2", "label": "Kepada Lelaki", "colour": "#1976D2" },
+      { "id": "n3", "label": "Kepada Perempuan", "colour": "#1976D2" },
+      { "id": "n4", "label": "Kepada Ramai", "colour": "#1976D2" },
+      { "id": "n5", "label": "اُكْتُبْ", "colour": "#42A5F5" },
+      { "id": "n6", "label": "اُكْتُبِي", "colour": "#42A5F5" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "bentuk" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "bentuk" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "bentuk" },
+      { "id": "e4", "source": "n2", "target": "n5", "label": "contoh" },
+      { "id": "e5", "source": "n3", "target": "n6", "label": "contoh" }
+    ]
+  },
+  "vocab": [
+    { "word": "اُكْتُبْ", "meaning": "tulis! (kepada lelaki)" },
+    { "word": "اِقْرَأْ", "meaning": "baca! (kepada lelaki)" },
+    { "word": "اِجْلِسْ", "meaning": "duduk! (kepada lelaki)" },
+    { "word": "نَظِّفْ", "meaning": "bersihkan!" },
+    { "word": "اِصْبِرْ", "meaning": "bersabarlah!" }
+  ],
+  "funFact": "Tahukah kamu bahawa surah pertama yang diturunkan kepada Nabi Muhammad SAW mengandungi kata perintah? اِقْرَأْ بِاسْمِ رَبِّكَ — 'Bacalah dengan nama Tuhanmu!' Perkataan اِقْرَأْ adalah kata perintah dari kata kerja قَرَأَ (membaca). Ini menunjukkan Islam sangat mementingkan ilmu dan bacaan sejak wahyu pertama lagi!"
+}

@@ -1,0 +1,160 @@
+{
+  "id": "jais-tahun-6-imlak-bab2",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "imlak",
+  "chapter": 2,
+  "title": "Imlak 2: Kaedah Tanwin dan Nun Sakinah dalam Penulisan",
+  "emoji": "✍️",
+  "colour": "#009688",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "التَّنْوِين وَالنُّون السَّاكِنَة — Dalam Tulisan Imlak",
+      "body": "Tanwin (ً ٍ ٌ) dan Nun Sakinah (نْ) mempunyai kaedah imlak yang khas. Dalam penulisan, kita perlu tahu di mana tanwin disambung dengan alif (seperti كِتَابًا) dan di mana tidak. Begitu juga, peraturan ikhfa', idgham, dan izhar dari sudut penulisan berbeza sedikit dari sudut bacaan. Menguasai ini akan meningkatkan ketepatan imlak secara keseluruhan."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "✍️",
+          "title": "Tanwin Fathah dan Alif Penambah",
+          "body": {
+            "type": "list",
+            "intro": "Kaedah bila tanwin fathah (ً) disertai alif dan bila tidak:",
+            "items": [
+              "Tanwin fathah DENGAN alif: perkataan yang tidak berakhir dengan ta' marbuthah atau hamzah — contoh: كِتَابًا، عِلْمًا",
+              "Tanwin fathah TANPA alif (1): perkataan berakhir dengan ta' marbuthah — contoh: مَدْرَسَةً (madrasah)",
+              "Tanwin fathah TANPA alif (2): perkataan berakhir dengan hamzah selepas alif — contoh: سَمَاءً (langit)",
+              "Tanwin fathah TANPA alif (3): perkataan berakhir dengan alif maqsurah (ى) — contoh: هُدًى (petunjuk)",
+              "Ingat: alif selepas tanwin fathah adalah bahagian perkataan — bukan tanda baris"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Nun Sakinah dalam Penulisan",
+          "body": {
+            "type": "pairs",
+            "intro": "Cara menulis nun sakinah mengikut hukum tajwid:",
+            "rows": [
+              { "arabic": "الإِظْهَار", "meaning": "Izhar — tulis nun dengan sukun jelas: مِنْ عِلْمٍ (min 'ilm)" },
+              { "arabic": "الإِدْغَام", "meaning": "Idgham — nun tidak tulis, gantikan dengan syaddah: مِن نَّعِيم (min na'im → مِنَّعِيم)" },
+              { "arabic": "الإِخْفَاء", "meaning": "Ikhfa' — tulis nun dengan sukun tetapi bacaan menjadi separuh dengung: مِنْ تَحْتِهَا" },
+              { "arabic": "الْإِقْلَاب", "meaning": "Iqlab — tulis nun, baca mim (mim kecil ditulis atas): مِنۢ بَعْدِ" }
+            ]
+          }
+        },
+        {
+          "icon": "🔑",
+          "title": "Perkataan-perkataan Sering Silap dalam Imlak",
+          "body": {
+            "type": "list",
+            "intro": "Senarai perkataan yang kerap disalah tulis — hafaz betul-betul:",
+            "items": [
+              "الرَّحْمَٰن — ada alif kecil (صغيرة) di atas ـ selepas mim — bukan alif biasa",
+              "اللَّهُمَّ — la ilaha illa Allah dalam satu perkataan — bukan dua",
+              "بِسْمِ اللَّهِ — Bismi tidak mempunyai alif: بسم (bukan بإسم)",
+              "إِنَّمَا — satu perkataan, bukan dua: (bukan إنّ + ما)",
+              "رَحْمَةً (rahmat) — ta' marbuthah, bukan ta' biasa"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "✍️",
+      "text": {
+        "type": "list",
+        "intro": "Latihan imlak — tulis dan bezakan:",
+        "items": [
+          "عِلْمًا (dengan alif) ← tanwin fathah + bukan ta' marbuthah/hamzah/alif maqsurah",
+          "رَحْمَةً (tanpa alif) ← berakhir ta' marbuthah",
+          "سَمَاءً (tanpa alif) ← berakhir hamzah selepas alif",
+          "هُدًى (tanpa alif) ← berakhir alif maqsurah (ى)",
+          "مَدْرَسَةً (tanpa alif) ← berakhir ta' marbuthah"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Panduan Latihan Imlak Harian",
+      "items": [
+        "Buat 'kertas rujukan' — senaraikan 4 kes tanwin fathah dan tampal di meja.",
+        "Latih menulis ayat-ayat pendek al-Quran sebagai imlak harian.",
+        {
+          "type": "arabic",
+          "arabic": "تَدْرِيب: اُكْتُبْ مِنَ الذَّاكِرَة:\nبِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\nالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِين",
+          "translation": "Latihan: Tulis dari ingatan: Bismillahirrahmanirrahim. Alhamdulillahi Rabbil 'alamin. — perhatikan semua hamzah, tanwin, dan alif kecil Ar-Rahman!"
+        },
+        "Semak tulisan dengan rakan — beri tanda merah pada kesalahan dan perbaiki.",
+        "Ingat: imlak yang betul menunjukkan kita faham bahasa Arab, bukan sekadar meniru bentuk!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Perkataan manakah yang memerlukan alif selepas tanwin fathah dalam penulisan?",
+      "options": [
+        "رَحْمَةً (rahmat — berakhir ta' marbuthah)",
+        "هُدًى (petunjuk — berakhir alif maqsurah)",
+        "عِلْمًا (ilmu — tidak berakhir ta' marbuthah/hamzah/alif maqsurah)",
+        "سَمَاءً (langit — berakhir hamzah selepas alif)"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Dalam penulisan idgham (nun sakinah + huruf idgham), bagaimana nun ditulis?",
+      "options": [
+        "Tulis nun dengan sukun",
+        "Nun tidak ditulis; digantikan dengan syaddah pada huruf seterusnya",
+        "Tulis nun dengan harakat biasa",
+        "Tulis mim kecil di atas nun"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Perkataan بِسْمِ اللَّهِ — mengapa tidak ada alif pada بسم?",
+      "options": [
+        "Kerana ia adalah hamzah Wasal yang gugur bila disambung",
+        "Kerana itu ejaan yang khusus untuk Bismillah sahaja",
+        "Kerana ini kesalahan yang sudah menjadi kebiasaan",
+        "Kerana ia bukan nama yang sebenar"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Manakah penulisan yang BETUL untuk perkataan 'langit' (sama')?",
+      "options": [
+        "سَمَاءً (tanpa alif selepas tanwin — kerana berakhir hamzah)",
+        "سَمَاءًا (dengan alif selepas tanwin)",
+        "سَمَاءٌ (tanwin dhammah)",
+        "سَمَاءٍ (tanwin kasrah)"
+      ],
+      "answer": 0
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Imlak Lanjut", "colour": "#009688" },
+      { "id": "n2", "label": "Tanwin Fathah + Alif", "colour": "#00796B" },
+      { "id": "n3", "label": "Nun Sakinah Imlak", "colour": "#00796B" },
+      { "id": "n4", "label": "Perkataan Sering Silap", "colour": "#004D40" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "kaedah 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "kaedah 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "amaran" }
+    ]
+  },
+  "vocab": [
+    { "word": "التَّنْوِين", "meaning": "tanwin (baris dua — ً ٍ ٌ — bunyi 'n' tambahan di hujung)" },
+    { "word": "النُّون السَّاكِنَة", "meaning": "nun sakinah (nun berbaris sukun — نْ)" },
+    { "word": "الشَّدَّة", "meaning": "syaddah/tasydid (ّ — tanda penggandaan huruf)" },
+    { "word": "التَّاء الْمَرْبُوطَة", "meaning": "ta' marbuthah (ة — ta' yang diikat, bunyi 'ah' atau 't')" },
+    { "word": "الأَلِف الْمَقْصُورَة", "meaning": "alif maqsurah (ى — alif yang 'dipendekkan', berbunyi 'a' panjang)" }
+  ],
+  "funFact": "Tahukah kamu bahawa salah satu kesalahan imlak paling terkenal dalam sejarah berlaku dalam satu dokumen perjanjian antara orang Islam dan Yahudi di Madinah? Pertikaian ejaan sebuah perkataan pernah menjadi isu besar dalam sejarah awal Islam. Itulah sebabnya Nabi SAW sangat menekankan pentingnya mempelajari bahasa Arab dengan betul — termasuk cara menulis dan membacanya. Umar al-Khattab r.a. pernah berkata: 'Pelajari bahasa Arab, kerana ia sebahagian dari agamamu.' Kesalahan dalam menulis satu huruf saja boleh mengubah makna ayat al-Quran sepenuhnya — seperti 'ضَلَّ' (sesat) berbeza dari 'ظَلَّ' (tetap/berehat). Satu titik, makna berbeza!"
+}

@@ -1,0 +1,157 @@
+{
+  "id": "jais-tahun-4-imlak-bab2",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "imlak",
+  "chapter": 2,
+  "title": "Hamzah Ditulis di Atas Huruf Wau",
+  "emoji": "✍️",
+  "colour": "#009688",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "هَمْزَة دِتُولِيس دِ أَتَس حُرُوف وَاو — Pelajaran Kedua",
+      "body": "Dalam pelajaran ini kita belajar tentang hamzah yang ditulis di atas huruf wau (ؤ). Huruf 'ء' di tengah kalimat yang ditulis di atas huruf 'و' berlaku apabila hamzah mempunyai baris dammah (ُ) atau huruf sebelumnya berbaris dammah. Contoh: مُؤْمِنٌ, رُؤُوسٌ, سُؤَالٌ."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📌",
+          "title": "Konsep: Hamzah di Atas Huruf Wau (ؤ)",
+          "body": {
+            "type": "list",
+            "intro": "Huruf 'ء' di tengah kalimat yang ditulis di atas huruf 'و'. Contoh kata-kata:",
+            "items": [
+              "مُؤْمِنٌ — orang yang beriman",
+              "مُؤَلَّفٌ — kitab/buku karangan",
+              "رُؤُوسًا — kepala-kepala",
+              "سُؤَالٌ — soalan/pertanyaan",
+              "مُؤَوَّلٌ — yang ditakwilkan",
+              "مُؤَسَّسَةٌ — yayasan/institusi"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Ayat Imlak — Latihan Hamzah di Atas Wau",
+          "body": {
+            "type": "list",
+            "intro": "Ayat-ayat imlak yang mengandungi hamzah ditulis di atas huruf wau (hlm 18):",
+            "items": [
+              "أَلَمْ يَأْتِكُمْ نَبَأُ الَّذِينَ مِن قَبْلِكُمْ — Bukankah telah datang kepada kamu berita orang-orang sebelum kamu?",
+              "وَامْسَحُوا بِرُءُوسِكُمْ — Dan sapulah kepala-kepala kamu",
+              "أَجِبْ عَنِ السُّؤَالِ الآتِي — Jawab soalan yang berikut",
+              "الْمُؤْمِنُ يُحِبُّ الْأَنْصَارَ — Orang beriman mencintai kaum Ansar",
+              "وَاغْفِرْ لِلْمُؤَذِّنِينَ — Dan ampunilah para muazzin"
+            ]
+          }
+        },
+        {
+          "icon": "✏️",
+          "title": "Latihan: Salin Ayat Hamzah di Atas Wau",
+          "body": {
+            "type": "list",
+            "intro": "Salin ayat-ayat berikut yang mengandungi hamzah di atas huruf wau (hlm 19):",
+            "items": [
+              "إِنَّهَا عَلَيْهِم مُؤْصَدَةٌ — Sesungguhnya pintu-pintu tertutup atas mereka",
+              "بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا — Bahkan kamu lebih mengutamakan kehidupan dunia",
+              "الْمُؤْمِنُ يُحِبُّ الْأَنْصَارَ — Orang beriman mencintai kaum Ansar",
+              "يُؤَوِّلُ التَّاجِرُ مَالَهُ — Pedagang itu mengurus/mentakwilkan hartanya"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Firman Allah — Surah an-Nisa': 162 — mengandungi banyak hamzah ditulis di atas wau:",
+        "arabic": "لَكِنِ الرَّاسِخُونَ فِي الْعِلْمِ مِنْهُمْ وَالْمُؤْمِنُونَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ وَالْمُقِيمِينَ الصَّلَاةَ وَالْمُؤْتُونَ الزَّكَاةَ وَالْمُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ أُولَٰئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا",
+        "translation": "Tetapi orang-orang yang teguh ilmunya di antara mereka dan orang-orang yang beriman — mereka beriman dengan apa yang diturunkan kepadamu dan apa yang diturunkan sebelummu — dan orang-orang yang mendirikan solat, dan orang-orang yang menunaikan zakat, dan orang-orang yang beriman kepada Allah dan Hari Akhirat — mereka itulah yang akan Kami berikan pahala yang besar.",
+        "source": "Surah an-Nisa': 162 — perhatikan: الْمُؤْمِنُونَ، يُؤْمِنُونَ، الْمُؤْتُونَ، سَنُؤْتِيهِمْ — semuanya hamzah di atas wau"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Amalkan: Sifat Bertanya kepada Yang Mengetahui",
+      "items": [
+        "Firman Allah — Surah an-Nahl: 43 — mengandungi hamzah di atas wau:",
+        {
+          "type": "arabic",
+          "arabic": "وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِمْ فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ",
+          "translation": "Dan tidaklah Kami mengutuskan sebelummu (wahai Muhammad) melainkan orang-orang lelaki yang Kami wahyukan kepada mereka. Maka bertanyalah kepada orang-orang yang mempunyai ilmu pengetahuan agama jika kamu tidak mengetahui. (Surah an-Nahl: 43)"
+        },
+        "Makhraj huruf hamzah 'ء' ialah di bahagian dalam rongga halqum (tekak) — iaitu tempat keluar bunyi hamzah.",
+        "Sifat segera bertanya kepada yang berkeyakinan mengetahui adalah sifat yang mulia.",
+        "Sifat yakin bertanya kepada mereka yang memiliki ilmu dan pengetahuan."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Bila hamzah ditulis di atas huruf wau (ؤ)?",
+      "options": [
+        "Apabila hamzah berada di awal kalimat",
+        "Apabila hamzah mempunyai baris dammah atau huruf sebelumnya berbaris dammah",
+        "Apabila hamzah berada di akhir kalimat",
+        "Apabila hamzah tidak berbaris"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dalam kata 'مُؤْمِنٌ', hamzah ditulis di atas huruf apa?",
+      "options": [
+        "Huruf alif (ا)",
+        "Huruf ya (ي)",
+        "Huruf wau (و)",
+        "Huruf tanpa sandaran"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Dalam Surah an-Nahl: 43, Allah memerintahkan kita untuk bertanya kepada siapa jika tidak tahu?",
+      "options": [
+        "Kepada rakan-rakan sebaya",
+        "Kepada ahli keluarga",
+        "Kepada ahli zikir (orang yang mempunyai ilmu pengetahuan agama)",
+        "Kepada orang yang lebih tua sahaja"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Makhraj (tempat keluar bunyi) huruf hamzah 'ء' adalah di mana?",
+      "options": [
+        "Di bahagian bibir",
+        "Di bahagian lidah tengah",
+        "Di bahagian dalam rongga halqum (tekak)",
+        "Di bahagian hidung"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Hamzah di atas Wau (ؤ)", "colour": "#009688" },
+      { "id": "n2", "label": "Baris Dammah (ُ)", "colour": "#00796B" },
+      { "id": "n3", "label": "Contoh: مُؤْمِنٌ رُؤُوسٌ", "colour": "#00796B" },
+      { "id": "n4", "label": "Makhraj: Rongga Halqum", "colour": "#004D40" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "syarat" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "contoh" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "makhraj huruf" }
+    ]
+  },
+  "vocab": [
+    { "word": "مُؤْمِنٌ", "meaning": "mumin (orang yang beriman — hamzah di atas wau)" },
+    { "word": "رُؤُوسٌ", "meaning": "ru'us (kepala-kepala — jamak dari ra's, hamzah di atas wau)" },
+    { "word": "سُؤَالٌ", "meaning": "su'al (soalan/pertanyaan — hamzah di atas wau)" },
+    { "word": "مُؤَسَّسَةٌ", "meaning": "mu'assasah (yayasan/institusi — hamzah di atas wau)" },
+    { "word": "الْحَلْقُوم", "meaning": "halqum (tekak/rongga kerongkong — tempat keluar bunyi hamzah)" }
+  ],
+  "funFact": "Tahukah kamu bahawa hamzah boleh ditulis dalam empat cara berbeza dalam bahasa Arab? Ia boleh ditulis: (1) di atas alif أ — apabila berbaris fathah; (2) di bawah alif إ — apabila berbaris kasrah; (3) di atas wau ؤ — apabila berbaris dammah; dan (4) di atas ya tanpa titik ئ — apabila berbaris kasrah di tengah kalimat. Inilah yang menjadikan bahasa Arab sangat unik — satu huruf yang sama boleh ditulis dalam empat bentuk yang berbeza bergantung kedudukannya dalam kalimat!"
+}

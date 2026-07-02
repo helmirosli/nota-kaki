@@ -1,0 +1,153 @@
+{
+  "id": "jais-tahun-6-imlak-bab3",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "imlak",
+  "chapter": 3,
+  "title": "Imlak 3: Penulisan Ayat dan Teks Agama",
+  "emoji": "✍️",
+  "colour": "#009688",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "كِتَابَة الآيَات وَالأَحَادِيث — Menulis Teks Agama dengan Tepat",
+      "body": "Pada peringkat Tahun 6, pelajar diuji menulis ayat-ayat al-Quran dan hadith yang pendek dari diktasi (imlak). Ini memerlukan gabungan kemahiran: hafazan ayat, kemahiran hamzah, kaedah tanwin, dan adab menulis teks suci. Menulis ayat al-Quran dengan betul adalah amanah — kesalahan yang disengajakan boleh menjadi dosa."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Adab Menulis Teks Agama",
+          "body": {
+            "type": "list",
+            "intro": "Adab yang wajib dijaga semasa menulis ayat al-Quran atau hadith:",
+            "items": [
+              "Mulakan dengan Basmalah: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيم",
+              "Duduk dalam keadaan bersih — idealnya berwudhu' sebelum menulis",
+              "Tulis dengan teliti dan jelas — jangan gopoh-gapah",
+              "Jangan meletakkan teks al-Quran di tempat yang tidak sepatutnya",
+              "Selepas selesai — baca semula dan semak kesalahan"
+            ]
+          }
+        },
+        {
+          "icon": "✍️",
+          "title": "Latihan Imlak: Ayat Pilihan",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat untuk latihan imlak — hafaz dan tulis dengan betul:",
+            "arabic": "إِنَّ اللَّهَ مَعَ الصَّابِرِين\nوَبَشِّرِ الصَّابِرِين\nالَّذِينَ إِذَا أَصَابَتْهُم مُّصِيبَةٌ قَالُوا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُون",
+            "translation": "Sesungguhnya Allah bersama orang-orang yang sabar. Dan berilah khabar gembira kepada orang-orang yang sabar — iaitu orang-orang yang apabila ditimpa musibah berkata: 'Sesungguhnya kami milik Allah dan kepada-Nya kami kembali.'",
+            "source": "al-Baqarah: 153-156 — ayat yang kerap digunakan dalam imlak Tahun 6"
+          }
+        },
+        {
+          "icon": "🔑",
+          "title": "Titik Penting dalam Imlak Ayat",
+          "body": {
+            "type": "list",
+            "intro": "Bahagian yang kerap tersalah dalam imlak ayat:",
+            "items": [
+              "إِنَّا — dua huruf, bukan إن + نا dipisah",
+              "مُّصِيبَةٌ — syaddah pada mim (مُّ), ya' bertanda, ta' marbuthah tanwin",
+              "رَاجِعُون — alif sebelum jim, bukan waw: رَاجِعُون bukan رَوْجِعُون",
+              "إِلَيْهِ — ya' bertanda (يْ sakin), bukan alif",
+              "Tanda waqaf (⊙ ۗ ۘ) tidak ditulis dalam imlak — hanya fokus pada kalimah"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "✍️",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith pendek untuk latihan imlak dan hafazan:",
+        "arabic": "طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِم",
+        "translation": "Menuntut ilmu adalah kewajipan ke atas setiap Muslim.",
+        "source": "Riwayat Ibn Majah — hadith yang sangat sesuai untuk latihan imlak Tahun 6"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Teknik Imlak yang Berkesan",
+      "items": [
+        "Dengar dahulu keseluruhan ayat yang akan di-imlak — jangan terus tulis.",
+        "Tulis perlahan-lahan — bayangkan setiap huruf sebelum menulis.",
+        {
+          "type": "arabic",
+          "arabic": "خُطْوَات الإِمْلَاء الصَّحِيح:\n١. اسْمَعْ كَامِلًا\n٢. اُكْتُبْ بِهُدُوء\n٣. رَاجِعْ كَلِمَةً كَلِمَة",
+          "translation": "Langkah-langkah imlak yang betul: 1. Dengar sepenuhnya 2. Tulis dengan tenang 3. Semak perkataan demi perkataan"
+        },
+        "Semak terutama: hamzah, tanwin, ta' marbuthah/maftuhah, alif/ya'.",
+        "Ingat: setiap kesalahan yang diperbaiki itu adalah pembelajaran — jangan malu tersalah!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Manakah yang merupakan adab menulis ayat al-Quran?",
+      "options": [
+        "Mulakan dengan doa sahaja",
+        "Mulakan dengan Basmalah, duduk bersih, tulis dengan teliti",
+        "Tidak perlu adab khas — tulis seperti biasa",
+        "Hanya ulama sahaja boleh menulis al-Quran"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dalam frasa 'إِنَّا لِلَّهِ', perkataan إِنَّا ditulis:",
+      "options": [
+        "Dua perkataan: إِنّ + نَا",
+        "Satu perkataan dengan syaddah pada nun: إِنَّا",
+        "Dengan alif di hujung: إِنَّى",
+        "Dengan waw di hujung: إِنَّو"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Hadith 'طَلَبُ الْعِلْمِ فَرِيضَةٌ' bermaksud:",
+      "options": [
+        "Ilmu adalah cahaya",
+        "Menuntut ilmu adalah kewajipan ke atas setiap Muslim",
+        "Ilmu lebih baik dari harta",
+        "Orang berilmu lebih mulia dari orang beribadah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah langkah pertama yang betul dalam melakukan imlak?",
+      "options": [
+        "Terus tulis ketika guru menyebut",
+        "Dengar dahulu keseluruhan ayat sebelum menulis",
+        "Tanya kawan jika tidak tahu",
+        "Tulis apa yang diingat sahaja"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Imlak Teks Agama", "colour": "#009688" },
+      { "id": "n2", "label": "Adab Menulis", "colour": "#00796B" },
+      { "id": "n3", "label": "Titik Rawan Silap", "colour": "#00796B" },
+      { "id": "n4", "label": "Teknik Imlak", "colour": "#004D40" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "syarat" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "perhatian" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "cara" }
+    ]
+  },
+  "vocab": [
+    { "word": "الإِمْلَاء", "meaning": "imlak (menulis teks dari diktasi lisan)" },
+    { "word": "الدِّكْتَاتِيُون", "meaning": "diktasi (guru membaca; pelajar menulis tanpa tengok teks)" },
+    { "word": "الْمُرَاجَعَة", "meaning": "muraja'ah (semakan — semak semula tulisan selepas imlak)" },
+    { "word": "الْبَسْمَلَة", "meaning": "basmalah (بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيم — pembuka penulisan Islam)" },
+    { "word": "الْوُضُوء", "meaning": "wudhu' — disunahkan berwudhu' sebelum menulis/memegang al-Quran" }
+  ],
+  "funFact": "Tahukah kamu bahawa zaman keemasan Islam (abad ke-8 hingga ke-13) melahirkan penulis-penulis manuskrip yang luar biasa? Para katib (penulis) al-Quran pada zaman itu menjadikan kerja menyalin al-Quran sebagai ibadah yang sangat serius. Mereka berwudhu' sebelum menulis, dan setiap kali hendak menulis nama 'Allah', mereka akan berwudhu' semula! Beberapa manuskrip al-Quran tertua yang ditemui di Universiti Birmingham, England (bertarikh 568-645M) menunjukkan tulisan yang sangat indah dan tepat — tanpa sebarang kesalahan yang ketara walaupun ditulis di atas kulit binatang. Inilah warisan 'imlak' para sahabat dan tabi'in yang kita teruskan hari ini."
+}

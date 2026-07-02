@@ -1,0 +1,159 @@
+{
+  "id": "jais-tahun-4-jawi-bab1",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "jawi",
+  "chapter": 1,
+  "title": "Jawi 1: Membaca dan Menulis Jawi Lanjutan",
+  "emoji": "📜",
+  "colour": "#FF9800",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْخَطُّ الْجَاوِي — Tulisan Jawi",
+      "body": "Tulisan Jawi adalah tulisan tradisional bahasa Melayu yang berasaskan skrip Arab. Ia telah digunakan oleh orang Melayu selama lebih 700 tahun dan merupakan warisan budaya dan agama yang sangat berharga. Dalam Tahun 4, kita tingkatkan kemahiran membaca dan menulis Jawi dengan teks yang lebih panjang."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📝",
+          "title": "Huruf Jawi Khas (5 huruf tambahan)",
+          "body": {
+            "type": "pairs",
+            "intro": "5 huruf Jawi yang tidak ada dalam Arab — huruf tambahan untuk bunyi Melayu:",
+            "rows": [
+              { "arabic": "چ (Ca)", "meaning": "bunyi 'ch' dalam bahasa Melayu — چيتا (cheetah)" },
+              { "arabic": "ڤ (Pa)", "meaning": "bunyi 'p' dalam bahasa Melayu — ڤاڤا (papa)" },
+              { "arabic": "ݢ (Ga)", "meaning": "bunyi 'g' dalam bahasa Melayu — ݢاجه (gajah)" },
+              { "arabic": "ڽ (Nya)", "meaning": "bunyi 'ny' dalam bahasa Melayu — ڽيور (nyiur)" },
+              { "arabic": "ڠ (Nga)", "meaning": "bunyi 'ng' dalam bahasa Melayu — ڠان (ngan)" }
+            ],
+            "outro": "Hafaz 5 huruf khas ini: چ ڤ ݢ ڽ ڠ — ini yang membezakan Jawi dari Arab"
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Membaca Ayat Jawi",
+          "body": {
+            "type": "arabic",
+            "instruction": "Baca dan faham teks Jawi ini:",
+            "arabic": "اسلام اداله اݢام يڠ دبوا اوليه نبي محمد صلّى الله عليه وسلّم. اݢام اسلام مڠاجركن كيت سوڤاي برايمان كڤد الله دان برسلاوة كڤد نبي.",
+            "translation": "Islam adalah agama yang dibawa oleh Nabi Muhammad SAW. Agama Islam mengajarkan kita supaya beriman kepada Allah dan berselawat kepada Nabi."
+          }
+        },
+        {
+          "icon": "✍️",
+          "title": "Ejaan Jawi Perkataan Penting",
+          "body": {
+            "type": "pairs",
+            "intro": "Perkataan penting dalam ejaan Jawi:",
+            "rows": [
+              { "arabic": "اللّه", "meaning": "Allah" },
+              { "arabic": "نبي محمّد", "meaning": "Nabi Muhammad" },
+              { "arabic": "اسلام", "meaning": "Islam" },
+              { "arabic": "مسجد", "meaning": "masjid" },
+              { "arabic": "الاف", "meaning": "alaf / zaman" },
+              { "arabic": "سمباهيڠ", "meaning": "sembahyang" },
+              { "arabic": "ڤوسا", "meaning": "puasa" },
+              { "arabic": "زكات", "meaning": "zakat" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📜",
+      "text": {
+        "type": "list",
+        "intro": "Peraturan penting ejaan Jawi:",
+        "items": [
+          "Jawi ditulis dari KANAN ke KIRI (sama seperti Arab)",
+          "Vokal pendek (a, i, u) biasanya tidak ditulis dalam Jawi",
+          "Vokal panjang diwakili huruf: Alif (ا) = a panjang, Ya' (ي) = i, Waw (و) = u",
+          "Perkataan Melayu asli: ejaan ikut Daftar Kata Jawi DBP"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Membaca Teks Jawi",
+      "items": [
+        "Mula dari kanan — baca dari kanan ke kiri seperti membaca Arab.",
+        "Kenali huruf Jawi asas (36 huruf) termasuk 5 huruf khas.",
+        "Perhatikan perkataan yang ada huruf khas Jawi — ia bukan perkataan Arab.",
+        {
+          "type": "arabic",
+          "arabic": "چيتا = Ch + i + ta = Chita | ڤاڤا = Pa + Pa = Papa",
+          "translation": "Huruf چ = bunyi 'Ch' | Huruf ڤ = bunyi 'P'"
+        },
+        "Latih membaca papan tanda, buku agama, dan al-Quran Jawi setiap hari."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa huruf khas yang ada dalam tulisan Jawi tetapi tidak ada dalam Arab?",
+      "options": [
+        "3 huruf",
+        "4 huruf",
+        "5 huruf",
+        "6 huruf"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Huruf Jawi manakah yang mewakili bunyi 'P'?",
+      "options": [
+        "چ",
+        "ڤ",
+        "ݢ",
+        "ڠ"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dalam tulisan Jawi, penulisan bermula dari arah mana?",
+      "options": [
+        "Kiri ke kanan",
+        "Kanan ke kiri",
+        "Atas ke bawah",
+        "Ikut suka"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah fungsi huruf Waw (و) dalam ejaan Jawi?",
+      "options": [
+        "Mewakili vokal 'a' panjang",
+        "Mewakili vokal 'u' atau 'o'",
+        "Mewakili bunyi 'ng'",
+        "Hanya untuk perkataan Arab"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Jawi Tahun 4", "colour": "#FF9800" },
+      { "id": "n2", "label": "5 Huruf Khas", "colour": "#F57C00" },
+      { "id": "n3", "label": "Membaca Teks", "colour": "#F57C00" },
+      { "id": "n4", "label": "Ejaan Betul", "colour": "#F57C00" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "ciri khas" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "kemahiran" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "latihan" }
+    ]
+  },
+  "vocab": [
+    { "word": "جاوي", "meaning": "Jawi (skrip tulisan Melayu berasas Arab)" },
+    { "word": "چ (Ca)", "meaning": "huruf khas Jawi untuk bunyi 'ch'" },
+    { "word": "ڤ (Pa)", "meaning": "huruf khas Jawi untuk bunyi 'p'" },
+    { "word": "ݢ (Ga)", "meaning": "huruf khas Jawi untuk bunyi 'g'" },
+    { "word": "ڠ (Nga)", "meaning": "huruf khas Jawi untuk bunyi 'ng'" }
+  ],
+  "funFact": "Tahukah kamu bahawa batu bersurat Terengganu (bertarikh 1303 Masihi) adalah bukti tertua penggunaan tulisan Jawi di Nusantara? Ia ditulis dalam bahasa Melayu menggunakan huruf Arab dan mengandungi undang-undang Islam! Ini bermakna tulisan Jawi sudah digunakan di Malaysia lebih 700 tahun yang lalu. Sebelum tulisan Rumi diperkenalkan oleh penjajah British, semua surat rasmi, undang-undang, dan kitab agama di Nusantara ditulis dalam Jawi!"
+}

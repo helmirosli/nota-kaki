@@ -1,0 +1,131 @@
+{
+  "id": "jais-tahun-5-arab-bab7",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 7,
+  "title": "حُرُوفُ النَّفْيِ وَحَرْفُ النَّهْيِ — لَا النَّافِيَةُ",
+  "emoji": "📖",
+  "colour": "#2196F3",
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الدرس السابع — حروف النفي وحرف النهي: لا الناهية",
+      "body": "Pada akhir pelajaran ini, murid dapat: (1) Mendengar ayat yang mengandungi حروف النفي dan حرف النهي dengan betul. (2) Menyebut حروف النفي dan حرف النهي dengan betul. (3) Membaca ayat yang mengandungi حروف النفي dan حرف النهي dengan jelas. (4) Menulis ayat yang mengandungi حروف النفي dan حرف النهي dengan betul."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🚫",
+          "title": "الوحدة الأولى — حروف النفي: أنا لَا أ...",
+          "body": {
+            "type": "arabic",
+            "instruction": "Dengar dan ulang 5 ayat ini — setiap satu menggunakan لَا untuk menafikan perbuatan buruk:",
+            "arabic": "١. أَنَا لَا أُسِيْءُ إِلَى النَّاسِ.\n٢. أَنَا لَا أُؤَدِّي عَمَلِيْ بِالْكَسَلِ.\n٣. أَنَا لَا أُؤَخِّرُ عَمَلَ الْيَوْمِ إِلَى الْغَدِ.\n٤. أَنَا لَا أَلْعَبُ فِيْ وَقْتِ الدِّرَاسَةِ.\n٥. أَنَا لَا أَكْذِبُ إِذَا سُئِلْتُ.",
+            "translation": "1. Saya tidak menyakiti orang lain.\n2. Saya tidak melakukan kerja saya dengan malas.\n3. Saya tidak menangguhkan kerja hari ini ke esok.\n4. Saya tidak bermain semasa waktu belajar.\n5. Saya tidak berdusta apabila ditanya."
+          }
+        },
+        {
+          "icon": "📚",
+          "title": "Pengertian حروف النفي",
+          "body": {
+            "type": "pairs",
+            "intro": "Huruf-huruf Nafi (حروف النفي) digunakan untuk menafikan (menidakkan) sesuatu perbuatan:",
+            "rows": [
+              { "arabic": "لَا + فعل مضارع", "meaning": "Laa + kata kerja sekarang — menafikan perbuatan sekarang/selalu. Contoh: لَا أَكْذِبُ (saya tidak berdusta)" },
+              { "arabic": "لَمْ + فعل مضارع", "meaning": "Lam + kata kerja — menafikan perbuatan yang telah lepas. Contoh: لَمْ أَذْهَبْ (saya tidak pergi)" },
+              { "arabic": "لَنْ + فعل مضارع", "meaning": "Lan + kata kerja — menafikan perbuatan pada masa hadapan. Contoh: لَنْ أَكْذِبَ (saya tidak akan berdusta)" }
+            ]
+          }
+        },
+        {
+          "icon": "✋",
+          "title": "Kosa Kata — Nilai-nilai Murni dalam 5 Ayat",
+          "body": {
+            "type": "pairs",
+            "intro": "Perkataan penting dari 5 ayat لَا النافية:",
+            "rows": [
+              { "arabic": "أُسِيْءُ إِلَى النَّاسِ", "meaning": "Usiiu ilaan naas — menyakiti orang lain" },
+              { "arabic": "أُؤَدِّي بِالْكَسَلِ", "meaning": "U'addii bil kasal — melakukan dengan malas" },
+              { "arabic": "أُؤَخِّرُ", "meaning": "U'akhkhiru — menangguhkan" },
+              { "arabic": "عَمَلَ الْيَوْمِ", "meaning": "'Amalal yawm — kerja hari ini" },
+              { "arabic": "وَقْتُ الدِّرَاسَةِ", "meaning": "Waqtud diraasah — waktu belajar" },
+              { "arabic": "أَكْذِبُ إِذَا سُئِلْتُ", "meaning": "Akzibu izaa su'iltu — berdusta apabila ditanya" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "لَا النافية + فعل مضارع = menafikan perbuatan. Semua 5 ayat di sini menggunakan pola 'أَنَا لَا + فعل مضارع' — saya tidak melakukan... Ini adalah nilai-nilai akhlak mulia: tidak menyakiti orang, tidak malas, tidak menangguhkan kerja, tidak bermain waktu belajar, dan tidak berbohong."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud 'أَنَا لَا أُسِيْءُ إِلَى النَّاسِ'?",
+      "options": [
+        "Saya tidak malas belajar",
+        "Saya tidak menyakiti orang lain",
+        "Saya tidak berdusta",
+        "Saya tidak bermain"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Pola ayat نفي menggunakan 'لَا' adalah...",
+      "options": [
+        "لَا + اسم",
+        "لَا + فعل ماضي",
+        "لَا + فعل مضارع",
+        "لَا + حرف"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah maksud 'أَنَا لَا أُؤَخِّرُ عَمَلَ الْيَوْمِ إِلَى الْغَدِ'?",
+      "options": [
+        "Saya tidak bermain semasa belajar",
+        "Saya tidak malas",
+        "Saya tidak menangguhkan kerja hari ini ke esok",
+        "Saya tidak berdusta"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Ayat bilangan berapa yang berkaitan dengan 'jangan bermain waktu belajar'?",
+      "options": [
+        "Ayat 2",
+        "Ayat 3",
+        "Ayat 4",
+        "Ayat 5"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "حروف النفي", "colour": "#2196F3" },
+      { "id": "n2", "label": "لَا (sekarang)", "colour": "#1976D2" },
+      { "id": "n3", "label": "لَمْ (lampau)", "colour": "#1565C0" },
+      { "id": "n4", "label": "لَنْ (hadapan)", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "+ فعل مضارع" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "+ فعل مضارع" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "+ فعل مضارع" }
+    ]
+  },
+  "vocab": [
+    { "word": "حُرُوْفُ النَّفْيِ", "meaning": "Huruufun nafiy — huruf-huruf nafi (penafian)" },
+    { "word": "لَا النَّافِيَةُ", "meaning": "Laan naafiyah — 'laa' penafi (menafikan perbuatan sekarang/biasa)" },
+    { "word": "أُسِيْءُ", "meaning": "Usiiu — saya menyakiti / berlaku buruk" },
+    { "word": "الْكَسَلُ", "meaning": "Al-Kasal — kemalasan" },
+    { "word": "أُؤَخِّرُ", "meaning": "U'akhkhiru — saya menangguhkan" },
+    { "word": "أَكْذِبُ", "meaning": "Akzibu — saya berdusta" }
+  ],
+  "funFact": "Tahukah kamu bahawa bahasa Arab mempunyai beberapa cara berbeza untuk mengatakan 'tidak'? لَا digunakan untuk menafikan perbuatan biasa, لَمْ untuk menafikan perbuatan lampau, لَنْ untuk menafikan masa hadapan, dan لَيْسَ untuk menafikan kata nama. Ini berbeza dengan bahasa Melayu yang hanya menggunakan 'tidak' atau 'bukan'. Lima ayat dalam pelajaran ini bukan sekadar tatabahasa — ia juga mengajar nilai-nilai akhlak mulia dalam Islam!"
+}

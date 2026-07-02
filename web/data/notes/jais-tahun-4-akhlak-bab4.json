@@ -1,0 +1,158 @@
+{
+  "id": "jais-tahun-4-akhlak-bab4",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "akhlak",
+  "chapter": 4,
+  "title": "Bab 4: Adab dengan Guru",
+  "emoji": "🌱",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْأَدَب مَعَ الْمُعَلِّم — Adab dengan Guru",
+      "body": "Guru adalah insan yang paling berjasa dalam mendidik kita selepas ibu bapa. Dalam Islam, menghormati guru bukan sekadar adab biasa — ia adalah salah satu cara kita menghargai ilmu yang Allah berikan. Ulama dahulu berkata: 'Siapa yang tidak menghormati gurunya, ilmunya tidak akan memberi manfaat.'"
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📚",
+          "title": "Adab-adab dengan Guru",
+          "body": {
+            "type": "list",
+            "intro": "Cara beradab yang betul dengan guru:",
+            "items": [
+              "Mengucapkan salam apabila bertemu guru",
+              "Duduk dengan sopan semasa guru mengajar — jangan bersandar atau baring",
+              "Mendengar dengan penuh perhatian — tidak bercakap atau bermain semasa guru mengajar",
+              "Mengangkat tangan untuk bertanya — tidak memotong kata guru",
+              "Tidak memandang rendah guru — walaupun kita lebih tahu",
+              "Mendoakan kebaikan untuk guru"
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Kelebihan Ilmu dan Guru",
+          "body": {
+            "type": "arabic",
+            "instruction": "Hadith tentang kelebihan orang berilmu:",
+            "arabic": "مَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ طَرِيقًا إِلَى الْجَنَّة",
+            "translation": "Sesiapa yang menempuh jalan untuk mencari ilmu, Allah akan mudahkan baginya jalan menuju syurga.",
+            "source": "Riwayat Muslim"
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "Kisah Ulama Menghormati Guru",
+          "body": {
+            "type": "list",
+            "intro": "Teladan para ulama dalam menghormati guru:",
+            "items": [
+              "Imam al-Syafi'i berkata: 'Aku membelek halaman buku dengan lembut agar Imam Malik tidak terganggu bunyi kertas'",
+              "Imam Ahmad bin Hanbal tidak pernah memanjangkan kaki ke arah rumah gurunya",
+              "Al-Rabi' bin Sulaiman berkata: 'Aku tidak berani minum air di hadapan Imam al-Syafi'i kerana rasa malu'",
+              "Para ulama dahulu menganggap khidmat kepada guru sebagai ibadah yang mulia"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "list",
+        "intro": "Doa untuk guru-guru kita:",
+        "items": [
+          "اللَّهُمَّ اغْفِرْ لِأَسَاتِذَتِنَا وَعَلِّمْنَا مَا يَنْفَعُنَا",
+          "(Ya Allah, ampunkanlah guru-guru kami dan ajar kami apa yang bermanfaat untuk kami)",
+          "Doakan guru kita selepas solat — pahala ilmu yang mereka ajar terus mengalir!"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengamalkan Adab dengan Guru",
+      "items": [
+        "Setiap kali masuk kelas, ucapkan salam kepada guru.",
+        "Duduk tegak dan hadap ke depan semasa guru mengajar — tanda hormat.",
+        "Selesaikan kerja rumah yang diberikan guru — itu tanda penghormatan.",
+        {
+          "type": "arabic",
+          "arabic": "مَنْ عَلَّمَنِي حَرْفًا فَقَدْ صَيَّرَنِي عَبْدًا",
+          "translation": "Sesiapa yang mengajarku satu huruf, maka dia telah menjadikan aku hambanya.",
+          "source": "Kata-kata Saidina Ali r.a."
+        },
+        "Sebutkan nama guru dengan hormat — bukan panggil nama sahaja tanpa gelaran."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah adab pertama apabila bertemu guru?",
+      "options": [
+        "Bertanya soalan",
+        "Mengucapkan salam",
+        "Meminta izin untuk masuk",
+        "Menunjukkan kerja rumah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Menurut hadith, apa yang Allah mudahkan bagi orang yang mencari ilmu?",
+      "options": [
+        "Jalan menuju kekayaan",
+        "Jalan menuju syurga",
+        "Jalan menuju kesihatan",
+        "Jalan menuju kedudukan tinggi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Mengapa para ulama dahulu sangat menghormati guru mereka?",
+      "options": [
+        "Kerana guru mereka kaya",
+        "Kerana mereka menganggap ilmu sangat mulia dan guru sebagai pembawa ilmu",
+        "Kerana guru mereka lebih tua",
+        "Kerana peraturan negara"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang Imam al-Syafi'i lakukan untuk menghormati gurunya, Imam Malik?",
+      "options": [
+        "Tidak pernah bertanya soalan",
+        "Membawa hadiah setiap hari",
+        "Membelek halaman buku dengan lembut agar tidak buat bunyi",
+        "Duduk di belakang kelas"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Adab dengan Guru", "colour": "#4CAF50" },
+      { "id": "n2", "label": "Hormat & Taat", "colour": "#388E3C" },
+      { "id": "n3", "label": "Dengar dengan Teliti", "colour": "#388E3C" },
+      { "id": "n4", "label": "Doa untuk Guru", "colour": "#388E3C" },
+      { "id": "n5", "label": "Ilmu Bermanfaat", "colour": "#66BB6A" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "cara 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "cara 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "cara 3" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "hasilnya" }
+    ]
+  },
+  "vocab": [
+    { "word": "مُعَلِّم", "meaning": "guru / pengajar" },
+    { "word": "أُسْتَاذ", "meaning": "guru / profesor (panggilan hormat)" },
+    { "word": "عِلْم", "meaning": "ilmu pengetahuan" },
+    { "word": "أَدَب", "meaning": "adab / tata krama" },
+    { "word": "تَوَاضُع", "meaning": "rendah diri / tawaduk" }
+  ],
+  "funFact": "Tahukah kamu bahawa Saidina Ali r.a. pernah berkata: 'Sesiapa yang mengajarku satu huruf, maka dia telah menjadikan aku hambanya'? Ini menunjukkan betapa tingginya penghargaan beliau terhadap guru dan ilmu. Dalam tradisi ilmu Islam, ada suatu amalan yang dipanggil 'silsilah sanad' — rantaian guru kepada guru, hingga sampai kepada Rasulullah SAW. Ini bermakna setiap ilmu Islam yang kamu pelajari mempunyai rantaian yang boleh ditelusuri hingga ke Nabi SAW sendiri!"
+}

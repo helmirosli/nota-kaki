@@ -1,0 +1,155 @@
+{
+  "id": "jais-tahun-6-khat-bab3",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "khat",
+  "chapter": 3,
+  "title": "Khat 3: Khat Thuluth — Seni Khat Tertinggi",
+  "emoji": "🎨",
+  "colour": "#795548",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "خَطُّ الثُّلُث — Raja Segala Khat",
+      "body": "Khat Thuluth (خَطّ الثُّلُث) digelar 'Raja segala Khat' dan dianggap sebagai khat yang paling indah dan paling bermaruah dalam tradisi khat Islam. Namanya bererti 'satu pertiga' — mungkin kerana satu pertiga hurufnya condong. Ia digunakan untuk hiasan masjid, mihrab, kaligrafi dinding, perisytiharan rasmi, dan dekorasi istimewa. Menguasai Thuluth adalah impian setiap pelajar khat."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🎨",
+          "title": "Ciri-ciri Khat Thuluth",
+          "body": {
+            "type": "list",
+            "intro": "Apa yang menjadikan khat Thuluth istimewa:",
+            "items": [
+              "Huruf yang lebih besar dan menonjol — sesuai untuk paparan yang dilihat dari jauh",
+              "Banyak lengkung yang indah dan dekorasi (tazyin) pada hujung huruf",
+              "Boleh ditulis dengan cara 'muthallath' (tiga baris ke atas) untuk efek 3D",
+              "Fleksibel — huruf boleh diatur dalam pelbagai komposisi kreatif",
+              "Ia memerlukan tahun latihan untuk dikuasai sepenuhnya"
+            ]
+          }
+        },
+        {
+          "icon": "🌍",
+          "title": "Khat Thuluth di Seluruh Dunia",
+          "body": {
+            "type": "list",
+            "intro": "Di mana khat Thuluth digunakan dalam tamadun Islam:",
+            "items": [
+              "Dinding Kaabah (Kiswah) — khat Thuluth di tepian kiswah emas",
+              "Masjid-masjid besar — mihrab, kubah, dinding bahagian dalam",
+              "Duit syiling dan wang kertas — banyak negara Arab menggunakan Thuluth",
+              "Sijil dan anugerah rasmi — diploma, watikah perlantikan",
+              "Karya kaligrafi hiasan — bingkai, ukiran, cetakan seni"
+            ]
+          }
+        },
+        {
+          "icon": "📜",
+          "title": "Perbandingan Tiga Khat Utama",
+          "body": {
+            "type": "pairs",
+            "intro": "Ringkasan tiga khat yang dipelajari dalam kursus khat:",
+            "rows": [
+              { "arabic": "النَّسْخ", "meaning": "Naskhi — asas, untuk al-Quran dan buku, mudah dibaca, semua orang pelajari" },
+              { "arabic": "الرُّقْعَة", "meaning": "Ruq'ah — harian, cepat, tegas, untuk nota dan papan tanda" },
+              { "arabic": "الثُّلُث", "meaning": "Thuluth — seni tertinggi, untuk hiasan masjid dan karya kaligrafi, perlukan latihan bertahun" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🎨",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ayat yang sering ditulis dalam khat Thuluth untuk hiasan masjid:",
+        "arabic": "إِنَّمَا يَعْمُرُ مَسَاجِدَ اللَّهِ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِر",
+        "translation": "Sesungguhnya yang memakmurkan masjid-masjid Allah ialah orang yang beriman kepada Allah dan Hari Akhirat.",
+        "source": "Surah al-Taubah: 18 — ayat ini sangat popular ditulis dalam khat Thuluth di dinding masjid"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Jalan Menuju Khat Thuluth",
+      "items": [
+        "Kuasai Naskhi dahulu sepenuhnya — Thuluth dibina di atas asas Naskhi.",
+        "Kemudian Ruq'ah — supaya tangan terlatih dalam kelajuan dan ketegasan.",
+        {
+          "type": "arabic",
+          "arabic": "قَالَ الخَطَّاطُون:\nمَنْ لَمْ يَتَعَلَّمِ النَّسْخَ أَوَّلًا\nفَلَيْسَ مِنَ الخَطَّاطِين",
+          "translation": "Para kaligrafer berkata: 'Sesiapa yang tidak belajar Naskhi terlebih dahulu, dia bukanlah dari golongan kaligrafer (sejati).'"
+        },
+        "Perhatikan karya-karya kaligrafer besar: Hassan Celebi, Hamid al-Amidi, dan lain-lain.",
+        "Ingat: khat adalah jihad — ia memerlukan kesabaran, keberanian, dan dedikasi bertahun-tahun!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Mengapa khat Thuluth digelar 'Raja segala Khat'?",
+      "options": [
+        "Kerana ia yang paling mudah dipelajari",
+        "Kerana ia yang paling lama dalam sejarah",
+        "Kerana ia dianggap paling indah dan bermaruah dalam tradisi khat Islam",
+        "Kerana Raja Arab menciptanya"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Khat Thuluth paling sesuai digunakan untuk:",
+      "options": [
+        "Penulisan harian dan nota",
+        "Cetakan al-Quran standard",
+        "Hiasan masjid, kaligrafi dinding, dan karya seni",
+        "Dokumen pejabat harian"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Urutan pembelajaran khat yang betul mengikut cadangan kaligrafer adalah:",
+      "options": [
+        "Thuluth → Naskhi → Ruq'ah",
+        "Ruq'ah → Thuluth → Naskhi",
+        "Naskhi terlebih dahulu, kemudian khat-khat lain",
+        "Semua boleh dipelajari serentak"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Nama 'Thuluth' dalam bahasa Arab bermaksud:",
+      "options": [
+        "Tulisan yang indah",
+        "Satu pertiga",
+        "Raja kaligrafi",
+        "Tulisan masjid"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Khat Thuluth", "colour": "#795548" },
+      { "id": "n2", "label": "Raja Segala Khat", "colour": "#5D4037" },
+      { "id": "n3", "label": "Hiasan Masjid & Seni", "colour": "#5D4037" },
+      { "id": "n4", "label": "Naskhi → Ruq'ah → Thuluth", "colour": "#3E2723" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "gelaran" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "kegunaan" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "urutan belajar" }
+    ]
+  },
+  "vocab": [
+    { "word": "خَطّ الثُّلُث", "meaning": "khat Thuluth (Raja Segala Khat — seni kaligrafi Islam tertinggi)" },
+    { "word": "الثُّلُث", "meaning": "thuluth (satu pertiga — asal nama khat ini)" },
+    { "word": "التَّزْيِين", "meaning": "tazyin (hiasan/dekorasi pada huruf khat)" },
+    { "word": "الْكِسْوَة", "meaning": "kiswah (kain penutup Kaabah — bertulisan Thuluth)" },
+    { "word": "الْخَطَّاط", "meaning": "khattath (kaligrafer — pakar dalam seni khat)" }
+  ],
+  "funFact": "Tahukah kamu bahawa khat Thuluth yang menghiasi dinding Kaabah (kiswah) dihasilkan oleh para kaligrafer yang berlatih selama puluhan tahun? Kiswah Kaabah diganti setiap tahun pada 9 Zulhijjah (hari Arafah). Proses membuat satu kiswah memerlukan masa lebih setahun, melibatkan lebih 200 orang pekerja, menggunakan kira-kira 670 kg benang emas, dan mengandungi ayat-ayat al-Quran yang ditulis tangan dalam khat Thuluth oleh kaligrafer terpilih. Nilai sehelai kiswah dianggarkan melebihi RM 20 juta! Bayangkan — khat yang kita pelajari hari ini adalah seni yang sama digunakan untuk menghiasi rumah Allah yang paling mulia di muka bumi."
+}

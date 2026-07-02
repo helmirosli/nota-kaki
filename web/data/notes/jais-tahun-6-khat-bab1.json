@@ -1,0 +1,153 @@
+{
+  "id": "jais-tahun-6-khat-bab1",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "khat",
+  "chapter": 1,
+  "title": "Khat 1: Khat Naskhi — Menulis Ayat al-Quran",
+  "emoji": "🖊️",
+  "colour": "#795548",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "كِتَابَة الآيَات بِخَطِّ النَّسْخ — Khat Naskhi untuk Ayat Mulia",
+      "body": "Pada peringkat Tahun 6, pelajar menulis ayat-ayat al-Quran dan hadith dalam khat Naskhi dengan indah dan tepat. Khat Naskhi adalah tulisan yang paling banyak digunakan untuk mencetak al-Quran di seluruh dunia. Menulis ayat al-Quran dalam khat yang indah adalah ibadah yang sangat dituntut — ia memuliakan kalam Allah dengan cara yang paling estetik."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🖊️",
+          "title": "Ciri-ciri Khat Naskhi yang Baik",
+          "body": {
+            "type": "list",
+            "intro": "Empat ciri utama khat Naskhi yang sempurna:",
+            "items": [
+              "Nisbah (proportion) — setiap huruf ada nisbah yang tepat berdasarkan titik pen (nuqtah)",
+              "Satr (garis dasar) — semua huruf 'duduk' di atas garis yang sama dan lurus",
+              "Tawazun (keseimbangan) — ruang antara huruf sekata, tidak terlalu rapat atau renggang",
+              "Wudhuh (kejelasan) — setiap huruf jelas dan mudah dibaca — tidak berserabut",
+              "Istidaqah (ketipisan yang tepat) — bahagian menegak tebal, bahagian melintang nipis"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Ayat Latihan Khat Tahun 6",
+          "body": {
+            "type": "arabic",
+            "instruction": "Ayat-ayat pilihan untuk latihan khat Naskhi Tahun 6:",
+            "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّار",
+            "translation": "Wahai Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami dari seksa api neraka.",
+            "source": "Surah al-Baqarah: 201 — doa yang sangat popular untuk latihan khat kerana panjangnya sesuai"
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Persiapan Alat Khat",
+          "body": {
+            "type": "list",
+            "intro": "Alat-alat yang diperlukan untuk khat Naskhi:",
+            "items": [
+              "Kalam (قَلَم) — pen reed/buluh atau pen khat yang dipotong 45 darjah",
+              "Dawat (دَوَات) — dakwat hitam yang pekat dan tidak cepat kering",
+              "Kertas khat — kertas khas yang tidak menghisap dakwat terlalu cepat",
+              "Louh (لَوْح) — papan atau alas yang rata dan keras",
+              "Kain lap — untuk membersihkan pen bila perlu"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🖊️",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ayat al-Quran tentang pen dan penulisan — inspirasi untuk belajar khat:",
+        "arabic": "ن وَالْقَلَمِ وَمَا يَسْطُرُون",
+        "translation": "Nun, demi kalam (pena) dan apa yang mereka tulis.",
+        "source": "Surah al-Qalam: 1 — Allah bersumpah dengan kalam (pena) — menunjukkan kemuliaan penulisan"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Latihan Khat Naskhi yang Berkesan",
+      "items": [
+        "Mulakan dengan latihan huruf tunggal — kuasai setiap huruf sebelum sambung.",
+        "Latih garis dasar (satr) — garis lurus adalah asas khat yang baik.",
+        {
+          "type": "arabic",
+          "arabic": "خُطْوَات كِتَابَة الآيَة:\n١. رسم الخط بالقلم الرصاص أولاً\n٢. اكتب بالقلم الكتابي\n٣. أضف الحركات بعناية\n٤. راجع الاستواء والتناسب",
+          "translation": "Langkah menulis ayat khat: 1. Lukis garis panduan dengan pensel dulu 2. Tulis dengan pen khat 3. Tambah baris dengan teliti 4. Semak kelurusan dan nisbah"
+        },
+        "Latihan harian minimum 15 minit — konsisten lebih penting dari tempoh lama sekali sekala.",
+        "Ingat: khat bukan bakat semula jadi — ia adalah kemahiran yang datang dengan latihan!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Manakah ciri khat Naskhi yang bermaksud 'semua huruf berada di atas garis yang sama'?",
+      "options": [
+        "Nisbah (nisbah huruf)",
+        "Satr (garis dasar)",
+        "Tawazun (keseimbangan)",
+        "Wudhuh (kejelasan)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Surah al-Qalam ayat 1 'ن وَالْقَلَمِ' — Allah bersumpah dengan apa?",
+      "options": [
+        "Huruf Nun sahaja",
+        "Kalam (pena) dan apa yang ditulis",
+        "Dakwat dan kertas",
+        "Ilmu pengetahuan"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dalam khat Naskhi, bahagian menegak huruf sepatutnya:",
+      "options": [
+        "Nipis sahaja",
+        "Tebal (berbanding bahagian melintang yang nipis)",
+        "Sama tebal seperti semua bahagian",
+        "Bergantung kepada huruf"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa minit minimum latihan khat yang disyorkan setiap hari?",
+      "options": [
+        "5 minit",
+        "15 minit — konsisten lebih penting dari sekali lama",
+        "1 jam",
+        "Hanya semasa kelas"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Khat Naskhi Lanjut", "colour": "#795548" },
+      { "id": "n2", "label": "5 Ciri Khat Baik", "colour": "#5D4037" },
+      { "id": "n3", "label": "Alat Khat", "colour": "#5D4037" },
+      { "id": "n4", "label": "Teknik Latihan", "colour": "#3E2723" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "standard" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "keperluan" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "cara" }
+    ]
+  },
+  "vocab": [
+    { "word": "خَطّ النَّسْخ", "meaning": "khat Naskhi (tulisan Arab paling popular — digunakan cetak al-Quran)" },
+    { "word": "الْقَلَم", "meaning": "kalam (pena/kalam — alat utama khat)" },
+    { "word": "النِّسْبَة", "meaning": "nisbah (proporsi/perkadaran huruf berdasarkan titik pen)" },
+    { "word": "السَّطْر", "meaning": "satr (garis dasar — huruf khat duduk di atas satr)" },
+    { "word": "التَّوَازُن", "meaning": "tawazun (keseimbangan ruang dalam khat)" }
+  ],
+  "funFact": "Tahukah kamu bahawa khat Naskhi mendapat namanya dari perkataan Arab 'naskh' yang bermaksud 'menyalin'? Ia dibangunkan khas untuk memudahkan penyalinan manuskrip kerana tulisannya yang jelas dan mudah dibaca dalam jumlah yang banyak. Sebelum era percetakan, para katib (penulis manuskrip) di dunia Islam boleh menyalin sehingga 30-40 halaman sehari dalam khat Naskhi yang kemas! Apabila mesin cetak Arab pertama dicipta pada abad ke-18, para jurutera memilih khat Naskhi sebagai jenis huruf standard untuk percetakan — dan keputusan itu kekal hingga hari ini. Hampir semua al-Quran yang dicetak di seluruh dunia menggunakan khat Naskhi atau variannya, khat Medina (yang dikembangkan oleh percetakan King Fahd di Arab Saudi)."
+}

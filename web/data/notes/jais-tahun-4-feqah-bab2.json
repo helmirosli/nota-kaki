@@ -1,0 +1,171 @@
+{
+  "id": "jais-tahun-4-feqah-bab2",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "feqah",
+  "chapter": 2,
+  "title": "Bab 2: Solat Sunat Rawatib",
+  "emoji": "🕌",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "السُّنَّة الرَّوَاتِب — Solat Sunat Rawatib",
+      "body": "Solat Sunat Rawatib adalah solat sunat yang mengiringi solat fardhu — ada yang dilakukan sebelum (qabliyah) dan ada yang selepas (ba'diyah). Ia antara solat sunat yang paling dituntut dalam Islam."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📚",
+          "title": "Maksud Rawatib",
+          "body": {
+            "type": "list",
+            "intro": "Pengertian Solat Sunat Rawatib:",
+            "items": [
+              "Rawatib bermakna 'tetap/kekal' — dikerjakan secara tetap mengiringi solat fardhu",
+              "Qabliyah (قبلية) = sebelum solat fardhu",
+              "Ba'diyah (بعدية) = selepas solat fardhu",
+              "Ada dua kategori: Muakkad (sangat dituntut) dan Ghair Muakkad"
+            ]
+          }
+        },
+        {
+          "icon": "📊",
+          "title": "Rawatib Muakkad — 10/12 Rakaat",
+          "body": {
+            "type": "pairs",
+            "intro": "Solat Sunat Rawatib yang sangat dituntut (Muakkad):",
+            "rows": [
+              { "label": "Subuh", "arabic": "2 ركعة قبل الصبح", "meaning": "2 rakaat SEBELUM Subuh" },
+              { "label": "Zohor", "arabic": "2/4 ركعة قبل الظهر", "meaning": "2 atau 4 rakaat SEBELUM Zohor" },
+              { "label": "Zohor", "arabic": "2 ركعة بعد الظهر", "meaning": "2 rakaat SELEPAS Zohor" },
+              { "label": "Maghrib", "arabic": "2 ركعة بعد المغرب", "meaning": "2 rakaat SELEPAS Maghrib" },
+              { "label": "Isyak", "arabic": "2 ركعة بعد العشاء", "meaning": "2 rakaat SELEPAS Isyak" }
+            ],
+            "outro": "Jumlah: 10 rakaat (ada pendapat 12 rakaat termasuk 4 sebelum Zohor)"
+          }
+        },
+        {
+          "icon": "📋",
+          "title": "Rawatib Ghair Muakkad",
+          "body": {
+            "type": "pairs",
+            "intro": "Solat Sunat Rawatib yang digalakkan (Ghair Muakkad):",
+            "rows": [
+              { "label": "Asar", "arabic": "4 ركعة قبل العصر", "meaning": "4 rakaat SEBELUM Asar" },
+              { "label": "Maghrib", "arabic": "2 ركعة قبل المغرب", "meaning": "2 rakaat SEBELUM Maghrib" },
+              { "label": "Isyak", "arabic": "2 ركعة قبل العشاء", "meaning": "2 rakaat SEBELUM Isyak" }
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Hadith tentang Rawatib",
+          "body": {
+            "type": "arabic",
+            "instruction": "Kelebihan Solat Rawatib:",
+            "arabic": "مَنْ صَلَّى فِي يَوْمٍ وَلَيْلَةٍ ثِنْتَيْ عَشْرَةَ رَكْعَةً بُنِيَ لَهُ بَيْتٌ فِي الْجَنَّة",
+            "translation": "Sesiapa yang solat dua belas rakaat dalam sehari semalam, akan dibina untuknya sebuah rumah di syurga.",
+            "source": "Riwayat Muslim"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "list",
+        "intro": "Keutamaan Rawatib Subuh:",
+        "items": [
+          "2 rakaat Sunat Subuh adalah yang PALING utama di antara semua Rawatib",
+          "Rasulullah SAW bersabda: 'Dua rakaat Fajar lebih baik dari dunia dan seisinya'",
+          "Amalan ini sangat ringan tapi pahalanya sangat besar — jangan tinggalkan!"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengerjakan Solat Sunat Rawatib",
+      "items": [
+        "Tentukan solat fardhu yang akan/baru dikerjakan dan tentukan Rawatibnya.",
+        "Niat Rawatib Qabliyah: sebelum azan atau sebelum iqamat.",
+        {
+          "type": "arabic",
+          "arabic": "أُصَلِّي سُنَّةَ الصُّبْحِ رَكْعَتَيْنِ قَبْلِيَّةً لِلَّهِ تَعَالَى",
+          "translation": "Sahaja aku solat sunat Subuh dua rakaat Qabliyah kerana Allah Taala"
+        },
+        "Niat Rawatib Ba'diyah: selepas salam solat fardhu.",
+        "Baca al-Fatihah + surah pendek dalam setiap rakaat.",
+        "Sunat Subuh: baca al-Kafirun (rakaat 1) dan al-Ikhlas (rakaat 2)."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud 'Qabliyah' dalam Solat Rawatib?",
+      "options": [
+        "Selepas solat fardhu",
+        "Sebelum solat fardhu",
+        "Semasa solat fardhu",
+        "Menggantikan solat fardhu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa rakaat Solat Sunat Rawatib Muakkad yang disebutkan dalam hadith riwayat Muslim?",
+      "options": [
+        "8 rakaat",
+        "10 rakaat",
+        "12 rakaat",
+        "14 rakaat"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sunat Rawatib yang PALING utama dan tidak pernah ditinggalkan Rasulullah SAW ialah:",
+      "options": [
+        "4 rakaat sebelum Zohor",
+        "2 rakaat sebelum Subuh",
+        "2 rakaat selepas Maghrib",
+        "2 rakaat selepas Isyak"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah ganjaran yang dijanjikan kepada orang yang mengerjakan 12 rakaat Rawatib sehari?",
+      "options": [
+        "Masuk syurga tanpa hisab",
+        "Dibina sebuah rumah di syurga",
+        "Diampunkan semua dosa",
+        "Dikurniakan rezeki berlipat ganda"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Solat Rawatib", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Qabliyah", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "Ba'diyah", "colour": "#7B1FA2" },
+      { "id": "n4", "label": "Muakkad", "colour": "#AB47BC" },
+      { "id": "n5", "label": "Ghair Muakkad", "colour": "#AB47BC" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "sebelum fardhu" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "selepas fardhu" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "jenis 1" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "jenis 2" }
+    ]
+  },
+  "vocab": [
+    { "word": "رَوَاتِب", "meaning": "yang tetap (solat sunat yang mengiringi fardhu)" },
+    { "word": "قَبْلِيَّة", "meaning": "yang sebelum (sebelum solat fardhu)" },
+    { "word": "بَعْدِيَّة", "meaning": "yang selepas (selepas solat fardhu)" },
+    { "word": "مُؤَكَّدَة", "meaning": "sangat dituntut / ditekankan" },
+    { "word": "الْفَجْر", "meaning": "waktu Subuh / fajar" }
+  ],
+  "funFact": "Tahukah kamu bahawa Sunat Subuh boleh dikerjakan walaupun selepas Subuh — selagi belum terbit matahari? Ini bermakna jika kamu terlewat dan tidak sempat buat sebelum Subuh, kamu masih boleh qada' selepas salam Subuh (sebelum matahari terbit). Rasulullah SAW sendiri pernah melakukan ini. Jadi jangan berputus asa walaupun terlewat!"
+}

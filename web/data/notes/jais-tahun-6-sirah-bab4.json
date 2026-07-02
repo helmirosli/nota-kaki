@@ -1,0 +1,156 @@
+{
+  "id": "jais-tahun-6-sirah-bab4",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "sirah",
+  "chapter": 4,
+  "title": "Sirah 4: Khalifah Ali bin Abi Talib r.a.",
+  "emoji": "🦁",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "عَلِيّ بْنُ أَبِي طَالِب — Pintu Ilmu, Khalifah Keempat",
+      "body": "Ali bin Abi Talib r.a. adalah khalifah keempat dan terakhir Khulafa' al-Rasyidin (35H-40H). Beliau adalah sepupu dan menantu Nabi SAW (suami Fatimah r.a.) serta orang pertama masuk Islam daripada kalangan kanak-kanak. Nabi SAW bersabda: 'Aku adalah kota ilmu, dan Ali adalah pintunya.' Beliau terkenal dengan keberanian, kebijaksanaan, dan kefasihan berbahasa."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "⭐",
+          "title": "Biodata Ali bin Abi Talib r.a.",
+          "body": {
+            "type": "list",
+            "intro": "Maklumat penting tentang Ali r.a.:",
+            "items": [
+              "Nama penuh: Ali bin Abi Talib bin Abdul Muttalib al-Hasyimi",
+              "Hubungan dengan Nabi SAW: sepupu dan menantu (suami Fatimah binti Muhammad SAW)",
+              "Masuk Islam: pertama dari kalangan kanak-kanak lelaki (berusia sekitar 10 tahun)",
+              "Khilafah: 35H-40H (sekitar 5 tahun — penuh dengan cabaran)",
+              "Syahid: ditikam oleh Ibn Muljam al-Khariji semasa solat Subuh di Kufah, 40H"
+            ]
+          }
+        },
+        {
+          "icon": "📚",
+          "title": "Ali r.a. — Pintu Ilmu",
+          "body": {
+            "type": "list",
+            "intro": "Kelebihan ilmu dan kebijaksanaan Ali r.a.:",
+            "items": [
+              "Hafaz al-Quran sejak kecil di bawah didikan Nabi SAW secara langsung",
+              "Pakar dalam ilmu tafsir, fiqh, bahasa Arab, dan ilmu balaghah",
+              "Nahjul Balagha — kumpulan khutbah, surat, dan kata-kata Ali r.a. (karya sastera Arab yang agung)",
+              "Hakim terulung — Nabi SAW pernah mengutusnya sebagai hakim ke Yaman",
+              "Kemahiran dalam pedang — pahlawan perang terhebat di zaman Nabi SAW"
+            ]
+          }
+        },
+        {
+          "icon": "🦁",
+          "title": "Keberanian Ali r.a. di Medan Perang",
+          "body": {
+            "type": "list",
+            "intro": "Peristiwa penting yang menunjukkan keberanian Ali r.a.:",
+            "items": [
+              "Malam Hijrah: Ali r.a. sanggup tidur di tempat tidur Nabi SAW — siap menjadi sasaran musuh",
+              "Perang Badar: antara pahlawan utama yang membunuh pendekar-pendekar Quraisy",
+              "Perang Uhud: mempertahankan Nabi SAW semasa keadaan kacau — walaupun cedera",
+              "Perang Khaybar: membuka pintu kubu Khaybar seorang diri dengan tamengnya yang terkenal — 'Zulfikar'"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📚",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith Nabi SAW tentang kedudukan Ali r.a.:",
+        "arabic": "أَنَا مَدِينَةُ الْعِلْمِ وَعَلِيٌّ بَابُهَا",
+        "translation": "Aku adalah kota ilmu, dan Ali adalah pintunya.",
+        "source": "Riwayat al-Hakim — menunjukkan kedudukan Ali r.a. sebagai orang paling dekat dengan ilmu Nabi SAW"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Pengajaran dari Khilafah Ali r.a.",
+      "items": [
+        "Keberanian membela yang hak — Ali tidak gentar menghadapi musuh demi mempertahankan kebenaran.",
+        "Ilmu adalah kekuatan sebenar — Ali menggabungkan pedang dengan ilmu yang luas.",
+        {
+          "type": "arabic",
+          "arabic": "قَالَ عَلِيٌّ: قِيمَةُ كُلِّ امْرِئٍ مَا يُحْسِنُه",
+          "translation": "Ali r.a. berkata: 'Nilai seseorang itu terletak pada apa yang dia mahir lakukan.'"
+        },
+        "Kesetiaan dan pengorbanan — tidur di tempat Nabi SAW semasa Hijrah adalah pengorbanan luar biasa.",
+        "Ingat: cintakan ilmu seperti Ali r.a. — dan beranikan diri untuk mempertahankan kebenaran!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah hubungan Ali r.a. dengan Nabi SAW?",
+      "options": [
+        "Abang angkat Nabi SAW",
+        "Sepupu dan menantu Nabi SAW (suami Fatimah r.a.)",
+        "Anak angkat Nabi SAW",
+        "Sahabat yang paling awal masuk Islam"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Mengapa Ali r.a. digelar 'Pintu Ilmu'?",
+      "options": [
+        "Kerana beliau mendirikan sekolah Islam pertama",
+        "Kerana Nabi SAW bersabda Ali adalah 'pintu kota ilmu Nabi SAW'",
+        "Kerana beliau menulis kitab ilmu pertama dalam Islam",
+        "Kerana beliau hafaz al-Quran paling awal"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Peristiwa apakah yang menunjukkan keberanian luar biasa Ali r.a. semasa Hijrah?",
+      "options": [
+        "Mengiringi Nabi SAW ke Madinah",
+        "Melawan tentera Quraisy bersendirian",
+        "Tidur di tempat tidur Nabi SAW — siap menjadi sasaran musuh",
+        "Membawa harta Nabi SAW ke Madinah"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bagaimana Ali r.a. syahid?",
+      "options": [
+        "Gugur dalam peperangan",
+        "Meninggal secara semula jadi dalam usia tua",
+        "Ditikam oleh Ibn Muljam al-Khariji semasa solat Subuh",
+        "Diracun oleh musuh Islam"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Ali bin Abi Talib r.a.", "colour": "#FF6F00" },
+      { "id": "n2", "label": "Pintu Ilmu", "colour": "#E65100" },
+      { "id": "n3", "label": "Pahlawan Perang", "colour": "#E65100" },
+      { "id": "n4", "label": "Menantu Nabi SAW", "colour": "#BF360C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "gelaran ilmu" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "keberanian" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "hubungan" }
+    ]
+  },
+  "vocab": [
+    { "word": "مَدِينَة الْعِلْم", "meaning": "kota ilmu — gelaran Nabi SAW; Ali adalah pintunya" },
+    { "word": "ذُو الْفِقَار", "meaning": "Zulfikar — pedang Ali r.a. yang terkenal" },
+    { "word": "الشَّجَاعَة", "meaning": "syaja'ah (keberanian — sifat utama Ali r.a.)" },
+    { "word": "الْبَلَاغَة", "meaning": "balaghah (ilmu kesusasteraan Arab yang indah)" },
+    { "word": "الْخَوَارِج", "meaning": "Khawarij (golongan yang keluar dari Islam — pembunuh Ali r.a.)" }
+  ],
+  "funFact": "Tahukah kamu bahawa kata-kata hikmah Ali r.a. masih digunakan dan dipetik di seluruh dunia hingga hari ini? Nahjul Balagha (نهج البلاغة — Jalan Kefasihan), kumpulan khutbah, surat, dan kata-kata Ali r.a., adalah antara karya sastera Arab yang paling indah. Antara kata-katanya yang terkenal: 'Berilah ilmu kepada manusia meskipun satu ayat, kerana ilmu adalah cahaya di mana-mana' dan 'Bercakaplah dengan manusia mengikut tahap akal mereka.' Bahkan kata-kata beliau tentang keadilan, kepimpinan, dan ilmu masih dipetik dalam buku-buku kepimpinan moden! Kata-kata seorang sahabat yang hidup 1,400 tahun lalu masih relevan hingga sekarang — itulah bukti kedalaman ilmunya."
+}

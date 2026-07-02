@@ -1,0 +1,165 @@
+{
+  "id": "jais-tahun-6-jawi-bab1",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "jawi",
+  "chapter": 1,
+  "title": "Jawi 1: Penulisan Teks Formal Jawi",
+  "emoji": "📜",
+  "colour": "#FF9800",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْكِتَابَة الرَّسْمِيَّة بِالْجَاوِي — Teks Formal dalam Tulisan Jawi",
+      "body": "Pada peringkat Tahun 6, pelajar menguasai penulisan teks formal dalam tulisan Jawi — surat rasmi, teks berita, ucapan, dan teks agama. Berbeza dengan tulisan biasa, teks formal memerlukan ketepatan ejaan Jawi, penggunaan kata-kata yang tepat, dan format yang betul. Tulisan Jawi adalah warisan tamadun Melayu-Islam yang wajib kita jaga."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📜",
+          "title": "Ejaan Jawi Standard — Kata Kata Sukar",
+          "body": {
+            "type": "pairs",
+            "intro": "Ejaan Jawi standard yang wajib dihafaz (ikut Daftar Kata DBP):",
+            "rows": [
+              { "arabic": "مسيارکت", "meaning": "masyarakat — bukan مشيارکت" },
+              { "arabic": "ڤنديديقن", "meaning": "pendidikan — perhatikan 'ق' bukan 'ک' untuk 'k' akhir" },
+              { "arabic": "ڤمبانڬونن", "meaning": "pembangunan — perhatikan ڬ untuk 'g'" },
+              { "arabic": "کموليان", "meaning": "kemuliaan — bukan کموليأن" },
+              { "arabic": "اڬام", "meaning": "agama — 'g' diwakili ڬ bukan غ" }
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Format Surat Rasmi Jawi",
+          "body": {
+            "type": "list",
+            "intro": "Bahagian-bahagian surat rasmi dalam tulisan Jawi:",
+            "items": [
+              "Kepala surat: nama pertubuhan/sekolah dalam Jawi",
+              "Tarikh: ٢٩ ذُو الْقَعْدَة ١٤٤٧ / ١٧ جون ٢٠٢٦",
+              "Kepada: يڠ اَرماتي (Yang Dihormati)",
+              "Rujukan: ر/ڤ/... (nombor rujukan)",
+              "Tajuk surat: bercetak tebal atau bergaris bawah",
+              "Salam pembuka: Assalamualaikum dan ucapan hormat",
+              "Isi: sebab surat ditulis",
+              "Penutup: sekian terima kasih, harap maklum"
+            ]
+          }
+        },
+        {
+          "icon": "🔑",
+          "title": "Ungkapan Formal dalam Jawi",
+          "body": {
+            "type": "pairs",
+            "intro": "Ungkapan-ungkapan formal dalam surat/teks rasmi Jawi:",
+            "rows": [
+              { "arabic": "يڠ اَرماتي", "meaning": "Yang Dihormati — pembuka surat rasmi" },
+              { "arabic": "دڠن هرمتڽ", "meaning": "Dengan hormatnya — salam pembuka surat rasmi" },
+              { "arabic": "بهاوا", "meaning": "Bahawa — untuk memulakan penyataan rasmi" },
+              { "arabic": "سکين ترم قسيه", "meaning": "Sekian terima kasih — penutup surat rasmi" },
+              { "arabic": "هارڤ ماقلوم", "meaning": "Harap maklum — meminta pihak yang dikirimi ambil tahu" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📜",
+      "text": {
+        "type": "list",
+        "intro": "Petikan teks formal Jawi — tajuk berita agama:",
+        "items": [
+          "ڤرتانديڠن ملابچ قرأن ڤريڠکت كبڠسأن",
+          "(Pertandingan Membaca Quran Peringkat Kebangsaan)",
+          "ڤلاجر-ڤلاجر سڬنڤ نڬري تله برکومڤول دي ايبو كوتا",
+          "(Pelajar-pelajar segenap negeri telah berkumpul di ibu kota)",
+          "باڬي برتاندिڠ دالم مڤلباڬاي کاتيڬوري",
+          "(Bagi bertanding dalam pelbagai kategori)"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Kuasai Penulisan Jawi Formal",
+      "items": [
+        "Hafaz ejaan Jawi kata-kata penting: masyarakat, pendidikan, kerajaan, pertubuhan.",
+        "Amalkan menulis satu perenggan Jawi setiap hari — catatkan dalam buku Jawi.",
+        {
+          "type": "arabic",
+          "arabic": "تانده-تانده ڤنتيڠ دالم تولسن جاوي:\n- همزه فتحه: أ\n- همزه کسره: إ\n- ڤامنجاڠ: ا ، و ، ي",
+          "translation": "Tanda-tanda penting dalam tulisan Jawi: Hamzah fathah (أ), Hamzah kasrah (إ), Huruf pemanjang: alif, waw, ya'"
+        },
+        "Latihan khas: Salin petikan berita agama dari akhbar/majalah Jawi.",
+        "Ingat: Jawi bukan sekadar cara menulis — ia identiti Muslim Melayu yang perlu dipelihara!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Ejaan Jawi yang BETUL untuk perkataan 'agama' adalah:",
+      "options": [
+        "اغام (guna غ untuk g)",
+        "اڬام (guna ڬ untuk g)",
+        "اجام (guna ج untuk g)",
+        "اگام (tiada huruf khas)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Ungkapan pembuka surat rasmi Jawi yang betul adalah:",
+      "options": [
+        "سلام جاوي",
+        "يڠ اَرماتي + دڠن هرمتڽ",
+        "يڠ موليا",
+        "ستياوسه"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Huruf Jawi yang digunakan untuk bunyi 'g' (seperti dalam 'agama') adalah:",
+      "options": [
+        "غ (ghain)",
+        "ج (jim)",
+        "ڬ (ga — huruf khas Jawi)",
+        "ك (kaf)"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Ungkapan 'Harap maklum' dalam surat rasmi Jawi ditulis:",
+      "options": [
+        "هارڤ فهم",
+        "هارڤ ماقلوم",
+        "امبيل تاهو",
+        "توهن سيلا"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Jawi Formal", "colour": "#FF9800" },
+      { "id": "n2", "label": "Ejaan Standard", "colour": "#F57C00" },
+      { "id": "n3", "label": "Format Surat Rasmi", "colour": "#F57C00" },
+      { "id": "n4", "label": "Ungkapan Formal", "colour": "#E65100" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "keperluan" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "frasa" }
+    ]
+  },
+  "vocab": [
+    { "word": "مسيارکت", "meaning": "masyarakat (ejaan Jawi standard)" },
+    { "word": "ڤنديديقن", "meaning": "pendidikan (ejaan Jawi standard)" },
+    { "word": "يڠ اَرماتي", "meaning": "Yang Dihormati (ungkapan surat rasmi Jawi)" },
+    { "word": "بهاوا", "meaning": "bahawa (kata penghubung formal dalam Jawi)" },
+    { "word": "سکين", "meaning": "sekian (kata penutup formal — bermaksud 'demikianlah')" }
+  ],
+  "funFact": "Tahukah kamu bahawa tulisan Jawi pernah menjadi satu-satunya sistem penulisan rasmi di Tanah Melayu selama ratusan tahun? Batu Bersurat Terengganu (1303M) yang dijumpai adalah antara bukti terawal penggunaan tulisan Jawi di Alam Melayu — ia mengandungi undang-undang Islam yang ditulis dalam Jawi. Dokumen-dokumen rasmi kerajaan, surat-menyurat raja, perjanjian, dan rekod perniagaan semuanya dalam Jawi hingga era penjajahan British pada abad ke-19. Malahan, semua nama jalan di Persekutuan Tanah Melayu dan Singapore sebelum merdeka ditulis dalam Jawi! Mempelajari Jawi bukan sekadar belajar tulisan lama — ia menghubungkan kita dengan sejarah dan tamadun nenek moyang kita."
+}

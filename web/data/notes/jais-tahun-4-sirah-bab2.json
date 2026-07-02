@@ -1,0 +1,174 @@
+{
+  "id": "jais-tahun-4-sirah-bab2",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "sirah",
+  "chapter": 2,
+  "title": "Bab 2: Isra' dan Mi'raj",
+  "emoji": "🌙",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْإِسْرَاء وَالْمِعْرَاج — Isra' dan Mi'raj",
+      "body": "Isra' Mi'raj adalah salah satu peristiwa paling menakjubkan dalam sejarah Islam. Ia berlaku pada malam 27 Rejab, tahun ke-10 kenabian. Dalam satu malam sahaja, Nabi Muhammad SAW dibawa oleh Allah dari Masjidil Haram ke Masjidil Aqsa (Isra'), kemudian naik ke langit hingga ke Sidratul Muntaha (Mi'raj)."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🕌",
+          "title": "Isra' — Perjalanan Malam",
+          "body": {
+            "type": "list",
+            "intro": "Peristiwa Isra' (perjalanan darat):",
+            "items": [
+              "Isra' = perjalanan malam dari Mekah ke Baitul Maqdis (Masjidil Aqsa)",
+              "Jarak sebenar: lebih 1,200 km — ditempuh dalam SATU MALAM",
+              "Kenderaan: Buraq — sejenis haiwan berkilat lebih cepat dari cahaya",
+              "Di Masjidil Aqsa, Nabi SAW menjadi imam solat kepada semua para nabi",
+              "Dalil: Surah al-Isra' (17): ayat 1 — '...سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا...'"
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Mi'raj — Naik ke Langit",
+          "body": {
+            "type": "list",
+            "intro": "Peristiwa Mi'raj (perjalanan ke atas):",
+            "items": [
+              "Mi'raj = kenaikan Nabi SAW dari Masjidil Aqsa ke Sidratul Muntaha",
+              "Nabi SAW melewati 7 lapisan langit",
+              "Di setiap langit, Baginda bertemu dengan para nabi: Adam, Yahya, Isa, Yusuf, Idris, Harun, Musa, Ibrahim a.s.",
+              "Di Sidratul Muntaha, Nabi SAW menerima perintah SOLAT 5 WAKTU",
+              "Awalnya diperintahkan 50 waktu — atas nasihat Nabi Musa a.s., dikurangkan kepada 5"
+            ]
+          }
+        },
+        {
+          "icon": "🕐",
+          "title": "Hikmah Perintah Solat 5 Waktu",
+          "body": {
+            "type": "list",
+            "intro": "Bagaimana solat 5 waktu diterima?",
+            "items": [
+              "Nabi SAW menerima perintah 50 waktu solat secara langsung dari Allah",
+              "Nabi Musa a.s. menasihati Nabi SAW minta dikurangkan — tahu beratnya bagi umat",
+              "Nabi SAW ulang-alik meminta pengurangan sehingga 5 waktu",
+              "Allah berfirman: '5 waktu itu setara dengan 50 waktu dari segi pahala'",
+              "Ini menunjukkan rahmat Allah — 5 waktu tapi pahala 50!"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil Isra' Mi'raj",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah tentang Isra':",
+            "arabic": "سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِّنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَا الَّذِي بَارَكْنَا حَوْلَهُ",
+            "translation": "Maha Suci Allah yang telah memperjalankan hamba-Nya (Muhammad) pada suatu malam dari Masjidil Haram ke Masjidil Aqsa yang Kami berkati sekelilingnya.",
+            "source": "Surah al-Isra': 1"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌙",
+      "text": {
+        "type": "list",
+        "intro": "Pengajaran Isra' Mi'raj:",
+        "items": [
+          "Solat adalah HADIAH paling berharga yang Allah berikan kepada umat Islam",
+          "Solat adalah satu-satunya ibadah yang diperintahkan secara TERUS kepada Nabi SAW (bukan melalui wahyu biasa)",
+          "Isra' Mi'raj terjadi sebagai penghiburan Allah selepas Tahun al-Huzn",
+          "Malam 27 Rejab kita rayakan sebagai Maulidur Rasul / Isra' Mi'raj"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Kronologi Peristiwa Isra' Mi'raj",
+      "items": [
+        "Malam 27 Rejab — Nabi SAW berada di rumah sepupunya Ummu Hani' di Mekah.",
+        "Jibril a.s. datang dan membelah dada Nabi SAW — membasuh hati dengan air zamzam.",
+        "Menaiki Buraq dari Masjidil Haram ke Masjidil Aqsa — Isra' selesai.",
+        {
+          "type": "arabic",
+          "arabic": "أُتِيَ بِالْبُرَاق، دَابَّة أَبْيَض، فَوْقَ الْحِمَار وَدُونَ الْبَغْل",
+          "translation": "Didatangkan Buraq, haiwan putih, lebih besar dari keldai tapi lebih kecil dari baghal"
+        },
+        "Naik ke langit 1 hingga 7, jumpa para nabi. Di Sidratul Muntaha — terima perintah solat.",
+        "Kembali ke Mekah sebelum subuh — perjalanan luar biasa selesai dalam satu malam!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah maksud 'Isra'' dalam Isra' Mi'raj?",
+      "options": [
+        "Naik ke langit",
+        "Perjalanan malam dari Mekah ke Masjidil Aqsa",
+        "Menerima wahyu al-Quran",
+        "Perjalanan ke Madinah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa waktu solat yang pada awalnya diperintahkan kepada Nabi SAW?",
+      "options": [
+        "5 waktu",
+        "10 waktu",
+        "30 waktu",
+        "50 waktu"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Siapakah nabi yang menasihati Nabi SAW untuk meminta pengurangan bilangan waktu solat?",
+      "options": [
+        "Nabi Ibrahim a.s.",
+        "Nabi Isa a.s.",
+        "Nabi Musa a.s.",
+        "Nabi Idris a.s."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah kenderaan yang digunakan Nabi SAW dalam peristiwa Isra'?",
+      "options": [
+        "Unta putih",
+        "Buraq",
+        "Kuda bersayap",
+        "Angin kencang"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Isra' Mi'raj", "colour": "#FF6F00" },
+      { "id": "n2", "label": "Masjidil Haram", "colour": "#E65100" },
+      { "id": "n3", "label": "Masjidil Aqsa", "colour": "#E65100" },
+      { "id": "n4", "label": "Sidratul Muntaha", "colour": "#BF360C" },
+      { "id": "n5", "label": "Solat 5 Waktu", "colour": "#FF8F00" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n2", "target": "n3", "label": "Isra'" },
+      { "id": "e2", "source": "n3", "target": "n4", "label": "Mi'raj" },
+      { "id": "e3", "source": "n4", "target": "n5", "label": "perintah" },
+      { "id": "e4", "source": "n1", "target": "n2", "label": "bermula" }
+    ]
+  },
+  "vocab": [
+    { "word": "إِسْرَاء", "meaning": "perjalanan malam (darat)" },
+    { "word": "مِعْرَاج", "meaning": "kenaikan ke langit" },
+    { "word": "الْبُرَاق", "meaning": "haiwan kenderaan Nabi SAW dalam Isra'" },
+    { "word": "سِدْرَة الْمُنْتَهَى", "meaning": "pokok bidara di hujung langit ke-7" },
+    { "word": "الصَّلَوَات الْخَمْس", "meaning": "solat lima waktu" }
+  ],
+  "funFact": "Tahukah kamu bahawa apabila Nabi SAW menceritakan Isra' Mi'raj kepada kaum Quraisy, kebanyakan mereka tidak percaya dan mengejek Baginda? Malah ada yang sebelum ini telah memeluk Islam jadi murtad semula! Tapi Abu Bakar r.a. terus mempercayai Nabi SAW dan berkata: 'Jika Baginda mengatakannya, pasti benar!' Sejak itulah Abu Bakar mendapat gelaran 'al-Siddiq' (orang yang sangat membenarkan)."
+}

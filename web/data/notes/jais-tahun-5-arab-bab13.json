@@ -1,0 +1,127 @@
+{
+  "id": "jais-tahun-5-arab-bab13",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 13,
+  "title": "الزِّيَارَةُ إِلَى الْمَحَلَّاتِ التِّجَارِيَّةِ — Lawatan ke Kedai",
+  "emoji": "📖",
+  "colour": "#2196F3",
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الدرس الثالث عشر — الزيارة إلى المحلات التجارية",
+      "body": "Pada akhir pelajaran ini, murid dapat: (1) Mendengar cerita lawatan ke kedai dengan betul. (2) Menyebut cerita lawatan ke kedai dengan betul. (3) Membaca cerita lawatan ke kedai dengan jelas. (4) Membentuk jawapan soalan tentang cerita tersebut."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🛍️",
+          "title": "القصة — الزيارة إلى المحلات التجارية",
+          "body": {
+            "type": "arabic",
+            "instruction": "Baca dan dengar cerita lawatan ke kedai di Shah Alam:",
+            "arabic": "فِيْ يَوْمٍ مِنْ أَيَّامِ الْعُطْلَةِ الْمَدْرَسِيَّةِ، ذَهَبَتْ نَضِيْرَةُ وَأُخْتُهَا بِالْحَافِلَةِ إِلَى مَدِيْنَةِ شَاهْ عَالَمْ عَاصِمَةِ سَلَانْجُوْر. هُمَا فِيْ حَاجَةٍ لِشِرَاءِ بَعْضِ اللَّوَازِمِ الْمَدْرَسِيَّةِ. قَبْلَ ذَهَابِهِمَا، أَوْصَتْهُمَا أُمُّهُمَا بِأَلَّا تُسْرِفَا وَلَا تُبَذِّرَا شَيْئًا غَيْرَ نَافِعٍ وَقَالَتْ أُمُّهُمَا: إِنَّ اللَّهَ يَقُوْلُ فِيْ الْقُرْآنِ الْكَرِيْمِ: إِنَّ الْمُبَذِّرِيْنَ كَانُوا إِخْوَانَ الشَّيَاطِيْنِ.",
+            "translation": "Pada suatu hari dalam cuti sekolah, Nadhirah dan adik perempuannya menaiki bas ke bandar Shah Alam ibu kota Selangor. Mereka berdua memerlukan untuk membeli beberapa keperluan sekolah. Sebelum pergi, ibu mereka berpesan agar mereka jangan membazir dan jangan membelanjakan sesuatu yang tidak bermanfaat. Ibu mereka berkata: Sesungguhnya Allah berfirman dalam Al-Quran Al-Karim: Sesungguhnya orang-orang yang membazir itu adalah saudara-saudara syaitan."
+          }
+        },
+        {
+          "icon": "🏪",
+          "title": "Sambungan Cerita — Di Kedai",
+          "body": {
+            "type": "arabic",
+            "instruction": "Apa yang mereka beli di kedai:",
+            "arabic": "وَلَمَّا وَصَلَتَا هُنَاكَ، اتَّجَهَتَا إِلَى الْمَحَلِّ التِّجَارِيِّ. وَاشْتَرَتَا الْمَلَابِسَ الْمَدْرَسِيَّةَ وَالْأَحْذِيَةَ وَالْمِحْفَظَتَيْنِ وَالْكُرَّاسَتَيْنِ. وَبَعْدَ ذَلِكَ، تَدْعُو نَضِيْرَةُ وَأُخْتُهَا لِتَنَاوُلِ الْغَدَاءِ فِيْ أَحَدِ الْمَطَاعِمِ قُرْبَ السُّوْقِ الْمَرْكَزِيِّ شَاهْ عَالَمْ.",
+            "translation": "Apabila mereka tiba di sana, mereka menuju ke kedai. Mereka membeli pakaian sekolah, kasut, dua buah beg, dan dua buah buku nota. Selepas itu, Nadhirah mengajak adiknya untuk makan tengah hari di salah sebuah restoran berhampiran Pasar Raya Shah Alam."
+          }
+        },
+        {
+          "icon": "🛒",
+          "title": "Barang-barang yang Dibeli — ما اشترتا",
+          "body": {
+            "type": "pairs",
+            "intro": "Barang keperluan sekolah yang dibeli Nadhirah dan adiknya:",
+            "rows": [
+              { "arabic": "الْمَلَابِسُ الْمَدْرَسِيَّةُ", "meaning": "Al-Malaabisul madrasiyyah — pakaian sekolah (uniform)" },
+              { "arabic": "الْأَحْذِيَةُ", "meaning": "Al-Ahziyah — kasut-kasut (jamak)" },
+              { "arabic": "الْمِحْفَظَتَانِ", "meaning": "Al-Mihfazhataani — dua beg (beg tangan/wallet)" },
+              { "arabic": "الْكُرَّاسَتَانِ", "meaning": "Al-Kurraasataani — dua buku nota/latihan" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Nilai-nilai murni dalam cerita ini: (1) Jimat cermat — ibu berpesan jangan israf (الإسراف) dan jangan tabzir (التبذير). (2) Petikan Al-Quran: 'إن المبذرين كانوا إخوان الشياطين' (Al-Isra': 27). (3) Mereka naik bas bukan kereta sendiri — jimat dan mesra alam. Shah Alam ialah ibu kota Selangor (عاصمة سلانجور)."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Bagaimana Nadhirah dan adiknya pergi ke Shah Alam?",
+      "options": [
+        "Dengan kereta",
+        "Dengan bas",
+        "Dengan teksi",
+        "Dengan kereta api"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah pesan ibu kepada Nadhirah sebelum pergi?",
+      "options": [
+        "Beli semua yang dilihat",
+        "Jangan membazir dan jangan belanjakan sesuatu yang tidak bermanfaat",
+        "Balik awal",
+        "Jangan naik bas"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Shah Alam adalah ibu kota negeri...",
+      "options": [
+        "Kuala Lumpur",
+        "Putrajaya",
+        "Selangor",
+        "Negeri Sembilan"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah maksud 'الْكُرَّاسَتَانِ'?",
+      "options": [
+        "Dua kasut",
+        "Dua beg tangan",
+        "Dua buku nota",
+        "Dua pakaian"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "الزيارة للمحلات", "colour": "#2196F3" },
+      { "id": "n2", "label": "نضيرة وأختها", "colour": "#1976D2" },
+      { "id": "n3", "label": "شاه عالم", "colour": "#1565C0" },
+      { "id": "n4", "label": "المحل التجاري", "colour": "#0D47A1" },
+      { "id": "n5", "label": "لوازم مدرسية", "colour": "#42A5F5" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n2", "target": "n3", "label": "pergi ke" },
+      { "id": "e2", "source": "n2", "target": "n4", "label": "menuju ke" },
+      { "id": "e3", "source": "n4", "target": "n5", "label": "membeli" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْمَحَلُّ التِّجَارِيُّ", "meaning": "Al-Mahallut tijaariy — kedai / pusat membeli-belah" },
+    { "word": "اللَّوَازِمُ الْمَدْرَسِيَّةُ", "meaning": "Al-Lawaaziimul madrasiyyah — keperluan/bekalan sekolah" },
+    { "word": "الْإِسْرَافُ", "meaning": "Al-Israaf — membazir/berlebih-lebihan dalam berbelanja" },
+    { "word": "التَّبْذِيْرُ", "meaning": "At-Tabziir — pemborosan (membelanjakan harta pada yang sia-sia)" },
+    { "word": "الْحَافِلَةُ", "meaning": "Al-Haafilah — bas (pengangkutan awam)" },
+    { "word": "السُّوْقُ الْمَرْكَزِيُّ", "meaning": "As-Suuqul markaziy — Pasar Raya (Central Market)" }
+  ],
+  "funFact": "Tahukah kamu bahawa ayat yang disebut dalam cerita ini adalah dari Surah Al-Isra' ayat 27: 'إِنَّ الْمُبَذِّرِينَ كَانُوا إِخْوَانَ الشَّيَاطِينِ'? Ini menunjukkan betapa seriusnya Islam dalam hal pemborosan. Perkataan 'tabzir' (التبذير) dalam bahasa Arab bermaksud membelanjakan harta pada perkara yang diharamkan atau sia-sia, manakala 'israf' (الإسراف) bermaksud berlebih-lebihan walaupun dalam perkara yang halal. Keduanya dilarang dalam Islam!"
+}

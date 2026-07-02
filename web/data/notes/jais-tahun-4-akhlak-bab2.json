@@ -1,0 +1,169 @@
+{
+  "id": "jais-tahun-4-akhlak-bab2",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "akhlak",
+  "chapter": 2,
+  "title": "Bab 2: Adab dengan Rasulullah SAW",
+  "emoji": "🌱",
+  "colour": "#4CAF50",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الْأَدَب مَعَ الرَّسُول — Adab dengan Rasulullah SAW",
+      "body": "Mencintai Rasulullah SAW dan beradab dengan Baginda adalah kewajipan setiap Muslim. Cinta kepada Rasulullah SAW hendaklah melebihi cinta kita kepada sesiapa pun selain Allah. Tanda cinta kepada Baginda adalah dengan mengikut sunnah Baginda dalam kehidupan seharian."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "💚",
+          "title": "Tanda Mencintai Rasulullah SAW",
+          "body": {
+            "type": "list",
+            "intro": "Cara menunjukkan cinta kepada Nabi SAW:",
+            "items": [
+              "Mengikut sunnah Nabi SAW dalam ibadah, makan, tidur, dan berkelakuan",
+              "Berselawat kepada Nabi SAW — terutama apabila mendengar/menyebut nama Baginda",
+              "Membela nama Baginda apabila ada yang menghina",
+              "Mempelajari sirah (sejarah hidup) Nabi SAW dengan penuh kecintaan",
+              "Mencontohi akhlak Baginda — sabar, lemah lembut, pemurah"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Dalil Kewajipan Mencintai Nabi SAW",
+          "body": {
+            "type": "arabic",
+            "instruction": "Hadith tentang cinta kepada Nabi SAW:",
+            "arabic": "لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى أَكُونَ أَحَبَّ إِلَيْهِ مِنْ وَالِدِهِ وَوَلَدِهِ وَالنَّاسِ أَجْمَعِينَ",
+            "translation": "Tidak sempurna iman seseorang daripada kamu sehingga aku menjadi lebih dia cintai daripada ibu bapanya, anaknya, dan semua manusia.",
+            "source": "Riwayat al-Bukhari"
+          }
+        },
+        {
+          "icon": "📿",
+          "title": "Kelebihan Berselawat",
+          "body": {
+            "type": "arabic",
+            "instruction": "Perintah Allah untuk berselawat:",
+            "arabic": "إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ ۚ يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا",
+            "translation": "Sesungguhnya Allah dan malaikat-Nya berselawat ke atas Nabi. Wahai orang-orang beriman, berselawatlah ke atas Nabi dan ucapkanlah salam penghormatan kepadanya.",
+            "source": "Surah al-Ahzab: 56",
+            "outro": "Setiap selawat yang kita ucap, Allah balas dengan 10 rahmat!"
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Sunnah-sunnah Nabi SAW",
+          "body": {
+            "type": "list",
+            "intro": "Sunnah Nabi SAW yang mudah kita ikuti:",
+            "items": [
+              "Makan dengan tangan kanan, mulakan dengan Bismillah",
+              "Senyum kepada orang lain — 'senyuman adalah sedekah'",
+              "Tidur mengiring ke kanan, baca doa tidur",
+              "Masuk/keluar tandas dengan kaki kiri/kanan dengan tertib",
+              "Menjawab salam dengan salam yang lebih baik",
+              "Banyak bersedekah dan membantu orang lain"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💛",
+      "text": {
+        "type": "arabic",
+        "instruction": "Selawat yang paling lengkap:",
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ",
+        "translation": "Ya Allah, berselawatlah ke atas Muhammad dan keluarga Muhammad sebagaimana Engkau berselawat ke atas Ibrahim dan keluarga Ibrahim.",
+        "source": "Selawat Ibrahimiyyah — dibaca dalam tasyahhud solat"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengamalkan Adab dengan Rasulullah SAW",
+      "items": [
+        "Setiap kali sebut atau dengar nama 'Muhammad', ucapkan صَلَّى اللَّهُ عَلَيْهِ وَسَلَّم.",
+        "Pelajari satu sunnah Nabi SAW setiap minggu dan amalkan.",
+        {
+          "type": "arabic",
+          "arabic": "قُلْ إِن كُنتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللَّهُ",
+          "translation": "Katakanlah: Jika kamu benar-benar mencintai Allah, ikutilah aku (Nabi), nescaya Allah mencintai kamu.",
+          "source": "Surah Ali Imran: 31"
+        },
+        "Baca sirah Nabi SAW — buku, aplikasi, atau cerita dari ibu bapa.",
+        "Hadir ke majlis maulidur Rasul — ingat perjuangan Baginda mendakwahkan Islam kepada kita."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Menurut hadith, kepada siapa cinta kita kepada Nabi SAW harus melebihi?",
+      "options": [
+        "Guru dan rakan-rakan",
+        "Ibu bapa, anak, dan semua manusia",
+        "Harta dan kedudukan",
+        "Negara dan bangsa"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah ganjaran setiap kali kita berselawat kepada Nabi SAW?",
+      "options": [
+        "Allah balas dengan 1 rahmat",
+        "Allah balas dengan 5 rahmat",
+        "Allah balas dengan 10 rahmat",
+        "Allah balas dengan 100 rahmat"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah maksud 'mengikut sunnah Nabi SAW'?",
+      "options": [
+        "Memakai jubah dan serban sahaja",
+        "Mencontohi cara hidup, ibadah, dan akhlak Nabi SAW",
+        "Membaca buku tentang Nabi SAW",
+        "Pergi ke Madinah untuk ziarah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dalam Surah al-Ahzab ayat 56, siapa yang berselawat kepada Nabi SAW selain orang beriman?",
+      "options": [
+        "Para nabi terdahulu",
+        "Allah dan malaikat-Nya",
+        "Jin yang beriman",
+        "Manusia zaman dahulu"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Adab dengan Rasul", "colour": "#4CAF50" },
+      { "id": "n2", "label": "Cinta & Ikut Sunnah", "colour": "#388E3C" },
+      { "id": "n3", "label": "Berselawat", "colour": "#388E3C" },
+      { "id": "n4", "label": "Sunnah Harian", "colour": "#388E3C" },
+      { "id": "n5", "label": "Pelajari Sirah", "colour": "#388E3C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "tanda utama" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "amalan wajib" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "cara amal" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "cara kenal" }
+    ]
+  },
+  "vocab": [
+    { "word": "صَلَاة عَلَى النَّبِيّ", "meaning": "selawat kepada Nabi SAW" },
+    { "word": "سُنَّة", "meaning": "perbuatan dan amalan Nabi SAW" },
+    { "word": "سِيرَة", "meaning": "sejarah hidup Nabi SAW" },
+    { "word": "مَحَبَّة", "meaning": "cinta / kasih sayang" },
+    { "word": "اتِّبَاع", "meaning": "mengikut / mencontohi" }
+  ],
+  "funFact": "Tahukah kamu bahawa Nabi Muhammad SAW adalah orang yang paling banyak berselawat ke atasnya dalam sejarah manusia? Setiap hari, jutaan Muslim di seluruh dunia mengucapkan selawat kepada Baginda SAW — dalam solat, selepas azan, ketika menyebut nama Baginda, dan dalam banyak lagi keadaan. Bayangkan berapa banyak selawat yang diterima Nabi SAW sejak 1,400 tahun dahulu hingga hari ini! Dan setiap selawat kita, Allah membalas dengan 10 rahmat — ini pun sudah jadi sebab kita dikasihi Allah!"
+}

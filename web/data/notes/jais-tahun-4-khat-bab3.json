@@ -1,0 +1,151 @@
+{
+  "id": "jais-tahun-4-khat-bab3",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "khat",
+  "chapter": 3,
+  "title": "Khat 3: Menulis Ayat al-Quran dan Hadith",
+  "emoji": "🖊️",
+  "colour": "#795548",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "كِتَابَة الْقُرْآن وَالْحَدِيث — Menulis Ayat al-Quran dan Hadith",
+      "body": "Dalam latihan khat peringkat akhir Tahun 4, kita menulis ayat-ayat al-Quran dan hadith dalam Khat Nasakh. Menulis firman Allah dengan indah adalah satu bentuk penghormatan dan ibadah. Seorang khattat yang mahir menulis al-Quran adalah amat dihormati dalam masyarakat Islam."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🖊️",
+          "title": "Latihan Utama: Surah al-Fatihah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Salin Surah al-Fatihah dalam Khat Nasakh yang indah:",
+            "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\nالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ\nالرَّحْمَٰنِ الرَّحِيمِ\nمَالِكِ يَوْمِ الدِّينِ\nإِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ\nاهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ\nصِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ\nغَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+            "translation": "Dengan nama Allah Yang Pemurah lagi Penyayang | Segala puji bagi Allah Tuhan sekalian alam | Yang Pemurah lagi Penyayang | Yang menguasai hari pembalasan | Hanya Engkau yang kami sembah dan hanya kepada Engkau kami memohon pertolongan | Tunjukilah kami jalan yang lurus | Jalan orang-orang yang Engkau telah kurniakan nikmat kepada mereka | Bukan (jalan) orang yang Engkau murkai dan bukan (jalan) orang yang sesat"
+          }
+        },
+        {
+          "icon": "🖊️",
+          "title": "Latihan Hadith dalam Khat Nasakh",
+          "body": {
+            "type": "arabic",
+            "instruction": "Salin hadith ini dengan cantik:",
+            "arabic": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ\nوَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى\n(رواه البخاري ومسلم)",
+            "translation": "Sesungguhnya amalan itu bergantung kepada niat\nDan sesungguhnya bagi setiap orang apa yang diniatkannya\n(Riwayat al-Bukhari dan Muslim)"
+          }
+        },
+        {
+          "icon": "📋",
+          "title": "Etika Menulis al-Quran",
+          "body": {
+            "type": "list",
+            "intro": "Adab ketika menulis ayat al-Quran:",
+            "items": [
+              "Berwuduk sebelum menulis — al-Quran adalah firman Allah yang suci",
+              "Niatkan kerana Allah — bukan sekadar untuk kerja sekolah",
+              "Duduk dengan tertib — jangan menulis sambil bersandar atau berbaring",
+              "Pastikan tempat menulis bersih dan suci",
+              "Jika salah, padamkan dengan bersih — tidak boleh biar coretan pada ayat Allah",
+              "Berdoa sebelum memulakan: 'Bismillah' dan mohon kemudahan dari Allah"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Firman Allah tentang al-Quran:",
+        "arabic": "وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا",
+        "translation": "Dan bacalah al-Quran dengan tartil (perlahan dan betul).",
+        "source": "Surah al-Muzzammil: 4",
+        "outro": "Membaca dan menulis al-Quran perlahan dan betul adalah lebih baik dari cepat tapi silap!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Menyempurnakan Khat al-Quran",
+      "items": [
+        "Berwuduk dan duduk dengan tertib di tempat yang bersih.",
+        "Baca ayat yang hendak ditulis dengan tartil dahulu untuk hafaz bunyi dan ertinya.",
+        "Tulis dengan perlahan dan penuh perhatian — setiap huruf adalah firman Allah.",
+        {
+          "type": "arabic",
+          "arabic": "Peringkat: Tulis perlahan → Semak dengan mushaf → Perbaiki → Ulangi",
+          "translation": "Jangan tergesa-gesa — khat yang indah adalah hasil daripada latihan yang sabar"
+        },
+        "Setelah selesai, tengok keseluruhan hasil kerja — nilai sendiri dengan jujur."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah adab pertama sebelum menulis ayat al-Quran?",
+      "options": [
+        "Menyiapkan pen yang bagus",
+        "Berwuduk kerana al-Quran adalah firman Allah yang suci",
+        "Meminta izin guru dahulu",
+        "Menulis bismillah dahulu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah maksud 'tartil' dalam membaca dan menulis al-Quran?",
+      "options": [
+        "Sangat cepat",
+        "Menghafaz sepenuhnya",
+        "Perlahan dan betul dengan penghayatan",
+        "Dengan suara yang kuat"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah yang perlu dilakukan jika ada kesilapan semasa menulis ayat al-Quran?",
+      "options": [
+        "Biarkan sahaja",
+        "Hanya potong kertas",
+        "Padamkan dengan bersih supaya tiada coretan pada ayat Allah",
+        "Calit dengan pen lain"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Mengapa kita perlu duduk dengan tertib ketika menulis khat al-Quran?",
+      "options": [
+        "Supaya tulisan lebih kemas",
+        "Kerana ia adalah adab terhadap firman Allah yang mulia",
+        "Supaya tidak lenguh tangan",
+        "Kerana peraturan sekolah"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Khat al-Quran", "colour": "#795548" },
+      { "id": "n2", "label": "Surah al-Fatihah", "colour": "#5D4037" },
+      { "id": "n3", "label": "Hadith Niat", "colour": "#5D4037" },
+      { "id": "n4", "label": "Adab Menulis", "colour": "#4E342E" },
+      { "id": "n5", "label": "Tartil", "colour": "#795548" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "latihan utama" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "latihan hadith" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "kewajipan" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "prinsip" }
+    ]
+  },
+  "vocab": [
+    { "word": "تَرْتِيل", "meaning": "tartil (membaca/menulis dengan perlahan dan betul)" },
+    { "word": "وُضُوء", "meaning": "wuduk (bersuci sebelum ibadah)" },
+    { "word": "نِيَّة", "meaning": "niat (tujuan dalam hati)" },
+    { "word": "مُصْحَف", "meaning": "mushaf (al-Quran bercetak)" },
+    { "word": "خَطَّاط", "meaning": "khattat (penulis khat profesional)" }
+  ],
+  "funFact": "Tahukah kamu bahawa mushaf al-Quran pertama yang dicetak dengan mesin moden ialah pada tahun 1694 Masihi di Hamburg, Jerman? Sebelum itu, semua al-Quran ditulis tangan oleh para khattat selama hampir 1,100 tahun! Seorang khattat mahir boleh mengambil masa satu hingga tiga tahun untuk menyiapkan satu mushaf al-Quran tulisan tangan. Kini, di Istanbul, Turkey, masih ada tradisi menulis al-Quran tangan yang diwarisi turun-temurun — satu keahlian yang dianggap ibadah paling mulia!"
+}

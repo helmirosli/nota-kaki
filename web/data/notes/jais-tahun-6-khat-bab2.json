@@ -1,0 +1,156 @@
+{
+  "id": "jais-tahun-6-khat-bab2",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "khat",
+  "chapter": 2,
+  "title": "Khat 2: Khat Ruq'ah — Penulisan Harian",
+  "emoji": "🖊️",
+  "colour": "#795548",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "خَطُّ الرُّقْعَة — Tulisan Harian Muslim",
+      "body": "Khat Ruq'ah (خَطّ الرُّقْعَة) adalah khat yang paling banyak digunakan dalam penulisan harian oleh orang Arab dan Muslim — untuk nota, surat peribadi, papan tanda, dan catatan. Ia lebih ringkas dan cepat berbanding Naskhi, dengan huruf yang lebih sudut dan tegas. Nama 'Ruq'ah' berasal dari kata 'ruq'ah' (رُقْعَة) bermaksud 'cebisan kertas/patch'."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🖊️",
+          "title": "Perbandingan Naskhi dan Ruq'ah",
+          "body": {
+            "type": "pairs",
+            "intro": "Perbezaan antara khat Naskhi dan khat Ruq'ah:",
+            "rows": [
+              { "arabic": "النَّسْخ", "meaning": "Naskhi — lengkung, banyak bulat, ideal untuk al-Quran dan buku cetak" },
+              { "arabic": "الرُّقْعَة", "meaning": "Ruq'ah — tegas/angular, lebih cepat ditulis, ideal untuk penulisan harian dan nota" },
+              { "arabic": "الشَّبَه", "meaning": "Persamaan: kedua-duanya ditulis dari kanan ke kiri, garis dasar yang lurus" },
+              { "arabic": "الاسْتِخْدَام", "meaning": "Naskhi → al-Quran & buku; Ruq'ah → papan tanda, nota, surat harian" }
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Ciri Khas Khat Ruq'ah",
+          "body": {
+            "type": "list",
+            "intro": "Ciri-ciri yang membezakan khat Ruq'ah:",
+            "items": [
+              "Huruf lebih tegas dan sudut (angular) — berbanding Naskhi yang lebih bulat",
+              "Garis menegak pendek — huruf lebih 'padat'",
+              "Sedikit kecondongan ke kanan (miring sedikit)",
+              "Baris (harakat) sering ditinggalkan dalam penggunaan harian",
+              "Huruf-huruf tertentu disambung dengan cara khas yang berbeza dari Naskhi"
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Sejarah Khat Ruq'ah",
+          "body": {
+            "type": "list",
+            "intro": "Latar belakang perkembangan khat Ruq'ah:",
+            "items": [
+              "Dibangunkan di Istanbul (Turki Uthmaniyyah) sekitar abad ke-19",
+              "Diciptakan untuk memudahkan penulisan pantas dalam urusan pentadbiran kerajaan",
+              "Mumtaz Bek (pegawai Turki Uthmaniyyah) adalah pengasas utama standard khat ini",
+              "Kini menjadi khat yang paling banyak digunakan oleh orang Arab dalam kehidupan seharian",
+              "Di Malaysia: digunakan dalam papan tanda kedai Arab, nama kedai, dan hiasan"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🖊️",
+      "text": {
+        "type": "arabic",
+        "instruction": "Contoh ayat dalam khat Ruq'ah — perhatikan ketegasan huruf berbanding Naskhi:",
+        "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيم",
+        "translation": "Dengan nama Allah Yang Maha Pemurah lagi Maha Mengasihani. — Tulis Basmalah ini dalam khat Ruq'ah sebagai latihan.",
+        "source": "Basmalah dalam khat Ruq'ah adalah latihan paling asas dan paling bermanfaat"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Belajar Khat Ruq'ah",
+      "items": [
+        "Bandingkan dengan Naskhi — kenali perbezaan setiap huruf dalam kedua-dua khat.",
+        "Mulakan dengan Basmalah — ia mengandungi hampir semua huruf penting dalam Ruq'ah.",
+        {
+          "type": "arabic",
+          "arabic": "مُلاحَظَة: فِي الرُّقْعَة\n- الألف أقصر وأكثر ميلاً\n- الباء والنون والياء تُكتب بشكل أفقي أكثر\n- لا تستعمل النقاط الثلاث في ش إلى ثلاث نقاط عادية",
+          "translation": "Nota Ruq'ah: Alif lebih pendek dan condong; ba', nun, ya' lebih mendatar; tiga titik ش sering ditulis berbeza dalam Ruq'ah harian."
+        },
+        "Latih dengan menulis nama sendiri, nama guru, nama sekolah dalam khat Ruq'ah.",
+        "Ingat: Ruq'ah untuk harian, Naskhi untuk rasmi dan agama — dua kemahiran berbeza!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah ciri yang paling membezakan khat Ruq'ah dari khat Naskhi?",
+      "options": [
+        "Ruq'ah ditulis dari kiri ke kanan",
+        "Ruq'ah lebih tegas/angular dan lebih cepat ditulis berbanding Naskhi yang lebih bulat",
+        "Ruq'ah tidak boleh digunakan untuk teks agama",
+        "Ruq'ah hanya untuk orang Arab saja"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Di mana khat Ruq'ah dibangunkan dan siapa yang mengasaskannya?",
+      "options": [
+        "Baghdad — oleh Ibn Muqlah",
+        "Istanbul — oleh Mumtaz Bek (abad ke-19)",
+        "Kaherah — oleh ulama al-Azhar",
+        "Mekah — oleh para penulis al-Quran"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Bilakah khat Ruq'ah paling sesuai digunakan berbanding khat Naskhi?",
+      "options": [
+        "Untuk menyalin al-Quran",
+        "Untuk penulisan harian — nota, surat peribadi, papan tanda",
+        "Untuk cetakan buku agama",
+        "Untuk dekorasi masjid"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Nama 'Ruq'ah' berasal dari kata Arab yang bermaksud:",
+      "options": [
+        "Tulisan yang indah",
+        "Cebisan kertas/patch",
+        "Cepat dan pantas",
+        "Tulisan sekolah"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Khat Ruq'ah", "colour": "#795548" },
+      { "id": "n2", "label": "vs Khat Naskhi", "colour": "#5D4037" },
+      { "id": "n3", "label": "Sejarah Istanbul", "colour": "#5D4037" },
+      { "id": "n4", "label": "Penggunaan Harian", "colour": "#3E2723" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "perbandingan" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "asal usul" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "kegunaan" }
+    ]
+  },
+  "vocab": [
+    { "word": "خَطّ الرُّقْعَة", "meaning": "khat Ruq'ah (tulisan Arab harian — tegas dan cepat)" },
+    { "word": "الرُّقْعَة", "meaning": "ruq'ah (cebisan kertas — asal nama khat ini)" },
+    { "word": "الزَّاوِيَة", "meaning": "zawiyah (sudut/angle — huruf Ruq'ah lebih angular)" },
+    { "word": "الْمَيْل", "meaning": "mayl (kecondongan — huruf Ruq'ah sedikit condong ke kanan)" },
+    { "word": "الدِّيوَانِي", "meaning": "Diwani (khat lain dari Turki Uthmaniyyah — untuk dokumen rasmi)" }
+  ],
+  "funFact": "Tahukah kamu bahawa khat Ruq'ah menjadi khat rasmi pejabat-pejabat kerajaan Turki Uthmaniyyah pada abad ke-19? Pegawai kerajaan diwajibkan menguasai khat Ruq'ah untuk semua surat-menyurat dan dokumen rasmi. Ini bermaksud calon pegawai kerajaan perlu lulus ujian khat sebelum boleh berkhidmat! Berbeza dengan hari ini — ramai orang menggunakan komputer dan tidak perlu menulis tangan. Tetapi ironinya, kajian neurosains menunjukkan bahawa menulis tangan dengan pen sebenarnya merangsang otak dengan cara yang berbeza dari menaip — meningkatkan daya ingatan dan kreativiti. Jadi belajar khat bukan hanya untuk lulus peperiksaan — ia melatih otak dengan cara yang istimewa!"
+}

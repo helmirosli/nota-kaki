@@ -1,0 +1,150 @@
+{
+  "id": "jais-tahun-6-hafazan-bab2",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "hafazan",
+  "chapter": 2,
+  "title": "Hafazan 2: Surah al-Inshirah / al-Syarh (94)",
+  "emoji": "📖",
+  "colour": "#E91E63",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "سُورَة الِانْشِرَاح — Lapang Dada",
+      "body": "Surah al-Inshirah (al-Syarh) adalah surah ke-94 dalam al-Quran, hanya 8 ayat, diturunkan di Mekah. Surah ini adalah penyambung kepada Surah al-Dhuha (93) dan diturunkan untuk menghiburkan dan menguatkan Nabi SAW yang sedang menghadapi tekanan berat dalam dakwah. Pesannya universal: setiap kesusahan pasti ada kemudahan — bukan 'mungkin ada', tapi 'PASTI ADA'."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Teks Penuh Surah al-Inshirah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Surah al-Inshirah lengkap (8 ayat):",
+            "arabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَك ۝\nوَوَضَعْنَا عَنكَ وِزْرَك ۝\nالَّذِي أَنقَضَ ظَهْرَك ۝\nوَرَفَعْنَا لَكَ ذِكْرَك ۝\nفَإِنَّ مَعَ الْعُسْرِ يُسْرًا ۝\nإِنَّ مَعَ الْعُسْرِ يُسْرًا ۝\nفَإِذَا فَرَغْتَ فَانصَبْ ۝\nوَإِلَىٰ رَبِّكَ فَارْغَب",
+            "translation": "Bukankah Kami telah melapangkan dadamu (wahai Muhammad)? — Dan Kami telah meringankan bebanmu — yang memberatkan punggungmu — dan Kami tinggikan sebutan namamu? — Sesungguhnya bersama kesusahan ada kemudahan — Sesungguhnya bersama kesusahan ada kemudahan — Maka apabila kamu selesai (dari sesuatu urusan), bersiaplah untuk bersungguh-sungguh (untuk urusan yang lain) — Dan hanya kepada Tuhanmu kamu berharap.",
+            "source": "Surah al-Inshirah: 1-8"
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Tiga Nikmat Allah kepada Nabi SAW",
+          "body": {
+            "type": "pairs",
+            "intro": "Tiga pengecualian yang Allah berikan kepada Nabi SAW (ayat 1-4):",
+            "rows": [
+              { "arabic": "شَرَحَ الصَّدْر", "meaning": "Lapang dada — diisyarahkan ke peristiwa 'Syarhus Sadr' (pembelahan dada Nabi oleh Jibril)" },
+              { "arabic": "وَضْع الْوِزْر", "meaning": "Ringankan beban — beban berat dakwah Islam" },
+              { "arabic": "رَفْع الذِّكْر", "meaning": "Tinggikan sebutan nama — nama Muhammad disebut bersama Allah dalam azan 5 kali sehari!" }
+            ]
+          }
+        },
+        {
+          "icon": "💚",
+          "title": "Ayat yang Paling Menghiburkan — فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+          "body": {
+            "type": "list",
+            "intro": "Mengapa ayat ini diulang dua kali (ayat 5-6)?",
+            "items": [
+              "Para ulama mengatakan: 'al-'usr' (kesusahan) dengan 'al' = satu jenis kesusahan yang sama",
+              "'Yusr' (kemudahan) tanpa 'al' = kemudahan yang pelbagai dan berlipat ganda!",
+              "Satu kesusahan tidak boleh mengalahkan dua kemudahan — ini janji Allah!",
+              "Ibnu Mas'ud berkata: 'Dua kesusahan tidak boleh mengatasi satu kemudahan' — kerana 'al-'usr' dalam dua ayat merujuk perkara yang sama"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💚",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ayat terpenting Surah al-Inshirah:",
+        "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ۝ إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+        "translation": "Sesungguhnya bersama kesusahan ada kemudahan — Sesungguhnya bersama kesusahan ada kemudahan.",
+        "source": "al-Inshirah: 5-6 — diulang dua kali untuk penekanan yang kuat"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Hafaz dan Amalkan Surah al-Inshirah",
+      "items": [
+        "Surah ini pendek — 8 ayat sahaja. Boleh dihafaz dalam satu hari jika fokus.",
+        "Baca berkali-kali semasa ujian atau tekanan — ia akan memberi kekuatan.",
+        {
+          "type": "arabic",
+          "arabic": "فَإِذَا فَرَغْتَ فَانصَبْ — وَإِلَىٰ رَبِّكَ فَارْغَب",
+          "translation": "Bila selesai satu kerja — terus mulakan yang lain! Dan kepada Allah saja berharap."
+        },
+        "Gunakan ayat 5-6 sebagai doa dan zikir semasa menghadapi kesulitan.",
+        "Ingat pengajaran utama: jangan tunggu senang dulu untuk berusaha — kerana kemudahan ada BERSAMA kesusahan, bukan selepasnya!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa ayat dalam Surah al-Inshirah?",
+      "options": [
+        "6 ayat",
+        "7 ayat",
+        "8 ayat",
+        "10 ayat"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Mengapa ayat 'فَإِنَّ مَعَ الْعُسْرِ يُسْرًا' diulang dua kali?",
+      "options": [
+        "Kerana Nabi SAW lupa ayat pertama",
+        "Untuk penekanan yang sangat kuat tentang kepastian kemudahan selepas susah",
+        "Kerana ia dua ayat yang berbeza",
+        "Untuk memenuhi panjang surah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah maksud 'رَفَعْنَا لَكَ ذِكْرَك' (Kami tinggikan sebutanmu)?",
+      "options": [
+        "Allah memberi Nabi gelar 'al-Amin'",
+        "Nama Nabi Muhammad disebut bersama nama Allah dalam azan",
+        "Nabi SAW terkenal di seluruh dunia",
+        "Al-Quran mengandungi nama Nabi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Arahan dalam ayat 7-8 Surah al-Inshirah adalah:",
+      "options": [
+        "Berehat bila selesai kerja",
+        "Bila selesai satu kerja, terus mulakan yang baru, dan berharap hanya kepada Allah",
+        "Bersyukur dan berterima kasih",
+        "Berhenti berusaha dan bertawakal"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "al-Inshirah (94)", "colour": "#E91E63" },
+      { "id": "n2", "label": "3 Nikmat Nabi (1-4)", "colour": "#C2185B" },
+      { "id": "n3", "label": "Susah → Mudah (5-6)", "colour": "#C2185B" },
+      { "id": "n4", "label": "Terus Berusaha (7-8)", "colour": "#880E4F" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "nikmat" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "janji" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "arahan" }
+    ]
+  },
+  "vocab": [
+    { "word": "الِانْشِرَاح", "meaning": "inshirah (kelapangan dada)" },
+    { "word": "الْعُسْر", "meaning": "'usr (kesusahan)" },
+    { "word": "الْيُسْر", "meaning": "yusr (kemudahan)" },
+    { "word": "الْوِزْر", "meaning": "wizr (beban yang berat)" },
+    { "word": "انصَبْ", "meaning": "insab (bersunguh-sungguh / bersedia bekerja keras)" }
+  ],
+  "funFact": "Tahukah kamu bahawa Surah al-Inshirah dan Surah al-Dhuha (surah sebelumnya) dianggap oleh para ulama sebagai 'pasangan' surah yang turun kepada Nabi SAW dalam masa yang sama? Keduanya diturunkan untuk menghiburkan Nabi SAW semasa tempoh 'fatrah' (berhenti sementara wahyu) yang sangat menekannya. Ini berlaku di awal dakwah baginda. Ulama seperti Imam Ahmad berpendapat kedua surah ini dibaca bersama dalam satu rakaat — ada pendapat bahawa antara keduanya perlu ada takbir (Allahu Akbar). Pesannya kepada kita: apabila kita merasakan Allah jauh, ingatlah — Dia tidak pernah meninggalkan kita, seperti Allah tidak meninggalkan Nabi SAW!"
+}

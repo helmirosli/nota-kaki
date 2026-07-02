@@ -1,0 +1,161 @@
+{
+  "id": "jais-tahun-6-tajwid-bab3",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "tajwid",
+  "chapter": 3,
+  "title": "Tajwid 3: Hukum Mim Sakinah",
+  "emoji": "🔤",
+  "colour": "#1A237E",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "أَحْكَام الْمِيم السَّاكِنَة — Hukum Mim Sakinah",
+      "body": "Selain nun sakinah, mim sakinah (مْ) juga mempunyai hukum tersendiri apabila bertemu huruf-huruf tertentu. Hukum mim sakinah ada tiga: Ikhfa' Syafawi, Idgham Mimi (Mutamatsilain), dan Izhar Syafawi. Nama 'syafawi' berasal dari 'syafah' (شَفَة) = bibir, kerana mim adalah huruf bibir."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📊",
+          "title": "Tiga Hukum Mim Sakinah",
+          "body": {
+            "type": "pairs",
+            "intro": "Tiga hukum apabila mim sakinah (مْ) bertemu huruf:",
+            "rows": [
+              { "arabic": "الْإِخْفَاء الشَّفَوِي", "meaning": "Ikhfa' Syafawi: mim disembunyikan dengan dengung bila bertemu ب (ba') — HANYA 1 huruf" },
+              { "arabic": "الْإِدْغَام الْمِيمِي", "meaning": "Idgham Mimi (Mutamatsilain): mim masuk ke mim dengan dengung bila bertemu م (mim) — HANYA 1 huruf" },
+              { "arabic": "الْإِظْهَار الشَّفَوِي", "meaning": "Izhar Syafawi: baca mim jelas (tanpa dengung berpanjangan) bila bertemu SEMUA huruf lain (26 huruf)" }
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Contoh dalam al-Quran",
+          "body": {
+            "type": "pairs",
+            "intro": "Contoh hukum mim sakinah dalam al-Quran:",
+            "rows": [
+              { "arabic": "لَهُم بِهِ", "meaning": "مْ bertemu ب = IKHFA' SYAFAWI (dengung ringan)" },
+              { "arabic": "كُنتُمْ مُؤْمِنِين", "meaning": "مْ bertemu م = IDGHAM MIMI (mim masuk ke mim)" },
+              { "arabic": "أَنتُمْ فِيهَا", "meaning": "مْ bertemu ف = IZHAR SYAFAWI (mim jelas)" },
+              { "arabic": "عَلَيْهِمْ غَيْرِ", "meaning": "مْ bertemu غ = IZHAR SYAFAWI (mim jelas)" }
+            ]
+          }
+        },
+        {
+          "icon": "🔤",
+          "title": "Perbezaan Ikhfa' Syafawi vs Izhar Syafawi",
+          "body": {
+            "type": "list",
+            "intro": "Cara bezakan Ikhfa' Syafawi dan Izhar Syafawi:",
+            "items": [
+              "Ikhfa' Syafawi HANYA berlaku bila bertemu ب (ba')",
+              "Izhar Syafawi berlaku bila bertemu SEMUA huruf selain ب dan م",
+              "Ikhfa' Syafawi: bibir tidak rapat sepenuhnya — ada dengung",
+              "Izhar Syafawi: bibir rapat sempurna, buka, kemudian sebut huruf seterusnya",
+              "Petua: bila nampak مب berturutan — itu ikhfa' syafawi!"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "text": {
+        "type": "list",
+        "intro": "Ringkasan mudah hukum mim sakinah:",
+        "items": [
+          "مْ + ب = Ikhfa' Syafawi (sembunyi dengan dengung)",
+          "مْ + م = Idgham Mimi (masuk ke mim, dengung penuh)",
+          "مْ + selain ب dan م = Izhar Syafawi (jelas, tanpa dengung)",
+          "Cara mudah ingat: Ba' dan Mim adalah huruf bibir (syafawi) — mereka 'bergaul' dengan mim sakinah secara istimewa!"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Amalkan Hukum Mim Sakinah",
+      "items": [
+        "Cari semua مْ dalam Surah al-Ikhlas dan Surah al-Nas — tentukan hukumnya.",
+        "Latih Ikhfa' Syafawi: baca 'لَهُم بِهِ' — rasa dengung ringan semasa mim dan ba'.",
+        {
+          "type": "pairs",
+          "intro": "Latihan pantas hukum mim sakinah:",
+          "rows": [
+            { "arabic": "هُمْ مِن", "meaning": "مْ bertemu م = IDGHAM MIMI" },
+            { "arabic": "هُمْ كَافِرُون", "meaning": "مْ bertemu ك = IZHAR SYAFAWI" },
+            { "arabic": "عَلَيْهِمْ بَأْس", "meaning": "مْ bertemu ب = IKHFA' SYAFAWI" }
+          ]
+        },
+        "Bacaan Surah al-Baqarah bermula dengan banyak contoh mim sakinah — latih bersamanya.",
+        "Rekod bacaan kamu dan semak dengan guru tajwid."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah hukum mim sakinah apabila bertemu huruf 'ب' (ba')?",
+      "options": [
+        "Izhar Syafawi",
+        "Idgham Mimi",
+        "Ikhfa' Syafawi",
+        "Iqlab"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa huruf yang menyebabkan Ikhfa' Syafawi?",
+      "options": [
+        "15 huruf",
+        "6 huruf",
+        "1 huruf sahaja (ب)",
+        "26 huruf"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah hukum 'كُنتُمْ مُؤْمِنِين' (mim sakinah bertemu mim)?",
+      "options": [
+        "Ikhfa' Syafawi",
+        "Idgham Mimi",
+        "Izhar Syafawi",
+        "Iqlab"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Mengapa hukum mim sakinah dipanggil 'syafawi'?",
+      "options": [
+        "Kerana ia berlaku dalam surah-surah pendek",
+        "Kerana mim adalah huruf bibir (syafah = bibir)",
+        "Kerana ia diperkenalkan oleh ulama Syafi'i",
+        "Kerana ia berlaku pada syafaat"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Mim Sakinah (مْ)", "colour": "#1A237E" },
+      { "id": "n2", "label": "Ikhfa' Syafawi (ب)", "colour": "#283593" },
+      { "id": "n3", "label": "Idgham Mimi (م)", "colour": "#283593" },
+      { "id": "n4", "label": "Izhar Syafawi (lain)", "colour": "#283593" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "+ ب" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "+ م" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "+ 26 huruf lain" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْمِيم السَّاكِنَة", "meaning": "mim sakinah (mim berbaris mati)" },
+    { "word": "الشَّفَوِي", "meaning": "syafawi (berkaitan bibir)" },
+    { "word": "الشَّفَة", "meaning": "bibir (menjadi asal nama 'syafawi')" },
+    { "word": "الْمُتَمَاثِلَان", "meaning": "mutamatsilain (dua huruf yang sama — asas idgham mimi)" },
+    { "word": "التَّدَاخُل", "meaning": "penggabungan / idgham" }
+  ],
+  "funFact": "Tahukah kamu bahawa hukum 'Idgham Mimi' dipanggil juga 'Idgham Mutamatsilain Saghir' (penggabungan dua huruf yang sama — yang kecil)? Terdapat juga 'Mutajanisain' (dua huruf yang berdekatan sifat) dan 'Mutaqaribain' (dua huruf yang hampir makhrajnya). Para ulama tajwid mengkategorikan setiap kemungkinan pertemuan huruf dalam al-Quran dengan sangat sistematik! Ini menunjukkan betapa indah dan telitinya ilmu tajwid — ia adalah sains fonetik Arab yang telah disempurnakan selama 1,400 tahun untuk memastikan al-Quran dibaca tepat seperti Nabi SAW membacanya!"
+}

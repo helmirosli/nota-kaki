@@ -1,0 +1,153 @@
+{
+  "id": "jais-tahun-6-feqah-bab4",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "feqah",
+  "chapter": 4,
+  "title": "Feqah 4: Nikah dan Pembinaan Keluarga Islam",
+  "emoji": "💒",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "النِّكَاح وَتَكْوِين الْأُسْرَة — Nikah dan Keluarga",
+      "body": "Perkahwinan (nikah) dalam Islam adalah ibadah yang sangat mulia. Ia bukan sekadar kontrak sosial tetapi perjanjian yang berat (mithaqan ghalidha) antara dua individu untuk membina keluarga yang sakinah (tenang), mawaddah (penuh kasih), dan rahmah (penuh rahmat). Institusi keluarga adalah asas tamadun Islam."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📊",
+          "title": "Rukun dan Syarat Nikah",
+          "body": {
+            "type": "pairs",
+            "intro": "Rukun nikah yang mesti ada:",
+            "rows": [
+              { "arabic": "الزَّوْج (pengantin lelaki)", "meaning": "Muslim, baligh, berakal, bukan mahram" },
+              { "arabic": "الزَّوْجَة (pengantin perempuan)", "meaning": "Muslimah (atau Ahli Kitab), baligh, bukan mahram" },
+              { "arabic": "الْوَلِيّ (wali)", "meaning": "Bapa atau wali terdekat dari sebelah bapa — wajib ada" },
+              { "arabic": "شَاهِدَان (dua saksi)", "meaning": "Dua orang lelaki Islam yang adil — wajib hadir" },
+              { "arabic": "الصِّيغَة (ijab qabul)", "meaning": "Lafaz akad nikah — wali: 'Aku nikahkan...', pengantin: 'Aku terima...'" }
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Tujuan Perkahwinan dalam Islam",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah tentang tujuan perkahwinan:",
+            "arabic": "وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا\nلِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَة",
+            "translation": "Dan antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari dirimu sendiri, supaya kamu tenteram bersamanya, dan Dia menjadikan antara kamu kasih sayang dan rahmat.",
+            "source": "Surah al-Rum: 21"
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Larangan dalam Perkahwinan",
+          "body": {
+            "type": "list",
+            "intro": "Wanita yang haram dinikahi (mahram):",
+            "items": [
+              "Ibu, nenek ke atas — haram selamanya",
+              "Anak perempuan, cucu ke bawah — haram selamanya",
+              "Saudara perempuan — haram selamanya",
+              "Ibu susuan dan saudara susuan — haram seperti nasab",
+              "Ibu mertua dan anak tiri (jika sudah bersama ibu mereka) — haram kerana sebab perkahwinan"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💒",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith tentang kelebihan perkahwinan:",
+        "arabic": "النِّكَاحُ مِن سُنَّتِي\nفَمَن لَمْ يَعْمَلْ بِسُنَّتِي فَلَيْسَ مِنِّي",
+        "translation": "Perkahwinan adalah sunnahku. Sesiapa yang tidak mengamalkan sunnahku, maka dia bukan dari golonganku.",
+        "source": "Riwayat Ibn Majah"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Peranan Keluarga dalam Islam",
+      "items": [
+        "Ayah: pemimpin keluarga (qawwam), tanggungjawab nafkah dan didikan agama.",
+        "Ibu: pengurus rumah tangga, pendidik pertama anak — 'Al-umm madrasatun' (ibu adalah madrasah).",
+        {
+          "type": "arabic",
+          "arabic": "الْجَنَّةُ تَحْتَ أَقْدَامِ الْأُمَّهَات",
+          "translation": "Syurga berada di bawah tapak kaki ibu. (Hadith Riwayat al-Nasa'i)"
+        },
+        "Anak: wajib hormat dan taat kepada ibu bapa, cari ilmu, dan jaga nama baik keluarga.",
+        "Ingat: keluarga yang soleh adalah rahmat — anak yang soleh adalah sedekah jariah selepas kematian ibu bapa!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa rukun nikah yang mesti ada dalam akad nikah?",
+      "options": [
+        "3 rukun",
+        "4 rukun",
+        "5 rukun",
+        "6 rukun"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Menurut Surah al-Rum:21, apakah tiga tujuan perkahwinan?",
+      "options": [
+        "Anak, harta, keturunan",
+        "Sakinah (tenang), mawaddah (kasih sayang), rahmah (rahmat)",
+        "Keselamatan, kebahagiaan, kemakmuran",
+        "Ibadah, keluarga, masyarakat"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Siapakah wali yang WAJIB ada dalam akad nikah?",
+      "options": [
+        "Mana-mana lelaki Islam",
+        "Bapa atau wali terdekat dari sebelah bapa",
+        "Imam masjid",
+        "Ketua kampung"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Mengapa perkahwinan disebut 'ibadah' dalam Islam?",
+      "options": [
+        "Kerana ia Rukun Islam",
+        "Kerana ia sunnah Nabi SAW dan membawa rahmat",
+        "Kerana tanpanya seseorang berdosa",
+        "Kerana ia dilakukan di masjid"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Nikah dan Keluarga", "colour": "#9C27B0" },
+      { "id": "n2", "label": "5 Rukun Nikah", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "al-Rum:21 (Sakinah)", "colour": "#7B1FA2" },
+      { "id": "n4", "label": "Peranan Ayah/Ibu/Anak", "colour": "#4A148C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "asas" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "tujuan" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "tanggungjawab" }
+    ]
+  },
+  "vocab": [
+    { "word": "النِّكَاح", "meaning": "nikah / perkahwinan" },
+    { "word": "الْوَلِيّ", "meaning": "wali (penjaga — bapa atau wakilnya dalam nikah)" },
+    { "word": "الْإِيجَاب وَالْقَبُول", "meaning": "ijab qabul (lafaz akad nikah)" },
+    { "word": "السَّكِينَة", "meaning": "sakinah (ketenangan dalam keluarga)" },
+    { "word": "الْمَحْرَم", "meaning": "mahram (orang yang haram dinikahi)" }
+  ],
+  "funFact": "Tahukah kamu bahawa akad nikah dalam Islam adalah antara kontrak yang paling ringkas tetapi paling besar implikasi hukumnya? Lafaz ijab dan qabul yang hanya memerlukan masa beberapa saat itu menghalalkan apa yang sebelumnya haram, mewajibkan nafkah selama hayat, dan mengubah status seseorang secara kekal dalam hukum Islam. Para ulama fiqh telah menulis ribuan halaman hanya untuk menjelaskan hukum-hukum yang lahir dari saat akad nikah itu. Imam al-Syafi'i berkata: 'Dalam satu lafaz akad nikah terdapat lebih banyak persoalan fiqh dari dalam amalan ibadah yang lain.'"
+}

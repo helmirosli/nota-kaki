@@ -1,0 +1,162 @@
+{
+  "id": "jais-tahun-5-bahasa-arab-bab4",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 4,
+  "title": "Dars 4: Alam Sekitar dan Alam Semula Jadi (الطَّبِيعَة)",
+  "emoji": "🌿",
+  "colour": "#1565C0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الطَّبِيعَة وَالْبِيئَة — Alam Sekitar",
+      "body": "Dalam dars ini kita belajar kosa kata tentang alam semula jadi dalam bahasa Arab. Al-Quran banyak sekali menyebut tentang alam sebagai tanda-tanda kebesaran Allah (ayat kauniyyah). Mengetahui nama-nama alam dalam Arab membantu kita memahami ayat-ayat ini dengan lebih mendalam."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🌿",
+          "title": "Alam Semula Jadi",
+          "body": {
+            "type": "pairs",
+            "intro": "Nama-nama alam dalam bahasa Arab:",
+            "rows": [
+              { "arabic": "السَّمَاء", "meaning": "langit" },
+              { "arabic": "الْأَرْض", "meaning": "bumi / tanah" },
+              { "arabic": "الشَّمْس", "meaning": "matahari" },
+              { "arabic": "الْقَمَر", "meaning": "bulan" },
+              { "arabic": "النَّجْم (ج: النُّجُوم)", "meaning": "bintang (jamak: bintang-bintang)" },
+              { "arabic": "الْبَحْر", "meaning": "laut / lautan" },
+              { "arabic": "النَّهَر", "meaning": "sungai" },
+              { "arabic": "الْجَبَل (ج: الْجِبَال)", "meaning": "gunung (jamak: gunung-gunung)" },
+              { "arabic": "الشَّجَرَة (ج: الْأَشْجَار)", "meaning": "pokok (jamak: pokok-pokok)" },
+              { "arabic": "الْمَطَر", "meaning": "hujan" }
+            ]
+          }
+        },
+        {
+          "icon": "🌦️",
+          "title": "Cuaca dan Musim",
+          "body": {
+            "type": "pairs",
+            "intro": "Cuaca dan keadaan alam:",
+            "rows": [
+              { "arabic": "الْحَرّ", "meaning": "panas" },
+              { "arabic": "الْبَرْد", "meaning": "sejuk / dingin" },
+              { "arabic": "الرِّيح / الرِّيَاح", "meaning": "angin / angin-angin" },
+              { "arabic": "الثَّلْج", "meaning": "salji" },
+              { "arabic": "الصَّحْرَاء", "meaning": "padang pasir" },
+              { "arabic": "الْغَابَة", "meaning": "hutan" }
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Alam dalam al-Quran",
+          "body": {
+            "type": "arabic",
+            "instruction": "Allah bersumpah dengan tanda-tanda alam:",
+            "arabic": "وَالشَّمْسِ وَضُحَاهَا\nوَالْقَمَرِ إِذَا تَلَاهَا\nوَالنَّهَارِ إِذَا جَلَّاهَا",
+            "translation": "Demi matahari dan sinarnya di waktu dhuha | Demi bulan apabila mengikutinya | Demi siang apabila menampakkannya",
+            "source": "Surah al-Syams: 1-3"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌍",
+      "text": {
+        "type": "list",
+        "intro": "Mengapa Allah menyebut alam dalam al-Quran?",
+        "items": [
+          "Alam adalah 'tanda-tanda' (آيَات) kebesaran dan kekuasaan Allah",
+          "Melihat alam dengan mata hati mendekatkan kita kepada Allah",
+          "Al-Quran menyebut bintang, bulan, matahari, laut, gunung — semuanya tunduk kepada Allah",
+          "Menjaga alam sekitar adalah tanggungjawab kita sebagai khalifah Allah di bumi"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Hafaz Kosa Kata Alam",
+      "items": [
+        "Lihat langit dan sebut 'السَّمَاء' — lihat matahari sebut 'الشَّمْس'.",
+        "Semasa hujan, sebut 'الْمَطَر' — ini cara belajar paling mudah dan berkesan.",
+        {
+          "type": "arabic",
+          "arabic": "الشَّمْسُ كَبِيرَةٌ، وَالْقَمَرُ جَمِيلٌ، وَالنُّجُومُ كَثِيرَة",
+          "translation": "Matahari itu besar, dan bulan itu indah, dan bintang-bintang itu banyak"
+        },
+        "Buat ayat sendiri: مَا شَاءَ اللَّه، السَّمَاءُ جَمِيلَةٌ الْيَوْمَ (MasyaAllah, langit indah hari ini).",
+        "Hafaz 3 perkataan alam sehari — dalam seminggu sudah kuasai 21 perkataan!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah bahasa Arab untuk 'bintang-bintang' (jamak)?",
+      "options": [
+        "الشَّمْس",
+        "الْقَمَر",
+        "النُّجُوم",
+        "السَّمَاء"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Surah al-Syams bermakna:",
+      "options": [
+        "Bulan",
+        "Matahari",
+        "Bintang",
+        "Langit"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah bahasa Arab untuk 'hujan'?",
+      "options": [
+        "الثَّلْج",
+        "الرِّيح",
+        "الْمَطَر",
+        "الْبَرْد"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Dalam Islam, mengapa kita perlu menjaga alam sekitar?",
+      "options": [
+        "Kerana undang-undang kerajaan",
+        "Kerana kita adalah khalifah Allah di bumi yang bertanggungjawab",
+        "Kerana alam sekitar cantik",
+        "Kerana orang lain berbuat demikian"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Alam dalam Arab", "colour": "#1565C0" },
+      { "id": "n2", "label": "Langit & Cakerawala", "colour": "#1976D2" },
+      { "id": "n3", "label": "Bumi & Air", "colour": "#1976D2" },
+      { "id": "n4", "label": "Ayat Kauniyyah", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "langit" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "bumi" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "dalam al-Quran" }
+    ]
+  },
+  "vocab": [
+    { "word": "السَّمَاء", "meaning": "langit" },
+    { "word": "الشَّمْس", "meaning": "matahari" },
+    { "word": "الْقَمَر", "meaning": "bulan" },
+    { "word": "الْمَطَر", "meaning": "hujan" },
+    { "word": "الْجَبَل", "meaning": "gunung" }
+  ],
+  "funFact": "Tahukah kamu bahawa al-Quran menyebut perkataan 'الشَّمْس' (matahari) sebanyak 33 kali dan 'الْقَمَر' (bulan) sebanyak 27 kali? Malah ada surah yang dinamakan 'al-Syams' (Matahari), 'al-Qamar' (Bulan), 'al-Najm' (Bintang), dan 'al-Baqarah' yang menyebut tentang sapi. Allah menggunakan alam sekitar untuk mengajar manusia tentang kebesaran-Nya. Setiap kali kamu melihat matahari terbenam yang indah, ingatlah bahawa itu adalah salah satu 'ayat' (tanda) Allah!"
+}

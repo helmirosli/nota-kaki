@@ -1,0 +1,162 @@
+{
+  "id": "jais-tahun-6-bahasa-arab-bab8",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "bahasa-arab",
+  "chapter": 8,
+  "title": "Bahasa Arab 8: Kesihatan dan Gaya Hidup Islam",
+  "emoji": "🌱",
+  "colour": "#1565C0",
+  "estimatedMinutes": 10,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الصِّحَّة وَأُسْلُوب الْحَيَاة الْإِسْلَامِي — Kesihatan dalam Islam",
+      "body": "Islam sangat menekankan penjagaan kesihatan badan. Nabi SAW bersabda: 'Nikmat yang banyak dilupai manusia ialah kesihatan dan masa lapang.' Islam mengajarkan gaya hidup sihat melalui amalan harian seperti bersuci, bersenam, makan secara sederhana, dan tidur pada waktu yang betul."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "🌱",
+          "title": "Kosa Kata Kesihatan",
+          "body": {
+            "type": "pairs",
+            "intro": "Perkataan berkaitan kesihatan dalam bahasa Arab:",
+            "rows": [
+              { "arabic": "الصِّحَّة", "meaning": "al-sihhah — kesihatan" },
+              { "arabic": "الْمَرَض", "meaning": "al-marad — penyakit" },
+              { "arabic": "الطَّبِيب", "meaning": "al-tabib — doktor" },
+              { "arabic": "الدَّوَاء", "meaning": "al-dawa' — ubat" },
+              { "arabic": "الرِّيَاضَة", "meaning": "al-riadhah — sukan / senaman" },
+              { "arabic": "الطَّعَام الصِّحِّي", "meaning": "al-ta'am al-sihhiy — makanan sihat" },
+              { "arabic": "النَّظَافَة", "meaning": "al-nazhafah — kebersihan" },
+              { "arabic": "النَّوْم", "meaning": "al-nawm — tidur" }
+            ]
+          }
+        },
+        {
+          "icon": "💬",
+          "title": "Perbualan tentang Kesihatan",
+          "body": {
+            "type": "pairs",
+            "intro": "Soal jawab tentang kesihatan:",
+            "rows": [
+              { "arabic": "كَيْفَ صِحَّتُك؟", "meaning": "Bagaimana kesihatan kamu?" },
+              { "arabic": "الْحَمْدُ لِلَّهِ أَنَا بِخَيْر", "meaning": "Alhamdulillah, saya baik" },
+              { "arabic": "أَنَا مَرِيض الْيَوْم", "meaning": "Saya sakit hari ini" },
+              { "arabic": "شِفَاؤُك عَلَى اللَّه", "meaning": "Semoga Allah menyembuhkanmu" }
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Hadith tentang Kesihatan",
+          "body": {
+            "type": "arabic",
+            "instruction": "Hadith Nabi SAW tentang nilai kesihatan:",
+            "arabic": "نِعْمَتَانِ مَغْبُونٌ فِيهِمَا كَثِيرٌ مِّنَ النَّاس:\nالصِّحَّة وَالْفَرَاغ",
+            "translation": "Dua nikmat yang banyak dilupai oleh kebanyakan manusia: kesihatan dan masa lapang.",
+            "source": "Riwayat al-Bukhari"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌱",
+      "text": {
+        "type": "list",
+        "intro": "Gaya hidup sihat mengikut Sunnah Nabi SAW:",
+        "items": [
+          "Tidur awal dan bangun awal — Nabi SAW tidur selepas Isyak dan bangun untuk Tahajjud",
+          "Makan satu pertiga (1/3) makanan, satu pertiga minuman, satu pertiga udara — Hadith Nabi",
+          "Bersenam dan aktif — Nabi SAW suka berlumba lari dan memanah",
+          "Jaga kebersihan — 'kebersihan adalah separuh daripada iman' (Hadith)",
+          "Berpuasa Isnin dan Khamis — Nabi SAW suka berpuasa pada hari ini"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Latihan Perbualan Kesihatan",
+      "items": [
+        "Hafaz ucapan زُرْتُ الطَّبِيب اليوم (Saya ziarah doktor hari ini) dan buat perbualan.",
+        "Latih bertanya dan menjawab tentang kesihatan: كَيْفَ صِحَّتُك؟ / الْحَمْدُ لِلَّه.",
+        {
+          "type": "pairs",
+          "intro": "Kaitkan amalan kesihatan dengan Islam:",
+          "rows": [
+            { "arabic": "الرِّيَاضَة ← صِحَّة الْجِسْم", "meaning": "Senaman → badan sihat untuk ibadah" },
+            { "arabic": "الصِّيَام ← صِحَّة الرُّوح", "meaning": "Puasa → sihat rohani dan jasmani" }
+          ]
+        },
+        "Doa apabila sakit: اللَّهُمَّ اشْفِنِي وَعَافِنِي (Ya Allah, sembuhkan dan sihatkanlah aku).",
+        "Ingat: badan adalah amanah Allah — kita bertanggungjawab menjaganya!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah dua nikmat yang sering dilupai manusia menurut hadith al-Bukhari?",
+      "options": [
+        "Harta dan kecantikan",
+        "Kesihatan dan masa lapang",
+        "Ilmu dan kawan",
+        "Iman dan Islam"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Cara bertanya 'Bagaimana kesihatan kamu?' dalam bahasa Arab:",
+      "options": [
+        "مَا اسْمُك؟",
+        "كَيْفَ حَالُك؟",
+        "كَيْفَ صِحَّتُك؟",
+        "أَيْنَ تَسْكُن؟"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Perkataan 'الرِّيَاضَة' dalam bahasa Arab bermaksud:",
+      "options": [
+        "Makanan",
+        "Ubat",
+        "Doktor",
+        "Sukan / senaman"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Nabi SAW mengajar kita untuk makan berapa bahagian?",
+      "options": [
+        "Makan sampai kenyang penuh",
+        "1/3 makanan, 1/3 minuman, 1/3 udara",
+        "Makan sekali sehari sahaja",
+        "Makan hanya makanan yang dimasak"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Kesihatan Islam", "colour": "#1565C0" },
+      { "id": "n2", "label": "Gaya Hidup Sunnah", "colour": "#0D47A1" },
+      { "id": "n3", "label": "Kosa Kata Kesihatan", "colour": "#0D47A1" },
+      { "id": "n4", "label": "Badan = Amanah Allah", "colour": "#1A237E" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "cara" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "bahasa" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "tanggungjawab" }
+    ]
+  },
+  "vocab": [
+    { "word": "الصِّحَّة", "meaning": "kesihatan" },
+    { "word": "الشِّفَاء", "meaning": "penyembuhan / kesembuhan" },
+    { "word": "الرِّيَاضَة", "meaning": "sukan / senaman" },
+    { "word": "النَّظَافَة", "meaning": "kebersihan" },
+    { "word": "مَغْبُون", "meaning": "orang yang rugi / yang melalaikan" }
+  ],
+  "funFact": "Tahukah kamu bahawa Nabi Muhammad SAW adalah seorang yang sangat sihat dan aktif secara fizikal? Baginda pernah berlumba lari dengan isterinya Aisyah r.a. (Aisyah yang menang pertama, kemudian Nabi yang menang setelah tubuh Aisyah bertambah berat!). Nabi SAW juga ahli bergulat, memanah, dan menunggang kuda. Baginda tidak pernah makan secara berlebihan, tidur sederhana, dan minum dengan tiga tegukan seperti yang diajarkan. Saintis moden telah membuktikan bahawa cara makan Nabi SAW (satu pertiga kosong, satu pertiga makanan, satu pertiga minuman) adalah kaedah makan yang paling sihat untuk sistem pencernaan manusia!"
+}

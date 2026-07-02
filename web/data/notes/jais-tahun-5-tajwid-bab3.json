@@ -1,0 +1,149 @@
+{
+  "id": "jais-tahun-5-tajwid-bab3",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "tajwid",
+  "chapter": 3,
+  "title": "Waqaf dan Ibtidaa'",
+  "emoji": "⏹️",
+  "colour": "#1565C0",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "وَقْف دَان اِبْتِدَاء — Pelajaran Kelima dan Keenam",
+      "body": "Waqaf ialah memberhentikan bacaan, manakala Ibtidaa' ialah memulakan bacaan semula. Kedua-duanya penting agar makna ayat al-Quran tidak terputus atau tersalah."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "⏹️",
+          "title": "Pengertian Waqaf",
+          "body": "Waqaf ialah memberhentikan bacaan dengan membuang nafas yang bersama dengan niat untuk menyambung kembali bacaan semula."
+        },
+        {
+          "icon": "📊",
+          "title": "Bahagian Waqaf (4 jenis hukum)",
+          "body": {
+            "type": "list",
+            "intro": "Waqaf terbahagi kepada 4 jenis mengikut hukumnya:",
+            "items": [
+              "i. Waqaf Ikhtiyari (اِخْتِيَارِي) — waqaf yang diharuskan oleh hukum, boleh dilakukan; diiktiraf oleh ramai ulama al-Quran.",
+              "ii. Waqaf Idtirari (اِضْطِرَارِي) — waqaf terpaksa dilakukan sebab sesuatu seperti kehabisan nafas, sesak, atau terlupa.",
+              "iii. Waqaf Ikhtibari (اِخْتِبَارِي) — waqaf untuk tujuan ujian atau menunjukkan kepada murid tempat waqaf.",
+              "iv. Waqaf Intizari (اِنْتِظَارِي) — waqaf kerana menunggu; tidak dibolehkan dalam bacaan."
+            ]
+          }
+        },
+        {
+          "icon": "🎯",
+          "title": "Jenis-jenis Waqaf Ikhtiyari (4 sub-jenis)",
+          "body": {
+            "type": "list",
+            "intro": "4 jenis Waqaf Ikhtiyari mengikut kualiti tempat berhenti:",
+            "items": [
+              "i. Waqaf Tam (وَقْفٌ تَامّ — sempurna): Waqaf pada lafaz yang sudah sempurna maknanya dan tidak lagi berkaitan dengan lafaz selepasnya. Contoh: أُوْلَٰٓئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُوْلَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ (Surah Al-Baqarah: 5)",
+              "ii. Waqaf Kafi (وَقْفٌ كَافِي — memadai): Waqaf pada lafaz yang sempurna maknanya tetapi masih ada kaitan makna (bukan lafaz) dengan selepasnya. Contoh: ...يُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ (Surah Al-Baqarah: 3)",
+              "iii. Waqaf Hasan (وَقْفٌ حَسَن — elok): Waqaf pada lafaz yang masih berkaitan makna dan lafaznya. Boleh berhenti tetapi lebih baik disambungkan. Contoh: ...فَٱسْتَجَابَ لَهُۥ رَبُّهُۥ فَصَرَفَ عَنْهُنَّ كَيْدَهُنَّ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ (Surah Yusuf: 34)",
+              "iv. Waqaf Qabih (وَقْفٌ قَبِيح — buruk): Waqaf pada lafaz yang tidak sempurna artinya, akan menyebabkan makna yang salah atau tidak sempurna — TIDAK BOLEH berhenti di sini. Contoh: فَسِيحُوا۟ فِى ٱلْأَرْضِ أَرْبَعَةَ أَشْهُرٍ (berhenti di sini tidak sempurna artinya)."
+            ]
+          }
+        },
+        {
+          "icon": "▶️",
+          "title": "Pengertian Ibtidaa'",
+          "body": "Ibtidaa' ialah memulakan bacaan ataupun menyambungkan bacaan selepas berhenti (waqaf)."
+        },
+        {
+          "icon": "📋",
+          "title": "Jenis-jenis Ibtidaa' (3 jenis)",
+          "body": {
+            "type": "list",
+            "intro": "Ibtidaa' terbahagi kepada 3 jenis:",
+            "items": [
+              "i. Ibtidaa' Jaiz (اِبْتِدَاء جَائِز — harus): Memulakan bacaan pada tempat yang dibolehkan — maknanya sempurna dan tidak mengelirukan. Ini adalah ibtidaa' yang baik.",
+              "ii. Ibtidaa' Qabih (اِبْتِدَاء قَبِيح — buruk): Memulakan bacaan pada tempat yang maknanya tidak sempurna atau akan menyebabkan makna yang salah.",
+              "iii. Apabila terpaksa mulakan semula: Mulakan dari tempat yang sempurna maknanya, bukan dari mana-mana sahaja.",
+              "Catatan: Sebaik-baiknya ibtidaa' dimulakan pada ayat atau tempat yang bermakna sempurna dan lengkap artinya."
+            ]
+          }
+        },
+        {
+          "icon": "💡",
+          "title": "Contoh Ibtidaa' Jaiz",
+          "body": {
+            "type": "arabic",
+            "instruction": "Contoh: Berhenti pada ayat 24 Surah Al-Baqarah, kemudian memulakan bacaan dari ayat yang sempurna maknanya:",
+            "arabic": "فَاتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ أُعِدَّتْ لِلْكَافِرِينَ",
+            "translation": "Maka peliharalah diri kamu dari api neraka, yang bahan bakarnya adalah manusia dan batu, yang disediakan bagi orang-orang yang kafir.",
+            "source": "Surah Al-Baqarah: 24"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Tahukah anda? Waqaf Tam adalah waqaf terbaik kerana maknanya sudah sempurna. Waqaf Qabih dilarang kerana boleh mengubah atau memutuskan makna ayat al-Quran."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah definisi Waqaf dalam ilmu Tajwid?",
+      "options": [
+        "Memanjangkan bacaan suara",
+        "Memberhentikan bacaan dengan membuang nafas dengan niat menyambung kembali",
+        "Memulakan bacaan dari awal",
+        "Mengulangi bacaan dua kali"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Waqaf apakah yang dilarang kerana boleh mengubah makna ayat?",
+      "options": ["Waqaf Tam", "Waqaf Kafi", "Waqaf Hasan", "Waqaf Qabih"],
+      "answer": 3
+    },
+    {
+      "q": "Apakah yang dimaksudkan dengan Ibtidaa'?",
+      "options": [
+        "Memberhentikan bacaan",
+        "Memanjangkan suara",
+        "Memulakan atau menyambung bacaan selepas waqaf",
+        "Mengulangi bacaan"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Waqaf yang paling sempurna di mana maknanya sudah selesai disebut...",
+      "options": ["Waqaf Kafi", "Waqaf Hasan", "Waqaf Tam", "Waqaf Idtirari"],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Waqaf & Ibtidaa'", "colour": "#1565C0" },
+      { "id": "n2", "label": "Waqaf Tam", "colour": "#4CAF50" },
+      { "id": "n3", "label": "Waqaf Kafi", "colour": "#42A5F5" },
+      { "id": "n4", "label": "Waqaf Hasan", "colour": "#FF9800" },
+      { "id": "n5", "label": "Waqaf Qabih", "colour": "#E53935" },
+      { "id": "n6", "label": "Ibtidaa'", "colour": "#1976D2" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "waqaf" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "waqaf" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "waqaf" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "waqaf" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "lawan" }
+    ]
+  },
+  "vocab": [
+    { "word": "الْوَقْفُ", "meaning": "Waqaf — memberhentikan bacaan dengan membuang nafas dengan niat menyambung kembali" },
+    { "word": "الِابْتِدَاءُ", "meaning": "Ibtidaa' — memulakan atau menyambung bacaan selepas waqaf" },
+    { "word": "وَقْفٌ تَامّ", "meaning": "Waqaf Tam — waqaf sempurna, makna sudah lengkap, tidak ada kaitan dengan selepasnya" },
+    { "word": "وَقْفٌ كَافِي", "meaning": "Waqaf Kafi — waqaf memadai, makna sempurna tetapi ada kaitan makna dengan selepasnya" },
+    { "word": "وَقْفٌ حَسَن", "meaning": "Waqaf Hasan — waqaf elok, masih ada kaitan lafaz; lebih baik disambung" },
+    { "word": "وَقْفٌ قَبِيح", "meaning": "Waqaf Qabih — waqaf buruk/dilarang, makna tidak sempurna atau mengubah maksud" }
+  ],
+  "funFact": "Tahukah kamu bahawa tanda-tanda waqaf al-Quran seperti ۞, ۩, ۝ dan lain-lain telah dimasukkan ke dalam mushaf al-Quran oleh para ulama lebih dari 1,000 tahun dahulu untuk membantu pembaca memberhentikan bacaan di tempat yang betul? Ilmu waqaf sangat penting agar bacaan kita tidak mengubah makna firman Allah ﷻ yang suci!"
+}

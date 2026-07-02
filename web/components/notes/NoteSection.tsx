@@ -1,7 +1,7 @@
 "use client"
 
 import { motion } from "framer-motion"
-import { SectionType, CardBody, CardBodyList, CardBodyArabic, CardBodyPairs } from "@/lib/types"
+import { SectionType, CardBody, CardBodyList, CardBodyArabic, CardBodyPairs, ConceptCard } from "@/lib/types"
 
 // ─── Auto-detect arabic pattern in plain strings ─────────────────────────────
 // Only fires for legacy string bodies that match the doa/hadith/Quran pattern:
@@ -224,6 +224,7 @@ export function NoteSection({
     >
       {section.type === "intro" && <IntroSection section={section} colour={colour} />}
       {section.type === "concept-cards" && <ConceptCardsSection section={section} colour={colour} />}
+      {section.type === "unit" && <UnitSection section={section} colour={colour} />}
       {section.type === "callout" && <CalloutSection section={section} colour={colour} />}
       {section.type === "steps" && <StepsSection section={section} colour={colour} />}
     </motion.div>
@@ -243,9 +244,27 @@ function IntroSection({ section, colour }: { section: Extract<SectionType, { typ
 }
 
 function ConceptCardsSection({ section, colour }: { section: Extract<SectionType, { type: "concept-cards" }>; colour: string }) {
+  return <ConceptCardGrid items={section.items} colour={colour} />
+}
+
+function UnitSection({ section, colour }: { section: Extract<SectionType, { type: "unit" }>; colour: string }) {
+  return (
+    <div className="flex flex-col gap-3">
+      <div
+        className="flex items-center gap-3 px-4 py-2.5 rounded-2xl"
+        style={{ backgroundColor: colour + "18", border: `2px solid ${colour}44` }}
+      >
+        <span className="text-2xl font-black" style={{ color: colour }}>{section.heading}</span>
+      </div>
+      <ConceptCardGrid items={section.items} colour={colour} />
+    </div>
+  )
+}
+
+function ConceptCardGrid({ items, colour }: { items: ConceptCard[]; colour: string }) {
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-      {section.items.map((card, i) => (
+      {items.map((card, i) => (
         <motion.div
           key={i}
           className="bg-white rounded-2xl p-5 shadow-md flex gap-4 items-start"

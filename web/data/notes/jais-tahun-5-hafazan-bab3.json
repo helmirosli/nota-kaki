@@ -1,0 +1,142 @@
+{
+  "id": "jais-tahun-5-hafazan-bab3",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "hafazan",
+  "chapter": 3,
+  "title": "Surah al-Infitar (82)",
+  "emoji": "🌟",
+  "colour": "#E91E63",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "مَحْفُوظَات سُوْرَة الْإِنفِطَار — Pelajaran Hafazan 3",
+      "body": "Surah al-Infitar (الانفطار) ialah surah ke-82 dalam al-Quran. Ia mengandungi 19 ayat dan termasuk surah Makkiyyah. Nama surah diambil dari perkataan 'انفطرت' (terbelah) pada ayat pertama. Surah ini menceritakan peristiwa hari Kiamat, kejadian manusia, malaikat penjaga amalan, golongan orang berbakti dan golongan orang berdosa, serta keagungan hari pembalasan."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "1. Baca Ayat — Surah al-Infitar (19 Ayat)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Guru membaca, murid mengikut (talaqqiy). Baca dengan betul dan fasih.",
+            "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ\nإِذَا السَّمَاءُ انفَطَرَتْ ① وَإِذَا الْكَوَاكِبُ انتَثَرَتْ ② وَإِذَا الْبِحَارُ فُجِّرَتْ ③ وَإِذَا الْقُبُورُ بُعْثِرَتْ ④ عَلِمَتْ نَفْسٌ مَا قَدَّمَتْ وَأَخَّرَتْ ⑤ يَا أَيُّهَا الْإِنسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ ⑥ الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ ⑦ فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ ⑧ كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ ⑨ وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ ⑩ كِرَامًا كَاتِبِينَ ⑪ يَعْلَمُونَ مَا تَفْعَلُونَ ⑫ إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ ⑬ وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ ⑭ يَصْلَوْنَهَا يَوْمَ الدِّينِ ⑮ وَمَا هُمْ عَنْهَا بِغَائِبِينَ ⑯ وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ ⑰ ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ ⑱ يَوْمَ لَا تَمْلِكُ نَفْسٌ لِنَفْسٍ شَيْئًا وَالْأَمْرُ يَوْمَئِذٍ لِلَّهِ ⑲",
+            "translation": "(Ayat 1–19)"
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "4. Baca Ayat dan Terjemahannya",
+          "body": {
+            "type": "pairs",
+            "intro": "Baca setiap ayat dan fahamkan terjemahannya:",
+            "rows": [
+              { "label": "Ayat 1", "arabic": "إِذَا السَّمَاءُ انفَطَرَتْ", "meaning": "Apabila langit terbelah." },
+              { "label": "Ayat 2", "arabic": "وَإِذَا الْكَوَاكِبُ انتَثَرَتْ", "meaning": "Dan apabila bintang-bintang berhamburan (berserakan)." },
+              { "label": "Ayat 3", "arabic": "وَإِذَا الْبِحَارُ فُجِّرَتْ", "meaning": "Dan apabila lautan-lautan dicampur bercampur (diluahkan)." },
+              { "label": "Ayat 4", "arabic": "وَإِذَا الْقُبُورُ بُعْثِرَتْ", "meaning": "Dan apabila kubur-kubur digoncangkan (dibongkarkan)." },
+              { "label": "Ayat 5", "arabic": "عَلِمَتْ نَفْسٌ مَا قَدَّمَتْ وَأَخَّرَتْ", "meaning": "(Serta tiba itu), maka tiap-tiap seseorang akan mengetahui apa yang telah dikerjakannya dan apa yang ditinggalkannya." },
+              { "label": "Ayat 6", "arabic": "يَا أَيُّهَا الْإِنسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ", "meaning": "Wahai manusia! Apakah yang telah memperdayakanmu (berlaku demikian) tentang Tuhanmu yang Maha Pemurah?" },
+              { "label": "Ayat 7", "arabic": "الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ", "meaning": "Tuhan yang telah menciptamu lalu menyempurnakan kejadianmu dan mengadilkan susunan anggotamu." },
+              { "label": "Ayat 8", "arabic": "فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ", "meaning": "Dalam apa bentuk dan susunan yang dikehendaki-Nya, Ia menyusun kejadianmu." },
+              { "label": "Ayat 9", "arabic": "كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ", "meaning": "Sebenarnya tidaklah demikian! Bahkan kamu mendustakan hari pembalasan!" },
+              { "label": "Ayat 10", "arabic": "وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ", "meaning": "Padahal sesungguhnya ada (malaikat-malaikat) yang mengawal dan mengawasi kamu." },
+              { "label": "Ayat 11", "arabic": "كِرَامًا كَاتِبِينَ", "meaning": "(Mereka ialah) makhluk yang mulia (di sisi Allah), yang ditugas menuliskan (amalan kamu)." },
+              { "label": "Ayat 12", "arabic": "يَعْلَمُونَ مَا تَفْعَلُونَ", "meaning": "Mereka mengetahui apa yang kamu lakukan." },
+              { "label": "Ayat 13", "arabic": "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ", "meaning": "Sesungguhnya orang-orang yang berbakti itu, tetap berada di dalam syurga yang penuh nikmat." },
+              { "label": "Ayat 14", "arabic": "وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ", "meaning": "Dan sesungguhnya orang-orang yang berdosa itu, bertempat di dalam neraka Jahim yang menyala-nyala." },
+              { "label": "Ayat 15", "arabic": "يَصْلَوْنَهَا يَوْمَ الدِّينِ", "meaning": "Mereka menderia bakaran neraka pada hari pembalasan." },
+              { "label": "Ayat 16", "arabic": "وَمَا هُمْ عَنْهَا بِغَائِبِينَ", "meaning": "Dan mereka tidak terlepas daripadanya." },
+              { "label": "Ayat 17", "arabic": "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ", "meaning": "Dan apa jalannya engkau dapat mengetahui apa dia hari pembalasan itu?" },
+              { "label": "Ayat 18", "arabic": "ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ", "meaning": "Sekali lagi, apa jalannya engkau dapat mengetahui apa dia hari pembalasan itu?" },
+              { "label": "Ayat 19", "arabic": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِنَفْسٍ شَيْئًا وَالْأَمْرُ يَوْمَئِذٍ لِلَّهِ", "meaning": "(Hari itu ialah) hari yang seseorang tidak dapat membantu siapapun, dan segala perkara pada hari itu tertentulah diserahkan kepada Allah." }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "⭐",
+      "text": {
+        "type": "arabic",
+        "instruction": "Ayat penting — tentang malaikat penjaga amalan (Ayat 10-12):",
+        "arabic": "وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ ⑩ كِرَامًا كَاتِبِينَ ⑪ يَعْلَمُونَ مَا تَفْعَلُونَ ⑫",
+        "translation": "Padahal sesungguhnya ada (malaikat-malaikat) yang mengawal dan mengawasi kamu. (Mereka ialah) makhluk yang mulia, yang ditugas menuliskan (amalan kamu). Mereka mengetahui apa yang kamu lakukan.",
+        "source": "Surah al-Infitar: 10-12"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "3. Hafaz Surah — Surah al-Infitar (19 Ayat)",
+      "items": [
+        {
+          "type": "arabic",
+          "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ\nإِذَا السَّمَاءُ انفَطَرَتْ ① وَإِذَا الْكَوَاكِبُ انتَثَرَتْ ② وَإِذَا الْبِحَارُ فُجِّرَتْ ③ وَإِذَا الْقُبُورُ بُعْثِرَتْ ④ عَلِمَتْ نَفْسٌ مَا قَدَّمَتْ وَأَخَّرَتْ ⑤ يَا أَيُّهَا الْإِنسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ ⑥ الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ ⑦ فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ ⑧ كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ ⑨ وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ ⑩ كِرَامًا كَاتِبِينَ ⑪ يَعْلَمُونَ مَا تَفْعَلُونَ ⑫ إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ ⑬ وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ ⑭ يَصْلَوْنَهَا يَوْمَ الدِّينِ ⑮ وَمَا هُمْ عَنْهَا بِغَائِبِينَ ⑯ وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ ⑰ ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ ⑱ يَوْمَ لَا تَمْلِكُ نَفْسٌ لِنَفْسٍ شَيْئًا وَالْأَمْرُ يَوْمَئِذٍ لِلَّهِ ⑲",
+          "translation": "Hafaz keseluruhan surah dengan lancar"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Surah al-Infitar ialah surah ke berapa dalam al-Quran?",
+      "options": ["80", "81", "82", "83"],
+      "answer": 2
+    },
+    {
+      "q": "Berapa bilangan ayat dalam Surah al-Infitar?",
+      "options": ["17 ayat", "18 ayat", "19 ayat", "20 ayat"],
+      "answer": 2
+    },
+    {
+      "q": "Apakah terjemahan 'كِرَامًا كَاتِبِينَ'?",
+      "options": [
+        "Malaikat yang suka melaporkan",
+        "(Mereka ialah) makhluk yang mulia (di sisi Allah), yang ditugas menuliskan (amalan kamu)",
+        "Orang-orang yang menulis dengan cantik",
+        "Malaikat yang menjaga pintu syurga"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang dimaksudkan dengan 'يَوْمُ الدِّينِ' dalam surah ini?",
+      "options": [
+        "Hari kita dilahirkan",
+        "Hari kita solat",
+        "Hari pembalasan (Kiamat)",
+        "Hari kita membaca al-Quran"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Surah al-Infitar (82)", "colour": "#E91E63" },
+      { "id": "n2", "label": "Peristiwa Kiamat (1-5)", "colour": "#9C27B0" },
+      { "id": "n3", "label": "Kejadian manusia (6-8)", "colour": "#2196F3" },
+      { "id": "n4", "label": "Malaikat penjaga amalan (9-12)", "colour": "#FF9800" },
+      { "id": "n5", "label": "Al-Abrar & Al-Fujjar (13-16)", "colour": "#4CAF50" },
+      { "id": "n6", "label": "Keagungan Yaumuddin (17-19)", "colour": "#F44336" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "ayat 1-5" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "ayat 6-8" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "ayat 9-12" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "ayat 13-16" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "ayat 17-19" }
+    ]
+  },
+  "vocab": [
+    { "word": "انفَطَرَتْ", "meaning": "terbelah (surah dinamakan sempena perkataan ini — langit terbelah pada hari Kiamat)" },
+    { "word": "انتَثَرَتْ", "meaning": "berhamburan/berserakan (bintang-bintang berhamburan pada hari Kiamat)" },
+    { "word": "بُعْثِرَتْ", "meaning": "digoncangkan/dibongkarkan (kubur-kubur dibongkarkan untuk kebangkitan semula)" },
+    { "word": "كِرَامًا كَاتِبِينَ", "meaning": "makhluk yang mulia lagi ditugas menuliskan — merujuk kepada malaikat Raqib dan Atid" },
+    { "word": "الْأَبْرَار", "meaning": "orang-orang yang berbakti/taat — mereka berada di syurga yang penuh nikmat" },
+    { "word": "الْفُجَّار", "meaning": "orang-orang yang berdosa/jahat — mereka berada di dalam neraka Jahim" }
+  ],
+  "funFact": "Tahukah kamu bahawa Allah ﷻ menyoal manusia dalam ayat 6: 'Apakah yang telah memperdayakanmu tentang Tuhanmu yang Maha Pemurah?' Para ulama menjelaskan bahawa Allah menggunakan nama 'Al-Karim' (Maha Pemurah) dalam soalan ini sebagai petunjuk bahawa manusia sering terpedaya dengan kemurahan Allah ﷻ — mereka fikir kerana Allah itu Pemurah, mereka bebas berbuat dosa. Sebaliknya, kemurahan Allah seharusnya mendorong kita untuk lebih bersyukur dan taat!"
+}

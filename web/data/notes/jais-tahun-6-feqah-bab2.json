@@ -1,0 +1,160 @@
+{
+  "id": "jais-tahun-6-feqah-bab2",
+  "source": "jais",
+  "year": "tahun-6",
+  "subject": "feqah",
+  "chapter": 2,
+  "title": "Feqah 2: Zakat — Jenis, Kadar, dan Agihan",
+  "emoji": "💛",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الزَّكَاة — Zakat Rukun Islam Ketiga",
+      "body": "Zakat adalah Rukun Islam Ketiga yang wajib ditunaikan oleh setiap Muslim yang memenuhi syarat. Zakat bukan sekadar ibadah kewangan — ia adalah sistem pengagihan kekayaan dalam Islam yang memastikan golongan miskin mendapat hak mereka. Dalam Tahun 6, pelajar mempelajari jenis-jenis zakat, kadar, dan cara agihan."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📊",
+          "title": "Dua Jenis Zakat Utama",
+          "body": {
+            "type": "pairs",
+            "intro": "Dua jenis zakat yang paling utama:",
+            "rows": [
+              { "arabic": "زَكَاة الْفِطْر", "meaning": "Zakat Fitrah: wajib setiap Muslim, 1 cupak (2.7kg beras per orang), dibayar sebelum solat Aidilfitri" },
+              { "arabic": "زَكَاة الْمَال", "meaning": "Zakat Harta: wajib bila harta mencapai nisab dan haul; 2.5% dari simpanan, perniagaan, emas/perak yang sudah setahun" }
+            ]
+          }
+        },
+        {
+          "icon": "📝",
+          "title": "Syarat Wajib Zakat Harta",
+          "body": {
+            "type": "list",
+            "intro": "Syarat wajib zakat harta:",
+            "items": [
+              "Islam — hanya orang Islam wajib zakat",
+              "Merdeka — orang merdeka (bukan hamba)",
+              "Memiliki harta — harta adalah milik penuh",
+              "Nisab — harta mencapai jumlah minimum (setara 85g emas untuk simpanan)",
+              "Haul — harta sudah dimiliki selama satu tahun Hijriah penuh"
+            ]
+          }
+        },
+        {
+          "icon": "📖",
+          "title": "Lapan Asnaf (Penerima Zakat)",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah tentang 8 golongan yang berhak menerima zakat:",
+            "arabic": "إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ عَلَيْهَا\nوَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ وَالْغَارِمِينَ\nوَفِي سَبِيلِ اللَّهِ وَابْنِ السَّبِيل",
+            "translation": "Sesungguhnya zakat-zakat itu hanyalah untuk: fakir, miskin, amil zakat, muallaf, hamba (memerdekakan), orang berhutang, fi sabilillah (orang berjuang di jalan Allah), dan ibnu sabil (musafir).",
+            "source": "Surah al-Taubah: 60"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💛",
+      "text": {
+        "type": "list",
+        "intro": "Lapan asnaf zakat secara mudah:",
+        "items": [
+          "1. Fakir — sangat miskin, tiada pendapatan langsung",
+          "2. Miskin — ada pendapatan tapi tidak mencukupi",
+          "3. Amil — pekerja yang menguruskan zakat",
+          "4. Muallaf — orang baru masuk Islam atau yang hatinya perlu diperkukuh",
+          "5. Riqab — memerdekakan hamba (kini: dana pembebasan dari penindasan)",
+          "6. Gharim — orang yang berhutang bukan untuk kemungkaran",
+          "7. Fi Sabilillah — pejuang di jalan Allah / pelajar ilmu agama",
+          "8. Ibnu Sabil — musafir yang terputus bekalan"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Kira dan Bayar Zakat",
+      "items": [
+        "Kira zakat fitrah: bilangan ahli keluarga × 1 cupak (2.7kg beras) × harga beras.",
+        "Pastikan bayar SEBELUM solat Aidilfitri — kalau bayar selepas itu, ia hanya sedekah biasa.",
+        {
+          "type": "pairs",
+          "intro": "Contoh kira zakat fitrah:",
+          "rows": [
+            { "arabic": "١ أهل بيت = ٥ أفراد", "meaning": "5 orang × 2.7kg × harga beras = zakat fitrah keluarga" },
+            { "arabic": "نِصَاب الذَّهَب = ٨٥ گرام", "meaning": "Nisab simpanan = nilai 85g emas" }
+          ]
+        },
+        "Bayar zakat melalui Lembaga Zakat negeri — ini lebih mudah dan terjamin pengagihannya.",
+        "Ingat: zakat bukan rugi — ia membersihkan harta dan mendatangkan berkat!"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa kadar zakat fitrah yang wajib dibayar per orang?",
+      "options": [
+        "500g beras",
+        "1kg beras",
+        "2.7kg (1 cupak) beras",
+        "5kg beras"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa peratus kadar zakat harta (zakat simpanan)?",
+      "options": [
+        "1%",
+        "2%",
+        "2.5%",
+        "5%"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Berapa golongan (asnaf) yang berhak menerima zakat menurut al-Quran?",
+      "options": [
+        "4 golongan",
+        "6 golongan",
+        "8 golongan",
+        "10 golongan"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah 'haul' dalam syarat wajib zakat?",
+      "options": [
+        "Harta mencapai had minimum",
+        "Harta sudah dimiliki selama satu tahun penuh",
+        "Harta adalah milik penuh",
+        "Harta dari sumber yang halal"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Zakat", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Zakat Fitrah", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "Zakat Harta", "colour": "#7B1FA2" },
+      { "id": "n4", "label": "8 Asnaf (al-Taubah:60)", "colour": "#4A148C" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "agihan kepada" }
+    ]
+  },
+  "vocab": [
+    { "word": "الزَّكَاة", "meaning": "zakat (bahasa Arab: pertumbuhan/penyucian)" },
+    { "word": "النِّصَاب", "meaning": "nisab (had minimum harta yang mewajibkan zakat)" },
+    { "word": "الْحَوْل", "meaning": "haul (satu tahun Hijriah penuh)" },
+    { "word": "الْأَصْنَاف", "meaning": "asnaf (golongan penerima zakat — dari 'sinf' = jenis)" },
+    { "word": "الْفَقِير", "meaning": "fakir (sangat miskin — tiada harta dan pendapatan)" }
+  ],
+  "funFact": "Tahukah kamu bahawa zakat 2.5% dari simpanan bukan bermaksud orang kaya rugi? Ahli ekonomi Islam telah mengira bahawa jika setiap Muslim yang layak membayar zakat di Malaysia membayarnya, potensi kutipan zakat Malaysia adalah lebih RM9 bilion setahun — ini boleh menghapuskan kemiskinan sepenuhnya di Malaysia! Tapi kenyataannya, kutipan sebenar masih jauh dari angka ini kerana ramai yang belum bayar. Ini menunjukkan betapa dahsyatnya sistem zakat jika dilaksanakan sepenuhnya — ia bukan sekadar ibadah individu tetapi sistem ekonomi yang Allah reka untuk menguruskan masyarakat!"
+}

@@ -1,0 +1,132 @@
+{
+  "id": "jais-tahun-5-sirah-bab4",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "sirah",
+  "chapter": 4,
+  "title": "Pembukaan Kota Mekah",
+  "emoji": "🕌",
+  "colour": "#FF6F00",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "فَمْبُوكَاءَن كُوتَا مَكَّة — Pelajaran Keempat",
+      "body": "Pembukaan Kota Mekah (Fath Makkah) berlaku pada 10 Ramadhan tahun 8 Hijriah (629 Masihi) — merupakan peristiwa paling bersejarah dalam Islam apabila Kota Mekah akhirnya kembali kepada Islam."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "⚡",
+          "title": "Unit 1: Sebab Pembukaan Kota Mekah",
+          "body": {
+            "type": "list",
+            "intro": "Sebab utama berlakunya Pembukaan Kota Mekah:",
+            "items": [
+              "Bani Bakr (sekutu Quraish) melanggar Perjanjian Hudaibiah dengan menyerang Bani Khuza'ah (sekutu Rasulullah ﷺ).",
+              "Kaum musyrikin Mekah membantu Bani Bakr dalam serangan tersebut — ini melanggar syarat perjanjian.",
+              "Disebabkan pengkhianatan ini, Nabi ﷺ menyiapkan tentera Islam untuk memasuki Mekah."
+            ]
+          }
+        },
+        {
+          "icon": "🏙️",
+          "title": "Unit 2: Tarikh Pembukaan Kota Mekah",
+          "body": {
+            "type": "arabic",
+            "instruction": "Nabi ﷺ membawa 10,000 tentera Islam menuju Mekah pada 10 Ramadhan tahun 8 Hijriah (629 Masihi). Allah ﷻ berfirman sebelumnya:",
+            "arabic": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ ﴿١﴾ وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا ﴿٢﴾ فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ إِنَّهُ كَانَ تَوَّابًا ﴿٣﴾",
+            "translation": "Apabila telah datang pertolongan Allah dan kemenangan. Dan kamu melihat manusia masuk ke dalam agama Allah dengan berbondong-bondong. Maka bertasbihlah memuji Tuhanmu dan mohon ampunlah kepada-Nya. Sesungguhnya Dia Maha Penerima taubat.",
+            "source": "Surah an-Nasr: 1-3"
+          }
+        },
+        {
+          "icon": "🕊️",
+          "title": "Peristiwa Pembukaan Mekah",
+          "body": {
+            "type": "list",
+            "intro": "Kronologi peristiwa pembukaan Mekah:",
+            "items": [
+              "Abbas bin Abd al-Muttalib menemani Abu Sufian bin Harb yang ingin masuk Islam. Mekah dinyatakan aman bagi yang menyerah diri.",
+              "Nabi ﷺ membahagikan tentera kepada 2 kumpulan: Khalid bin al-Walid (sisi kanan) dan al-Zubayr bin al-'Awwam (sisi kiri) masuk ke Kota Mekah.",
+              "Nabi ﷺ memasuki Masjid al-Haram, melakukan tawaf, dan menghancurkan 360 berhala di sekeliling Ka'bah sambil membaca: 'Yang benar telah datang dan yang batil telah lenyap.'",
+              "Nabi ﷺ memaafkan semua kafir Quraisy yang menjadi musuh baginda — tiada tindakan balas dendam."
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Unit 3: Kesan Pembukaan Kota Mekah",
+          "body": {
+            "type": "list",
+            "intro": "Kesan-kesan pembukaan Kota Mekah:",
+            "items": [
+              "Penganut Islam semakin bertambah — Kota Mekah kini di bawah Islam. Orang Arab di seluruh tanah Arab beramai-ramai memeluk Islam.",
+              "Orang Quraish yang sebelumnya memusuhi Nabi ﷺ kini bergabung dalam Islam, termasuk tokoh besar seperti Mu'awiyah bin Abi Sufian.",
+              "Kota Mekah menjadi pusat Islam dan Ka'bah dibersihkan daripada semua berhala — kembali kepada kesucian asalnya."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Tahukah anda? Unta yang dinaiki Nabi ﷺ ketika Pembukaan Kota Mekah adalah unta yang sama yang dinaiki baginda ketika berhijrah ke Madinah, kira-kira 8 tahun sebelumnya."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah sebab utama berlakunya Pembukaan Kota Mekah?",
+      "options": [
+        "Nabi ﷺ ingin menguasai Mekah",
+        "Bani Bakr melanggar Perjanjian Hudaibiah dengan menyerang Bani Khuza'ah",
+        "Orang Mekah meminta Islam masuk",
+        "Nabi ﷺ bermimpi memasuki Mekah"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Berapa jumlah tentera Islam yang dibawa Nabi ﷺ ketika Pembukaan Kota Mekah?",
+      "options": ["313 orang", "1,500 orang", "3,000 orang", "10,000 orang"],
+      "answer": 3
+    },
+    {
+      "q": "Surah apakah yang merujuk kepada Pembukaan Kota Mekah?",
+      "options": ["Surah al-Fath", "Surah an-Nasr", "Surah al-Hajj", "Surah al-Baqarah"],
+      "answer": 1
+    },
+    {
+      "q": "Apakah yang dilakukan Nabi ﷺ terhadap Ka'bah selepas memasuki Mekah?",
+      "options": [
+        "Mengecat semula Ka'bah",
+        "Menghancurkan semua berhala di sekeliling Ka'bah",
+        "Menutup Ka'bah untuk umum",
+        "Menambah batu-batu baru pada Ka'bah"
+      ],
+      "answer": 1
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Pembukaan Kota Mekah", "colour": "#FF6F00" },
+      { "id": "n2", "label": "Sebab (Unit 1)", "colour": "#E65100" },
+      { "id": "n3", "label": "Tarikh & Peristiwa (Unit 2)", "colour": "#FF8F00" },
+      { "id": "n4", "label": "Kesan (Unit 3)", "colour": "#4CAF50" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "mengapa" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "bagaimana" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "akibat" }
+    ]
+  },
+  "vocab": [
+    { "word": "فَتْحُ مَكَّة", "meaning": "Fath Makkah — Pembukaan Kota Mekah pada 10 Ramadhan tahun 8 Hijriah" },
+    { "word": "الْكَعْبَة", "meaning": "Ka'bah — rumah Allah ﷻ yang menjadi kiblat solat seluruh dunia" },
+    { "word": "الصَّنَم", "meaning": "Sanam/berhala — patung yang disembah kaum Jahiliah, dihancurkan Nabi ﷺ ketika Fath Makkah" },
+    { "word": "الطَّوَاف", "meaning": "Tawaf — mengelilingi Ka'bah sebanyak 7 pusingan dalam ibadah haji/umrah" },
+    { "word": "الْعَفْو", "meaning": "Maaf/pengampunan — Nabi ﷺ memaafkan semua musuh Islam setelah memasuki Mekah" }
+  ],
+  "funFact": "Tahukah kamu bahawa ketika Nabi ﷺ memasuki Ka'bah dan menghancurkan berhala, terdapat 360 berhala di sekelilingnya? Nabi ﷺ menghancurkannya satu persatu dengan tongkat sambil membaca: 'Yang benar telah datang, yang batil telah lenyap — sesungguhnya yang batil itu sememangnya akan lenyap.' (Surah al-Isra': 81). Setelah itu, semua berhala di Mekah dan sekitarnya dihapuskan, dan Kota Mekah menjadi kota suci Islam hingga ke hari ini!"
+}

@@ -1,0 +1,172 @@
+{
+  "id": "jais-tahun-4-feqah-bab5",
+  "source": "jais",
+  "year": "tahun-4",
+  "subject": "feqah",
+  "chapter": 5,
+  "title": "Bab 5: Zakat",
+  "emoji": "🕌",
+  "colour": "#9C27B0",
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الزَّكَاة — Zakat",
+      "body": "Zakat adalah rukun Islam yang ketiga. Ia adalah pemberian sebahagian harta kepada golongan yang berhak menerimanya. Zakat membersihkan harta dan jiwa kita, serta membantu orang-orang yang memerlukan dalam masyarakat."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Dalil Wajib Zakat",
+          "body": {
+            "type": "arabic",
+            "instruction": "Perintah zakat dalam al-Quran:",
+            "arabic": "وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَارْكَعُوا مَعَ الرَّاكِعِينَ",
+            "translation": "Dan dirikanlah solat dan tunaikanlah zakat dan ruku'lah bersama orang-orang yang ruku'.",
+            "source": "Surah al-Baqarah: 43"
+          }
+        },
+        {
+          "icon": "📚",
+          "title": "Jenis-jenis Zakat",
+          "body": {
+            "type": "pairs",
+            "intro": "Dua jenis zakat utama dalam Islam:",
+            "rows": [
+              { "label": "Zakat Fitrah", "arabic": "زكاة الفطر", "meaning": "Zakat badan — wajib setiap Muslim, dibayar sebelum solat Aidilfitri" },
+              { "label": "Zakat Mal", "arabic": "زكاة المال", "meaning": "Zakat harta — wajib bila harta cukup nisab dan haul" }
+            ]
+          }
+        },
+        {
+          "icon": "💰",
+          "title": "Zakat Fitrah",
+          "body": {
+            "type": "list",
+            "intro": "Syarat dan kadar Zakat Fitrah:",
+            "items": [
+              "Wajib ke atas setiap Muslim — kaya atau miskin, tua atau muda",
+              "Kadar: 2.7 kg beras (atau nilai setara) untuk setiap orang",
+              "Waktu wajib: bermula Ramadan hingga sebelum solat Aidilfitri",
+              "Waktu TERBAIK: malam atau pagi Aidilfitri sebelum solat Eid",
+              "Tujuan: menyucikan puasa dan membantu golongan miskin menyambut Aidilfitri"
+            ]
+          }
+        },
+        {
+          "icon": "📊",
+          "title": "8 Asnaf (Golongan Penerima Zakat)",
+          "body": {
+            "type": "pairs",
+            "intro": "Golongan yang berhak menerima zakat:",
+            "rows": [
+              { "label": "1. Fakir", "arabic": "الْفُقَرَاء", "meaning": "Orang yang sangat miskin, tiada harta sama sekali" },
+              { "label": "2. Miskin", "arabic": "الْمَسَاكِين", "meaning": "Orang yang ada sedikit harta tapi tidak mencukupi" },
+              { "label": "3. Amil", "arabic": "الْعَامِلُون", "meaning": "Petugas yang menguruskan zakat" },
+              { "label": "4. Muallaf", "arabic": "الْمُؤَلَّفَة قُلُوبُهُم", "meaning": "Orang baru Islam atau ingin memeluk Islam" },
+              { "label": "5. Riqab", "arabic": "فِي الرِّقَاب", "meaning": "Membebaskan hamba/tawanan" },
+              { "label": "6. Gharimin", "arabic": "الْغَارِمُون", "meaning": "Orang yang berhutang untuk keperluan asas" },
+              { "label": "7. Fisabilillah", "arabic": "فِي سَبِيلِ اللَّه", "meaning": "Pejuang di jalan Allah, pengembang pendidikan Islam" },
+              { "label": "8. Ibnu Sabil", "arabic": "ابْنُ السَّبِيل", "meaning": "Musafir yang terputus bekalan dalam perjalanan" }
+            ],
+            "outro": "Hafaz 8 asnaf ini — ia sangat penting dalam feqah!"
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "🌟",
+      "text": {
+        "type": "arabic",
+        "instruction": "Hadith tentang kelebihan zakat:",
+        "arabic": "مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ",
+        "translation": "Tidaklah sedekah (zakat) itu mengurangkan harta.",
+        "source": "Riwayat Muslim",
+        "outro": "Harta yang dizakat akan bertambah berkat — Allah SWT ganti lebih banyak!"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Membayar Zakat Fitrah",
+      "items": [
+        "Tentukan bilangan ahli keluarga yang perlu dibayar zakat.",
+        "Darab dengan kadar zakat — 2.7 kg beras atau nilai wangnya.",
+        "Bayar kepada amil zakat (baitulmal/masjid) atau terus kepada asnaf fakir/miskin.",
+        {
+          "type": "arabic",
+          "arabic": "نَوَيْتُ أَنْ أُخْرِجَ زَكَاةَ الْفِطْرِ عَنْ نَفْسِي فَرْضًا لِلَّهِ تَعَالَى",
+          "translation": "Sahaja aku mengeluarkan zakat fitrah bagi diriku sendiri fardhu kerana Allah Taala"
+        },
+        "Bayar sebelum solat Aidilfitri — kalau terlewat, masih wajib bayar tapi pahala sudah kurang."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa kadar Zakat Fitrah yang wajib dibayar?",
+      "options": [
+        "1 kg beras",
+        "2 kg beras",
+        "2.7 kg beras",
+        "5 kg beras"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Siapakah golongan yang BERHAK menerima zakat?",
+      "options": [
+        "Orang kaya sahaja",
+        "Guru dan ulama sahaja",
+        "8 asnaf seperti fakir, miskin, dan lain-lain",
+        "Sesiapa yang meminta zakat"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Apakah perbezaan antara Zakat Fitrah dan Zakat Mal?",
+      "options": [
+        "Tidak ada perbezaan",
+        "Zakat Fitrah zakat badan, Zakat Mal zakat harta",
+        "Zakat Mal wajib setiap tahun, Zakat Fitrah tidak wajib",
+        "Zakat Fitrah untuk orang kaya sahaja"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "'Amil' dalam asnaf zakat bermaksud:",
+      "options": [
+        "Orang miskin",
+        "Musafir yang terputus bekalan",
+        "Petugas yang menguruskan zakat",
+        "Orang baru memeluk Islam"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Zakat", "colour": "#9C27B0" },
+      { "id": "n2", "label": "Zakat Fitrah", "colour": "#7B1FA2" },
+      { "id": "n3", "label": "Zakat Mal", "colour": "#7B1FA2" },
+      { "id": "n4", "label": "8 Asnaf", "colour": "#AB47BC" },
+      { "id": "n5", "label": "Rukun Islam ke-3", "colour": "#CE93D8" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "jenis 1" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "jenis 2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "penerima" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "kedudukan" }
+    ]
+  },
+  "vocab": [
+    { "word": "زَكَاة", "meaning": "zakat (membersihkan harta)" },
+    { "word": "نِصَاب", "meaning": "had minimum harta yang wajib zakat" },
+    { "word": "حَوْل", "meaning": "tempoh satu tahun haul" },
+    { "word": "أَصْنَاف", "meaning": "golongan-golongan (penerima zakat)" },
+    { "word": "فَقِير", "meaning": "fakir (sangat miskin, tiada harta)" }
+  ],
+  "funFact": "Tahukah kamu bahawa zakat bukan hanya duit? Zakat Mal boleh juga dikenakan ke atas emas, perak, haiwan ternakan (unta, lembu, kambing), hasil tanaman/pertanian, dan perniagaan. Di Malaysia, pendapatan gaji pun ada zakatnya! Di zaman Rasulullah SAW, sahabat membayar zakat dengan unta dan kambing. Sistem zakat inilah yang menjadikan masyarakat Islam zaman dahulu makmur dan tidak ada yang kelaparan."
+}

@@ -1,0 +1,138 @@
+{
+  "id": "jais-tahun-5-arab-bab2",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "bahasa-arab",
+  "chapter": 2,
+  "title": "الضمائر — Kata Ganti Nama",
+  "emoji": "📖",
+  "colour": "#2196F3",
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "الدرس الثاني — الضمائر",
+      "body": "Pada akhir pelajaran ini, murid dapat: (1) Mendengar ayat yang mengandungi dhomair dengan betul. (2) Menyebut dhomair dalam ayat dengan betul. (3) Membaca ayat yang mengandungi dhomair dengan jelas. (4) Menulis dhomair dalam ayat dengan betul."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📊",
+          "title": "Pembahagian الضمائر",
+          "body": {
+            "type": "list",
+            "intro": "Dhomair (kata ganti nama) dalam bahasa Arab dibahagi kepada 5 golongan mengikut orang:",
+            "items": [
+              "الغَائِبُ — Ghaib lelaki: هُوَ (dia 1 lelaki)، هُمَا (mereka berdua lelaki)، هُمْ (mereka lelaki)",
+              "الغَائِبَةُ — Ghaib perempuan: هِيَ (dia 1 perempuan)، هُمَا (mereka berdua perempuan)، هُنَّ (mereka perempuan)",
+              "الْمُخَاطَبُ — Mukhatab lelaki: أَنْتَ (kamu 1 lelaki)، أَنْتُمَا (kamu berdua lelaki)، أَنْتُمْ (kamu semua lelaki)",
+              "الْمُخَاطَبَةُ — Mukhatab perempuan: أَنْتِ (kamu 1 perempuan)، أَنْتُمَا (kamu berdua perempuan)، أَنْتُنَّ (kamu semua perempuan)",
+              "الْمُتَكَلِّمُ — Mutakallim: أَنَا (saya)، نَحْنُ (kami/kita)"
+            ]
+          }
+        },
+        {
+          "icon": "👤",
+          "title": "Dhomair Ghaib (الغائب / الغائبة)",
+          "body": {
+            "type": "pairs",
+            "intro": "Dhomair ghaib — kata ganti untuk orang ketiga (tidak hadir dalam perbualan):",
+            "rows": [
+              { "arabic": "هُوَ", "meaning": "Huwa — dia (1 lelaki)" },
+              { "arabic": "هُمَا", "meaning": "Humaa — mereka berdua (lelaki atau perempuan)" },
+              { "arabic": "هُمْ", "meaning": "Hum — mereka (lebih 2, lelaki)" },
+              { "arabic": "هِيَ", "meaning": "Hiya — dia (1 perempuan)" },
+              { "arabic": "هُنَّ", "meaning": "Hunna — mereka (lebih 2, perempuan)" }
+            ]
+          }
+        },
+        {
+          "icon": "👥",
+          "title": "Dhomair Mukhatab & Mutakallim",
+          "body": {
+            "type": "pairs",
+            "intro": "Dhomair mukhatab (orang kedua) dan mutakallim (orang pertama):",
+            "rows": [
+              { "arabic": "أَنْتَ", "meaning": "Anta — kamu (1 lelaki)" },
+              { "arabic": "أَنْتِ", "meaning": "Anti — kamu (1 perempuan)" },
+              { "arabic": "أَنْتُمَا", "meaning": "Antumaa — kamu berdua" },
+              { "arabic": "أَنْتُمْ", "meaning": "Antum — kamu semua (lelaki)" },
+              { "arabic": "أَنْتُنَّ", "meaning": "Antunna — kamu semua (perempuan)" },
+              { "arabic": "أَنَا", "meaning": "Ana — saya (orang pertama tunggal)" },
+              { "arabic": "نَحْنُ", "meaning": "Nahnu — kami/kita (orang pertama jamak)" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📌",
+      "text": "Ringkasan Dhomair: الغائب (orang ketiga) — هو، هي، هما، هم، هن. المخاطب (orang kedua) — أنت، أنتِ، أنتما، أنتم، أنتن. المتكلم (orang pertama) — أنا، نحن. Dhomair هما digunakan untuk dua orang — sama ada lelaki atau perempuan."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Apakah dhomair yang digunakan untuk 'mereka (lebih 2, perempuan)'?",
+      "options": [
+        "هُمْ",
+        "هُنَّ",
+        "هُمَا",
+        "أَنْتُنَّ"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dhomair 'أَنْتُمَا' bermaksud...",
+      "options": [
+        "Kamu seorang (lelaki)",
+        "Kamu berdua",
+        "Kamu semua (lelaki)",
+        "Mereka berdua"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Apakah golongan dhomair untuk kata 'أَنَا'?",
+      "options": [
+        "الغائب",
+        "المخاطب",
+        "المتكلم",
+        "المخاطبة"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Dhomair 'هُوَ' digunakan untuk...",
+      "options": [
+        "Dia (1 perempuan)",
+        "Mereka (lelaki)",
+        "Dia (1 lelaki)",
+        "Kamu (1 lelaki)"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "الضمائر", "colour": "#2196F3" },
+      { "id": "n2", "label": "الغائب/ة", "colour": "#1976D2" },
+      { "id": "n3", "label": "المخاطب/ة", "colour": "#1565C0" },
+      { "id": "n4", "label": "المتكلم", "colour": "#0D47A1" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "orang ke-3" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "orang ke-2" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "orang ke-1" }
+    ]
+  },
+  "vocab": [
+    { "word": "الضَّمَائِرُ", "meaning": "Dhamaa'ir — kata ganti nama (pronouns)" },
+    { "word": "الْغَائِبُ", "meaning": "Al-Ghaaib — orang ketiga yang tidak hadir dalam perbualan" },
+    { "word": "الْمُخَاطَبُ", "meaning": "Al-Mukhaatab — orang kedua yang diajak bercakap" },
+    { "word": "الْمُتَكَلِّمُ", "meaning": "Al-Mutakallim — orang pertama yang bercakap" },
+    { "word": "نَحْنُ", "meaning": "Nahnu — kami/kita (kata ganti orang pertama jamak)" }
+  ],
+  "funFact": "Tahukah kamu bahawa bahasa Arab mempunyai bentuk 'dua' (muthanna) yang tersendiri? Dalam bahasa Melayu, kita hanya ada 'satu' dan 'banyak'. Tapi dalam bahasa Arab, ada tiga: 'satu' (مفرد), 'dua' (مثنى), dan 'banyak' (جمع). Itulah sebabnya ada هو (dia 1), هما (dia 2), هم (mereka 3+). Ini menjadikan bahasa Arab sangat tepat dan kaya dalam penggunaannya!"
+}

@@ -1,0 +1,222 @@
+{
+  "id": "jais-tahun-5-tauhid-bab3",
+  "source": "jais",
+  "year": "tahun-5",
+  "subject": "tauhid",
+  "chapter": 3,
+  "title": "Al-Asma-ul-Husna",
+  "emoji": "✨",
+  "colour": "#FFB300",
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "اَلْأَسْمَاءُ الْحُسْنَى — Pelajaran Ketiga",
+      "body": "Al-Asma-ul-Husna ialah nama-nama Allah ﷻ yang terbaik dan indah. Allah ﷻ mempunyai 99 nama. Sesiapa yang menghafaz dan memahaminya akan masuk syurga."
+    },
+    {
+      "type": "concept-cards",
+      "items": [
+        {
+          "icon": "📖",
+          "title": "Dalil & Hadith Al-Asma-ul-Husna",
+          "body": {
+            "type": "arabic",
+            "instruction": "Sabda Rasulullah ﷺ (Riwayat al-Bukhari):",
+            "arabic": "إِنَّ لِلَّهِ تِسْعَةً وَتِسْعِينَ إِسْمًا مِائَةً إِلَّا وَاحِدًا مَنْ أَحْصَاهَا دَخَلَ الْجَنَّةَ",
+            "translation": "Sesungguhnya Allah ﷻ mempunyai 99 nama — seratus kurang satu — sesiapa yang menghafaznya akan masuk syurga."
+          }
+        },
+        {
+          "icon": "📋",
+          "title": "Dalil al-Quran tentang Al-Asma-ul-Husna",
+          "body": {
+            "type": "arabic",
+            "instruction": "Firman Allah ﷻ (wajib hafaz):",
+            "arabic": "وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَى فَادْعُوهُ بِهَا وَذَرُوا الَّذِينَ يُلْحِدُونَ فِي أَسْمَائِهِ سَيُجْزَوْنَ مَا كَانُوا يَعْمَلُونَ ﴿١٨٠﴾",
+            "translation": "Dan Allah ﷻ mempunyai nama-nama yang terbaik, maka berdoalah kepada-Nya dengan menyebut nama-nama itu, dan tinggalkanlah orang-orang yang menyimpang dari kebenaran dalam (menyebut) nama-nama-Nya. Mereka akan mendapat balasan terhadap apa yang telah mereka kerjakan.",
+            "source": "Surah al-A'raf: 180"
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Unit 1: الرَّحْمَنُ hingga الْمُؤْمِنُ (Nama 1-10)",
+          "body": {
+            "type": "pairs",
+            "intro": "10 nama pertama — wajib hafaz makna:",
+            "rows": [
+              { "arabic": "اَلرَّحْمَنُ", "meaning": "Yang Maha Pengasih" },
+              { "arabic": "اَلرَّحِيمُ", "meaning": "Yang Maha Penyayang" },
+              { "arabic": "اَلْمَلِكُ", "meaning": "Yang Maha Raja (raja yang berkuasa)" },
+              { "arabic": "اَلْقُدُّوسُ", "meaning": "Yang Maha Suci" },
+              { "arabic": "اَلسَّلامُ", "meaning": "Yang Menjamin Keselamatan" },
+              { "arabic": "اَلْمُهَيْمِنُ", "meaning": "Yang Maha Mengawasi" },
+              { "arabic": "اَلْعَزِيزُ", "meaning": "Yang Maha Perkasa" },
+              { "arabic": "اَلْجَبَّارُ", "meaning": "Yang Maha Berkuasa (menundukkan segalanya)" },
+              { "arabic": "اَلْمُتَكَبِّرُ", "meaning": "Yang Maha Megah (melengkapi segala kebesaran)" },
+              { "arabic": "اَلْمُؤْمِنُ", "meaning": "Yang Maha Memberi Keamanan" }
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Unit 2: الْخَالِقُ hingga الْقَابِضُ (Nama 11-20)",
+          "body": {
+            "type": "pairs",
+            "intro": "10 nama kedua — wajib hafaz makna:",
+            "rows": [
+              { "arabic": "اَلْخَالِقُ", "meaning": "Yang Maha Pencipta" },
+              { "arabic": "اَلْبَارِئُ", "meaning": "Yang Maha Menjadikan" },
+              { "arabic": "اَلْمُصَوِّرُ", "meaning": "Yang Maha Membentuk" },
+              { "arabic": "اَلْغَفَّارُ", "meaning": "Yang Maha Pengampun" },
+              { "arabic": "اَلْقَهَّارُ", "meaning": "Yang Maha Memaksa/Perkasa" },
+              { "arabic": "اَلْوَهَّابُ", "meaning": "Yang Maha Pemberi" },
+              { "arabic": "اَلرَّزَّاقُ", "meaning": "Yang Maha Pemberi Rezeki" },
+              { "arabic": "اَلْفَتَّاحُ", "meaning": "Yang Maha Pembuka" },
+              { "arabic": "اَلْعَلِيمُ", "meaning": "Yang Maha Mengetahui" },
+              { "arabic": "اَلْقَابِضُ", "meaning": "Yang Maha Menyempitkan/Mencengkam" }
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Unit 3: الْبَاسِطُ hingga اللَّطِيفُ (Nama 21-30)",
+          "body": {
+            "type": "pairs",
+            "intro": "10 nama ketiga — wajib hafaz makna:",
+            "rows": [
+              { "arabic": "اَلْبَاسِطُ", "meaning": "Yang Maha Melapangkan" },
+              { "arabic": "اَلْخَافِضُ", "meaning": "Yang Maha Menurunkan Derajat" },
+              { "arabic": "اَلرَّافِعُ", "meaning": "Yang Maha Meninggikan Derajat" },
+              { "arabic": "اَلْمُعِزُّ", "meaning": "Yang Maha Memuliakan" },
+              { "arabic": "اَلْمُذِلُّ", "meaning": "Yang Maha Menghinakan" },
+              { "arabic": "اَلسَّمِيعُ", "meaning": "Yang Maha Mendengar" },
+              { "arabic": "اَلْبَصِيرُ", "meaning": "Yang Maha Melihat" },
+              { "arabic": "اَلْحَكَمُ", "meaning": "Yang Maha Memutuskan/Menghukum" },
+              { "arabic": "اَلْعَدْلُ", "meaning": "Yang Maha Adil" },
+              { "arabic": "اَللَّطِيفُ", "meaning": "Yang Maha Halus/Lembut (menghalausi)" }
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Unit 4: الْخَبِيرُ hingga الْحَسِيبُ (Nama 31-40)",
+          "body": {
+            "type": "pairs",
+            "intro": "10 nama keempat — wajib hafaz makna:",
+            "rows": [
+              { "arabic": "اَلْخَبِيرُ", "meaning": "Yang Maha Mengetahui (lebih waspada)" },
+              { "arabic": "اَلْحَلِيمُ", "meaning": "Yang Maha Penyabar/Pemaaf" },
+              { "arabic": "اَلْعَظِيمُ", "meaning": "Yang Maha Agung" },
+              { "arabic": "اَلْغَفُورُ", "meaning": "Yang Maha Pengampun" },
+              { "arabic": "اَلشَّكُورُ", "meaning": "Yang Maha Berterima Kasih" },
+              { "arabic": "اَلْعَلِيُّ", "meaning": "Yang Maha Tinggi" },
+              { "arabic": "اَلْكَبِيرُ", "meaning": "Yang Maha Besar" },
+              { "arabic": "اَلْحَفِيظُ", "meaning": "Yang Maha Memelihara" },
+              { "arabic": "اَلْمُقِيتُ", "meaning": "Yang Maha Pemberi Kekuatan/Makanan" },
+              { "arabic": "اَلْحَسِيبُ", "meaning": "Yang Maha Menghisab/Mengira" }
+            ]
+          }
+        },
+        {
+          "icon": "🌟",
+          "title": "Unit 5: الْجَلِيلُ hingga الشَّهِيدُ (Nama 41-50)",
+          "body": {
+            "type": "pairs",
+            "intro": "10 nama kelima — wajib hafaz makna:",
+            "rows": [
+              { "arabic": "اَلْجَلِيلُ", "meaning": "Yang Maha Memiliki Kebesaran" },
+              { "arabic": "اَلْكَرِيمُ", "meaning": "Yang Maha Pemurah" },
+              { "arabic": "اَلرَّقِيبُ", "meaning": "Yang Maha Mengawasi" },
+              { "arabic": "اَلْمُجِيبُ", "meaning": "Yang Maha Memperkenankan (doa)" },
+              { "arabic": "اَلْحَكِيمُ", "meaning": "Yang Maha Bijaksana" },
+              { "arabic": "اَلْوَاسِعُ", "meaning": "Yang Maha Luas" },
+              { "arabic": "اَلْوَدُودُ", "meaning": "Yang Maha Mencintai" },
+              { "arabic": "اَلْمَجِيدُ", "meaning": "Yang Maha Mulia" },
+              { "arabic": "اَلْبَاعِثُ", "meaning": "Yang Maha Membangkitkan" },
+              { "arabic": "اَلشَّهِيدُ", "meaning": "Yang Maha Menyaksikan" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "📖",
+      "text": {
+        "type": "arabic",
+        "instruction": "Dalil Al-Asma-ul-Husna — wajib hafaz:",
+        "arabic": "وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَى فَادْعُوهُ بِهَا",
+        "translation": "Dan Allah ﷻ mempunyai nama-nama yang terbaik, maka berdoalah kepada-Nya dengan menyebut nama-nama itu.",
+        "source": "Surah al-A'raf: 180"
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Cara Mengamalkan Al-Asma-ul-Husna",
+      "items": [
+        "Hafaz 99 nama Allah ﷻ beserta maknanya — sesiapa yang menghafaznya masuk syurga.",
+        "Berdoa dengan menyebut nama Allah ﷻ yang berkaitan dengan keperluan (contoh: Ya Razzaq, Ya Latif).",
+        "Sentiasa hidup berlandaskan al-Quran dan al-Sunnah sebagai cara mengenali Allah ﷻ.",
+        "Janganlah merosakkan/memesongkan nama-nama Allah ﷻ dari maknanya yang sebenar."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Berapa jumlah Asma-ul-Husna (nama-nama Allah ﷻ)?",
+      "options": ["66", "77", "88", "99"],
+      "answer": 3
+    },
+    {
+      "q": "Apakah makna الرَّزَّاقُ?",
+      "options": [
+        "Yang Maha Mengetahui",
+        "Yang Maha Pemberi Rezeki",
+        "Yang Maha Pencipta",
+        "Yang Maha Mengawasi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dalil Asma-ul-Husna dalam buku ini ialah daripada surah:",
+      "options": ["Surah al-Isra'", "Surah al-A'raf", "Surah al-Baqarah", "Surah al-Nisa'"],
+      "answer": 1
+    },
+    {
+      "q": "Apakah makna اَلشَّهِيدُ?",
+      "options": [
+        "Yang Maha Pembangkit",
+        "Yang Maha Memuliakan",
+        "Yang Maha Menyaksikan",
+        "Yang Maha Bijaksana"
+      ],
+      "answer": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      { "id": "n1", "label": "Al-Asma-ul-Husna (99)", "colour": "#FFB300" },
+      { "id": "n2", "label": "Unit 1: الرَّحْمَنُ-الْمُؤْمِنُ", "colour": "#FF8F00" },
+      { "id": "n3", "label": "Unit 2: الْخَالِقُ-الْقَابِضُ", "colour": "#FF8F00" },
+      { "id": "n4", "label": "Unit 3: الْبَاسِطُ-اللَّطِيفُ", "colour": "#FF8F00" },
+      { "id": "n5", "label": "Unit 4: الْخَبِيرُ-الْحَسِيبُ", "colour": "#FF8F00" },
+      { "id": "n6", "label": "Unit 5: الْجَلِيلُ-الشَّهِيدُ", "colour": "#FF8F00" }
+    ],
+    "edges": [
+      { "id": "e1", "source": "n1", "target": "n2", "label": "nama 1-10" },
+      { "id": "e2", "source": "n1", "target": "n3", "label": "nama 11-20" },
+      { "id": "e3", "source": "n1", "target": "n4", "label": "nama 21-30" },
+      { "id": "e4", "source": "n1", "target": "n5", "label": "nama 31-40" },
+      { "id": "e5", "source": "n1", "target": "n6", "label": "nama 41-50" }
+    ]
+  },
+  "vocab": [
+    { "word": "اَلْأَسْمَاءُ الْحُسْنَى", "meaning": "Asma-ul-Husna — 99 nama Allah ﷻ yang terbaik dan indah" },
+    { "word": "اَلرَّحْمَنُ", "meaning": "Yang Maha Pengasih — rahmat Allah ﷻ meliputi semua makhluk" },
+    { "word": "اَلْخَالِقُ", "meaning": "Yang Maha Pencipta — Allah ﷻ mencipta segala sesuatu dari tiada" },
+    { "word": "اَللَّطِيفُ", "meaning": "Yang Maha Halus/Lembut — Allah ﷻ memperhatikan setiap perkara walau sekecil mana sekalipun" },
+    { "word": "اَلشَّهِيدُ", "meaning": "Yang Maha Menyaksikan — Allah ﷻ menyaksikan segala perkara" }
+  ],
+  "funFact": "Tahukah kamu bahawa para ulama Islam sangat menekankan hafazan Asma-ul-Husna? Imam al-Nawawi, seorang ulama terkenal, menganjurkan kita berdoa dengan menggunakan nama Allah ﷻ yang sesuai dengan hajat kita — misalnya berdoa 'Ya Razzaq' ketika memerlukan rezeki, 'Ya Syafi' ketika sakit, dan 'Ya Latif' ketika menghadapi kesulitan yang tersembunyi. Setiap nama Allah ﷻ mengandungi kekuatan dan makna yang berbeza-beza!"
+}
